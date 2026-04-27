@@ -1,0 +1,1365 @@
+{
+  "source": {
+    "metadata_url": "https://mcauleylab.ucsd.edu/public_datasets/data/amazon_2023/raw/meta_categories/meta_Toys_and_Games.jsonl.gz",
+    "reviews_url": "https://mcauleylab.ucsd.edu/public_datasets/data/amazon_2023/raw/review_categories/Toys_and_Games.jsonl.gz"
+  },
+  "products": [
+    {
+      "asin": "B00NHQFA1I",
+      "title": "LEGO Classic Medium Creative Brick Box 10696 Building Toy Set - Featuring Storage, Includes Train, Car, and a Tiger Figure, and Playset for Kids, Boys, and Girls Ages 4-99",
+      "average_rating": 4.8,
+      "rating_number": 45080,
+      "family": "LEGO",
+      "amazon_url": "https://www.amazon.com/dp/B00NHQFA1I",
+      "categories": [
+        "Toys & Games",
+        "Preschool",
+        "Pre-Kindergarten Toys",
+        "Activity",
+        "Building Sets"
+      ],
+      "store": "LEGO"
+    },
+    {
+      "asin": "B007GE75G0",
+      "title": "MEGA BLOKS Fisher-Price Toddler Block Toys, Big Building Bag with 80 Pieces and Storage Bag, Pink, Gift Ideas for Kids Age 1+ Years",
+      "average_rating": 4.8,
+      "rating_number": 39589,
+      "family": "MEGA BLOKS",
+      "amazon_url": "https://www.amazon.com/dp/B007GE75G0",
+      "categories": [
+        "Toys & Games",
+        "Preschool",
+        "Pre-Kindergarten Toys",
+        "Activity",
+        "Building Sets"
+      ],
+      "store": "Mega"
+    },
+    {
+      "asin": "B000CBSNKQ",
+      "title": "MAGNA-TILES Classic 32-Piece Magnetic Construction Set, The ORIGINAL Magnetic Building Brand",
+      "average_rating": 4.9,
+      "rating_number": 11807,
+      "family": "Magna-Tiles",
+      "amazon_url": "https://www.amazon.com/dp/B000CBSNKQ",
+      "categories": [
+        "Toys & Games",
+        "Preschool",
+        "Pre-Kindergarten Toys",
+        "Activity",
+        "Building Sets"
+      ],
+      "store": "MAGNA-TILES"
+    },
+    {
+      "asin": "B00AU56C5W",
+      "title": "PicassoTiles 100 Piece Set 100pcs Magnet Building Tiles Clear Magnetic 3D Building Blocks Construction Playboards, Creativity Beyond Imagination, Inspirational, Recreational, Educational Conventional",
+      "average_rating": 4.9,
+      "rating_number": 32985,
+      "family": "PicassoTiles",
+      "amazon_url": "https://www.amazon.com/dp/B00AU56C5W",
+      "categories": [
+        "Toys & Games",
+        "Dress Up & Pretend Play",
+        "Magnetic & Felt Playboards"
+      ],
+      "store": "PicassoTiles"
+    },
+    {
+      "asin": "B00CEW9BV6",
+      "title": "Bristle Blocks by Battat Building Blocks for Kids, 112 Pieces - Construction and Building Blocks for 2 Years Plus",
+      "average_rating": 4.7,
+      "rating_number": 6449,
+      "family": "Bristle Blocks",
+      "amazon_url": "https://www.amazon.com/dp/B00CEW9BV6",
+      "categories": [
+        "Toys & Games",
+        "Preschool",
+        "Pre-Kindergarten Toys",
+        "Activity",
+        "Building Sets"
+      ],
+      "store": "B. toys"
+    }
+  ],
+  "reviews": {
+    "B00CEW9BV6": [
+      {
+        "rating": 5.0,
+        "title": "Great product, kids love them - safe too",
+        "text": "These blocks were a huge hit when my kids were toddlers and are now a hit with our grandchildren. Same quality as the old product our kids grew up with just, prettier colors now and much more expensive. No sharp pieces to worry about and so many options for creative building. Hope to get another set to expand our building options.",
+        "helpful_vote": 2,
+        "verified_purchase": true,
+        "timestamp": 1417630919000,
+        "user_id": "AHAR2ITQ3O2FJJDLIORAQ226KZHQ",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 2.0,
+        "title": "Disappointing Packaging",
+        "text": "I just received these, purchased as a gift for my granddaughter. It was disappointing that they came in a plastic bag that would be unsafe to keep them in. Also, if these are actually BPA-free, Phylate-free and non-toxic, why does it not state that anywhere on the packaging? I Wonder if that is even really the case.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1670465598803,
+        "user_id": "AHEKUYPPRP5L5OODZO6LXADIF2BA",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 5.0,
+        "title": "Fosters creativity",
+        "text": "One of the best toys I've ever purchased for my granddaughter! She's 5 and plays with them alot. It's fun to see her creations!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1583954596479,
+        "user_id": "AEJ76P6JDHYPXJO7NCFCADMNGLAQ",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 5.0,
+        "title": "Excellent purchase!",
+        "text": "My children played with Bristle Blocks when they were young. I bought these for my special needs granddaughter. It works well for her and she can use them easily. This product grows with the child. I am thrilled with the quality.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1617152180200,
+        "user_id": "AHH7AEYNETFDPWVP4AG4C4L65SSQ",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 5.0,
+        "title": "Time tested toy is a winner!!!!!",
+        "text": "We bought these great blocks for our 1 1/2 year old granddaughter. First off, she loves the texture of these blocks and is constantly trying to figure out how to put them together. She manages to make shapes that stick together often and then she is so excited. I like that this toy grows with your child. I would buy another set as well as then you can make larger things and it is much more fun. Our kids had these when they were little and 30 years later they are still a great toy.",
+        "helpful_vote": 2,
+        "verified_purchase": true,
+        "timestamp": 1549307972304,
+        "user_id": "AGATPNEK7IHBFJOMKEFQ7WLXD5HA",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 5.0,
+        "title": "Bristle blocks",
+        "text": "This was a gift for a two and 1/2 year old. Perfect",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1640913273288,
+        "user_id": "AE5PIPTKZYZU62CZZU5PFSINVVZA",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 3.0,
+        "title": "its okay",
+        "text": "it works. keeps the kid entertained. but not as great as I thought it would be as a play/learning toy.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1447002453000,
+        "user_id": "AG2BYE52VABEXJTFKEJNN3EOT2MQ",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 5.0,
+        "title": "Great gift",
+        "text": "I gave this to my 4 year old nephew for his birthday and he absolutely loves them.",
+        "helpful_vote": 2,
+        "verified_purchase": true,
+        "timestamp": 1669238288924,
+        "user_id": "AFFZ3FM32OHELE7GNXGLPPO23QQQ",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 4.0,
+        "title": "Four Stars",
+        "text": "Love these blocks. They don't always stick together very well but still a lot of fun.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1460736507000,
+        "user_id": "AED2MMTD3B442PRMOMD7D4YMTA4Q",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 3.0,
+        "title": "Todler underwhelmed",
+        "text": "Our 2 1/2 year old grandson was, sadly, underwhelmed. He loves blocks, so I thought he'd like these, too. It turns out they even have these at his preschool, but he wasn't interested in these (or the ones at preschool, either.) Every other type of block he likes; maybe these just aren't any fun to tip over--which is half the fun, as we all know.",
+        "helpful_vote": 1,
+        "verified_purchase": true,
+        "timestamp": 1565807721464,
+        "user_id": "AHA56COGMYJFQZ54WS64PQGV6C6A",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 5.0,
+        "title": "2 Thumbs Up",
+        "text": "4 year old played with these a lot! I liked them, too.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1605088210252,
+        "user_id": "AHY76MIW3WI4C7EN6HMDFPV6B2KA",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 3.0,
+        "title": "Not worth buying",
+        "text": "Not what we expected. Grandchildren didn’t play with them. They are sitting in the box",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1544563451055,
+        "user_id": "AFEWEU7CD3UNCXBDWEW4FLBXPQOA",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 5.0,
+        "title": "These are great we think but…….",
+        "text": "We think these are a cool ideal for a toy they are easily put together. Unfortunately, our two year old doesn’t seem to care for them right now, but we are hopeful as he gets older he will want to play with them. We ordered two sets so that he would have enough to build to his heart’s content. Unfortunately that hasn’t happened yet but as I stated before I think, as he gets older, he will play with them if not me and his grandmother might. : ) shoo",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1674221544303,
+        "user_id": "AEQXPUQTRKFHT5CNLTNKMBOL7BEA",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 5.0,
+        "title": "Great for STEM",
+        "text": "I bought this set for my first grade classroom. My students love them! They are a great addition to our STEM station. They are good quality and fun for all.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1641698548435,
+        "user_id": "AEHAFZ2SPOW72M2J2UJ4YAZ46RFA",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 5.0,
+        "title": "Blocks",
+        "text": "These are great blocks. My child loves them. And it's fun to see what you can create.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1591792685167,
+        "user_id": "AFSWLA4YH6XEAQSYJSQG35D2BLTQ",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 3.0,
+        "title": "I had nostalgia seeing these",
+        "text": "I remember playing with these idly as a kid so I was really excited to gift them to my kids! They even have wheels to make cars oh I was pumped! However, I don't remember having so much difficulty putting them together!? These were hard for me and when I did connect them they fell apart easily, I assume the bristles may be too close or stronger and less worn out than the ones I remember. Because of the difficulty my children had no interest in them.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1672700150247,
+        "user_id": "AGXPF6BR4YP3BEJNWX7GJDDW24PQ",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 4.0,
+        "title": "The best building blocks for toddlers",
+        "text": "The best building blocks for toddlers. I remember these from when I was a little girl. My boy loves them just as much as I used to. While megablocks are still difficult to handle for a young toddler, these are easy to put together and also offer a great sensory experience.<br />The wheels are the only thing I don't like about this set. They come apart too easily. My son wants me to build him cars all the time but the wheels keep falling off when he tries to play with them and he gets very frustrated. Right now I'm just hiding the wheels.",
+        "helpful_vote": 3,
+        "verified_purchase": true,
+        "timestamp": 1440298310000,
+        "user_id": "AGTXX2XYBGSJQKWEUHB6UVBT4F3Q",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 5.0,
+        "title": "Toddler loved them right out of the package",
+        "text": "They are cute and the little boy recipient grabbed pieces and put them together immediately.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1673361527354,
+        "user_id": "AESU2DFG4OOQFNBL6JL7UL52OLWQ",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 5.0,
+        "title": "Five Stars",
+        "text": "Grandson loves to build with these!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1418747970000,
+        "user_id": "AFU3PCPRPK3HXXTOZQSBTN57VSGA",
+        "asin": "B00CEW9BV6"
+      },
+      {
+        "rating": 5.0,
+        "title": "Good fun.",
+        "text": "The 3 year old I gifted this to loved it and so did his dad.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1617841462336,
+        "user_id": "AHFJG4TU6CPAIXVBQKB4RZ333VMQ",
+        "asin": "B00CEW9BV6"
+      }
+    ],
+    "B00NHQFA1I": [
+      {
+        "rating": 3.0,
+        "title": "Needs to come with more for price",
+        "text": "Purchased as a gift for christmas. The description is misleading as to how many legos you actually get in the box. Our nephew still plays with this. Which is saying a lot for any 6 year old to be playing with a toy 6 months after receiving.<br />The legos are great but more should be given for the price point. Or make the storage container smaller so its not tricking the customer into thinking more is there.",
+        "helpful_vote": 6,
+        "verified_purchase": true,
+        "timestamp": 1559219857855,
+        "user_id": "AFGRAUIXGHWO224SV5YN3TNEUMJA",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "kids like the freedom to create whatever they want from scretch",
+        "text": "Basic, no frills ...kids like the freedom to create whatever they want from scretch",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1529779898367,
+        "user_id": "AHBEBUGEBJWEKNAXTBUUQDHFGXZQ",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "Birthday gift",
+        "text": "Gave it to my grandson and he loved it",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1629082577952,
+        "user_id": "AHUOFYHGEOOPN5LW7TJTKIDKQO7Q",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "Five year old loved them!",
+        "text": "Keeps my 5 year old entertained for hours.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1603908660585,
+        "user_id": "AEAAJEBULZXBCC5OMKE5RDCVTZDQ",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "Great set",
+        "text": "Love legos! Just wish they were cheaper...",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1547184129061,
+        "user_id": "AGND7CFGHJUBRKYMGHZ6WCAUAFFA",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "Great for little kids",
+        "text": "Perfect starter lego for toddlers. Great quality.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1670102915529,
+        "user_id": "AFC3IQ472D7B2SCOKFD5HEJI3CCQ",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "Will buy again.",
+        "text": "Love the Legos, but they are too small. All together it's a good thing to have for young kid, but not older kids.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1581294788337,
+        "user_id": "AEXZZBLEOO52MWFXQPYAIIVPXN4Q",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "Five Stars",
+        "text": "We needed a bulk Lego kit with wheels - this was exactly what we were looking for.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1490043243000,
+        "user_id": "AE7JULGBIT5N7ER6K6GJLFMMVFXQ",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "Exactly as advertised",
+        "text": "I volunteer one on one with kids K-2 and these are always a great way for them to be creative. They can use the ideas offered in the booklet or create their own works of art. Lots of fun for me too!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1562099565873,
+        "user_id": "AEIFGLPAEX4PLDXGETJNLVERHLVA",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "Love",
+        "text": "The LEGO tradition starts for my toddler! Love 'em",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1497633025743,
+        "user_id": "AHGILLPWCCBT72R44FGRDXZAXYWQ",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "Lego classic Mediums",
+        "text": "Can't go wrong with lego. Very happy with my purchase.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1576548159916,
+        "user_id": "AH7LBSYWX35SGT7TCZNEMH3UZ2RA",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "Five Stars",
+        "text": "My grandson loves Lego and he is very creative with it.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1490055035000,
+        "user_id": "AFW27X7IPIFHKDA255WKXJVZZGVQ",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "Amazing quality",
+        "text": "The Lego is amazing quality and the kids love to play with it.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1654609943300,
+        "user_id": "AGOCNDIY5ZRZL3JVCEYFH6MFIOZQ",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "Buy Them!!!",
+        "text": "My kids love them! Enough for them to share and build!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1592930614682,
+        "user_id": "AEZN2MJLB3VOZFNUT4RG2DOWFC4A",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "Buy Them!!!",
+        "text": "My kids love them! Enough for them to share and build!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1592930614682,
+        "user_id": "AEZN2MJLB3VOZFNUT4RG2DOWFC4A",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "Super fun!",
+        "text": "Super fun for anyone who loves legos! Great for creative minds to build whatever they want. It also has a booklet of ideas to get them started.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1460225897000,
+        "user_id": "AF3HEH3RZCKOMG7KZEGBMNWDX32A",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "This toy can replace a baby sitter!",
+        "text": "WOW - my kids cannot get off of this set for the second week! They sit playing for hours. A lot of options to build off the catalog or using your imagination. Highly recommended!",
+        "helpful_vote": 3,
+        "verified_purchase": true,
+        "timestamp": 1424275653000,
+        "user_id": "AFAMC7L6NGBISEQADMQEVP4YGCUQ",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "More Colors",
+        "text": "Basic lego set, so there's not much to say. Color line has been expanded to include some of the colors that were previously in the &#34;bright&#34; collection.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1456928423000,
+        "user_id": "AFFLWMFIPE6WIXLANWFLJBCMHQEA",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 4.0,
+        "title": "They work!",
+        "text": "The case arrived cracked but no biggie. Please pack this item better but the lego's themselves work great",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1455819053000,
+        "user_id": "AHFW6EWK4P46UYAHYIZ4WJ6LSZQA",
+        "asin": "B00NHQFA1I"
+      },
+      {
+        "rating": 5.0,
+        "title": "Five Stars",
+        "text": "I would recommend this to a friend!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1426473674000,
+        "user_id": "AFKQYLGPNS3I5IWHKU27WBSLKFEQ",
+        "asin": "B00NHQFA1I"
+      }
+    ],
+    "B007GE75G0": [
+      {
+        "rating": 5.0,
+        "title": "We love it",
+        "text": "We love it<br />It is easy to use and colorful",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1579732731598,
+        "user_id": "AEMG5ARNGVFINZ7DVUK4Y2VZ7APA",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "Great first blocks for your daughter",
+        "text": "Great first blocks for your daughter! Got them for my daughter around 18 months she still loves them, but now prefers slightly more complicated blocks.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1498248689874,
+        "user_id": "AFO4JFVHP2IUNIAM3R2HWEHDEUJA",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "Awesome!!!!!!! Perfect pieces to make new things over and over again.",
+        "text": "These are amazing! My three year old and I have spent hours playing with these already and we've only had them three days. The unique pieces are perfect for making feet, bird beaks, people, and adding flair to your houses, buildings, town fronts and towers. This is the first toy set I've enjoyed playing with as much as my kid. The set is a perfect size to give you a good playing experience and not be overwhelmed when it comes to clean up.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1598299510872,
+        "user_id": "AF645GIEEV66PBDMJHYJZ5ASUPAA",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "She loves them!",
+        "text": "My 3 yr old granddaughter plays with them everyday!!! Would buy again.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1553055707596,
+        "user_id": "AEZ4TVYI6BJZDGNXLQUAF2NAZ6WQ",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "Great buy!",
+        "text": "I love these! I will be ordering more!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1583875662466,
+        "user_id": "AGM6AOTJ3VUFI4YQOUT6DL474CUA",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "Very cute!",
+        "text": "I bought these for a little cousin, and she didn't have any blocks because they are &#34;boy toys&#34;, and she loves them!! The case is handy for clean up and travel to her Nana's house. These were very hard to wrap though because they are lump blocks and if they have a gift wrap option take it!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1357156736000,
+        "user_id": "AEADZSFKXHLZ6L4AL7CL4BDWO6WQ",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "Very cute set!",
+        "text": "These are a very cute set for girls. The packaging looked a little sad but that doesn't matter. We're giving it to our granddaughter and she'll love playing with them - the package will probably get thrown away.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1565902095216,
+        "user_id": "AFYYUSSZHQMFFQHCHGOMZX4ZAUJA",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "Great blocks!",
+        "text": "Teething? She doesn’t eat them. lol but my daughter does love making castles with these!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1561336992983,
+        "user_id": "AHYEDWWH7JMRXSKGBYBBF5EJUIEQ",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "Five Stars",
+        "text": "Bought for my 10 month old grandbaby -- she loves them!!!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1483796251000,
+        "user_id": "AE3X6CCLB4DCK7WIJ3SCRJAZVXHA",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "Five Stars",
+        "text": "My 16 month old loves these big blocks.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1475866573000,
+        "user_id": "AHSNW7SX4VEFFQD53L4YDQ3M67DQ",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "Mega Bloks First Builders Big Building Bag with Big Building Blocks, Building Toys for Toddlers",
+        "text": "Bought these for my granddaughter. She is 1 year old and she likes them. She mostly bangs them together while running right now but we are teaching her to build. LOL Highly recommended.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1650476683578,
+        "user_id": "AGWYMHQPH26D56XUZ54FGTKH5IZQ",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "Great for toddlers and small kids!",
+        "text": "My daughter loves building with blocks, and these are just the right size for her toddler self. Plus, they come in the pink and purple colors she loves so these are perfect for her. I see her playing with these for years to come!",
+        "helpful_vote": 0,
+        "verified_purchase": false,
+        "timestamp": 1446743685000,
+        "user_id": "AFQATR3Z2G7GVTK4DX5R63I6VRNA",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "Big colorful blocks",
+        "text": "Kids love blocks and my granddaughter is no exception. I bought these for her and she loves them. They are big enough for even the smallest hands. They are very durable also. Packed well and delivered when promised. Another great Amazon purchase!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1448918709000,
+        "user_id": "AGEIYVK32JFEMA7QLGFTYBMHZSMA",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "Super fun and well made",
+        "text": "Toddler really enjoys the bricks counting, stacking, and calling out their colors. And knocking them all over to hear the crash",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1563402916146,
+        "user_id": "AEF4ZWYBZLRI4OTRS6S4BPEOJ3PQ",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "Bought for a 2-year old who is having fun banging them against each other",
+        "text": "Bought for a 2-year old who is having fun banging them against each other, but she hasn't quite learned to stack more than 2 blocks at a time. The case they come in is sturdy plastic with a sipper and a handle for carrying. As she gets used to these I'm sure she will pick up how to make bigger stacks. Either way, she has a lot of fun just handling them right now. And they are very cute blocks.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1431374499000,
+        "user_id": "AHROBXLAMMXVX6P5DHHK2UUZSYZA",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "Cute",
+        "text": "She dove in immediately. Loved them",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1592910460238,
+        "user_id": "AF6E2DAUEUWUGQT522XGUSUQ477A",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 3.0,
+        "title": "The blocks don’t hold together well",
+        "text": "As the product stated, it’s for 1+, it’s some very basic blocks my daughter played when she was about to turn 1, it’s for her to learn to stack and connect. But once she turned 2 and tried to build, this block sets just don’t work for her because the blocks aren’t connected well enough to hold steadily and she got frustrated all the time. So I decided to invest in a set with brand name and this set will probably ended up somewhere in basement.<br /><br />If i know ahead that it won’t work for her once she turns 2, I would have not purchase this set.",
+        "helpful_vote": 1,
+        "verified_purchase": true,
+        "timestamp": 1603260990485,
+        "user_id": "AHF6JGXCTOBM5ZUVJ62RYFS6GZSA",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "Kids love it",
+        "text": "Legos. Kids build then destroy. What more to say?",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1581446687735,
+        "user_id": "AGE65DOMM6CZFAUZMCSHGMU7EUMA",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "This a great toy for any child",
+        "text": "This a great toy for any child. It is wonderful because it comes in its own storage case and the pieces are large enough for even little babies to play with. My daughter and I have had lots of fun building things together.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1437851890000,
+        "user_id": "AHUF4SUG6DMHVXAFVNKTNZJM3DDA",
+        "asin": "B007GE75G0"
+      },
+      {
+        "rating": 5.0,
+        "title": "She loves these",
+        "text": "Purchased these for a 1 year old and she absolutely loves them. Highly recommend.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1645459359781,
+        "user_id": "AG3DMOWDUPJYAHJTUDUQHYLGMDRQ",
+        "asin": "B007GE75G0"
+      }
+    ],
+    "B00AU56C5W": [
+      {
+        "rating": 5.0,
+        "title": "Your kid will actually play with this",
+        "text": "I am very picky with toys because I want toys that my kids actually play with instead of a bunch of junk. I know these are expensive but your child we'll play with these all the time I promise. And when your kid grows out of them you can recoup almost all of your money by reselling them. Must-have toy",
+        "helpful_vote": 1,
+        "verified_purchase": true,
+        "timestamp": 1521145694711,
+        "user_id": "AFQ4A4DZ6PYJYZJXKXCNEONVD24A",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 4.0,
+        "title": "Children (13 and under) went bonkers over them.",
+        "text": "Amazing! This is our second pack. Need over 100 to make anything good, which is why I dropped a star.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1520436941906,
+        "user_id": "AH62BV7YFKUXLA5TRGDWIWVVF3FA",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 5.0,
+        "title": "My triplets love, love",
+        "text": "My triplets love, love, love these! We received our first set as a gift for Christmas. 2 months later we bought a second set to add to the fun.",
+        "helpful_vote": 1,
+        "verified_purchase": true,
+        "timestamp": 1429998963000,
+        "user_id": "AFGYVUGVYKHGWELKGIA6KCMFEDYA",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 5.0,
+        "title": "Good but",
+        "text": "My child loves these. And I took them to a daycare where they not taken care of gently lol, no broken pieces. Very sturdy.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1580891068453,
+        "user_id": "AG6CNOMTCNGHPUVAKIBM4UYX2X6Q",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 1.0,
+        "title": "Clearly these tiles have been USED",
+        "text": "All the tiles in the box were scratched and scuffed up. This is clearly a used set. Super gross. I purchased this box one week after purchasing the set we already had so it was a stark contrast to compare the condition of the two boxes of tiles. My son was very disappointed so we returned this set.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1640965458498,
+        "user_id": "AFJYMB544SJFXONEIW2EXACMEJEA",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 5.0,
+        "title": "Do not pay more!",
+        "text": "These are excellent tiles!!! Exactly what we wanted I know there is a \"brand name\"- but these are perfect!! I hesitated because with toys sometimes you get what you pay for... This is not the case for these tiles.",
+        "helpful_vote": 1,
+        "verified_purchase": true,
+        "timestamp": 1543486376332,
+        "user_id": "AF4FNGNFW3CRQDM5QQ6ZIO32IOBQ",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 5.0,
+        "title": "Best gift",
+        "text": "I have 2 sets and every time my nephews come over they always play with them so I bought them their own set and they love them. Definitely a go to gift for kids of all ages.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1562273200394,
+        "user_id": "AE24VH64NWRELC6FZVDXPF62EIRQ",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 2.0,
+        "title": "dosent hold well",
+        "text": "its a decent toy but when my kid is trying to build something it does not hold, cant build anything",
+        "helpful_vote": 1,
+        "verified_purchase": true,
+        "timestamp": 1576990862999,
+        "user_id": "AE7L6TFFDGW4ABGV4TQ4ZBOABXTQ",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 5.0,
+        "title": "Just as good as the costlier version!",
+        "text": "These can stand up to heavy duty preschool use. They are just as nice as the brand that costs 3x as much.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1569726959478,
+        "user_id": "AEEGQTE6QDXDCYIWRR6HWWIWOQMA",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 5.0,
+        "title": "Favorite toy",
+        "text": "These are a definite favorite in our house. These tiles seem just as nice as the name brand ones.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1630433133905,
+        "user_id": "AFQIVPTDXDHFHWO7FVK5PMUQBLUA",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 5.0,
+        "title": "Great toy for your toddler!",
+        "text": "My daughter is IN LOVE with these tiles! We found out about them a while ago just hadn’t made the leap to purchase. Then we finally did and they’re great!!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1587070368679,
+        "user_id": "AHE47YM7ITM6NYXA7BVOZOJ5TEPQ",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 5.0,
+        "title": "fun",
+        "text": "These are a big hit at this grandma's house. They just play and play with these. They are 4 and 7 and come up with much more complex structures than I ever could, lol. Highly recommend, I might order another set because with this toy more pieces is better and promotes more elaborate building. Very sturdy and does work with the other magna tiles too.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1608385847190,
+        "user_id": "AHOJVUIUSPW4FGB2JV6BSTTM5N4Q",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 5.0,
+        "title": "What a great buy! My grandchildren can't put them down when ...",
+        "text": "What a great buy! My grandchildren can't put them down when they come over. They build the most amazing structures!",
+        "helpful_vote": 1,
+        "verified_purchase": true,
+        "timestamp": 1455817051000,
+        "user_id": "AGNLMVXGHNZTMN46IOPGAJSBEK3A",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 5.0,
+        "title": "Fun, sparks creativity",
+        "text": "Great for keeping young boys busy. And grown boys hahaha my Dad and cousins were sitting on the floor playing along building stuff!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1578090418135,
+        "user_id": "AFGFDDS24HS4HM7Y2FENTEDDCL5A",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 5.0,
+        "title": "Wonderful magnet set",
+        "text": "My boys absolutely love these and play with them everyday. My five year old builds all sorts of shapes, buildings and more. This is an excellent set.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1561266038584,
+        "user_id": "AFPB2OA7FCGVGSVQ6UFK44ARZYOA",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 4.0,
+        "title": "Four Stars",
+        "text": "good product. It was a gift and receipient liked it.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1482489502000,
+        "user_id": "AHPUF6NHX2WEE5INDELHIRPXR52Q",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 5.0,
+        "title": "Excellent alternative to Magna-Tiles",
+        "text": "These are a very good facsimile of the Magna-Tile brand, and so far my son has had no problems interchanging them with his other set.<br /><br />They are very slightly thicker than the Magna-Tiles.<br /><br />The large &quot;4 square&quot; pieces aren't as good as the others, they aren't quite flat. But they are good enough.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1484588910000,
+        "user_id": "AEZHDOKWHEALGJ62BLYEPRDQJPBA",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 5.0,
+        "title": "Perfect!!!!!",
+        "text": "This was gifted to a 4 year old boy. It came in a cute suitcase form and he absolutely LOVES it! While it’s a bit pricey it seems to be worth it as he’ll enjoy it for a long time.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1674272549632,
+        "user_id": "AHVR5ADYYTB7FNLS6YFDM66KP36Q",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 5.0,
+        "title": "This was a hit",
+        "text": "Auntie purchased this for the spawn and they adored it. I love the packaging it comes in as well, makes it easy to clean up and keep the pieces together. The pieces are sturdy too.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1443678222000,
+        "user_id": "AHJBYLTFK524DCQ5SYCESG7DGQXQ",
+        "asin": "B00AU56C5W"
+      },
+      {
+        "rating": 5.0,
+        "title": "Best Toy Purchase!",
+        "text": "These are wonderful. I was a teacher for years and my kiddos always loved the expensive brand of these. Now, my daughter talks about them when she comes home from daycare. We saw these pop up on Amazon and I thought I would give them a try. She loves these and they get so much use. I see her creative juices flowing while she tries to figure out what to build next. I'm so glad we purchased them and I will be buying more to add to her set.",
+        "helpful_vote": 1,
+        "verified_purchase": true,
+        "timestamp": 1529283711904,
+        "user_id": "AERGFJC2KYPOQ6CHI3Q5KCT72ICA",
+        "asin": "B00AU56C5W"
+      }
+    ],
+    "B000CBSNKQ": [
+      {
+        "rating": 4.0,
+        "title": "Four Stars",
+        "text": "Great toy... kids fight over who gets to play with it. A little pricey.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1408458657000,
+        "user_id": "AE3LOSGECM2BIWORTS6VEFMZY47A",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "Best. Need more than 48!",
+        "text": "Best. Ever. All middle all ages use them. You just need more than 48 if you have more than 1 kid using them.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1459490850000,
+        "user_id": "AE2BA7WS6WJ5WTO7D4LGRQKZKFLQ",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "100% Fan of Magna-Tiles",
+        "text": "My boy was two when we got the Magna-Tiles. Instantly a hit, he rushes to play with them.<br /><br />Easy to use, they lock into place, making these excellent for not-quite-coordinated hands.<br /><br />In filling out the questionnaire before writing this review, Amazon asks for 1-5 stars about a few things, just as they do for any toy review. I gave each five stars:<br /><br />How much fun is this toy? Tons. My toddler can't get enough of it. I enjoy building with him.<br /><br />How would you rate this toy's educational value? He can organize them by color and shape, and thinks now like a little architect.<br /><br />How durable is this toy? Nothing has broken yet despite full body contact playing.<br /><br />How do you rate this toy overall? An enthusiastic five stars.<br /><br />Buy the biggest set you can afford. You might surprised at how quickly 32 pieces are played with. The more, the merrier.<br /><br />It will be worth every penny.<br /><br />Anthony Trendl<br />TreeFortBooks.com",
+        "helpful_vote": 0,
+        "verified_purchase": false,
+        "timestamp": 1431290029000,
+        "user_id": "AGXFIFO4VWNHPAX3VJPRQ2QJSCSQ",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "Worth every penny",
+        "text": "This is my 3 year-old son's favorite toy ever. One of the best purchases ever for my son that allows him to construct endless designs of whatever he imagines.I highly recommend purchasing the 100 piece set. Only complaint: pricey and out of stock often.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1331704916000,
+        "user_id": "AE4F45LQJRYTTTMSG6FH6ZTWSSRQ",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "Awesome!",
+        "text": "These were a gift for my son. We love magnet tiles in our house. The options are endless for play and I love the creativity that these spark in little minds! So fun for all!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1609212804782,
+        "user_id": "AGMQQM4OWCSEAKH5L6P4M6CGZJBA",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "Great gift",
+        "text": "This was a really nice gift. It came with a lot of pieces so that there are many options for building. I will say, though, that the pieces can be a little difficult to pull apart for a one year old.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1577504980148,
+        "user_id": "AFMY3NMXTQ3H7BAWWAA5YRP6L56Q",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 2.0,
+        "title": "They cost how much!?! Not worth it!",
+        "text": "These are soooooo overpriced, I cannot believe I gave in and bought them. After they were recommended as a &#34;great educational toy&#34; I bit the bullet and paid way too much for these. They've been used twice--both times after I suggested them to my children. What a rip off.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1455811120000,
+        "user_id": "AFGKGVEWUCNSOB6YTEGB5W34WJKA",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "Five Stars",
+        "text": "Fantastic toy. Great quality. Only thing holding me back from buying more is the price. VERY expensive.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1471529268000,
+        "user_id": "AHAADOORBFT272OIXT7MRINOH66Q",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "Creativity build",
+        "text": "This toy keeps my child entertained, creative, and happy for a long time. I find it quite expensive but effective play.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1424879590000,
+        "user_id": "AGK3VW5NAXYCGOHE3ITEL2EOVVBQ",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "My daughter loves them!",
+        "text": "My 9 year-old daughter loves her Magnatiles! She builds castles for her dollhouse people and comes up with some great creations. 32-piece set is great, but 2 of them is even better!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1357391648000,
+        "user_id": "AEH63MKYTLGCQICVLLUAOCTCGLCQ",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "Only cause my kids love their set",
+        "text": "Bought these for my nephew as a Christmas present. Only cause my kids love their set! And I’m guilty of playing too.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1515372004333,
+        "user_id": "AHRPEJUFWAF4W6XJYMBTAOU7KS3A",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "Fun!",
+        "text": "Awesome! Kids and parents love building;-) 32 tiles don't get you very far though.....",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1409705448000,
+        "user_id": "AG4EIYTR2XCIJF35YM26K2752OZQ",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "Great toy",
+        "text": "My son loves these magnets. High quality sold in the teacher stores",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1476922479000,
+        "user_id": "AE2L5IMRK5ZTN42WE4KPOXENNN2Q",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "My three year old and five year old granddaughters love them. A wonderful way to introduce engineering",
+        "text": "These things are Magic! My three year old and five year old granddaughters love them. A wonderful way to introduce engineering.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1423192079000,
+        "user_id": "AHT3KTN5YOWRMF4Q3FHOS2ILUQZQ",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "You won't regret it",
+        "text": "I don't know how you can go wrong with this product. All 3 of my children play with them -- toddler through first grader -- and my older nephews play with them every time they are here. My mom kept some of our Fisher Price toys from the 70s which now my children play with, and I will be holding on to my Magna Tiles for my own grandchildren. These are timeless, ageless, and made well. Worth every single penny.",
+        "helpful_vote": 1,
+        "verified_purchase": false,
+        "timestamp": 1320782643000,
+        "user_id": "AGUI56SB5PVYAAXX32AEWI777TQQ",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "Great for toddlers!",
+        "text": "My toddler loves these! It helps with every toddlers healthy development and creativeness. It is also safe and better than lego I guess. Highly recommended product!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1604864911345,
+        "user_id": "AGYWKTTKEVKUN4K3DZMV7KBCX7MA",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "Great gift idea",
+        "text": "I got these as a gift for my niece and nephew and they love them! They’re so fun and easy to use, a perfect gift:",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1602103296216,
+        "user_id": "AGB2FPIV5GRK2D2YGYWRG3STJHJQ",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "We have this at work",
+        "text": "I wanted to purchase it for my kids at home too!<br />It's a great building toy that is very durable!",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1357328520000,
+        "user_id": "AE572POG7QXG7EW6LICBUCRPI23A",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "Fun for hours",
+        "text": "My sons first set. We’ve since added with other brands that are also reputable and can’t tell a difference.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1580590028369,
+        "user_id": "AHPKWXPGOUOKHA4FRTPB7ICIMBAA",
+        "asin": "B000CBSNKQ"
+      },
+      {
+        "rating": 5.0,
+        "title": "Fantastic Toy.",
+        "text": "Fantastic toy. Our five-yr old built castles, cities, space stations, etc. She's a whiz at it and loves it.",
+        "helpful_vote": 0,
+        "verified_purchase": true,
+        "timestamp": 1488325495000,
+        "user_id": "AHV7UZ5ZGZMIYS3IMXS2LO573WEA",
+        "asin": "B000CBSNKQ"
+      }
+    ]
+  },
+  "summary": {
+    "sample_size": 100,
+    "sample_avg_rating": 4.69,
+    "rating_distribution": {
+      "1": 1,
+      "2": 3,
+      "3": 6,
+      "4": 6,
+      "5": 84
+    },
+    "top_positive_signals": [
+      {
+        "signal": "kids",
+        "count": 102
+      },
+      {
+        "signal": "creativity",
+        "count": 84
+      },
+      {
+        "signal": "quality",
+        "count": 56
+      },
+      {
+        "signal": "compatibility",
+        "count": 32
+      },
+      {
+        "signal": "value",
+        "count": 16
+      }
+    ],
+    "top_pain_signals": [
+      {
+        "signal": "packaging",
+        "count": 11
+      },
+      {
+        "signal": "price_expectation",
+        "count": 11
+      },
+      {
+        "signal": "small_or_choking",
+        "count": 4
+      },
+      {
+        "signal": "weak_magnets_or_fit",
+        "count": 4
+      },
+      {
+        "signal": "missing_or_wrong_parts",
+        "count": 2
+      }
+    ],
+    "products": [
+      {
+        "asin": "B00NHQFA1I",
+        "title": "LEGO Classic Medium Creative Brick Box 10696 Building Toy Set - Featuring Storage, Includes Train, Car, and a Tiger Figure, and Playset for Kids, Boys, and Girls Ages 4-99",
+        "amazon_url": "https://www.amazon.com/dp/B00NHQFA1I",
+        "sample_size": 20,
+        "sample_avg_rating": 4.85,
+        "dataset_avg_rating": 4.8,
+        "dataset_rating_number": 45080,
+        "top_positive_signals": [
+          {
+            "signal": "compatibility",
+            "count": 14
+          },
+          {
+            "signal": "kids",
+            "count": 13
+          },
+          {
+            "signal": "creativity",
+            "count": 11
+          },
+          {
+            "signal": "quality",
+            "count": 10
+          },
+          {
+            "signal": "value",
+            "count": 2
+          }
+        ],
+        "top_pain_signals": [
+          {
+            "signal": "small_or_choking",
+            "count": 2
+          },
+          {
+            "signal": "missing_or_wrong_parts",
+            "count": 1
+          },
+          {
+            "signal": "packaging",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "asin": "B007GE75G0",
+        "title": "MEGA BLOKS Fisher-Price Toddler Block Toys, Big Building Bag with 80 Pieces and Storage Bag, Pink, Gift Ideas for Kids Age 1+ Years",
+        "amazon_url": "https://www.amazon.com/dp/B007GE75G0",
+        "sample_size": 20,
+        "sample_avg_rating": 4.9,
+        "dataset_avg_rating": 4.8,
+        "dataset_rating_number": 39589,
+        "top_positive_signals": [
+          {
+            "signal": "kids",
+            "count": 21
+          },
+          {
+            "signal": "creativity",
+            "count": 21
+          },
+          {
+            "signal": "quality",
+            "count": 11
+          },
+          {
+            "signal": "compatibility",
+            "count": 1
+          }
+        ],
+        "top_pain_signals": [
+          {
+            "signal": "small_or_choking",
+            "count": 2
+          },
+          {
+            "signal": "packaging",
+            "count": 2
+          }
+        ]
+      },
+      {
+        "asin": "B000CBSNKQ",
+        "title": "MAGNA-TILES Classic 32-Piece Magnetic Construction Set, The ORIGINAL Magnetic Building Brand",
+        "amazon_url": "https://www.amazon.com/dp/B000CBSNKQ",
+        "sample_size": 20,
+        "sample_avg_rating": 4.8,
+        "dataset_avg_rating": 4.9,
+        "dataset_rating_number": 11807,
+        "top_positive_signals": [
+          {
+            "signal": "kids",
+            "count": 25
+          },
+          {
+            "signal": "creativity",
+            "count": 17
+          },
+          {
+            "signal": "quality",
+            "count": 14
+          },
+          {
+            "signal": "value",
+            "count": 10
+          },
+          {
+            "signal": "compatibility",
+            "count": 7
+          }
+        ],
+        "top_pain_signals": [
+          {
+            "signal": "price_expectation",
+            "count": 6
+          },
+          {
+            "signal": "weak_magnets_or_fit",
+            "count": 3
+          },
+          {
+            "signal": "missing_or_wrong_parts",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "asin": "B00AU56C5W",
+        "title": "PicassoTiles 100 Piece Set 100pcs Magnet Building Tiles Clear Magnetic 3D Building Blocks Construction Playboards, Creativity Beyond Imagination, Inspirational, Recreational, Educational Conventional",
+        "amazon_url": "https://www.amazon.com/dp/B00AU56C5W",
+        "sample_size": 20,
+        "sample_avg_rating": 4.55,
+        "dataset_avg_rating": 4.9,
+        "dataset_rating_number": 32985,
+        "top_positive_signals": [
+          {
+            "signal": "creativity",
+            "count": 15
+          },
+          {
+            "signal": "kids",
+            "count": 14
+          },
+          {
+            "signal": "compatibility",
+            "count": 10
+          },
+          {
+            "signal": "quality",
+            "count": 8
+          },
+          {
+            "signal": "value",
+            "count": 2
+          }
+        ],
+        "top_pain_signals": [
+          {
+            "signal": "packaging",
+            "count": 4
+          },
+          {
+            "signal": "price_expectation",
+            "count": 3
+          },
+          {
+            "signal": "weak_magnets_or_fit",
+            "count": 1
+          }
+        ]
+      },
+      {
+        "asin": "B00CEW9BV6",
+        "title": "Bristle Blocks by Battat Building Blocks for Kids, 112 Pieces - Construction and Building Blocks for 2 Years Plus",
+        "amazon_url": "https://www.amazon.com/dp/B00CEW9BV6",
+        "sample_size": 20,
+        "sample_avg_rating": 4.35,
+        "dataset_avg_rating": 4.7,
+        "dataset_rating_number": 6449,
+        "top_positive_signals": [
+          {
+            "signal": "kids",
+            "count": 29
+          },
+          {
+            "signal": "creativity",
+            "count": 20
+          },
+          {
+            "signal": "quality",
+            "count": 13
+          },
+          {
+            "signal": "value",
+            "count": 2
+          }
+        ],
+        "top_pain_signals": [
+          {
+            "signal": "packaging",
+            "count": 4
+          },
+          {
+            "signal": "price_expectation",
+            "count": 2
+          }
+        ]
+      }
+    ]
+  },
+  "review_scanned": 552924
+}

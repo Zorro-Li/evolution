@@ -1,0 +1,7 @@
+
+{"created_at": "2026-04-26T15:05:23+08:00", "id": "fb_ddba73353c", "source": "user", "tag": "correction", "text": "用户要求抓 Amazon 评论时直接用 Computer Use 打开页面查看，不用数据集替代。"}
+{"created_at": "2026-04-27T23:37:44+08:00", "id": "fb_ca35be25a1", "source": "user", "tag": "correction", "text": "后续思考问题时按五个部分展开：核心目标、需求、规则、用户参与方式、落实计划；落实计划需要拆成 to-do list。"}
+{"created_at": "2026-04-28T00:39:52+08:00", "id": "fb_ac066b3e64", "source": "user", "tag": "correction", "text": "Agent API 当前阶段只做调研分工；团队尚未确定创立公司，因此计划应避免默认公司化、融资化、正式上线化。"}
+{"created_at": "2026-04-28T00:48:51+08:00", "id": "fb_d9b13d9f33", "source": "user", "tag": "correction", "text": "后续任务必须主动判断适用哪些 Skill；garryten 的 Skill 和 DBS 系列 Skill 必须学会并优先按场景使用。"}
+{"created_at": "2026-04-28T01:01:29+08:00", "id": "fb_5bd3383972", "source": "user", "tag": "correction", "text": "AI 产品宣发、用户痛点和竞品调研应优先搜索 Twitter/X，因为当前 X 是全球最大、多语种的 AI 宣传和讨论平台之一。"}
+{"created_at": "2026-04-28T01:08:48+08:00", "id": "fb_6113bdeede", "source": "user", "tag": "correction", "text": "当 X/Twitter API 不可用或额度不足时，改用 Computer Use 实际打开 X/Twitter 页面读取内容，不要停在 API 失败。"}

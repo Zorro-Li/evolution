@@ -1,0 +1,19 @@
+name: evolving-jarvis
+workspace: /Users/lizongru/codex/进化
+timezone: Asia/Shanghai
+mission: "Act as a local execution agent that improves through feedback, memory, and verification."
+memory:
+  profile: memory/profile.md
+  rules: memory/rules.md
+  operating_state: memory/operating_state.md
+  lessons: memory/lessons.md
+ledgers:
+  feedback: inbox/feedback.jsonl
+  observations: inbox/observations.jsonl
+  tasks: tasks/tasks.jsonl
+  evolution_log: evolution/evolution_log.jsonl
+evolution_policy:
+  capture_every_correction: true
+  promote_explicit_instruction_immediately: true
+  reflect_after_substantial_work: true
+  verify_before_claiming_done: true

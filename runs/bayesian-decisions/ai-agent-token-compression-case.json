@@ -1,0 +1,314 @@
+{
+  "title": {
+    "zh": "是否应该推进 AI Agent token-compression / skill packaging 项目？",
+    "en": "Should we push the AI agent token-compression / skill-packaging project?"
+  },
+  "question": {
+    "zh": "创始人是否应该在未来 30 天投入主要精力，把 AI Agent token-compression / skill packaging 做成一个面向 Claude Code、Codex 和本地 agent 用户的可收费验证项目，而不是现在直接开发完整 SaaS？",
+    "en": "Should the founder spend the next 30 days turning AI agent token-compression / skill packaging into a paid validation project for Claude Code, Codex, and local-agent users instead of immediately building a full SaaS product?"
+  },
+  "current_state": {
+    "zh": "当前已有明确问题感：MCP、工具和 agent workflow 容易造成上下文臃肿、token 浪费、流程难复用。刚完成一次 Business Skill Watch，发现 X 和 GitHub 在 2026 年 4 月下旬出现多条 Claude Code GTM skills、MCP 转 skill、CLI-first GTM 的公开信号。用户本地已经有大量业务、GTM、dbs 和 Jarvis evolution skill/workflow，可用于 dogfood 和案例化。",
+    "en": "The current problem signal is clear: MCPs, tools, and agent workflows can create bloated context, token waste, and weak workflow reuse. A Business Skill Watch run found fresh public X and GitHub signals in late April 2026 around Claude Code GTM skills, MCP-to-skill conversion, and CLI-first GTM. The user's local environment already has many business, GTM, dbs, and Jarvis evolution skills/workflows that can be used for dogfooding and case studies."
+  },
+  "hypothesis": {
+    "zh": "存在一批已经使用 Claude Code、Codex、本地 agent 或 GTM skills 的团队，愿意为“把臃肿 MCP / agent workflow 压缩成 lazy-loaded skills 和可复用本地工作台”付费，前 30 天可以拿到至少 3 个设计伙伴承诺和 1 个付费 token audit / workflow packaging 试点。",
+    "en": "There is a set of teams already using Claude Code, Codex, local agents, or GTM skills who are willing to pay for converting bloated MCP / agent workflows into lazy-loaded skills and reusable local workspaces, and within 30 days the project can secure at least 3 design-partner commitments plus 1 paid token audit / workflow-packaging pilot."
+  },
+  "time_horizon": {
+    "zh": "未来 30 天验证，未来 90 天判断是否产品化",
+    "en": "30 days for validation, 90 days for deciding whether to productize"
+  },
+  "decision_deadline": "2026-05-27",
+  "success_metric": {
+    "zh": "30 天内完成 100 个目标账户 outbound、10 场有效访谈或销售通话、3 个设计伙伴承诺、1 个付费 audit / packaging 试点；同时拿到至少 2 个真实 before/after token footprint 或 workflow reuse 案例。",
+    "en": "Within 30 days: run outbound to 100 target accounts, hold 10 qualified interviews or sales calls, secure 3 design-partner commitments, close 1 paid audit / packaging pilot, and capture at least 2 real before/after token-footprint or workflow-reuse case studies."
+  },
+  "domain": {
+    "zh": "AI agent 工具 / 开发者工作流 / GTM 自动化创业决策",
+    "en": "AI agent tooling / developer workflow / GTM automation startup decision"
+  },
+  "high_risk_domain": false,
+  "method": "auto",
+  "prior": {
+    "probability": 0.24,
+    "alpha": 3.6,
+    "beta": 11.4,
+    "equivalent_sample_size": 15,
+    "source_summary": [
+      {
+        "zh": "早期 B2B developer-tool / workflow-tool 项目通常容易获得兴趣反馈，但从兴趣到付费试点存在明显折损。",
+        "en": "Early B2B developer-tool / workflow-tool projects often get interest signals, but there is a large drop-off from interest to paid pilots."
+      },
+      {
+        "zh": "Claude Code / Codex skill 生态正在出现，但当前付费预算、买方角色和标准采购路径仍不清晰。",
+        "en": "The Claude Code / Codex skill ecosystem is emerging, but paid budget, buyer roles, and standard procurement paths are still unclear."
+      }
+    ],
+    "source_quality": "C/D",
+    "confidence": "low"
+  },
+  "evidence": [
+    {
+      "name": {
+        "zh": "X 上出现 Claude Code GTM skills 与 MCP 转 skill 的强讨论信号",
+        "en": "X showed strong discussion signals around Claude Code GTM skills and MCP-to-skill conversion"
+      },
+      "summary": {
+        "zh": "2026 年 4 月 20-25 日，多条 X 内容讨论 Claude Code GTM skills、CLI-first GTM，以及把 MCP-heavy workflow 转成 skills 以降低 token 使用。单条公开内容提到在 Anthropic marketing/GTM event 向 200 位 founders 和 marketers 展示 Claude Code GTM skills。",
+        "en": "From April 20-25, 2026, several X posts discussed Claude Code GTM skills, CLI-first GTM, and converting MCP-heavy workflows into skills to reduce token use. One public post mentioned showing Claude Code GTM skills to 200 founders and marketers at an Anthropic marketing/GTM event."
+      },
+      "likelihood_ratio": 1.8,
+      "quality": "D",
+      "dependency_discount": 0.75,
+      "direction": "support",
+      "notes": {
+        "zh": "这是趋势和注意力证据，还不是付费证据。",
+        "en": "This is trend and attention evidence, not payment evidence."
+      }
+    },
+    {
+      "name": {
+        "zh": "GitHub 出现多个 Claude Code / GTM skill 仓库",
+        "en": "Multiple Claude Code / GTM skill repositories appeared on GitHub"
+      },
+      "summary": {
+        "zh": "近期候选仓库包括 sales-skills/sales、getaero-io/gtm-eng-skills、gtmagents/gtm-agents、ColdIQ GTM Skills、gtm-engineer-playbook、gtm-flywheel 等，覆盖 GTM、outbound、signal scoring、customer feedback、growth experiments。",
+        "en": "Recent candidate repos include sales-skills/sales, getaero-io/gtm-eng-skills, gtmagents/gtm-agents, ColdIQ GTM Skills, gtm-engineer-playbook, and gtm-flywheel, covering GTM, outbound, signal scoring, customer feedback, and growth experiments."
+      },
+      "likelihood_ratio": 1.6,
+      "quality": "C",
+      "dependency_discount": 0.8,
+      "direction": "support",
+      "notes": {
+        "zh": "供应侧生态在形成，说明可以找到具体 workflow 做 audit；但开源仓库本身也会降低用户付费意愿。",
+        "en": "A supply-side ecosystem is forming, which creates concrete workflows to audit; open-source repos can also reduce willingness to pay."
+      }
+    },
+    {
+      "name": {
+        "zh": "用户本地已经有可 dogfood 的复杂 skill / agent 工作台",
+        "en": "The user's local workspace already contains complex skill / agent systems for dogfooding"
+      },
+      "summary": {
+        "zh": "本地已安装业务诊断、GTM、销售、定价、竞争情报、dbs、Jarvis evolution 等技能和工作流。这个项目可以先在真实本地工作台上做 token footprint、lazy loading、workflow packaging 的 before/after 案例。",
+        "en": "The local workspace already includes business diagnosis, GTM, sales, pricing, competitive intelligence, dbs, Jarvis evolution, and related workflows. The project can first produce before/after cases around token footprint, lazy loading, and workflow packaging in a real local workspace."
+      },
+      "likelihood_ratio": 1.5,
+      "quality": "C",
+      "dependency_discount": 0.85,
+      "direction": "support",
+      "notes": {
+        "zh": "这是执行优势和案例优势，不直接证明外部市场会付费。",
+        "en": "This is an execution and case-study advantage, not direct proof that the external market will pay."
+      }
+    },
+    {
+      "name": {
+        "zh": "痛点可以被量化成 token footprint、上下文大小和复用率",
+        "en": "The pain can be quantified as token footprint, context size, and reuse rate"
+      },
+      "summary": {
+        "zh": "相比泛泛的 agent 咨询，token-compression / skill packaging 可以给出 before/after 指标：提示词长度、加载文件数、运行步骤、上下文占用、重复解释次数、报告生成时间。",
+        "en": "Compared with generic agent consulting, token-compression / skill packaging can produce before/after metrics: prompt length, loaded file count, execution steps, context footprint, repeated explanation count, and report generation time."
+      },
+      "likelihood_ratio": 1.7,
+      "quality": "D",
+      "dependency_discount": 0.9,
+      "direction": "support",
+      "notes": {
+        "zh": "可量化让试点更容易成交，但仍需要真实客户确认这些指标等于预算。",
+        "en": "Quantification makes pilots easier to sell, but real customers still need to confirm that these metrics map to budget."
+      }
+    },
+    {
+      "name": {
+        "zh": "目前还没有直接付费客户或押金信号",
+        "en": "There is no direct paying customer or deposit signal yet"
+      },
+      "summary": {
+        "zh": "当前证据主要来自公开趋势、仓库活动、推文和本地 dogfood 条件。尚未看到具体客户为 token audit、workflow packaging 或 skill conversion 支付。",
+        "en": "Current evidence mostly comes from public trends, repository activity, tweets, and local dogfooding conditions. There is no observed customer payment yet for token audits, workflow packaging, or skill conversion."
+      },
+      "likelihood_ratio": 2.0,
+      "quality": "C",
+      "dependency_discount": 0.95,
+      "direction": "against",
+      "notes": {
+        "zh": "这是当前最关键的负面证据。",
+        "en": "This is the most important negative evidence right now."
+      }
+    },
+    {
+      "name": {
+        "zh": "买方和预算路径还没有稳定定义",
+        "en": "The buyer and budget path are not yet stable"
+      },
+      "summary": {
+        "zh": "可能买方包括 GTM engineer、AI agency operator、founder、RevOps、developer tooling team。不同买方的预算、话术和成交触发点差异很大。",
+        "en": "Potential buyers include GTM engineers, AI agency operators, founders, RevOps, and developer tooling teams. Their budgets, messaging, and purchase triggers differ substantially."
+      },
+      "likelihood_ratio": 1.6,
+      "quality": "C",
+      "dependency_discount": 0.9,
+      "direction": "against",
+      "notes": {
+        "zh": "如果 30 天内不收窄 ICP，项目会变成泛 agent 咨询。",
+        "en": "If the ICP is not narrowed within 30 days, the project will drift into generic agent consulting."
+      }
+    },
+    {
+      "name": {
+        "zh": "开源 skill 生态会制造替代方案",
+        "en": "The open-source skill ecosystem creates substitutes"
+      },
+      "summary": {
+        "zh": "公开 skill 仓库越多，用户越可能先尝试自助复制、手动整理或使用现成模板。项目需要卖“诊断、压缩、治理、迁移和可复用工作台”，而不是只卖 skill 文件。",
+        "en": "The more open skill repositories exist, the more users may try self-service copying, manual cleanup, or templates. The project needs to sell diagnosis, compression, governance, migration, and reusable workspaces rather than just skill files."
+      },
+      "likelihood_ratio": 1.4,
+      "quality": "C",
+      "dependency_discount": 0.85,
+      "direction": "against",
+      "notes": {
+        "zh": "这会压低纯工具价格，但可能提升高质量迁移服务的价值。",
+        "en": "This can lower pure-tool pricing while increasing the value of high-quality migration services."
+      }
+    }
+  ],
+  "actions": [
+    {
+      "name": {
+        "zh": "现在直接开发完整 SaaS / 平台",
+        "en": "Build a full SaaS / platform now"
+      },
+      "cost": 120000,
+      "upside_if_h_true": 500000,
+      "downside_if_h_false": -120000,
+      "opportunity_cost": 0
+    },
+    {
+      "name": {
+        "zh": "先做 30 天设计伙伴验证和付费 token audit",
+        "en": "Run a 30-day design-partner validation and paid token-audit offer first"
+      },
+      "cost": 25000,
+      "upside_if_h_true": 150000,
+      "downside_if_h_false": -25000,
+      "opportunity_cost": 0
+    },
+    {
+      "name": {
+        "zh": "暂停产品化，只继续观察生态和整理本地案例",
+        "en": "Pause productization and keep observing the ecosystem while organizing local cases"
+      },
+      "cost": 5000,
+      "upside_if_h_true": 30000,
+      "downside_if_h_false": -5000,
+      "opportunity_cost": -50000
+    }
+  ],
+  "sensitivity": {
+    "prior_probabilities": [
+      0.14,
+      0.24,
+      0.36
+    ],
+    "lr_power_factors": [
+      0.75,
+      1.0,
+      1.25
+    ]
+  },
+  "next_information": {
+    "candidates": [
+      {
+        "zh": "在 7 天内列出 100 个目标账户：Claude Code / Codex skill repo 作者、GTM skill repo 作者、AI agency operator、正在讨论 MCP-to-skill 或 token compression 的 X 用户。",
+        "en": "Within 7 days, list 100 target accounts: Claude Code / Codex skill repo authors, GTM skill repo authors, AI agency operators, and X users discussing MCP-to-skill or token compression."
+      },
+      {
+        "zh": "发出一个具体 offer：免费 20 分钟 agent workflow token audit；付费版本输出 before/after token footprint、skill packaging 方案、迁移 PR 或本地工作台改造。",
+        "en": "Send a concrete offer: free 20-minute agent-workflow token audit; paid version delivers before/after token footprint, a skill-packaging plan, a migration PR, or a local workspace refactor."
+      },
+      {
+        "zh": "30 天内只看硬指标：10 场有效通话、3 个设计伙伴、1 个付费试点、2 个 before/after 案例。达不到就下调后验并改成内部工具/内容资产路线。",
+        "en": "For 30 days, track hard metrics only: 10 qualified calls, 3 design partners, 1 paid pilot, and 2 before/after cases. If missed, lower the posterior and switch to an internal-tool / content-asset path."
+      }
+    ]
+  },
+  "conversation": {
+    "initial_problem_statement": {
+      "zh": "用户希望用 Yao Bayesian Skill 分析 AI Agent token-compression / skill packaging 项目，并帮助做后续决策。",
+      "en": "The user wants to use Yao Bayesian Skill to analyze the AI agent token-compression / skill-packaging project and support follow-up decisions."
+    },
+    "initial_state": {
+      "zh": "已有公开趋势信号、本地 dogfood 条件和清晰痛点，但缺少真实付费信号、明确买方和稳定 offer。",
+      "en": "There are public trend signals, local dogfooding conditions, and a clear pain point, but no real payment signal, precise buyer, or stable offer yet."
+    },
+    "decision_ready_threshold": 0.74,
+    "final_readiness": 0.66,
+    "decision_status": "needs_more_evidence",
+    "open_questions": [
+      {
+        "zh": "哪一类买方最愿意为 token audit 或 workflow packaging 付费？",
+        "en": "Which buyer segment is most willing to pay for token audits or workflow packaging?"
+      },
+      {
+        "zh": "before/after token footprint 是否足够打动客户，还是客户更在意交付速度、团队治理或可复用资产？",
+        "en": "Is before/after token footprint persuasive enough, or do customers care more about delivery speed, team governance, or reusable assets?"
+      },
+      {
+        "zh": "付费试点的最小成交价应该是 500 美元、2000 美元还是更高？",
+        "en": "Should the minimum paid pilot be priced at $500, $2,000, or higher?"
+      }
+    ],
+    "rounds": [
+      {
+        "round": 1,
+        "stage": {
+          "zh": "初始问题澄清",
+          "en": "Initial framing"
+        },
+        "user_input_summary": {
+          "zh": "用户要求用贝叶斯决策 skill 分析项目并辅助后续决策。",
+          "en": "The user asked to analyze the project with the Bayesian decision skill and support follow-up decisions."
+        },
+        "assistant_focus": {
+          "zh": "把模糊项目判断拆成一个 30 天验证决策：做完整产品、做付费试点、暂停观察。",
+          "en": "Convert the vague project judgment into a 30-day validation decision: build full product, run paid pilot, or pause and observe."
+        },
+        "new_information": [
+          {
+            "zh": "上一轮搜索发现多个 Claude Code / GTM skill 仓库和 X 讨论。",
+            "en": "The prior search found multiple Claude Code / GTM skill repositories and X discussions."
+          },
+          {
+            "zh": "本地已有足够复杂的 skill / agent 工作台可用于 dogfood。",
+            "en": "The local environment already has enough complex skill / agent workflows for dogfooding."
+          }
+        ],
+        "assistant_next_questions": [
+          {
+            "zh": "是否已有任何真实客户愿意付费或承诺试点？",
+            "en": "Has any real customer agreed to pay or commit to a pilot?"
+          },
+          {
+            "zh": "你更想先卖服务型 token audit，还是先做可自助工具？",
+            "en": "Do you want to sell a service-style token audit first, or build a self-serve tool first?"
+          }
+        ],
+        "prior_probability": 0.24,
+        "posterior_probability": 0.37,
+        "readiness": 0.66,
+        "remaining_gap": {
+          "zh": "缺少付费行为、ICP 收窄和真实 before/after 指标。",
+          "en": "Missing payment behavior, narrowed ICP, and real before/after metrics."
+        },
+        "update_path": {
+          "zh": "用弱先验加赔率更新处理公开趋势和本地执行证据。",
+          "en": "Use a weak prior plus odds updates for public trend and local execution evidence."
+        }
+      }
+    ]
+  }
+}

@@ -1,0 +1,62 @@
+
+{"created_at": "2026-04-26T13:09:59+08:00", "id": "evt_c74f259b69", "kind": "task_created", "payload": {"area": "bootstrap", "priority": "P0", "task_id": "task_562ea07b74"}}
+{"created_at": "2026-04-26T13:09:59+08:00", "id": "evt_973e177c18", "kind": "observation_captured", "payload": {"observation_id": "obs_7791862587", "tag": "bootstrap"}}
+{"created_at": "2026-04-26T13:10:05+08:00", "id": "evt_a50a6a94f7", "kind": "task_done", "payload": {"note": "已创建可运行 CLI、规则、记忆和复盘文件。", "task_id": "task_562ea07b74"}}
+{"created_at": "2026-04-26T13:10:12+08:00", "id": "evt_6837735d55", "kind": "reflection_written", "payload": {"path": "runs/2026-04-26-reflection.md", "proposal": "evolution/proposals/2026-04-26-proposal.md"}}
+{"created_at": "2026-04-26T13:40:17+08:00", "id": "evt_10f4149c37", "kind": "observation_captured", "payload": {"observation_id": "obs_8c924bb70d", "tag": "self-memory"}}
+{"created_at": "2026-04-26T13:40:17+08:00", "id": "evt_4ae98fdd57", "kind": "task_created", "payload": {"area": "automation", "priority": "P0", "task_id": "task_f90b071cc3"}}
+{"created_at": "2026-04-26T13:40:39+08:00", "id": "evt_25f5384fa6", "kind": "task_done", "payload": {"note": "已创建 Codex cron 自动化 jarvis-self-evolution，每 6 小时运行一次。", "task_id": "task_f90b071cc3"}}
+{"created_at": "2026-04-26T13:40:58+08:00", "id": "evt_75596d2d7a", "kind": "reflection_written", "payload": {"path": "runs/2026-04-26-reflection.md", "proposal": "evolution/proposals/2026-04-26-proposal.md"}}
+{"created_at": "2026-04-26T14:54:25+08:00", "id": "evt_c4c0d516fa", "kind": "task_created", "payload": {"area": "general", "priority": "P1", "task_id": "task_aff468be5f"}}
+{"created_at": "2026-04-26T15:05:23+08:00", "id": "evt_1c1916cd95", "kind": "observation_captured", "payload": {"observation_id": "obs_9a9e7a0a53", "tag": "context"}}
+{"created_at": "2026-04-26T15:05:23+08:00", "id": "evt_69e2cabf33", "kind": "feedback_captured", "payload": {"feedback_id": "fb_ddba73353c", "tag": "correction"}}
+{"created_at": "2026-04-26T20:05:53+08:00", "id": "evt_e850732407", "kind": "reflection_written", "payload": {"path": "runs/2026-04-26-reflection.md", "proposal": "evolution/proposals/2026-04-26-proposal.md"}}
+{"created_at": "2026-04-26T20:07:42+08:00", "id": "evt_a225d59be3", "kind": "rule_promoted", "payload": {"area": "execution", "reason": "fb_ddba73353c correction", "rule": "网页抓取任务优先使用 Computer Use 实际访问页面；替代抓取方式需要用户确认"}}
+{"created_at": "2026-04-27T00:14:00+08:00", "id": "evt_5b973969b9", "kind": "observation_captured", "payload": {"observation_id": "obs_108e6aaeb7", "tag": "context"}}
+{"created_at": "2026-04-27T00:14:00+08:00", "id": "evt_f3e85366a9", "kind": "reflection_written", "payload": {"path": "runs/2026-04-27-reflection.md", "proposal": "evolution/proposals/2026-04-27-proposal.md"}}
+{"created_at": "2026-04-27T00:23:17+08:00", "id": "evt_711478568f", "kind": "observation_captured", "payload": {"observation_id": "obs_16f758ef79", "tag": "context"}}
+{"created_at": "2026-04-27T00:26:49+08:00", "id": "evt_731353c186", "kind": "observation_captured", "payload": {"observation_id": "obs_8f43cfb17a", "tag": "context"}}
+{"created_at": "2026-04-27T00:31:48+08:00", "id": "evt_8bb8365ff7", "kind": "task_created", "payload": {"area": "general", "priority": "P1", "task_id": "task_d69157a087"}}
+{"created_at": "2026-04-27T01:52:05+08:00", "id": "evt_abc33f46ca", "kind": "reflection_written", "payload": {"path": "runs/2026-04-27-reflection.md", "proposal": "evolution/proposals/2026-04-27-proposal.md"}}
+{"created_at": "2026-04-27T06:35:37+08:00", "id": "evt_ea84b5f605", "kind": "task_created", "payload": {"area": "general", "priority": "P1", "task_id": "task_d1e8d27278"}}
+{"created_at": "2026-04-27T06:37:58+08:00", "id": "evt_b1d731b81e", "kind": "observation_captured", "payload": {"observation_id": "obs_0da3a4f9f5", "tag": "context"}}
+{"created_at": "2026-04-27T06:37:58+08:00", "id": "evt_188e7ec6de", "kind": "task_done", "payload": {"note": "Evaluated current business/GTM skill repositories, installed four low-risk gtmagents skills, and produced token-compression startup GTM recommendation.", "task_id": "task_d1e8d27278"}}
+{"created_at": "2026-04-27T06:38:12+08:00", "id": "evt_c06aade6d2", "kind": "reflection_written", "payload": {"path": "runs/2026-04-27-reflection.md", "proposal": "evolution/proposals/2026-04-27-proposal.md"}}
+{"created_at": "2026-04-27T07:51:58+08:00", "id": "evt_00489e3d77", "kind": "reflection_written", "payload": {"path": "runs/2026-04-27-reflection.md", "proposal": "evolution/proposals/2026-04-27-proposal.md"}}
+{"created_at": "2026-04-27T12:39:05+08:00", "id": "evt_272ca6a1ca", "kind": "observation_captured", "payload": {"observation_id": "obs_8dc1c8f6c6", "tag": "automation"}}
+{"created_at": "2026-04-27T12:39:05+08:00", "id": "evt_36599453ec", "kind": "reflection_written", "payload": {"path": "runs/2026-04-27-reflection.md", "proposal": "evolution/proposals/2026-04-27-proposal.md"}}
+{"created_at": "2026-04-27T13:52:43+08:00", "id": "evt_b004aeee32", "kind": "reflection_written", "payload": {"path": "runs/2026-04-27-reflection.md", "proposal": "evolution/proposals/2026-04-27-proposal.md"}}
+{"created_at": "2026-04-27T13:54:31+08:00", "id": "evt_bb997d57b7", "kind": "rule_promoted", "payload": {"area": "evolution", "reason": "automation: compare self-memory snapshots", "rule": "每次 self-evolution 运行对比 latest 与 previous snapshot，仅上报有意义的 profile/rule 变化"}}
+{"created_at": "2026-04-27T15:02:13+08:00", "id": "evt_685a23c45c", "kind": "task_created", "payload": {"area": "automation", "priority": "P1", "task_id": "task_e7a95064cc"}}
+{"created_at": "2026-04-27T15:02:19+08:00", "id": "evt_703f5a3814", "kind": "observation_captured", "payload": {"observation_id": "obs_95f23ba616", "tag": "automation"}}
+{"created_at": "2026-04-27T15:02:25+08:00", "id": "evt_d1e8d17c7b", "kind": "task_done", "payload": {"note": "Implemented scripts/codex_auto_review.py, added jarvis.py auto-review wrapper, documented usage, and verified py_compile/self-check/dry-run.", "task_id": "task_e7a95064cc"}}
+{"created_at": "2026-04-27T15:02:32+08:00", "id": "evt_a86d0a1627", "kind": "reflection_written", "payload": {"path": "runs/2026-04-27-reflection.md", "proposal": "evolution/proposals/2026-04-27-proposal.md"}}
+{"created_at": "2026-04-27T15:38:47+08:00", "id": "evt_1d2982bfa5", "kind": "observation_captured", "payload": {"observation_id": "obs_6310e2368e", "tag": "context"}}
+{"created_at": "2026-04-27T15:40:57+08:00", "id": "evt_6ca9f337b3", "kind": "reflection_written", "payload": {"path": "runs/2026-04-27-reflection.md", "proposal": "evolution/proposals/2026-04-27-proposal.md"}}
+{"created_at": "2026-04-27T15:41:54+08:00", "id": "evt_ed91b07b2d", "kind": "observation_captured", "payload": {"observation_id": "obs_78fa0e2bde", "tag": "context"}}
+{"created_at": "2026-04-27T15:46:28+08:00", "id": "evt_4620ce0f72", "kind": "observation_captured", "payload": {"observation_id": "obs_bcdd2b9f16", "tag": "context"}}
+{"created_at": "2026-04-27T18:38:12+08:00", "id": "evt_de8ec39125", "kind": "observation_captured", "payload": {"observation_id": "obs_14cd34f6a6", "tag": "context"}}
+{"created_at": "2026-04-27T18:38:12+08:00", "id": "evt_401027d675", "kind": "reflection_written", "payload": {"path": "runs/2026-04-27-reflection.md", "proposal": "evolution/proposals/2026-04-27-proposal.md"}}
+{"created_at": "2026-04-27T19:48:42+08:00", "id": "evt_f9b622ae2d", "kind": "observation_captured", "payload": {"observation_id": "obs_f7d39eda24", "tag": "context"}}
+{"created_at": "2026-04-27T19:52:50+08:00", "id": "evt_40f25b120a", "kind": "observation_captured", "payload": {"observation_id": "obs_00e5f7d0fa", "tag": "context"}}
+{"created_at": "2026-04-27T19:54:48+08:00", "id": "evt_365b475d8d", "kind": "reflection_written", "payload": {"path": "runs/2026-04-27-reflection.md", "proposal": "evolution/proposals/2026-04-27-proposal.md"}}
+{"created_at": "2026-04-27T23:37:44+08:00", "id": "evt_b03fab2458", "kind": "feedback_captured", "payload": {"feedback_id": "fb_ca35be25a1", "tag": "correction"}}
+{"created_at": "2026-04-27T23:37:44+08:00", "id": "evt_cec5706b3f", "kind": "rule_promoted", "payload": {"area": "behavior", "reason": "用户明确给出后续思考框架", "rule": "思考和规划问题时按五个部分输出：核心目标、需求、规则、用户参与方式、落实计划；落实计划必须拆成 to-do list。"}}
+{"created_at": "2026-04-28T00:29:03+08:00", "id": "evt_418eb5b293", "kind": "observation_captured", "payload": {"observation_id": "obs_1e40652a9d", "tag": "context"}}
+{"created_at": "2026-04-28T00:29:03+08:00", "id": "evt_9fd9f937fb", "kind": "reflection_written", "payload": {"path": "runs/2026-04-28-reflection.md", "proposal": "evolution/proposals/2026-04-28-proposal.md"}}
+{"created_at": "2026-04-28T00:33:16+08:00", "id": "evt_fb6d5feeab", "kind": "observation_captured", "payload": {"observation_id": "obs_9078f637be", "tag": "context"}}
+{"created_at": "2026-04-28T00:33:16+08:00", "id": "evt_960a9dade0", "kind": "reflection_written", "payload": {"path": "runs/2026-04-28-reflection.md", "proposal": "evolution/proposals/2026-04-28-proposal.md"}}
+{"created_at": "2026-04-28T00:38:13+08:00", "id": "evt_e02a3068c3", "kind": "task_created", "payload": {"area": "general", "priority": "P1", "task_id": "task_cafa7ce59a"}}
+{"created_at": "2026-04-28T00:38:13+08:00", "id": "evt_309c68ac02", "kind": "observation_captured", "payload": {"observation_id": "obs_85bb1f29af", "tag": "context"}}
+{"created_at": "2026-04-28T00:39:52+08:00", "id": "evt_10bcea70f1", "kind": "task_created", "payload": {"area": "general", "priority": "P1", "task_id": "task_ac2abab794"}}
+{"created_at": "2026-04-28T00:39:52+08:00", "id": "evt_3459db68d2", "kind": "feedback_captured", "payload": {"feedback_id": "fb_ac066b3e64", "tag": "correction"}}
+{"created_at": "2026-04-28T00:48:51+08:00", "id": "evt_348ba8765f", "kind": "feedback_captured", "payload": {"feedback_id": "fb_d9b13d9f33", "tag": "correction"}}
+{"created_at": "2026-04-28T00:49:15+08:00", "id": "evt_bc1243b780", "kind": "rule_promoted", "payload": {"area": "behavior", "reason": "用户明确要求必须学会判断 Skill 使用，并掌握 garryten Skill 与 DBS。", "rule": "在任务开始时主动判断是否适用已安装 Skill；涉及产品想法/是否值得做/计划评审优先考虑 garrytan/gstack 的 office-hours、plan-ceo-review、plan-eng-review、design-review、qa、review 等；涉及商业模式、对标、内容、执行力、概念拆解优先走 DBS/dontbesilent 路由。"}}
+{"created_at": "2026-04-28T01:01:29+08:00", "id": "evt_83ca2bf56f", "kind": "feedback_captured", "payload": {"feedback_id": "fb_5bd3383972", "tag": "correction"}}
+{"created_at": "2026-04-28T01:01:35+08:00", "id": "evt_84895c0cdc", "kind": "rule_promoted", "payload": {"area": "behavior", "reason": "用户明确指出 X 是全球最大、多语种 AI 宣传平台，后续调研要优先搜索。", "rule": "AI 产品宣发、用户痛点和竞品调研优先把 Twitter/X 作为一线信息源；公开网页、官方文档、HN/Reddit 作为交叉验证来源。"}}
+{"created_at": "2026-04-28T01:08:48+08:00", "id": "evt_efdf52dc9b", "kind": "feedback_captured", "payload": {"feedback_id": "fb_6113bdeede", "tag": "correction"}}
+{"created_at": "2026-04-28T01:08:48+08:00", "id": "evt_0a5b9c9cba", "kind": "rule_promoted", "payload": {"area": "behavior", "reason": "用户明确纠正：x api 做不到就用 computer use 自己去读。", "rule": "X/Twitter 调研中，如果 API 不可用、额度不足或结果不足，优先使用 Computer Use 实际访问 X/Twitter 页面读取和核验证据。"}}
+{"created_at": "2026-04-28T01:17:28+08:00", "id": "evt_10db6807aa", "kind": "task_done", "payload": {"note": "完成 Agent API 立项前调研包：主报告、X/Twitter Computer Use 证据、隐私竞品矩阵、benchmark 协议、用户调研计划。", "task_id": "task_ac2abab794"}}
+{"created_at": "2026-04-28T01:17:28+08:00", "id": "evt_1b08710a7d", "kind": "observation_captured", "payload": {"observation_id": "obs_5d61afdbdf", "tag": "context"}}
+{"created_at": "2026-04-28T01:17:52+08:00", "id": "evt_9f61b65266", "kind": "reflection_written", "payload": {"path": "runs/2026-04-28-reflection.md", "proposal": "evolution/proposals/2026-04-28-proposal.md"}}
+{"created_at": "2026-04-28T01:19:33+08:00", "id": "evt_62ad64e15a", "kind": "reflection_written", "payload": {"path": "runs/2026-04-28-reflection.md", "proposal": "evolution/proposals/2026-04-28-proposal.md"}}
