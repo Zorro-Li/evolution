@@ -18,6 +18,7 @@ TZ = ZoneInfo("Asia/Shanghai")
 DEFAULT_REPO_URL = "git@github.com:Zorro-Li/evolution.git"
 
 TRACKED_PATHS = [
+    ".gbrain-source",
     ".gitignore",
     "AGENTS.md",
     "README.md",
