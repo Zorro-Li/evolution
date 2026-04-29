@@ -23,6 +23,11 @@ python3 jarvis.py auto-review --repo /path/to/git/repo
 python3 scripts/daily_evolution_publish.py --push
 ```
 
+## Installed Tools
+
+- `tools/gbrain`: GBrain local knowledge brain, with PGLite data in `~/.gbrain/brain.pglite`.
+- `tools/gstack`: GStack workflow skills and browser tooling, installed for Codex as `~/.codex/skills/gstack-*`.
+
 Promote stable behavior into durable rules:
 
 ```bash
@@ -38,6 +43,8 @@ python3 jarvis.py promote "遇到用户纠正技术栈时，立即切换到用�
 - `memory/`: durable profile, rules, lessons, and operating state.
 - `memory/self_profile.md`: generated local understanding of the user.
 - `memory/preferences.md`: generated collaboration preferences.
+- `tools/gbrain/`: cloned GBrain source and local CLI runtime.
+- `tools/gstack/`: cloned GStack source, generated skills, and compiled browser/design/PDF binaries.
 - `inbox/`: raw feedback and observations.
 - `tasks/`: task ledger.
 - `runs/`: generated reflections.

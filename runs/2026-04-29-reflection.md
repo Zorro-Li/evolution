@@ -1,18 +1,18 @@
-# Jarvis Reflection - 2026-04-28
+# Jarvis Reflection - 2026-04-29
 
 Window: last 7 day(s)
 
 ## Signals
 
-- feedback: 8
-- observations: 27
-- done_tasks: 11
+- feedback: 9
+- observations: 33
+- done_tasks: 13
 - open_tasks: 3
 
 ## Top Tags
 
-- context: 22
-- correction: 8
+- context: 28
+- correction: 9
 - automation: 3
 - bootstrap: 1
 - self-memory: 1
@@ -27,19 +27,20 @@ Window: last 7 day(s)
 - fb_6113bdeede: 当 X/Twitter API 不可用或额度不足时，改用 Computer Use 实际打开 X/Twitter 页面读取内容，不要停在 API 失败。
 - fb_4b76f865f2: 用户纠正开发形态：PDF里的玄学咨询平台要做微信小程序，后续方案应按小程序前端 + 微信登录/支付 + 自建后端 + 管理后台拆解。
 - fb_68fbaa4c64: 调研工作必须像员工交付一样留痕：先记录所有找到的内容，再逐链接分析对方怎么做，最后输出方法总结和可参考做法；中间步骤也要保留文档。
+- fb_f97f1781b3: 用户纠正 X/Twitter 调研方法：需要进入推主主页沿时间线一条条看推文，不能只用站内关键词搜索替代逐条阅读。
 
 ## Recent Observations
 
-- obs_85bb1f29af: Agent API 商业化讨论形成方向：先做 Version 1，以长任务 Token 成本显著下降为核心卖点；近期重点是隐私/免责/安全调研、V1 Demo 与报告、用户画像和宣发话术。
-- obs_5d61afdbdf: X/Twitter API quota 不足时改用 Computer Use 成功读取公开 X 证据；Agent API 调研显示最窄入口应从 Local Token Audit + Optimization Report 开始，而非直接 Hosted API。
-- obs_de2d942d0c: 已安装 GStack 1.15.0.0：源码在 tools/gstack，Codex skills 链接到 ~/.codex/skills/gstack-*，browse/design/make-pdf 二进制已构建，Playwright Chromium 已安装，browse 已用 example.com 做实际导航验证。
-- obs_73b01ea1ab: 会议记录分模块调研报告已完成：核心结论、API 模式、BYOK/Hosted、技术壁垒、宣发、信任背书、用户画像、分工、待解决问题、14 天计划；结论继续指向 Local Token Audit -> BYOK Proxy -> Hosted API。
-- obs_2ce66941d9: 解析开发.pdf：17页，需求为玄学咨询服务成交与管理系统，覆盖用户端、代理端、师傅端、管理后台、微信支付、订单状态机、分佣、评价、派单和售后；适合用 Codex 拆成 MVP 交易履约闭环再迭代。
-- obs_1ac60e61d1: 命理系统第一刀完成：项目形态确定为微信小程序 + Web 管理后台 + API；当前目录为 /Users/lizongru/codex/进化/命理系统，Slice 0 完成，Slice 1 商品域模型已开始。
 - obs_5e928f2ae0: 用户明确要求调研留痕按三步走执行：原始资料台账、逐链接分析、综合方法报告；本次 Agent API 调研已按该工作方式补齐三份文档。
 - obs_b02ea718bd: 命理系统继续推进：Slice 2 已接入文件型开发订单仓库、订单创建/列表/详情/状态推进 API、小程序下单调用 API 和订单详情时间线；API/shared typecheck 通过，API 冒烟通过；小程序依赖安装缺 hls.js tarball，Taro typecheck 暂未完成。
 - obs_ecf9b0cdee: 命理系统报价评估完成：结合昨天开发文档、客户访谈、新文档玄学.pdf，判断项目为命理/算卦类服务商城 + 多师傅交付平台 + 私域代理分佣系统；建议按生产版V1报价8-12万，周期25-35个工作日，Codex协作实际工时180-260小时。
 - obs_88ca52e3f5: 命理系统最终报价与PRD完成：使用 pricing-strategist、dbs-diagnosis、sales-strategist；法律方向采用官方法规和微信平台规则合规清单；输出 Skill/合规、最终报价实施、生产版V1详尽PRD 三份文档。
+- obs_9e4dfd592e: 命理系统站点口径已调整：建议两个前端站点，小程序用于用户下单，Web用于师傅端和管理后台；角色端为用户端、师傅端、后台三端；小程序端开发量估算130-196小时，报价拆分2.5-3.5万。
+- obs_7a465b3fb6: 当前产品定位：用户有一个 agent 框架，可以压缩长任务 token，使 agent 在长任务下 token 消耗降低约 80%；适合用 GStack 做商业验证、开发者体验审查、架构计划、竞品观察和效果 benchmark。
+- obs_e8f32aecce: Ran first-pass gstack-office-hours diagnosis for token-compression agent framework; recommended 14-day paid Local Token Audit sprint before broad framework build.
+- obs_4b5d538a9a: For token-compression agent framework, channel strategy should center on proof-led distribution: public before/after token evidence, GitHub benchmark assets, founder-led X/LinkedIn posts, targeted outbound to heavy agent users, and paid Local Token Audit as the CTA.
+- obs_6201ca9ac4: 完成 Twitter 增长与宣传渠道三步走调研：来源台账、逐链接分析、综合打法报告，优先读取 X 一手账号并补充官方渠道文档。
+- obs_19a138663e: Gensyn 访谈调研：官方 docs 显示  总供给 100 亿、分配为社区金库 40.4%、投资人 29.6%、团队 25%、公售 3%、测试网奖励 2%；用户原稿里的团队/投资人 20% 需要校正。
 
 ## Recommended Promotions
 

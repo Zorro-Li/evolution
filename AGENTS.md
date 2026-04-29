@@ -68,6 +68,12 @@ Promotion threshold:
 - Record why a durable behavior changed.
 - Treat memory as operational state, not decoration.
 
+## GStack Integration
+
+- GStack is installed in `tools/gstack` and linked into Codex as `~/.codex/skills/gstack-*`.
+- Use GStack skills for structured engineering workflows: planning, review, QA, browser testing, shipping, security, and retrospectives.
+- Use `tools/gstack/browse/dist/browse` for fast local browser checks when a page needs real Chromium verification.
+
 ## Local Jarvis Architecture
 
 The durable target architecture is:
