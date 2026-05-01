@@ -1,0 +1,4 @@
+interface:
+  display_name: "Crypto History As Mirror"
+  short_description: "以华语币圈历史判断项目兴衰、周期位置、rug 风险和退出窗口"
+  default_prompt: "Use $crypto-history-as-mirror to analyze a crypto project through historical cycles, boom-bust patterns, and rug-risk lessons."
