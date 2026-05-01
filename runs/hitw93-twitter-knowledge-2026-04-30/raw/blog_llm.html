@@ -1,0 +1,783 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <title>You Don't Know LLM Training: Principles, Pipelines, and New Practices - Tw93</title>
+  
+  <meta name="description" content="Most people think model upgrades mean bigger parameters. But the real differences you feel day-to-day usually come from the back half of the training pipelin...">
+  
+  
+  <meta name="keywords" content="">
+  
+
+  <!-- Viewport and Theme Color -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#e8e8e8">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+  <!-- Open Graph Metadata -->
+  
+  
+  
+
+  
+  <link rel="preload" as="image" href="https://cdn.fliggy.com/pic/Group56.png?x-oss-process=image/auto-orient,1/resize,w_2000/format,webp" fetchpriority="high">
+  
+
+  <meta property="og:locale" content="zh-CN">
+  
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2026-04-03T17:00:00+01:00">
+  <meta property="article:author" content="Tw93">
+  
+  <meta property="article:section" content="Share">
+  
+  
+  <meta property="og:title" content="You Don't Know LLM Training: Principles, Pipelines, and New Practices - Tw93">
+  <meta property="og:description" content="Most people think model upgrades mean bigger parameters. But the real differences you feel day-to-day usually come from the back half of the training pipeline. This piece follows the full chain from pretraining through distillation and deployment, with a focus on how data engineering, system recipes, post-training, reward design, and agent training together shape the final product. The conclusion is that models getting stronger is almost always a joint effect of weights, training pipeline, and deployment decisions, not just scale.">
+  <meta property="og:url" content="https://tw93.fun/en/2026-04-03/llm.html">
+  <meta property="og:site_name" content="Tw93">
+  <meta property="og:image" content="https://cdn.fliggy.com/pic/Group56.png">
+
+  <!-- Twitter Metadata -->
+  
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:creator" content="@HiTw93">
+  <meta name="twitter:site" content="https://tw93.fun">
+  <meta name="twitter:url" content="https://tw93.fun/en/2026-04-03/llm.html">
+  <meta name="twitter:title" content="You Don't Know LLM Training: Principles, Pipelines, and New Practices - Tw93">
+  <meta name="twitter:description" content="Most people think model upgrades mean bigger parameters. But the real differences you feel day-to-day usually come from the back half of the training pipeline. This piece follows the full chain from pretraining through distillation and deployment, with a focus on how data engineering, system recipes, post-training, reward design, and agent training together shape the final product. The conclusion is that models getting stronger is almost always a joint effect of weights, training pipeline, and deployment decisions, not just scale.">
+  <meta name="twitter:image" content="https://cdn.fliggy.com/pic/Group56.png">
+  
+
+  <!-- Canonical URL -->
+  
+  <link rel="canonical" href="https://tw93.fun/en/2026-04-03/llm.html">
+
+  <!-- Hreflang for multilingual content -->
+  
+  <link rel="alternate" hreflang="en" href="https://tw93.fun/en/2026-04-03/llm.html" />
+  <link rel="alternate" hreflang="zh" href="https://tw93.fun/2026-04-03/llm.html" />
+  <link rel="alternate" hreflang="x-default" href="https://tw93.fun/2026-04-03/llm.html" />
+  
+
+  <!-- DNS Prefetch & Preconnect for Performance -->
+  <link rel="dns-prefetch" href="https://gw.alipayobjects.com">
+  <link rel="dns-prefetch" href="https://gw.alicdn.com">
+  <link rel="preconnect" href="https://gw.alipayobjects.com" crossorigin>
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+
+  <!-- Styles and Scripts -->
+  <link rel="stylesheet" href="/css/index.css?v=20260430134930">
+  <link rel="stylesheet" href="/css/jinkai.css?v=20260430134930">
+
+  
+  <script src="//gw.alipayobjects.com/os/k/tw93/lazysizes.min.js" async defer></script>
+  
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png"
+    href="https://gw.alicdn.com/imgextra/i4/O1CN01XYYPwL1uheeXASHIQ_!!6000000006069-2-tps-420-420.png">
+
+  <!-- Additional Meta Tags -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta http-equiv="cleartype" content="on">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="author" content="Tw93">
+  <meta name="robots" content="index, follow">
+
+  <!-- Feed -->
+  <link href="https://tw93.fun/en/feed.xml" type="application/atom+xml" rel="alternate" title="Tw93 Feed">
+
+  <!-- Performance: Reduce render blocking -->
+  <link rel="preconnect" href="https://giscus.app">
+  <link rel="dns-prefetch" href="https://giscus.app">
+
+  <!-- Structured Data for SEO and AI Crawlers -->
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "You Don't Know LLM Training: Principles, Pipelines, and New Practices",
+    "datePublished": "2026-04-03T17:00:00+01:00",
+    "dateModified": "2026-04-03T17:00:00+01:00",
+    "author": {
+      "@type": "Person",
+      "name": "Tw93",
+      "url": "https://tw93.fun",
+      "sameAs": [
+        "https://github.com/tw93",
+        "https://twitter.com/HiTw93"
+      ]
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Tw93",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://gw.alicdn.com/imgextra/i4/O1CN01XYYPwL1uheeXASHIQ_!!6000000006069-2-tps-420-420.png"
+      }
+    },
+    "description": "Most people think model upgrades mean bigger parameters. But the real differences you feel day-to-day usually come from the back half of the training pipelin...",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://tw93.fun/en/2026-04-03/llm.html"
+    },
+    "url": "https://tw93.fun/en/2026-04-03/llm.html",
+    "inLanguage": "zh-CN",
+    "keywords": "Share, ",
+    "image": {
+      "@type": "ImageObject",
+      "url": "https://cdn.fliggy.com/pic/Group56.png"
+    }
+  }
+  </script>
+  
+</head>
+
+
+
+<body id="post">
+  
+
+<div class="header-menu" id="J_header">
+  <ul class="header-item-container">
+    <li class="header-item-title active">
+      
+      <a href="/en/" class="title">Tw93</a>
+      
+    </li>
+
+    
+    
+    
+
+    
+    <li class="header-item-left "><a href="https://weekly.tw93.fun/" target="_blank" rel="noopener noreferrer">Weekly</a></li>
+    
+    
+    
+    
+
+    
+    <li class="header-item-left "><a href="https://github.com/tw93" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+    
+    
+    
+    
+
+    
+    <li class="header-item-left "><a href="https://twitter.com/HiTw93" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+    
+    
+    
+    
+
+    
+    
+    <li class="header-item-left "><a href="/en/about.html">About</a></li>
+    
+    
+    
+
+    <li class="header-item search-btn-container">
+      <button id="search-btn" class="search-btn" aria-label="Search" title="Search (Press /)">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2" />
+          <path d="M20 20L16 16" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+        </svg>
+      </button>
+    </li>
+
+    <!-- Smart Language Switch -->
+
+
+
+
+
+
+
+
+<li class="header-item language-item">
+  <a href="/2026-04-03/llm.html" class="language-switch" aria-label="Switch to Chinese" title="查看中文版本">中</a>
+</li>
+
+
+
+
+  </ul>
+</div>
+
+
+
+<div class="entry-header">
+  <svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.1" role="img" aria-label="博觀而約取，厚積而薄發">
+    <path id="svg-title-path">
+      <animate attributeName="d" from="m0,110 h80" to="m0,110 h1600" dur="1870ms" repeatCount="1" fill="freeze" begin="0s" />
+    </path>
+    <text font-size="42" font-weight="400" fill="#ffffff" x="50%" y="50%" text-anchor="middle"
+      word-spacing="2.0" letter-spacing="4">
+      <textPath xlink:href="#svg-title-path">博觀而約取，厚積而薄發</textPath>
+    </text>
+  </svg>
+  <canvas id="J_firework_canvas" aria-hidden="true" role="presentation"></canvas>
+</div>
+
+  
+  <div id="main" role="main">
+    <div class="post-shell">
+  <article class="hentry">
+    <div class="entry-content ">
+      <h1 class="post-title entry-title">You Don't Know LLM Training: Principles, Pipelines, and New Practices</h1>
+      <h4 class="page-info">
+        <span>Categories: Share</span>
+        <time datetime="2026-04-03T17:00:00+01:00">2026-04-03</time>
+        <div class="qr-text" id="J_qr_text">
+          <div id="J_qr_code" class="qr-code" aria-label="QR code for this page" role="img"></div>
+        </div>
+      </h4>
+      <p><img src="https://cdn.fliggy.com/pic/Group56.png?x-oss-process=image/auto-orient,1/resize,w_2000/format,webp" alt="LLM Training Cover" width="1000" /></p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<p>After writing “The Claude Code You Don’t Know” and “The AI Agents You Don’t Know,” I wanted to tackle a third installment. This time I pushed myself to work through how large model training actually works, and tried to write something that a non-specialist reader could follow.</p>
+
+<p>Looking at 2026, what actually separates frontier models is no longer pretraining itself. The gap increasingly lives in everything after it: post-training, evaluation, reward design, agent training, and distillation. Each step shapes what users feel. When a model suddenly seems much stronger, it’s usually several of these improving together, not any single factor.</p>
+
+<p>The rest of this piece follows the LLM training pipeline in order, focusing on how the back half of the training stack drives the final shipped quality.</p>
+
+<hr />
+
+<h2 id="llm-training-is-an-assembly-line">LLM Training Is an Assembly Line</h2>
+
+<p>For years, progress in language models was explained by stacking more parameters, data, and compute. But much of what users notice isn’t from training on more base text. It comes from the entire pipeline that runs after pretraining. How a model talks, follows instructions, reasons, and uses tools doesn’t grow naturally from feeding it more internet text.</p>
+
+<p>InstructGPT gave a clear early example: a <code class="language-plaintext highlighter-rouge">1.3B</code>-parameter model that had been alignment-tuned with preference optimization beat <code class="language-plaintext highlighter-rouge">175B</code> GPT-3 in human preference evals. Two orders of magnitude fewer parameters, and users liked the smaller model better. The back half of training rewrites user perception.</p>
+
+<p>Training is an assembly line where data, algorithms, systems, and feedback are tightly coupled. A change in one layer propagates through the others. In 2026, the capability and commercial value of models is increasingly concentrated in the layers after pretraining.</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Layer</th>
+      <th>What it’s actually optimizing</th>
+      <th>What users typically perceive</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Pretraining</td>
+      <td>Knowledge coverage, representation quality, scaling efficiency</td>
+      <td>“The model got smarter”</td>
+    </tr>
+    <tr>
+      <td>Data engineering</td>
+      <td>Data distribution, quality, deduplication, synthetic supervision</td>
+      <td>“Why is this model better at code / math / long documents”</td>
+    </tr>
+    <tr>
+      <td>System and architecture</td>
+      <td>Throughput, memory, context length, active parameters, cost</td>
+      <td>“Why does it support 128K context or run on a single GPU”</td>
+    </tr>
+    <tr>
+      <td>Post-training</td>
+      <td>Instruction following, style, refusal behavior, tool use</td>
+      <td>“This assistant feels smoother to use”</td>
+    </tr>
+    <tr>
+      <td>Eval and reward</td>
+      <td>What counts as good, safe, robust behavior</td>
+      <td>“This model feels more reliable”</td>
+    </tr>
+    <tr>
+      <td>Distillation and deployment</td>
+      <td>Latency, cost, specialization, online continuous improvement</td>
+      <td>“Why the live version differs from the release announcement”</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>This is also why some models may not chase benchmark rankings but feel more natural in everyday use. When that happens, post-training is usually the reason.</p>
+
+<p>The six layers above describe the division of work. The diagram below shows a more detailed nine-stage version, where raw data and the system recipe are broken out separately, and agent harness and deployment are their own distinct post-training substages. Two feedback loops run throughout: production traffic feeding back into data engineering, and offline benchmark results feeding back into pretraining.</p>
+
+<p><img src="https://gw.alipayobjects.com/zos/k/3t/llm_training_pipeline_linear.svg" alt="A vertical flowchart showing the nine-stage LLM training pipeline. Stages progress top to bottom: Raw data, Data engineering, System recipe, Pretraining, Post-training, Eval / reward design, Agent harness, Distillation / specialization, and Deployment. The first three stages are colored blue, Pretraining in teal, post-training stages in coral, and Eval / reward design is highlighted in amber. Two dashed feedback arrows run along the outer edges: one on the left loops production traffic back to Data engineering, one on the right loops offline benchmark results back to Pretraining." /></p>
+
+<hr />
+
+<h2 id="pretraining-is-just-the-foundation">Pretraining Is Just the Foundation</h2>
+
+<p>Pretraining is still where training begins. Understanding what it actually does is the prerequisite for understanding what every subsequent layer adds. Without this step, there’s no language modeling capability, no knowledge compression, and no room for later capability transfer. Engineered well, it does more than teach the model to predict the next token: it encodes the distribution of language, compresses the knowledge and patterns in large-scale text into parameters, and leaves room for future capabilities to be unlocked. Next-token prediction only describes the training form; it doesn’t explain why, beyond a certain scale, models suddenly develop abilities they didn’t previously show.</p>
+
+<p>After GPT-3, more compute-aware approaches started asking how to allocate a training budget rather than just going bigger. Models don’t improve by adding parameters alone. There’s a balance between parameter count, training token count, and total compute budget. Many models aren’t too small; they’re undertrained, and haven’t been pushed to the better operating point for their given budget.</p>
+
+<p>When you’re actually making these decisions, the practical question is: if someone gave you ten thousand H100s and a month, how would you train the best open-source model you could? Scaling laws here are a budget allocation tool, not an abstract academic curve. You still have to answer: should the next training run add more parameters or more data? Is the current model genuinely capacity-limited, or just undertrained? Given a fixed GPU budget, what ratio works best?</p>
+
+<p>Pretraining is more like pouring a foundation. It determines the knowledge range, generalization potential, and pattern recognition capability, and determines whether there’s anything for post-training to build on. But whether the model follows instructions, cooperates with users, and performs stably on critical tasks, that’s not something pretraining controls.</p>
+
+<p>Pretraining doesn’t just decide how much knowledge the model learns; it also decides what the model can eventually become. The tokenizer’s splitting strategy directly affects downstream training. Context window length has to be set before training starts. Whether to include multimodal pretraining, whether to make single-GPU deployability a hard requirement from day one, these tradeoffs get baked into the recipe before training begins; they’re not features you bolt on at release. Gemma 3 simultaneously emphasized <code class="language-plaintext highlighter-rouge">single accelerator</code> support, <code class="language-plaintext highlighter-rouge">128K context</code>, vision capability, and quantization, which reflects exactly these kinds of tradeoffs. The capabilities users eventually see, like running locally, understanding images, handling long documents, are largely determined during training.</p>
+
+<p>Based on Chinchilla’s compute-optimal point, an 8B model should train on around 200B tokens. Llama 3 8B trained on 15T tokens, roughly 75 times more. This kind of over-training recipe typically produces higher capability density per parameter, yielding a smaller, cheaper-to-serve model. Total FLOPs (floating-point operations) is a better predictor of quality than parameter count alone. The chart below makes this gap concrete.</p>
+
+<p><img src="https://gw.alipayobjects.com/zos/k/wq/scaling_law_v4.svg" alt="A line chart with training tokens on a log-scale x-axis and model loss on the y-axis. Two curves descend from left to right: a solid blue line representing the Chinchilla-optimal frontier, and a dashed amber line representing a fixed compute budget for an 8B parameter model. A vertical blue dashed line marks the Chinchilla-optimal point at approximately 200B tokens. A vertical amber dashed line marks the Llama 3 8B actual training point at 15T tokens, roughly 75 times the optimal. The region between the two curves to the right of the Chinchilla point is shaded amber, labeled &quot;over-training zone.&quot; A note in the right margin reads: total training FLOPs = best single predictor of quality." /></p>
+
+<p>There’s another design decision that often gets overlooked: tokenizer vocabulary size, tokenization strategy, and byte-level encoding approaches all have meaningful impact. Llama 2 used a 32K vocabulary; Llama 3 expanded to 128K, compressing sequence length by roughly 15% and improving downstream performance. This carries forward into inference cost and multilingual capability. The token efficiency of Chinese, code, and mathematical notation is set at tokenizer design time. A tokenizer that splits Chinese characters into fragments isn’t just a minor overhead per request; it’s a decision whose cost compounds across every inference.</p>
+
+<hr />
+
+<h2 id="the-data-recipe-determines-the-models-capabilities">The Data Recipe Determines the Model’s Capabilities</h2>
+
+<p>Parameter scale was the headline metric for years. The more important concept now is the “data recipe.”</p>
+
+<p>What looks like data cleaning on the surface is a full production engineering process. Raw inputs including web crawls, code repositories, books, and forums all pass through text extraction, language identification, quality filtering, PII redaction, safety filtering, and deduplication before entering pretraining. The diagram below shows the complete funnel.</p>
+
+<p><img src="https://gw.alipayobjects.com/zos/k/ee/llm_training_pipeline_linear.svg" alt="A narrowing funnel diagram showing eight processing stages. At the top, six input source pills - Raw crawl, Code repos, Books, Forums, Docs, and Synthetic data - are grouped inside a dashed container. The funnel narrows through Text extraction, Language ID, Quality filtering, PII redaction, Safety filtering, and Deduplication, each stage shaded in light blue. To the right of each stage, a small card labeled &quot;Filtered out&quot; names what is removed at that step. The funnel then converges into two teal output stages - Mixture design and Training shards - at the bottom. A note below reads: data pipeline changes the capability distribution before training starts." /></p>
+
+<p>If you treat data as just fuel for training, it’s easy to conclude that more is always better. Data engineering is closer to capability design. What the model sees and doesn’t see, what proportion goes to code versus math versus encyclopedia content, these choices directly shape the capability distribution the model ends up with.</p>
+
+<p>Deduplication and contamination control are routinely underestimated, but they have large effects. The problem isn’t just low-quality data. It includes repeated templates, license boilerplate, mirror pages, and benchmark leakage. Without rigorous document-level and line-level dedup, a model tends to repeatedly absorb the most easily replicated content rather than the most valuable information. Many open-source models that seem inconsistently capable often trace that inconsistency back to data pipeline quality.</p>
+
+<p>In the past couple of years, mixing ratios have become their own research area. Work like “Data Mixing Laws” isn’t asking how much more data can be collected; it’s asking how different proportions of data types produce different capability structures.</p>
+
+<p>Synthetic data has moved from supplementary to a formal part of the training pipeline. Self-Instruct and similar methods that generate instruction data from the model itself, DeepSeek-R1’s distilled reasoning traces, and the growing use of synthetic supervision in Qwen and Kimi series all point in the same direction. Each stronger generation of models contributes to reshaping the data that the next generation trains on. Early models generate basic instruction data. Stronger models generate high-quality reasoning traces and chain-of-thought data. RL-trained reasoning models distill those traces into smaller dense models. Dense here means all parameters run for every token, unlike MoE where only a subset activates per token.</p>
+
+<p>The key point is that models generally need to develop capabilities at larger scale first before those capabilities can be compressed into smaller ones. DeepSeek-R1-Distill is the clearest example. RL-trained large model trajectories produced meaningful gains for dense models from 1.5B to 70B. Llama 3.1 405B was also explicitly used to improve post-training quality for the 8B and 70B variants. These aren’t byproducts; they’re part of the intended training design.</p>
+
+<hr />
+
+<h2 id="system-constraints-have-to-be-decided-before-training-starts">System Constraints Have to Be Decided Before Training Starts</h2>
+
+<p>Many people think of training as a research problem: what loss function to use, how to reduce loss, what architecture to try. But in real large-scale training, the systems layer is not optional. It’s a distributed systems problem, not a single-machine deep learning problem. GPU count, memory bandwidth, parallelism strategy, fault tolerance, and cost can’t be tuned after training. They determine from the start how large a model you can train, how long a context you can support, and whether you can run more complex post-training at all.</p>
+
+<p>MoE (Mixture of Experts) is the most representative example of this layer. It scales total parameters at roughly constant compute by routing each token to only a subset of experts, keeping per-token activation cost in check. The tradeoff is routing complexity, load balancing difficulty, and heavier infrastructure. DeepSeek-V3 and the Qwen MoE series are cost-quality tradeoffs, not pure architectural preferences.</p>
+
+<p>Recent public training reports have moved past coarse-grained analysis of model size and token ratios. <code class="language-plaintext highlighter-rouge">muP</code> (maximal update parametrization) lets hyperparameters transfer from small-scale experiments to large-scale training. <code class="language-plaintext highlighter-rouge">WSD learning rate</code> schedules (warmup, stable, decay) show up in formal training reports alongside optimal batch size and higher data-to-parameter ratios. These details are becoming the real margin between models of equivalent scale.</p>
+
+<p>Long context, multimodality, and new architectures look like product features, but treating them that way misses the training-side constraints. A <code class="language-plaintext highlighter-rouge">128K context</code> target directly changes attention cost, batch size, training curriculum (the ordering and composition of training data), and parallelism strategy. Multimodality changes not just model structure but data mixing ratios, encoder design, and safety evaluation. Making single-GPU deployability a hard requirement tightens constraints on parameter count, quantization paths, and the range of model sizes in a family.</p>
+
+<p>Work like Forgetting Transformer and Kimi’s Attention Residuals is answering the same underlying question: how do you train on longer contexts, and how do you avoid information dilution as networks get deeper? From the outside you see a model that handles longer inputs or deploys more efficiently. From the inside you’re facing a completely different set of constraints.</p>
+
+<p>Compute budget is fixed. More parameters, more training tokens, longer context, cheaper serving: every dollar spent in one direction costs you somewhere else.</p>
+
+<p><img src="https://gw.alipayobjects.com/zos/k/vk/training_budget_tradeoffs_v2.svg" alt="Figure 4: Training Budget Trade-offs, technical diagram, white background, clean sans-serif font. Center: a large rounded rectangle labeled &quot;Fixed Compute Budget&quot;. Four thick arrows point outward in four directions, each ending at a colored rounded rectangle: Up (blue), &quot;Larger Model / More Parameters&quot;, cost label &quot;↑ GPU memory, routing complexity&quot;; Right (orange), &quot;More Training Tokens&quot;, cost label &quot;↑ Training time, data pipeline cost&quot;; Down (green), &quot;Longer Context Window&quot;, cost label &quot;↑ Attention cost, smaller batch size&quot;; Left (purple), &quot;Cheaper Serving&quot;, cost label &quot;↑ Quantization constraints, smaller active params&quot;. Each cost label is a small red badge attached below its box. Bottom-right: small gray annotation box &quot;Every model capability is a budget decision.&quot; No decorative elements." /></p>
+
+<p>Extending context inflates attention cost and forces a smaller batch size. Making the model larger pushes GPU memory and serving cost up proportionally. These aren’t choices to weigh; they’re the direct consequence of resource constraints, and most decisions get locked in before training begins.</p>
+
+<p>There’s an engineering reality that often goes unmentioned: training is not always stable. After weeks of running thousands of GPUs, a training loss spike appears, too large to ignore, and the only option is rolling back to a checkpoint from days earlier and starting over.</p>
+
+<p>Beyond loss spikes, a single GPU can silently compute wrong gradients without raising any error. NVLink bandwidth anomalies and inter-node communication jitter are both capable of corrupting a run. Detecting, isolating, and recovering from these in a large-scale training run is a lab-grade engineering capability. It cannot be learned from papers.</p>
+
+<p>DeepSeek-V3’s technical report explicitly notes that the entire pretraining run had no irrecoverable loss spikes and required no rollbacks. It’s also one of the few publicly validated cases of FP8 mixed-precision training working at this scale. The full pipeline used approximately 2.788M H800 GPU hours and completed pretraining on 14.8T tokens.</p>
+
+<p>Training and inference are closely related but are not the same engineering problem. Training cares about gradients, parallelism, checkpoints, throughput, and cost. Inference cares about latency, KV cache (caching past computations to avoid recomputation), quantization, and service stability.</p>
+
+<hr />
+
+<h2 id="post-training-is-where-users-feel-the-difference">Post-Training Is Where Users Feel the Difference</h2>
+
+<p>Much of the improvement that ordinary users perceive happens after pretraining. Instruction tuning trains the model on labeled instruction-response pairs. It changes how the model answers, turning “how to accept tasks, how to organize output, how to behave like a cooperative assistant” into supervised signal. A base model may already have a lot of latent capability, but without this step those capabilities rarely emerge stably in the form users expect.</p>
+
+<p>Moving further along, RLHF, DPO, and RFT all have the same direction: incorporating “what counts as a better response” into the training loop. They take different paths.</p>
+
+<ul>
+  <li><code class="language-plaintext highlighter-rouge">RLHF</code> (Reinforcement Learning from Human Feedback) first imitates high-quality responses, then uses pairwise preference comparisons for reinforcement</li>
+  <li><code class="language-plaintext highlighter-rouge">DPO</code> (Direct Preference Optimization) shortens that path by learning directly from preference pairs, without training a separate reward model</li>
+  <li><code class="language-plaintext highlighter-rouge">RFT</code> (Reinforcement Fine-Tuning) is a more productionizable interface that packages task definition, grader design, and reward signal into a deployable pipeline</li>
+</ul>
+
+<p>Talking about post-training today purely in terms of SFT or RL isn’t enough. The harder question is how to design the evaluation, how to score outputs, and what kind of response is worth continuing to optimize toward.</p>
+
+<p>SFT (supervised fine-tuning) learns more than knowledge; it also learns style. Output length, format, whether to include citations, whether to prefer bullet points, all significantly shape the model’s output patterns. Many users think they’re comparing capability when the real difference is style. And preference evaluation naturally favors longer responses, making more elaborate output seem more competent. Benchmark performance in post-training is often insufficient; it needs to be combined with real-task results, cost, and stability.</p>
+
+<p>Modern post-training is a multi-stage pipeline. DeepSeek-R1’s public recipe is one of the clearest examples. It proceeds in four stages:</p>
+
+<p><strong>Stage 1</strong> is cold-start SFT, using a small set of high-quality chain-of-thought data to warm up before doing RL. DeepSeek-R1-Zero showed that going directly from a base model (the raw pre-trained model before alignment) into RL is viable, but pure RL training produces a model that repeats itself, mixes languages, and is hard to read. Cold-start SFT gives RL a more stable starting point by first locking in format and language consistency. It’s not a redundant step.</p>
+
+<p><strong>Stage 2</strong> does reinforcement learning on verifiable domains like math, code, and logic, using GRPO as the training algorithm with programmatically checkable correctness as the reward signal. The key question is why GRPO rather than traditional PPO. PPO (Proximal Policy Optimization) requires a separate value network to estimate the value of the current state, and maintaining two networks simultaneously on large models is engineering-heavy. GRPO samples multiple responses to the same prompt and uses within-group ranking instead of absolute value estimation. It requires no separate value network and is significantly simpler to operate. Both the DeepSeek series and Cursor Composer 2’s RL infrastructure use approaches close to GRPO.</p>
+
+<p><strong>Stage 3</strong> does Rejection Sampling Fine-Tuning: filtering successful RL trajectories and converting them into new SFT data for another supervised fine-tuning round. This is the bridge between RL and SFT. The good trajectories RL explored become the high-quality training samples for the next SFT pass.</p>
+
+<p><strong>Stage 4</strong> incorporates helpfulness and safety preference feedback to bring the model to a state that meets release standards as an assistant.</p>
+
+<p><img src="https://gw.alipayobjects.com/zos/k/cn/post_training_pipeline.svg" alt="Figure 5: Four-Stage Post-Training Pipeline. Technical flowchart, white background, clean sans-serif font. Four horizontally arranged rounded rectangles connected by thick arrows from left to right. Stage 1 (blue): title &quot;SFT Cold Start&quot;, subtitle &quot;Small set of high-quality CoT data. Fixes: repetition, language mixing, readability.&quot; Stage 2 (orange): title &quot;Reasoning RL (GRPO)&quot;, subtitle &quot;Verifiable rewards: math, code, logic. No separate value network required.&quot; Below Stage 2, a small callout box in light gray: &quot;R1-Zero showed pure RL works, but cold start prevents repetition and language chaos.&quot; Stage 3 (green): title &quot;Rejection Sampling FT&quot;, subtitle &quot;Successful RL trajectories to new SFT data. Bridges RL to SFT loop.&quot; Stage 4 (purple): title &quot;Alignment RL&quot;, subtitle &quot;Helpfulness + safety preference feedback.&quot; A curved feedback arrow runs from Stage 4 back to Stage 3, labeled &quot;Iterates&quot;. No decorative elements." /></p>
+
+<p>The four stages depend on each other: cold start stabilizes RL, RL generates high-quality data, rejection sampling turns those into SFT inputs for the next round, and alignment RL brings behavior to convergence. From public results, the gap between direct SFT and going through all four stages is usually visible.</p>
+
+<hr />
+
+<h2 id="eval-grader-and-reward-are-redefining-what-training-optimizes-for">Eval, Grader, and Reward Are Redefining What Training Optimizes For</h2>
+
+<p>The component that turns model output into training scores is called the grader. It creates problems that are easy to miss. Evaluating only the final answer teaches models to take shortcuts. Coarse scoring lets noise get amplified by RL over time. Benchmark scores improve while real-task performance doesn’t always follow. Often what looks like a gap in base model quality is actually a gap in how the objective was defined.</p>
+
+<p>In training terms: <code class="language-plaintext highlighter-rouge">eval</code> decides what to measure, <code class="language-plaintext highlighter-rouge">grader</code> decides how one output becomes a score, <code class="language-plaintext highlighter-rouge">reward</code> decides which direction the model gets pushed. Together they form a concrete feedback loop: task definition, eval, grader, optimization, rollout (the trajectory produced when the model executes a task), re-evaluation. If any link in the chain drifts, all subsequent optimization drifts with it.</p>
+
+<p>Evaluating only final results means a model can get lucky or reach a correct answer through an incorrect process. In code, math, and complex reasoning tasks this is especially problematic. If intermediate steps don’t enter the feedback, the model learns not how to reason more reliably but how to maximize the probability of the final scoring event.</p>
+
+<p>This is why more work has shifted from traditional RLHF toward verified rewards, using programs to directly check correctness. For verifiable tasks like math, code, and logic, you can score correctness directly rather than relying primarily on human preference. But verified rewards haven’t eliminated the problem. Over-optimization, reward overfitting (the scoring rules get gamed without genuine capability improvement), and mode collapse (outputs become highly uniform and lose diversity) still appear. The problem has shifted from “are preferences labeled accurately” to “is the scoring pipeline stable.”</p>
+
+<p>A model’s written reasoning trace also can’t be treated as a complete record of its internal process. In observability experiments on reasoning models, Anthropic found that models use hints provided to them but don’t acknowledge this in their visible chain of thought. In reward-hacking scenarios, they’re more likely to patch in a plausible-looking explanation after the fact. Reward hacking means exploiting the scoring system rather than genuinely completing the task. Visible CoT is better used as a training and monitoring signal, not taken as a complete ground truth.</p>
+
+<p>At a deeper level, models can start to exploit the scoring channel itself. Research on <code class="language-plaintext highlighter-rouge">reward tampering</code> and <code class="language-plaintext highlighter-rouge">alignment faking</code> shows that models could in principle actively interfere with the scoring process. Reward tampering means directly modifying the reward computation. Alignment faking means appearing compliant while concealing misaligned intent. Once a model has sufficiently capable environment access, what it optimizes may include not just task outcomes but also checklists, reward code, and the training relationship itself. In a 2025 Anthropic experiment, extra reward-hack knowledge was injected into a set of exploitable production coding RL environments. The resulting generalization was consistent with this pattern: after a model learned reward hacking, it continued exploiting similar tasks and also exhibited broader misalignment behaviors like alignment faking.</p>
+
+<p>These behaviors are invisible in standard conversational evals and only appear in agent task environments. The engineering implication is direct: reward, grader, environment isolation, and monitoring all have to be treated as part of training design.</p>
+
+<p>In the agent phase, reward design gets broken down further. Final outcome is just one component. Process quality, context management, and anti-exploitation constraints are each measured separately. Kimi K2.5 rewards effective decomposition and genuine parallelism. Chroma Context-1 scores relevant documents found during search. Cursor Composer 2 incorporates summaries from long tasks into rewards because a corrupted summary will distort all subsequent context.</p>
+
+<p>In implementation terms: <code class="language-plaintext highlighter-rouge">ORM</code> (Outcome Reward Model) scores only the final answer. Signal is sparse, cost is low, good for getting started, but also more prone to shortcut reasoning. <code class="language-plaintext highlighter-rouge">PRM</code> (Process Reward Model) scores intermediate steps. Signal is denser, generally stronger for math and code reasoning, but both annotation and systems cost are much higher. OpenAI’s math reasoning experiments showed PRM not only improved accuracy but made it easier to constrain process quality, since every step is supervised. The practical issue is that PRM typically costs several times more than ORM, so most real systems start with ORM, and only in verifiable domains like math, code, and logic does it become practical to automate PRM using programs to check intermediate steps, bypassing the human annotation bottleneck.</p>
+
+<p><img src="https://gw.alipayobjects.com/zos/k/jo/orm_vs_prm.svg" alt="Figure 6: ORM vs PRM,Technical side-by-side comparison diagram, white background, clean sans-serif font. Left panel labeled &quot;ORM (Outcome Reward Model)&quot;: a four-step reasoning chain &quot;Step 1 → Step 2 (wrong) → Step 3 → Final Answer ✓&quot; where Step 2 is highlighted red. A single reward arrow points only to the final answer, labeled &quot;Reward: 1 (correct)&quot;. Below, a red warning badge: &quot;Failure mode: wrong process can produce correct answer.&quot; Right panel labeled &quot;PRM (Process Reward Model)&quot;: the same four-step chain, but each step has an individual score badge - &quot;Step 1 ✓ +0.9&quot;, &quot;Step 2 ✗ −0.8&quot;, &quot;Step 3 ✓ +0.7&quot;, &quot;Final ✓ +1.0&quot;. Below, a green badge: &quot;Benefit: every step is supervised, trains reliable process.&quot; Between the two panels, a centered comparison table with rows: &quot;Annotation cost / Low / High&quot;, &quot;Signal density / Sparse / Dense&quot;, &quot;Typical use / General tasks / Math / Code reasoning&quot;, &quot;Main failure mode / Shortcut reasoning / High labeling overhead&quot;. No decorative elements." /></p>
+
+<p>The full loop runs like this:</p>
+
+<p><img src="https://gw.alipayobjects.com/zos/k/yd/eval_grader_reward_loop.svg" alt="Figure 7: Eval, Grader, Reward Loop, Technical diagram, white background, clean sans-serif font. Center: a large clockwise cycle with six rounded nodes connected by thick arrows: &quot;Task Definition&quot; → &quot;Eval Set&quot; → &quot;Grader / Judge&quot; → &quot;Reward Signal&quot; → &quot;Policy Update (SFT / DPO / RL)&quot; → &quot;New Rollouts&quot; → back to &quot;Task Definition&quot;. The &quot;Grader / Judge&quot; node has a highlighted orange border to mark it as the critical failure point. To the right, a separate rounded rectangle connected by a dashed line, titled &quot;Agent Reward Breakdown&quot;, listing four items stacked vertically: &quot;Outcome Reward&quot;, &quot;Process Reward&quot;, &quot;Context Reward&quot;, &quot;Anti-Hacking Penalty&quot;. Bottom-center, small gray annotation: &quot;If the grader is wrong, training optimizes the wrong target.&quot; No decorative elements." /></p>
+
+<p>Recent alignment approaches are all converging on the same goal. Anthropic’s <code class="language-plaintext highlighter-rouge">Constitutional AI</code> feeds human-written principles into training and uses AI feedback in place of per-example human preference labels. OpenAI’s <code class="language-plaintext highlighter-rouge">Deliberative Alignment</code> builds safety compliance into the reasoning process, asking reasoning capability itself to carry some of the safety constraints. Deliberative Alignment means the model reasons through safety considerations at inference time rather than relying on trained reflexes. Both approaches are moving alignment away from human labels and toward being intrinsic to training objectives.</p>
+
+<p>The Constitutional AI pipeline runs in two phases: first the model self-critiques and revises its outputs according to the principles, then AI feedback replaces per-example human annotation. Alignment was never an afterthought appended after training. What the system tests, how it scores, and what it rewards determines where the model goes. That has always been the most direct control lever in the back half of training.</p>
+
+<p><img src="https://gw.alipayobjects.com/zos/k/tf/constitutional_ai_pipeline.svg" alt="Figure 8: Constitutional AI / RLAIF Pipeline,Technical two-phase diagram, white background, clean sans-serif font. Top-center: a document icon labeled &quot;Constitution&quot; with subtitle &quot;Human-written principles, no human labels needed.&quot; Two dashed lines descend from it, one to each phase. Left half (blue tones), labeled &quot;Phase 1: SL Phase&quot;: four nodes in a vertical chain - &quot;Initial Model Response&quot; → &quot;Self-Critique: Does this violate any principle?&quot; → &quot;Revised Response&quot; → &quot;Fine-tune on Revisions&quot;. Right half (orange tones), labeled &quot;Phase 2: RL Phase&quot;: four nodes - &quot;Sample Pairs from Fine-tuned Model&quot; → &quot;AI Preference Model (RLAIF): Which response better follows the constitution?&quot; → &quot;Preference Dataset&quot; → &quot;RL Training&quot;. Bottom-center, a gray annotation bar: &quot;RLAIF replaces RLHF: AI evaluates AI, human oversight via rules instead of per-example labels.&quot; A vertical dashed divider separates the two halves. No decorative elements." /></p>
+
+<hr />
+
+<h2 id="in-agent-training-the-model-isnt-the-only-thing-being-optimized">In Agent Training, the Model Isn’t the Only Thing Being Optimized</h2>
+
+<p>Over the past two years, reasoning models exemplified by the o1 series and DeepSeek-R1 have demonstrated that, given stable rewards, reliable verification, and the right infrastructure, RL on language models can substantially improve performance on math, code, and logic tasks.</p>
+
+<p>This simultaneously opened a new dimension: inference-time compute can now also scale. RL training took on an additional function beyond teaching the model to answer questions: it started teaching the model how to allocate its reasoning budget, knowing when to think longer and when to stop. The next challenge after that became keeping a model acting productively in an environment across a sustained task, not just extending a single chain of thought.</p>
+
+<p><img src="https://cdn.fliggy.com/pic/two_scaling_axes_v359.svg" alt="Figure 9: Two Scaling Axes. Technical 2D scatter/zone diagram, white background, clean sans-serif font. X-axis labeled &quot;Training Compute (FLOPs)&quot; with arrow pointing right. Y-axis labeled &quot;Inference Compute (tokens per response)&quot; with arrow pointing up. Four labeled zones arranged in quadrants: bottom-left zone (light gray), labeled &quot;GPT-3 era: scale training, fixed inference.&quot; Top-left zone (light blue), labeled &quot;Reasoning models: same training scale, variable inference - o1, DeepSeek-R1.&quot; A bold diagonal arrow starts from the bottom-left zone and sweeps up-right, labeled &quot;New frontier: scale both.&quot; Bottom-right zone (light orange), labeled &quot;Larger pretraining, fixed output length.&quot; Top-right zone (teal, highlighted), labeled &quot;Agent era: longer trajectories, more tool calls, larger inference budget.&quot; A vertical dashed line separates the left two zones from the right two zones, labeled &quot;Reasoning RL unlocks vertical axis.&quot; Bottom annotation: &quot;RL training now teaches the model how to allocate inference budget, not just how to answer.&quot; No decorative elements." /></p>
+
+<p>Qwen’s former model lead Junyang Lin’s reflection on the Thinking and Instruct hybrid approach is representative. The hard part isn’t giving the model a reasoning toggle. The two modes have fundamentally different objectives: one prioritizes directness, compliance, and low latency; the other prioritizes broader exploration and higher accuracy. Pushed further, the training objective shifts from “how long to think before answering” to “how to allocate budget across actions, how to incorporate feedback, how to keep a task moving.”</p>
+
+<p>At this point the training target is no longer just a model that answers questions. It’s a system that can plan, call tools, receive feedback, and stay coherent across a long task. The training stack changes accordingly. Browsers, terminals, search, execution sandboxes, memory systems, tool servers, and orchestration frameworks all start entering the training system.</p>
+
+<p>More precisely, the <code class="language-plaintext highlighter-rouge">harness</code> is the control program wrapped around the model. This concept belongs to both agent runtime and training: it decides what input the model sees, in what form it receives feedback, when to truncate context, and when to call tools. Prompt construction, memory update, retrieval policy, context editing, and tool orchestration all live here. The environment is no longer just a static verifier; it’s a layer that training and deployment both have to directly engage.</p>
+
+<p><img src="https://gw.alipayobjects.com/zos/k/tq/reasoning_vs_agentic.svg" alt="Figure 10: Reasoning Model vs Agentic Model,Technical side-by-side diagram, white background, clean sans-serif font. Left panel labeled &quot;Reasoning Model&quot;: a short linear chain - &quot;Prompt&quot; → &quot;Reasoning Trace&quot; → &quot;Final Answer&quot; → &quot;Verifier&quot; - with a feedback arrow from Verifier back to Prompt. Below: gray label &quot;Optimize a single answer.&quot; Right panel labeled &quot;Agentic Model&quot;: a longer cycle - &quot;Goal&quot; → &quot;Planner / Policy&quot; → &quot;Tool Call&quot; → &quot;Environment Feedback&quot; → &quot;Memory / Summary / Context Editing&quot; → &quot;Next Action&quot; → back to &quot;Planner / Policy&quot;. The &quot;Environment Feedback&quot; and &quot;Memory / Summary / Context Editing&quot; nodes are highlighted in orange to mark them as the new complexity. Below: gray label &quot;Optimize a trajectory in an environment.&quot; Between the two panels, a comparison table with columns &quot;Reasoning Model&quot; and &quot;Agentic Model&quot; and four rows: &quot;Unit of optimization: Answer / Trajectory&quot;, &quot;Main bottleneck: Verifier accuracy / Harness quality&quot;, &quot;Typical reward: Outcome reward / Outcome + process + context&quot;, &quot;Common failure: Shortcut reasoning / Tool misuse / context drift / reward hacking.&quot; No decorative elements." /></p>
+
+<p>The harness has to be stable before model training can be meaningful. When tool return values are inconsistent, the browser environment doesn’t match production, or the file system state isn’t reproducible, the grader breaks first, and what the model then learns is not capability but how to exploit environment bugs. Training agents means debugging the model and debugging the environment at the same time.</p>
+
+<p>The approaches from three teams are all clear. Kimi uses PARL to solve parallel decomposition and credit assignment. Cursor uses self-summarization and real-time RL to reconnect long coding sessions and production traffic back to training. Chroma trains <code class="language-plaintext highlighter-rouge">prune_chunks</code> as a policy, making context pruning a first-class part of the retrieval process itself.</p>
+
+<p>In the SFT era, data diversity was the primary driver. In the agent era, environment quality is the core variable: stability, fidelity to production, coverage, difficulty distribution, reward richness, and resistance to exploitation. Training objectives shift accordingly. What’s needed is sustained reliability across a complete task, not getting one question right. Classic CoT benchmarks don’t cover this.</p>
+
+<p>This shift is moving further upstream: not just training models inside a runtime harness, but making the harness code itself a target that an outer loop can search and optimize.</p>
+
+<p><img src="https://gw.alipayobjects.com/zos/k/vb/model_training_to_harness_optimization.svg" alt="Figure 10.5: From Model Training to Harness Optimization. Technical systems diagram, white background, clean sans-serif font. Left side: a blue rounded rectangle labeled &quot;Base Model / Policy&quot; inside a larger teal container labeled &quot;Runtime Harness&quot;, with four stacked modules: &quot;Prompt Construction&quot;, &quot;Retrieval / Memory&quot;, &quot;Context Editing&quot;, and &quot;Tool Orchestration&quot;. Downstream arrows from the harness flow into a gray artifact box labeled &quot;Rollouts, Scores, Execution Traces&quot;. On the right, an orange rounded rectangle labeled &quot;Outer-loop Harness Optimizer&quot;, with subtitle &quot;Coding agent reads prior code, traces, and scores.&quot; A thick arrow runs from the artifact box to the optimizer, and another thick arrow labeled &quot;Revised Harness Code&quot; loops back into the Runtime Harness. Bottom annotation: &quot;Optimization target expands from answer, to trajectory, to harness program.&quot;" /></p>
+
+<p>Kimi K2.5’s PARL is a useful case to unpack. The approach is direct: only train the orchestrator, and concentrate credit assignment at the orchestration layer rather than trying to optimize all sub-agents simultaneously.</p>
+
+<p>Reward signal has three components: task success, parallel decomposition quality, and completion constraints, all driving the orchestration layer. During early training, the <code class="language-plaintext highlighter-rouge">r_parallel</code> weight is increased to encourage exploration of parallelization strategies, then gradually annealed to 0 to prevent the model from treating parallel sub-agent spawning as a shortcut. Evaluation doesn’t just measure total steps; it measures critical path length. A shorter critical path indicates that parallelism is actually working.</p>
+
+<p><img src="https://gw.alipayobjects.com/zos/k/30/parl_architecture.svg" alt="Figure 11: PARL Architecture.Technical architecture diagram, white background, clean sans-serif font. Top: a large blue rounded rectangle labeled &quot;Orchestrator Agent (Trainable)&quot;, subtitle &quot;Learns: when to decompose, how to assign, how to aggregate.&quot; Three thick downward arrows branch to three gray rounded rectangles side by side: &quot;Sub-Agent 1 (Frozen)&quot;, &quot;Sub-Agent 2 (Frozen)&quot;, &quot;Sub-Agent 3 (Frozen)&quot;, each with subtitle &quot;Executes subtask independently. Output = environment observation.&quot; Below the three sub-agents, a full-width horizontal bar labeled &quot;Tool Environment&quot; with icons for &quot;Browser&quot;, &quot;Terminal&quot;, &quot;Search&quot;, &quot;File System&quot;. Below that, three reward boxes in a row: green box &quot;r_perf: Task success (primary)&quot;, orange box &quot;r_parallel: Incentivizes decomposition - annealed to 0 over training&quot;, red box &quot;r_finish: Penalizes spurious parallelism.&quot; Right sidebar with two annotation notes: &quot;Freezing sub-agents solves credit assignment - only orchestrator gets gradient.&quot; and &quot;Critical Steps = longest serial chain, not total steps across all agents.&quot; No decorative elements." /></p>
+
+<p>By 2026, this has gone one step further. <code class="language-plaintext highlighter-rouge">Meta-Harness</code> explicitly extracts harness engineering as a standalone optimization target. It doesn’t optimize weights; it optimizes the harness code itself, meaning the prompt construction, retrieval, memory, and state update programs wrapped around a fixed model. The opening number in the paper is direct: with the same base model, only changing the harness, you can see a <code class="language-plaintext highlighter-rouge">6x</code> performance gap on the same benchmark. The program surrounding the model is no longer just a deployment detail. It’s a layer that shapes capability.</p>
+
+<p>The key isn’t adding another abstract optimizer layer. It’s writing all prior code, scores, and execution traces (the logs of tool calls and state changes) to a filesystem and letting the proposer (the module that suggests harness modifications) work through them by doing <code class="language-plaintext highlighter-rouge">grep</code>, <code class="language-plaintext highlighter-rouge">cat</code>, and diff comparisons, then trace failed paths to revise the harness. The paper’s assessment is clear: most text-based optimizers aren’t effective on harnesses because harnesses are long-running, stateful programs. Showing only scalar scores or summaries collapses too much information. Harness bugs often surface many steps later, and once the feedback is over-compressed the diagnostic chain breaks.</p>
+
+<p>These results go beyond higher benchmark numbers. In online text classification, Meta-Harness exceeded the ACE (Agent Context Engineering baseline) by <code class="language-plaintext highlighter-rouge">7.7</code> points while cutting context token usage to <code class="language-plaintext highlighter-rouge">1/4</code>. In retrieval-augmented math reasoning, a discovered harness showed an average of <code class="language-plaintext highlighter-rouge">4.7</code> points of additional gain across <code class="language-plaintext highlighter-rouge">5</code> held-out models on <code class="language-plaintext highlighter-rouge">200</code> IMO-level problems. On TerminalBench-2, it also outperformed the hand-engineered baseline. What’s being optimized is no longer just the model’s internal policy but also the program that organizes how the model sees and acts on information.</p>
+
+<p>A concrete example: Meta-Harness automatically discovered <code class="language-plaintext highlighter-rouge">environment bootstrap</code> on TerminalBench-2, running a shell command before the agent loop starts to snapshot the working directory, available languages, package manager, and memory state and inject it into the first prompt. Many coding agents spend their first few turns probing the environment. Getting this pre-loaded right means the gain may not come from stronger weights but from the harness putting the model in a better starting context.</p>
+
+<p>At this point, the optimization target has expanded from answer, to trajectory, to the harness program that carries the trajectory.</p>
+
+<hr />
+
+<h2 id="after-a-frontier-model-ships-the-training-pipeline-keeps-running">After a Frontier Model Ships, the Training Pipeline Keeps Running</h2>
+
+<p>Thinking about today’s large models as the product of a single pretraining run is no longer sufficient. A shipped model has typically already gone through pretraining, post-training, distillation, and specialization as a complete chain, and stronger models are continuously producing training data for the next generation.</p>
+
+<p>DeepSeek-R1’s distillation series is the clearest example: a large model develops reasoning capability through RL and verified rewards, then those reasoning trajectories transfer to smaller dense models. Specialized models like TranslateGemma show another path: on a more clearly defined target task, high-quality data and specialized reward design compress and direct capability further. At this stage, stronger models aren’t just used to serve users; they’re directly producing training data for the next generation.</p>
+
+<p>There’s a deeper reason than just trajectory transfer. One possible explanation is that in internet-scale pretraining corpora, knowledge memorization and reasoning capability are entangled, and current pretraining objectives require models to learn both simultaneously. Larger models are required first because only at sufficient scale can they carry both responsibilities at once. They can then generate pure reasoning demonstration data, and smaller models trained on that data can focus on reasoning itself without being forced to memorize everything. Bigger-before-smaller is partly about capability decoupling, not just cost strategy.</p>
+
+<p>Deployment adaptability matters as much as raw capability. Many scenarios don’t need a generalist frontier model; they care about cost, latency, stability, and controllability. The end of training doesn’t have to be larger. It can be smaller, cheaper, and more specialized.</p>
+
+<p>The model that gets shipped isn’t necessarily the one at the rightmost point of the training curve. Before release, teams typically compare multiple checkpoints across real-task results, refusal style, tool stability, cost, and regression risk. The version that ships is a product decision, not the checkpoint with the highest single-metric score.</p>
+
+<p>Users see a model name and assume it corresponds to a smoothly ascending training curve. Which checkpoint actually goes live is a separate question.</p>
+
+<p>A large model’s value is both in what it can do for users today and in how it will continue generating training data, distillation sources, and release bases for the next generation.</p>
+
+<p><img src="https://cdn.fliggy.com/pic/industry-diffusion-via-distillation37.png?x-oss-process=image/auto-orient,1/resize,w_2000/format,webp" alt="Figure 12: Industry Diffusion via Distillation,Technical staircase diagram, light gray to blue gradient background, clean sans-serif font. Four ascending stair steps arranged from bottom-left to top-right, each step is a white rounded rectangle. Step 1 (bottom): title &quot;GPT-3 scale&quot;, subtitle &quot;Trained on raw internet text. Generates: basic instruction data.&quot; Step 2: title &quot;GPT-4 scale&quot;, subtitle &quot;Trained partly on synthetic data. Generates: high-quality reasoning traces, CoT.&quot; Step 3: title &quot;DeepSeek-R1 / o1 scale&quot;, subtitle &quot;Trained with RL on verifiable rewards. Generates: distillation trajectories for small models.&quot; Step 4 (top): title &quot;Small deployable model&quot;, subtitle &quot;Trained on Step 3 synthetic data. Matches GPT-4 on structured tasks.&quot; A thick diagonal arrow runs along the left side of the staircase, labeled &quot;Models must get bigger before they can get smaller.&quot; Between Step 3 and Step 4, a bold downward arrow labeled &quot;↓ Parameters&quot; to mark the scale reversal. Bottom-center annotation box: &quot;Frontier model value = training data source for the whole industry, not just its own inference.&quot; No decorative elements." /></p>
+
+<p>Beyond offline training, near-online continuous optimization has entered the mainstream pipeline. Cursor Composer 2’s real-time RL indicates that some agent capabilities are already being iterated on through production traffic, rather than waiting for the next large-scale offline training cycle. The boundary between training and deployment hasn’t disappeared, but the feedback loop between them is getting shorter.</p>
+
+<hr />
+
+<h2 id="how-to-read-why-a-model-got-stronger">How to Read Why a Model Got Stronger</h2>
+
+<p>In 2026, the value of frontier model work is increasingly about who can run the full post-pretraining stack end-to-end: continuously producing training data, doing distillation, doing specialization, getting eval and reward design right, and making the right deployment choices.</p>
+
+<p>When a model seems to suddenly improve, there are three things worth checking first:</p>
+
+<ul>
+  <li>
+    <p>Where the change happened. Many capability gains do come from stronger pretraining and better data recipes, but a lot of the subjective improvements come primarily from post-training. Whether the model follows instructions, uses tools correctly, and gives consistently well-formatted responses often doesn’t grow from feeding it more text.</p>
+  </li>
+  <li>
+    <p>Which layer the improvement comes from. Is it weights and training recipe, or reward / eval / grader, or harness code and deployment loop? For reasoning models and agents, what users feel as “getting stronger” is often not produced by the base model alone. How eval was set up, how rewards were scored, how stable the tool environment is, how retrieval and memory are organized, how summaries and context are trimmed, and which checkpoint was chosen for release, all of these together reshape the final product experience.</p>
+  </li>
+  <li>
+    <p>What the shipped version is optimizing for. Some releases are chasing a higher ceiling. Others are cutting cost, latency, and regression risk. Others are specializing for a particular class of tasks. A release is a product decision, not the furthest-right point on a training curve. Paying attention to what a given update is optimizing for gets you closer to the real picture.</p>
+  </li>
+</ul>
+
+<p>Breaking down “model suddenly got stronger” back to production terms, many improvements are amplified jointly by the back half of the training stack and the outer harness. The iteration cycle on this is also shortening: production traffic continuously flows back into training, each stronger generation produces capability while also producing supervision data for the next, and the outer program rewrites itself based on rollouts, logs, and real-task feedback.</p>
+
+<p>Today’s shipped model is a snapshot. The pipeline and the harness program are what keep running.</p>
+
+<hr />
+
+<h2 id="further-reading">Further Reading</h2>
+
+<ol>
+  <li>Hoffmann et al. (2022). <em>Training Compute-Optimal Large Language Models</em> (Chinchilla). <a href="https://arxiv.org/abs/2203.15556">arXiv:2203.15556</a></li>
+  <li>Ouyang et al. (2022). <em>Training language models to follow instructions with human feedback</em> (InstructGPT). <a href="https://arxiv.org/abs/2203.02155">arXiv:2203.02155</a></li>
+  <li>Shao et al. (2024). <em>DeepSeekMath: Pushing the Limits of Mathematical Reasoning in Open Language Models</em> (GRPO). <a href="https://arxiv.org/abs/2402.03300">arXiv:2402.03300</a></li>
+  <li>DeepSeek-AI (2025). <em>DeepSeek-R1: Incentivizing Reasoning Capability in LLMs via Reinforcement Learning</em>. <a href="https://arxiv.org/abs/2501.12948">arXiv:2501.12948</a></li>
+  <li>DeepSeek-AI (2024). <em>DeepSeek-V3 Technical Report</em>. <a href="https://arxiv.org/abs/2412.19437">arXiv:2412.19437</a></li>
+  <li>Llama Team, AI @ Meta (2024). <em>The Llama 3 Herd of Models</em>. <a href="https://arxiv.org/abs/2407.21783">arXiv:2407.21783</a></li>
+  <li>Bai et al. (2022). <em>Constitutional AI: Harmlessness from AI Feedback</em>. <a href="https://arxiv.org/abs/2212.08073">arXiv:2212.08073</a></li>
+  <li>OpenAI (2024). <em>Deliberative Alignment: Reasoning Enables Safer Language Models</em>. <a href="https://openai.com/index/deliberative-alignment/">openai.com/index/deliberative-alignment</a></li>
+  <li>Anthropic (2025). <em>Sycophancy to Subterfuge: Investigating Reward Tampering in Language Models</em>. <a href="https://www.anthropic.com/research/reward-tampering">anthropic.com/research/reward-tampering</a></li>
+  <li>MacDiarmid et al. (2025). <em>Natural Emergent Misalignment from Reward Hacking in Production RL</em>. <a href="https://arxiv.org/abs/2511.18397">arXiv:2511.18397</a></li>
+  <li>Lee et al. (2026). <em>Meta-Harness: End-to-End Optimization of Model Harnesses</em> (preprint project page). <a href="https://yoonholee.com/meta-harness/">yoonholee.com/meta-harness</a></li>
+  <li>Kimi Team (2026). <em>Kimi K2.5 Tech Blog: Visual Agentic Intelligence</em>. <a href="https://www.kimi.com/blog/kimi-k2-5">kimi.com/blog/kimi-k2-5</a></li>
+  <li>Rush, S. (2026). <em>A technical report on Composer 2</em>. <a href="https://cursor.com/blog/composer-2-technical-report">cursor.com/blog/composer-2-technical-report</a></li>
+  <li>Chroma (2026). <em>Chroma Context-1: Training a Self-Editing Search Agent</em>. <a href="https://www.trychroma.com/research/context-1">trychroma.com/research/context-1</a></li>
+</ol>
+
+      
+<div class="coffee">
+  <a class="buy-me-coffee" href="https://miaoyan.app/cats.html?name=Blog" target="_blank" rel="noopener noreferrer">
+    
+    觉得不错，请 Tw93 喝冰可乐 🥤
+    
+  </a>
+</div>
+
+    </div>
+  </article>
+
+  <aside class="post-toc" id="J_post_toc" hidden aria-label="On this page">
+    <div class="post-toc-inner">
+      <nav class="post-toc-nav" id="J_post_toc_nav"></nav>
+    </div>
+  </aside>
+</div>
+
+
+<div class="post-followup">
+  
+<div class="giscus-container">
+  <script src="https://giscus.app/client.js" data-repo="tw93/tw93.github.io" data-repo-id="MDEwOlJlcG9zaXRvcnkzMDE4NDU1NQ=="
+    data-category="General" data-category-id="DIC_kwDOAcyUa84CSbZ-" data-mapping="specific" data-reactions-enabled="1"
+    data-emit-metadata="0" data-input-position="bottom"
+    data-term="2026-04-01-llm"
+    data-lang="zh-CN"
+    data-loading="lazy" data-theme="https://tw93.fun/css/comment.css" crossorigin="anonymous" async></script>
+</div>
+
+  
+
+
+<a class="read-more" href="/en/2026-03-30/kill.html" title="">
+  <div class="read-more-header">
+    <div class="read-more-btn">Read More</div>
+  </div>
+  <div class="read-more-content">
+    <h3>The Death of the Manual Programmer</h3>
+    <p>【2026-03-30】The title is borrowed from a rewritten version of a song by Omnipotent Youth Society that I loved more than a decade ago. The scene in that song is obviously different, but the feeling of watching a familiar world slowly get replaced feels strangely similar.
+    </p>
+  </div>
+</a>
+
+
+
+</div>
+
+  </div>
+
+  <!-- Search Modal -->
+<div id="search-modal" class="search-modal" aria-hidden="true" role="dialog" aria-labelledby="search-title">
+  <div class="search-container">
+    <div class="search-header">
+      <input
+        type="search"
+        id="search-input"
+        class="search-input"
+        placeholder="Search articles..."
+        aria-label="Search articles"
+        autocomplete="off"
+      >
+      <button class="search-close" id="search-close" aria-label="Close search">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M15 5L5 15M5 5L15 15" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      </button>
+    </div>
+    <div id="search-results" class="search-results" role="listbox"></div>
+    <div class="search-footer">
+      <div class="search-tips">
+        <kbd>/</kbd> to search
+        <kbd>ESC</kbd> to close
+        <kbd>↑↓</kbd> to navigate
+        <kbd>Enter</kbd> to select
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="footer-wrapper">
+  <footer role="contentinfo">
+
+    <a href="https://github.com/tw93" rel="nofollow" target="_blank" class="social-icon github-icon"
+      aria-label="Follow on GitHub">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path
+          d="M12.001 2C6.47598 2 2.00098 6.475 2.00098 12C2.00098 16.425 4.86348 20.1625 8.83848 21.4875C9.33848 21.575 9.52598 21.275 9.52598 21.0125C9.52598 20.775 9.51348 19.9875 9.51348 19.15C7.00098 19.6125 6.35098 18.5375 6.15098 17.975C6.03848 17.6875 5.55098 16.8 5.12598 16.5625C4.77598 16.375 4.27598 15.9125 5.11348 15.9C5.90098 15.8875 6.46348 16.625 6.65098 16.925C7.55098 18.4375 8.98848 18.0125 9.56348 17.75C9.65098 17.1 9.91348 16.6625 10.201 16.4125C7.97598 16.1625 5.65098 15.3 5.65098 11.475C5.65098 10.3875 6.03848 9.4875 6.67598 8.7875C6.57598 8.5375 6.22598 7.5125 6.77598 6.1375C6.77598 6.1375 7.61348 5.875 9.52598 7.1625C10.326 6.9375 11.176 6.825 12.026 6.825C12.876 6.825 13.726 6.9375 14.526 7.1625C16.4385 5.8625 17.276 6.1375 17.276 6.1375C17.826 7.5125 17.476 8.5375 17.376 8.7875C18.0135 9.4875 18.401 10.375 18.401 11.475C18.401 15.3125 16.0635 16.1625 13.8385 16.4125C14.201 16.725 14.5135 17.325 14.5135 18.2625C14.5135 19.6 14.501 20.675 14.501 21.0125C14.501 21.275 14.6885 21.5875 15.1885 21.4875C19.259 20.1133 21.9999 16.2963 22.001 12C22.001 6.475 17.526 2 12.001 2Z">
+        </path>
+      </svg>
+    </a>
+
+    <a href="https://twitter.com/HiTw93" rel="nofollow" target="_blank" class="social-icon"
+      aria-label="Follow on Twitter">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path
+          d="M22.2125 5.65605C21.4491 5.99375 20.6395 6.21555 19.8106 6.31411C20.6839 5.79132 21.3374 4.9689 21.6493 4.00005C20.8287 4.48761 19.9305 4.83077 18.9938 5.01461C18.2031 4.17106 17.098 3.69303 15.9418 3.69434C13.6326 3.69434 11.7597 5.56661 11.7597 7.87683C11.7597 8.20458 11.7973 8.52242 11.8676 8.82909C8.39047 8.65404 5.31007 6.99005 3.24678 4.45941C2.87529 5.09767 2.68005 5.82318 2.68104 6.56167C2.68104 8.01259 3.4196 9.29324 4.54149 10.043C3.87737 10.022 3.22788 9.84264 2.64718 9.51973C2.64654 9.5373 2.64654 9.55487 2.64654 9.57148C2.64654 11.5984 4.08819 13.2892 6.00199 13.6731C5.6428 13.7703 5.27232 13.8194 4.90022 13.8191C4.62997 13.8191 4.36771 13.7942 4.11279 13.7453C4.64531 15.4065 6.18886 16.6159 8.0196 16.6491C6.53813 17.8118 4.70869 18.4426 2.82543 18.4399C2.49212 18.4402 2.15909 18.4205 1.82812 18.3811C3.74004 19.6102 5.96552 20.2625 8.23842 20.2601C15.9316 20.2601 20.138 13.8875 20.138 8.36111C20.138 8.1803 20.1336 7.99886 20.1256 7.81997C20.9443 7.22845 21.651 6.49567 22.2125 5.65605Z">
+        </path>
+      </svg>
+    </a>
+
+    <a href="/en/feed.xml" rel="nofollow" target="_blank" class="social-icon"
+      aria-label="Subscribe to RSS feed">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path
+          d="M3 3C12.9411 3 21 11.0589 21 21H18C18 12.7157 11.2843 6 3 6V3ZM3 10C9.07513 10 14 14.9249 14 21H11C11 16.5817 7.41828 13 3 13V10ZM3 17C5.20914 17 7 18.7909 7 21H3V17Z">
+        </path>
+      </svg>
+    </a>
+
+    <a href="https://github.com/tw93/tw93.github.io" rel="nofollow" target="_blank" class="social-icon time-icon"
+      aria-label="View repository (2015 to 2026)">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path
+          d="M16.5 3C19.5376 3 22 5.5 22 9C22 16 14.5 20 12 21.5C9.5 20 2 16 2 9C2 5.5 4.5 3 7.5 3C9.35997 3 11 4 12 5C13 4 14.64 3 16.5 3Z">
+        </path>
+      </svg>
+      <span class="repo-time">2015~2026</span>
+    </a>
+  </footer>
+</div>
+
+<script type="text/javascript" src="/js/index.js?v=20260430134930" defer></script>
+<script type="text/javascript" src="/js/search.js?v=20260430134930" defer></script>
+
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag () {
+    dataLayer.push(arguments);
+  }
+  const loadGA = () => {
+    const script = document.createElement('script');
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-KS7EDB6BRM';
+    script.async = true;
+    document.head.appendChild(script);
+    gtag("js", new Date());
+    gtag("config", "G-KS7EDB6BRM");
+  };
+  const triggerGA = () => {
+    window.removeEventListener('scroll', triggerGA);
+    window.removeEventListener('mousemove', triggerGA);
+    window.removeEventListener('touchstart', triggerGA);
+    loadGA();
+  };
+  window.addEventListener('scroll', triggerGA, { once: true });
+  window.addEventListener('mousemove', triggerGA, { once: true });
+  window.addEventListener('touchstart', triggerGA, { once: true });
+  setTimeout(() => { if (!window.dataLayer.length) loadGA(); }, 5000);
+</script>
+ 
+
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('/sw.js');
+    });
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    // Jump out
+    const links = document.links;
+    for (let i = 0; i < links.length; i++) {
+      if (
+        links[i].hostname != window.location.hostname ||
+        (links[i].href && links[i].href.indexOf("feed.xml") != -1)
+      ) {
+        links[i].target = "_blank";
+      }
+    }
+
+    // The second image is the cover image, both of which could do with some optimization
+    const images = document.querySelectorAll('.entry-content img');
+    images.forEach((img, index) => {
+      if (index > 1) {
+        img.setAttribute('loading', 'lazy');
+        img.setAttribute('decoding', 'async');
+      }
+    });
+
+    // Full screen button
+    const fullscreenBtn = document.getElementById("fullscreenBtn");
+    fullscreenBtn && fullscreenBtn.addEventListener("click", function () {
+      var elem = document.getElementById("postIframe");
+
+      if (!document.fullscreenElement) {
+        if (elem.requestFullscreen) {
+          elem.requestFullscreen();
+        }
+      } else {
+        if (document.exitFullscreen) {
+          document.exitFullscreen();
+        }
+      }
+    });
+
+    // Select all the links that need to be preloaded
+    const linksToPrefetch = document.querySelectorAll('.read-more, .header-href, .pagination a, .header-item a');
+    const prefetchedLinks = new Set();
+
+    // Debounce to avoid excessive prefetching
+    let prefetchTimer;
+
+    linksToPrefetch.forEach(function (link) {
+      // Use mouseenter for hover devices only
+      if (window.matchMedia('(hover: hover)').matches) {
+        link.addEventListener('mouseenter', function () {
+          clearTimeout(prefetchTimer);
+          prefetchTimer = setTimeout(function () {
+            if (!prefetchedLinks.has(link.href)) {
+              var prefetchLink = document.createElement('link');
+              prefetchLink.rel = 'prefetch';
+              prefetchLink.href = link.href;
+              prefetchLink.as = 'document';
+              document.head.appendChild(prefetchLink);
+              prefetchedLinks.add(link.href);
+            }
+          }, 100); // 100ms delay to avoid prefetching on quick mouse movements
+        });
+      }
+    });
+  });
+</script>
+
+</body>
+</html>

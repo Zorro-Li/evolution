@@ -1,0 +1,959 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <title>You Don't Know AI Coding: A Non-Engineer's Guide to Getting Started, Scenarios, and Practice - Tw93</title>
+  
+  <meta name="description" content="A practical Claude Code guide for product, business, and operations folks. Not about prompt engineering, more about how to actually use it: how to write CLAU...">
+  
+  
+  <meta name="keywords" content="">
+  
+
+  <!-- Viewport and Theme Color -->
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <meta name="theme-color" content="#e8e8e8">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+
+  <!-- Open Graph Metadata -->
+  
+  
+  
+
+  
+  <link rel="preload" as="image" href="/images/2026/ai-coding/01-cover-en.png" fetchpriority="high">
+  
+
+  <meta property="og:locale" content="zh-CN">
+  
+  <meta property="og:type" content="article">
+  <meta property="article:published_time" content="2026-04-26T17:00:00+01:00">
+  <meta property="article:author" content="Tw93">
+  
+  <meta property="article:section" content="Share">
+  
+  
+  <meta property="og:title" content="You Don't Know AI Coding: A Non-Engineer's Guide to Getting Started, Scenarios, and Practice - Tw93">
+  <meta property="og:description" content="A practical Claude Code guide for product, business, and operations folks. Not about prompt engineering, more about how to actually use it: how to write CLAUDE.md, how to build Skills, when to use Plan mode, and which tasks actually fit Claude Code.">
+  <meta property="og:url" content="https://tw93.fun/en/2026-04-26/ai-coding.html">
+  <meta property="og:site_name" content="Tw93">
+  <meta property="og:image" content="/images/2026/ai-coding/01-cover-en.png">
+
+  <!-- Twitter Metadata -->
+  
+  
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:creator" content="@HiTw93">
+  <meta name="twitter:site" content="https://tw93.fun">
+  <meta name="twitter:url" content="https://tw93.fun/en/2026-04-26/ai-coding.html">
+  <meta name="twitter:title" content="You Don't Know AI Coding: A Non-Engineer's Guide to Getting Started, Scenarios, and Practice - Tw93">
+  <meta name="twitter:description" content="A practical Claude Code guide for product, business, and operations folks. Not about prompt engineering, more about how to actually use it: how to write CLAUDE.md, how to build Skills, when to use Plan mode, and which tasks actually fit Claude Code.">
+  <meta name="twitter:image" content="/images/2026/ai-coding/01-cover-en.png">
+  
+
+  <!-- Canonical URL -->
+  
+  <link rel="canonical" href="https://tw93.fun/en/2026-04-26/ai-coding.html">
+
+  <!-- Hreflang for multilingual content -->
+  
+  <link rel="alternate" hreflang="en" href="https://tw93.fun/en/2026-04-26/ai-coding.html" />
+  <link rel="alternate" hreflang="zh" href="https://tw93.fun/2026-04-26/ai-coding.html" />
+  <link rel="alternate" hreflang="x-default" href="https://tw93.fun/2026-04-26/ai-coding.html" />
+  
+
+  <!-- DNS Prefetch & Preconnect for Performance -->
+  <link rel="dns-prefetch" href="https://gw.alipayobjects.com">
+  <link rel="dns-prefetch" href="https://gw.alicdn.com">
+  <link rel="preconnect" href="https://gw.alipayobjects.com" crossorigin>
+  <link rel="preconnect" href="https://www.googletagmanager.com">
+
+  <!-- Styles and Scripts -->
+  <link rel="stylesheet" href="/css/index.css?v=20260430134930">
+  <link rel="stylesheet" href="/css/jinkai.css?v=20260430134930">
+
+  
+  <script src="//gw.alipayobjects.com/os/k/tw93/lazysizes.min.js" async defer></script>
+  
+
+  <!-- Favicon -->
+  <link rel="shortcut icon" type="image/png"
+    href="https://gw.alicdn.com/imgextra/i4/O1CN01XYYPwL1uheeXASHIQ_!!6000000006069-2-tps-420-420.png">
+
+  <!-- Additional Meta Tags -->
+  <meta name="HandheldFriendly" content="True">
+  <meta name="MobileOptimized" content="320">
+  <meta http-equiv="cleartype" content="on">
+  <meta name="format-detection" content="telephone=no">
+  <meta name="author" content="Tw93">
+  <meta name="robots" content="index, follow">
+
+  <!-- Feed -->
+  <link href="https://tw93.fun/en/feed.xml" type="application/atom+xml" rel="alternate" title="Tw93 Feed">
+
+  <!-- Performance: Reduce render blocking -->
+  <link rel="preconnect" href="https://giscus.app">
+  <link rel="dns-prefetch" href="https://giscus.app">
+
+  <!-- Structured Data for SEO and AI Crawlers -->
+  
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "BlogPosting",
+    "headline": "You Don't Know AI Coding: A Non-Engineer's Guide to Getting Started, Scenarios, and Practice",
+    "datePublished": "2026-04-26T17:00:00+01:00",
+    "dateModified": "2026-04-26T17:00:00+01:00",
+    "author": {
+      "@type": "Person",
+      "name": "Tw93",
+      "url": "https://tw93.fun",
+      "sameAs": [
+        "https://github.com/tw93",
+        "https://twitter.com/HiTw93"
+      ]
+    },
+    "publisher": {
+      "@type": "Organization",
+      "name": "Tw93",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://gw.alicdn.com/imgextra/i4/O1CN01XYYPwL1uheeXASHIQ_!!6000000006069-2-tps-420-420.png"
+      }
+    },
+    "description": "A practical Claude Code guide for product, business, and operations folks. Not about prompt engineering, more about how to actually use it: how to write CLAU...",
+    "mainEntityOfPage": {
+      "@type": "WebPage",
+      "@id": "https://tw93.fun/en/2026-04-26/ai-coding.html"
+    },
+    "url": "https://tw93.fun/en/2026-04-26/ai-coding.html",
+    "inLanguage": "zh-CN",
+    "keywords": "Share, ",
+    "image": {
+      "@type": "ImageObject",
+      "url": "/images/2026/ai-coding/01-cover-en.png"
+    }
+  }
+  </script>
+  
+</head>
+
+
+
+<body id="post">
+  
+
+<div class="header-menu" id="J_header">
+  <ul class="header-item-container">
+    <li class="header-item-title active">
+      
+      <a href="/en/" class="title">Tw93</a>
+      
+    </li>
+
+    
+    
+    
+
+    
+    <li class="header-item-left "><a href="https://weekly.tw93.fun/" target="_blank" rel="noopener noreferrer">Weekly</a></li>
+    
+    
+    
+    
+
+    
+    <li class="header-item-left "><a href="https://github.com/tw93" target="_blank" rel="noopener noreferrer">GitHub</a></li>
+    
+    
+    
+    
+
+    
+    <li class="header-item-left "><a href="https://twitter.com/HiTw93" target="_blank" rel="noopener noreferrer">Twitter</a></li>
+    
+    
+    
+    
+
+    
+    
+    <li class="header-item-left "><a href="/en/about.html">About</a></li>
+    
+    
+    
+
+    <li class="header-item search-btn-container">
+      <button id="search-btn" class="search-btn" aria-label="Search" title="Search (Press /)">
+        <svg width="18" height="18" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <circle cx="11" cy="11" r="7" stroke="currentColor" stroke-width="2" />
+          <path d="M20 20L16 16" stroke="currentColor" stroke-width="2" stroke-linecap="round" />
+        </svg>
+      </button>
+    </li>
+
+    <!-- Smart Language Switch -->
+
+
+
+
+
+
+
+
+<li class="header-item language-item">
+  <a href="/2026-04-26/ai-coding.html" class="language-switch" aria-label="Switch to Chinese" title="查看中文版本">中</a>
+</li>
+
+
+
+
+  </ul>
+</div>
+
+
+
+<div class="entry-header">
+  <svg width="100%" height="200" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+    version="1.1" role="img" aria-label="紙上得來終覺淺，絕知此事要躬行">
+    <path id="svg-title-path">
+      <animate attributeName="d" from="m0,110 h80" to="m0,110 h1600" dur="2550ms" repeatCount="1" fill="freeze" begin="0s" />
+    </path>
+    <text font-size="42" font-weight="400" fill="#ffffff" x="50%" y="50%" text-anchor="middle"
+      word-spacing="2.0" letter-spacing="4">
+      <textPath xlink:href="#svg-title-path">紙上得來終覺淺，絕知此事要躬行</textPath>
+    </text>
+  </svg>
+  <canvas id="J_firework_canvas" aria-hidden="true" role="presentation"></canvas>
+</div>
+
+  
+  <div id="main" role="main">
+    <div class="post-shell">
+  <article class="hentry">
+    <div class="entry-content ">
+      <h1 class="post-title entry-title">You Don't Know AI Coding: A Non-Engineer's Guide to Getting Started, Scenarios, and Practice</h1>
+      <h4 class="page-info">
+        <span>Categories: Share</span>
+        <time datetime="2026-04-26T17:00:00+01:00">2026-04-26</time>
+        <div class="qr-text" id="J_qr_text">
+          <div id="J_qr_code" class="qr-code" aria-label="QR code for this page" role="img"></div>
+        </div>
+      </h4>
+      <p><img src="/images/2026/ai-coding/01-cover-en.png" alt="AI Coding cover image: getting started, scenarios, and practice" width="1000" /></p>
+
+<h2 id="tldr">TL;DR</h2>
+
+<p>Last month I ran an internal session walking product and business folks through how to get started with AI Coding. That deck eventually grew into this post. A lot of people get stuck at the very first step, the command line. Staring at a terminal that’s just characters on a screen, they assume it’s a programmer-only tool and they’ll never figure it out. The bar is lower than it looks. If you can use a chatbot like ChatGPT, you can get going on Claude Code with a bit of time. The rest is just slowly getting comfortable handing the execution over to it.</p>
+
+<p>Once you get the hang of it, it starts to feel like an all-purpose assistant: pulling backend data, writing little tools to fix your specific problems, stitching scattered docs into briefs, prototyping, cleaning up sales reports. Whether you’ve written code before isn’t the deciding factor. The moment you start putting project context into CLAUDE.md, writing requirements precisely, and packaging repeated actions into Skills, you’ve effectively crossed the line. This piece is mainly to bring non-technical folks along to the tool I personally love most: Claude Code.</p>
+
+<hr />
+
+<h2 id="the-first-hurdle-is-the-command-line">The first hurdle is the command line</h2>
+
+<p>If you don’t write code, you’re used to chatbot AI like ChatGPT, and the first install of Claude Code feels a bit off. The old loop was a back-and-forth shuttle: you describe what you want, it spits out code, you copy-paste it somewhere else to try. With Claude Code that shuttle step is gone, it runs directly in the terminal.</p>
+
+<p><img src="/images/2026/ai-coding/02-chatbot-vs-claude-code-en.png" width="900" alt="Chatbot AI vs Claude Code: the former needs back-and-forth shuttling, the latter executes the full loop in your project" /></p>
+
+<p>If you’ve never used a terminal, try <a href="https://github.com/tw93/Kaku">Kaku</a>, which I built specifically for AI Coding. Install and go, no fiddling with colors or fonts. Light/dark mode follows the system, split panes with <code class="language-plaintext highlighter-rouge">Cmd + D</code>, file manager with <code class="language-plaintext highlighter-rouge">Cmd + Shift + Y</code>. The most beginner-friendly part is the built-in AI assist: when a command fails it auto-suggests fixes, and if you can’t remember a command, prefix it with <code class="language-plaintext highlighter-rouge">#</code> and type in plain English.</p>
+
+<p><img src="/images/2026/ai-coding/03-kaku-terminal.jpg" width="900" alt="Kaku terminal default UI: a terminal built for AI Coding, install-and-go, light/dark mode follows the system" /></p>
+
+<p>Installing Claude Code is one command, see the <a href="https://code.claude.com/docs/en/overview">official docs</a>, then <code class="language-plaintext highlighter-rouge">cd</code> into your project folder and type <code class="language-plaintext highlighter-rouge">claude</code> to start coding.</p>
+
+<div class="language-bash highlighter-rouge"><div class="highlight"><pre class="highlight"><code>curl <span class="nt">-fsSL</span> https://claude.ai/install.sh | bash
+</code></pre></div></div>
+
+<hr />
+
+<h2 id="a-bit-of-technical-literacy-goes-a-long-way">A bit of technical literacy goes a long way</h2>
+
+<p>If you don’t write code but want to actually use Claude Code well, knowing how to describe what you want isn’t enough. A bit of conceptual ground makes debugging way easier later.</p>
+
+<p><strong>What common frameworks do</strong>. Knowing roughly what React, Vue, and Next.js solve means you won’t be lost when Claude Code writes something using them.</p>
+
+<p><strong>Basics of common software</strong>: terminal commands, Git, VS Code, Chrome DevTools. When something errors out, you can locate it alongside Claude instead of just waiting.</p>
+
+<p><strong>A few core programming ideas</strong>: what a function is for, what variables and state are, why we split things into multiple files. Understanding these makes your requirements more precise.</p>
+
+<p><strong>Reading code and reading errors</strong> pays off earlier than learning to write code. When it changes a chunk, you can glance at it and roughly tell what’s happening, much faster than asking it to explain. When errors come up, don’t panic, just paste the whole thing back and ask “what does this mean and how do I fix it.” Nine times out of ten it’ll point you to the exact line.</p>
+
+<p>You don’t need to learn enough to write code yourself. Just knowing what these things look like is enough. Spend a couple of evenings on the freeCodeCamp or MDN intro, or pick a free intro course like <a href="https://www.youtube.com/playlist?list=PL8dPuuaLjXtNlUrzyH5r6jN9ulIgZBpdo">Crash Course Computer Science</a> or <a href="https://cs50.harvard.edu/x/">Harvard CS50</a>, and collaboration with Claude Code will feel noticeably different.</p>
+
+<p>Three books I’d recommend most for non-engineers, all easy reads: <a href="https://www.amazon.com/INSPIRED-Create-Tech-Products-Customers/dp/1119387507"><em>INSPIRED</em></a> for product judgment, <a href="https://www.amazon.com/Linux-Unix-Philosophy-Mike-Gancarz/dp/1555582737"><em>Linux and the Unix Philosophy</em></a> for engineering philosophy, and <a href="https://www.amazon.com/Pragmatic-Programmer-journey-mastery-Anniversary/dp/0135957052"><em>The Pragmatic Programmer</em></a> for how senior engineers actually think. Reading these makes technical conversations with AI a lot less confusing.</p>
+
+<hr />
+
+<h2 id="account-and-subscription">Account and subscription</h2>
+
+<p><strong>Account</strong>: sign up at claude.ai with a Google or email account, the most standard flow.</p>
+
+<p><strong>Subscription</strong>: three tiers. Free is $0 and only gets you basic chat, no Claude Code. Pro is $20/month, unlocks Claude Code, and is the right entry point for most people. Max comes in $100 and $200 tiers, giving 5x and 20x usage respectively, suited for heavy day-to-day code work.</p>
+
+<p>Start with Pro. Upgrade to Max if quotas feel tight. Subscription follows the account, so an iOS purchase shows up on Android and web too.</p>
+
+<hr />
+
+<h2 id="what-kind-of-tasks-claude-code-is-good-at">What kind of tasks Claude Code is good at</h2>
+
+<p>I’ve tried a fair number of AI Coding tools, Cursor, Windsurf, and Codex are all in regular rotation, but my main driver stays Claude Code.</p>
+
+<p>What sets it apart is the underlying model is already strong, and the Claude Code implementation pushes the harness pattern to the limit, <strong>looking at the whole project</strong>: it scans the CLAUDE.md and directory structure first to get the context, then edits across files, runs commands, reads errors, edits again, all on its own. On top of that it lives in the terminal, so git, tests, scripts, all the tools you already use, it can call directly without any copy-paste round-trip.</p>
+
+<p><img src="/images/2026/ai-coding/04-claude-code-loop-en.png" width="900" alt="Claude Code work loop: you give a task, it reads, edits, runs, verifies, then comes back to you when the loop completes" /></p>
+
+<p>It’s effectively a general-purpose Agent. The Code in the name just reflects its original framing toward writing code. Anthropic has shared that internally many non-engineering teams, sales, risk, finance, are using it to handle CRM data and customer email. If you really don’t want to touch the terminal, the official desktop app <strong>Cowork</strong> can read and write your Downloads and Documents folders directly, so something like turning a stack of receipt screenshots into an expense report works with one sentence.</p>
+
+<p>There’s another point that I think really matters: when it comes to writing code, speed isn’t what counts, <strong>accuracy is</strong>. Ten minutes of generation followed by twenty minutes of debugging is much worse than twenty minutes of generation that’s actually verifiable on the spot.</p>
+
+<p>Getting it to be accurate starts with handing it work that is itself <strong>clearly defined and easy to verify</strong>. Tasks that meet both bars are the best fit, like assigning work to a very literal but technically excellent engineer.</p>
+
+<p><img src="/images/2026/ai-coding/05-pattern-shift-en.png" width="900" alt="Two checks for whether to hand a task to it: is the goal clear, is the result easy to verify, both yes means a good fit" /></p>
+
+<p>Concretely, a few categories: prototypes and internal tools, where you spell out the requirement and display logic and you have a working version the next day; processing CSVs and building sales reports, with grouping and calculation logic written out clearly, results in minutes; pulling clauses from contracts dozens of pages long, comparing versions, the kind of doc work it really shines at; and finally, feeding it a stack of links or PDFs and asking it to extract information from a specific angle, just spell out the format you want.</p>
+
+<hr />
+
+<h2 id="build-software-just-for-yourself">Build software just for yourself</h2>
+
+<p>The biggest blocker when starting to “write code” is not knowing what to build. Kevin Roose, a NYT columnist, coined a useful concept: <strong>software for one</strong>. You don’t need to build something for a million people, you can build something just for you.</p>
+
+<p>He built Stash for himself to organize links, LunchBox Buddy for prepping his kid’s lunches. For you, it might be a tool that turns voice notes into meeting minutes, or a small dashboard that pings you with three things to do every morning. This is exactly the kind of thing product and business folks can actually pull off, because nobody knows your daily friction better than you.</p>
+
+<p><img src="/images/2026/ai-coding/06-software-for-one-en.png" width="900" alt="Software for many vs Software for one: don't build for a million people, build for one — yourself" /></p>
+
+<h3 id="a-pace-from-one-day-to-three-months">A pace from one day to three months</h3>
+
+<p>Don’t start by trying to build “something like Notion.” A pace that works:</p>
+
+<p><img src="/images/2026/ai-coding/07-one-day-to-three-months-en.png" width="900" alt="A pace from one day to three months: day 1 try, week 1 taste, month 1 ship a wedge, month 3 build a real software-for-one tool" /></p>
+
+<p>Day 1, dip in: have it edit an Excel or Markdown file you already have on hand. Week 1, taste it: build a single-page personal homepage or a daily dashboard, fifteen minutes to get it running. Month 1, ship something: pick one thing you do two or three times a week and turn it into a single command or a single page. Month 3, level up: pick a software-for-one idea and build a real tool just for you.</p>
+
+<hr />
+
+<h2 id="use-opencli-to-turn-web-operations-into-commands">Use OpenCLI to turn web operations into commands</h2>
+
+<p>A lot of operations work happens in browsers: checking dashboards, sending messages, exporting reports. Most of that can skip the UI entirely and call the underlying API instead.</p>
+
+<p><a href="https://opencli.info/"><strong>OpenCLI</strong></a> is built by my friend Cabbi. It ships with built-in CLI adapters for dozens of sites including Reddit, X/Twitter, YouTube, plus a set of generic browser primitives like click, type, scrape, screenshot. It turns web actions into single commands that Claude Code can invoke in one sentence.</p>
+
+<p><strong>Social listening</strong>: have Claude Code call <code class="language-plaintext highlighter-rouge">opencli reddit</code> to pull data, then categorize and extract trending terms. What used to take half an hour of clicking now takes one sentence.</p>
+
+<p><strong>Sentiment digest</strong>: combine the X/Twitter, Reddit, and HackerNews adapters and turn discussion of the same keyword across multiple platforms into a daily report.</p>
+
+<p><strong>Sites without an adapter</strong>: describe the flow with browser primitives, like open page, type keyword, scrape table, and Claude Code stitches it together.</p>
+
+<p>Claude Code also has a feature called <strong>Routines</strong> that stores a workflow in the cloud and triggers it on a schedule, webhook, or GitHub event. I haven’t used it heavily yet, but conceptually something like “every Monday morning, run the weekly report flow” can be handed off to it. See the <a href="https://code.claude.com/docs/en/routines">docs</a> if interested.</p>
+
+<p><img src="/images/2026/ai-coding/08-opencli-routines-en.png" width="900" alt="OpenCLI + Routines automation chain: web operations wrapped as CLI commands, then chained into one-click flows by Routines" /></p>
+
+<hr />
+
+<h2 id="claudemd-write-the-project-background-down-clearly-first">CLAUDE.md: write the project background down clearly first</h2>
+
+<p>A lot of people install it and start firing questions. They end up restating the background every time, and after a while it gets old. The reason is almost always the same: no <code class="language-plaintext highlighter-rouge">CLAUDE.md</code>.</p>
+
+<p><img src="/images/2026/ai-coding/09-claude-md-en.png" width="900" alt="CLAUDE.md is the project-level set of working rules: read every startup, sits as the always-on baseline, the shorter and more command-like the better" /></p>
+
+<p>It lives at the project root, and Claude Code reads it on every startup. Treat it like the onboarding doc you’d write for a new teammate, except this one reads it from scratch every time and follows it strictly.</p>
+
+<p>Three things matter most. Keep it short, ideally under 150 lines. Going longer eats into the conversation budget. Be direct, use the imperative, skip the soft “we tend to prefer” phrasing. “All comments in English” beats “the team prefers English comments” by a wide margin. Make every rule something you can judge against. “Code quality should be high” is useless. “Functions over 50 lines must be split” is something you can actually enforce.</p>
+
+<p>Four rules that earn their keep, take them as-is: ask before acting, prefer simple, only touch what needs touching, verify when done. Expanded: don’t let it guess your intent, spell out the goal first; if two lines do the job, don’t write two hundred, no over-engineering; don’t refactor code you weren’t asked to touch; build and tests pass before calling it done, otherwise don’t.</p>
+
+<p>A template you can adapt by changing the project background:</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="gh"># Project Background</span>
+A customer dashboard for the operations team. Stack: Node.js + Next.js,
+React on the front end, PostgreSQL database, deployed on Vercel.
+PM is Alice, designer is Bob, backend is me.
+
+<span class="gh"># Working Rules</span>
+<span class="p">-</span> All comments in English, variables and functions in English.
+<span class="p">-</span> State what you intend to change before making any edits, wait for my OK.
+<span class="p">-</span> For new features, write the implementation, don't add tests unless I ask.
+<span class="p">-</span> Database table names use snake_case, e.g. user_profile.
+
+<span class="gh"># Don't Do</span>
+<span class="p">-</span> Don't proactively refactor files I haven't mentioned.
+<span class="p">-</span> Don't delete any file unless I explicitly say so.
+<span class="p">-</span> Don't run npm install for new dependencies without confirming first.
+
+<span class="gh"># Preserve When Compacting</span>
+When the long conversation gets auto-compacted, preserve in this priority:
+<span class="p">1.</span> Architecture decisions and the reasoning behind them
+<span class="p">2.</span> Which files were changed and what the changes were
+<span class="p">3.</span> Current progress state
+<span class="p">4.</span> TODOs that aren't done yet
+</code></pre></div></div>
+
+<p>That last “preserve when compacting” section looks small but it’s what makes long sessions stay coherent. Claude Code’s context auto-compacts past a threshold, and the reasoning behind decisions is usually the first thing dropped. If you previously said “use POST not GET because the payload is large,” post-compaction it might just become “use POST,” with the reasoning gone. Next time the topic comes up, it might propose something completely different and contradict itself. With this section in place, long sessions stop fighting themselves.</p>
+
+<p>You don’t need to write all of this from scratch. After installing Claude Code, just say “read my project and generate a CLAUDE.md for me.” It’ll scan the code, stack, and structure and hand you a draft. You only need to tweak names and team preferences. Same goes for installing dependencies, configuring aliases, editing <code class="language-plaintext highlighter-rouge">~/.claude/settings.json</code>, just tell it the effect you want and let it figure out, it’s faster than reading docs. Hand off the configuration work, save your energy for the things that actually need judgment.</p>
+
+<hr />
+
+<h2 id="the-more-precise-the-requirement-the-less-it-diverges">The more precise the requirement, the less it diverges</h2>
+
+<p><strong>Vague</strong>: build me a customer follow-up tool.
+<strong>Precise</strong>: build a sales follow-up tool, single-file webpage, store data locally. Left side is a list showing company name, next follow-up date, status. Right side is detail view including communication history, dates, key points. Top has three filters: status, time, keyword. Data lives in browser localStorage, no backend.</p>
+
+<p><img src="/images/2026/ai-coding/10-requirement-precision-en.png" width="900" alt="Requirement precision comparison: vague one-liner makes it guess and shoot wide, precise paragraph nails single-file, list, detail, filter, storage in one go" /></p>
+
+<p>The precise version gets you a working prototype the same day. The vague one almost always needs a redo.</p>
+
+<p>Here’s a fully precise example, requirements yetone wrote for a Claude Code build of a macOS voice input tool. You don’t need to follow the code details, the point is how specifically each requirement is broken down.</p>
+
+<div class="language-plaintext highlighter-rouge"><div class="highlight"><pre class="highlight"><code>Build me a native macOS voice input tool in Swift:
+
+1. Hold Fn to start recording, release to inject the transcribed text into
+   the focused input. Prefer streaming transcription (Apple Speech Recognition
+   framework). Listen for Fn globally via CGEvent tap; suppress Fn event
+   propagation to avoid triggering the emoji selector.
+
+2. Default language must be Simplified Chinese (zh-CN) — works for Chinese
+   out of the box. Menu bar can switch to English, Traditional Chinese,
+   Japanese, Korean; persist choice to UserDefaults.
+
+3. While recording, show a borderless capsule HUD centered at the bottom
+   of the screen: no traffic lights, no titlebar. Use NSPanel
+   (nonactivatingPanel) + NSVisualEffectView (.hudWindow material).
+   Height 56px, corner radius 28px. Left side shows a live audio waveform
+   (5 vertical bars driven by RMS level), right side shows transcribed text
+   (160-560px elastic width). Spring entrance 0.35s, text width transition
+   0.25s, scale exit 0.22s.
+
+4. Inject text via clipboard + simulated Cmd+V. Before injecting, detect
+   the active input source: if it's a CJK input source, temporarily switch
+   to ABC, paste, then restore the original input source. Restore the
+   original clipboard contents afterward.
+
+5. Plug in an LLM to improve recognition accuracy for mixed Chinese/English.
+   Use an OpenAI-compatible API (configurable Base URL, Key, Model) to refine
+   transcribed text. The system prompt must be extremely conservative: only
+   fix obvious speech recognition errors (e.g. "pie son" -&gt; "Python",
+   "jay son" -&gt; "JSON"), never rewrite or polish text that looks correct,
+   if it looks right, return it as-is.
+
+6. Menu bar exposes an LLM Refinement submenu with enable/disable toggle and
+   a Settings entry. Settings window has API Base URL, API Key, Model fields,
+   plus Test and Save buttons. After Fn release, if LLM is enabled, the HUD
+   shows Refining... until the response comes back, then injects.
+
+7. Run as LSUIElement (menu bar icon only, no Dock icon). Build with Swift
+   Package Manager, ship a Makefile (build/run/install/clean).
+</code></pre></div></div>
+
+<p>With this kind of description, Claude Code barely needs to guess and produces an installable macOS app directly. Every line is preventing it from guessing wrong on a specific point:</p>
+
+<table>
+  <thead>
+    <tr>
+      <th>Written</th>
+      <th>What Claude would otherwise guess</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Native macOS + Swift</td>
+      <td>Might give you a Python webapp or Electron app</td>
+    </tr>
+    <tr>
+      <td>Fn key CGEvent tap, suppress propagation</td>
+      <td>Recording works but emoji selector fires, ruined UX</td>
+    </tr>
+    <tr>
+      <td>Default Simplified Chinese zh-CN</td>
+      <td>Defaults to English, terrible Chinese accuracy</td>
+    </tr>
+    <tr>
+      <td>NSPanel + .hudWindow capsule</td>
+      <td>Pops a regular window blocking the input you’re typing into</td>
+    </tr>
+    <tr>
+      <td>Switch CJK to ABC then paste</td>
+      <td>Cmd+V intercepted by IME, text injection fails</td>
+    </tr>
+    <tr>
+      <td>LLM correction “extremely conservative”</td>
+      <td>Over-polishes, changes what you actually meant</td>
+    </tr>
+    <tr>
+      <td>LSUIElement menu bar mode</td>
+      <td>Regular app, Dock icon multiplies on every launch</td>
+    </tr>
+    <tr>
+      <td>Swift Package Manager + Makefile</td>
+      <td>Some unfamiliar build system, doesn’t run locally</td>
+    </tr>
+  </tbody>
+</table>
+
+<p>You don’t need to write Swift, but you do need to write the requirement <strong>this specifically</strong>. Every line in there is a pit yetone has fallen into or anticipated. Each extra concrete detail saves one round of redo.</p>
+
+<p><img src="/images/2026/ai-coding/11-detail-granularity-en.png" width="900" alt="Three levels of requirement granularity: more detail means less guessing and lower rework rate" /></p>
+
+<p>For business-side requirements, describing the function isn’t enough. Lead with the problem, what are we solving, who is it for, what counts as done. Don’t open with a feature list. Say we’re building a new category landing page for international ticket products, the very first sentence should be: “International ticket products don’t have a dedicated entry point today, users only find them through search, and exposure for non-popular cities is extremely low.” That sentence shapes its judgment when it later runs into questions like “how many popular cities to show” or “should the filter include ‘recently viewed’.”</p>
+
+<p>Next, scope it. Claude Code is eager: ask for a list page and it’ll throw in favorites, sharing, and analytics tracking. Spell out “no auth, no sharing, no SEO, save those for the next iteration” and it stops crossing lines. Edge cases get their own list: API timeout, empty data, missing images, what’s the fallback. Don’t write these down and it either skips them or guesses a fallback you won’t like.</p>
+
+<p>Acceptance criteria need numbers. “Page should be fast” is useless. “First paint under 1.5s” is judgable. “Layout should look right” is useless. “No layout breakage at 375 and 1440 widths” is verifiable.</p>
+
+<p>Don’t write “TBD” or “decide later.” Claude Code will fill those in by guessing, and the guess usually isn’t what you want. Even “hardcode for this version, configurable next version” beats leaving it blank.</p>
+
+<hr />
+
+<h2 id="for-complex-tasks-sync-first-plan-and-auto-mode">For complex tasks, sync first: Plan and Auto mode</h2>
+
+<p>There was one time I asked it to refactor the login module and it deleted a util class I needed downstream. Took me half an hour to roll back. Lesson stuck.</p>
+
+<p>Since then, for anything complex I press <code class="language-plaintext highlighter-rouge">Shift+Tab</code> twice to flip into <strong>Plan mode</strong> first. It lays out what it intends to do, you confirm the direction, then it executes. Same as how things work at the office: you don’t tell a junior engineer to just go build the feature, you have a quick sync on the approach, agree, then they start.</p>
+
+<p><img src="/images/2026/ai-coding/12-default-vs-plan-mode-en.png" width="900" alt="Default mode executes directly and may drift, Plan mode adds a confirmation step that lets you align on direction before letting it run" /></p>
+
+<p>A Plan mode plan looks something like: which files to change, what changes per file, the reasoning, and the expected blast radius. Judging direction from business logic is much easier than judging the code itself. Even if you can’t read code, you can rule on “should this step happen, does this rationale hold.”</p>
+
+<p>If asking on every step gets old, switch on <strong>Auto mode</strong>: cycle <code class="language-plaintext highlighter-rouge">Shift+Tab</code> to the auto position. It’s available on Max, Team, and Enterprise; Pro doesn’t have it yet. It judges autonomously: safe operations like reading files run directly, risky operations like database writes or file deletes still ask. Default it on early, you don’t get interrupted by trivial confirmations and it doesn’t go rogue either.</p>
+
+<hr />
+
+<h2 id="how-do-you-know-it-actually-got-it-right">How do you know it actually got it right</h2>
+
+<p>It saying “done” doesn’t mean much, what counts is how you verify. AI also takes the path of least effort.</p>
+
+<p><img src="/images/2026/ai-coding/13-three-layer-verification-en.png" width="900" alt="Three layers of verification: did the commands pass, did you actually look, did you check against the list — none-of-these and it's not done" /></p>
+
+<p>I check three things. Did the commands pass: build and test go green. Putting “after finishing, run <code class="language-plaintext highlighter-rouge">make build &amp;&amp; make lint</code>” in CLAUDE.md makes it self-check. Did you actually see it: open the page, eyeball the numbers, walk the key flow. A file edit isn’t the same as the page looking the way you wanted. Did it match the list: walk the acceptance criteria one by one, anything missed isn’t done, send it back.</p>
+
+<h3 id="recovering-from-a-bad-change">Recovering from a bad change</h3>
+
+<p>The thing non-coders fear most is the code getting tangled past recovery. Two common saves.</p>
+
+<p><strong>Git snapshot</strong>: before any big change, have it run <code class="language-plaintext highlighter-rouge">git status</code> to see what’s there, then commit a checkpoint once you’re satisfied. If things go bad, just say “roll back to the last checkpoint,” much safer than running <code class="language-plaintext highlighter-rouge">checkout</code> by hand.</p>
+
+<p><strong>Undo last step</strong>: just say “undo everything you just did,” or use <code class="language-plaintext highlighter-rouge">/rewind</code> to return to the previous state.</p>
+
+<h3 id="dont-let-it-slide-into-a-try-this-try-that-loop">Don’t let it slide into a try-this-try-that loop</h3>
+
+<p>A trap that’s easy to fall into: getting stuck in a try-this-try-that loop. Four or five rounds in, what was a small problem turns into a knot. The cause is always the same: patching before the diagnosis is clear.</p>
+
+<p><img src="/images/2026/ai-coding/14-diagnose-first-en.png" width="900" alt="The try-this-try-that loop: error → patch → new error → patch again, vs the direct path of nailing the root cause first then fixing once" /></p>
+
+<p>The fix in one line: <strong>don’t touch code until the root cause is named</strong>. Get it to first answer “which file, which line, why does this happen.” If the answer is fuzzy, keep digging. Only edit once the answer is clear. If it opens with “let me try changing X and see,” cut it off and ask for the root cause first.</p>
+
+<hr />
+
+<h2 id="after-the-warm-up-alias-model-long-sessions">After the warm-up: alias, model, long sessions</h2>
+
+<p>You don’t need this on day one. Once you’re comfortable, or once Pro starts feeling tight, come back to this section.</p>
+
+<h3 id="how-i-use-my-max-subscription">How I use my Max subscription</h3>
+
+<p><strong>alias</strong>, I dropped one line into <code class="language-plaintext highlighter-rouge">.zshrc</code> so pressing <code class="language-plaintext highlighter-rouge">c</code> launches Claude Code without permission prompts and pushes the auto-compact threshold up to 400k. Letting compaction trigger only when the context is fully maxed gives worse results than triggering a bit earlier. You can paste this snippet into your own Claude Code and have it adapt for you:</p>
+
+<div class="language-sh highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nb">alias </span><span class="nv">c</span><span class="o">=</span><span class="s1">'CLAUDE_CODE_AUTO_COMPACT_WINDOW=400000 claude --dangerously-skip-permissions'</span>
+</code></pre></div></div>
+
+<p><code class="language-plaintext highlighter-rouge">--dangerously-skip-permissions</code> is not for beginners. It literally means “dangerously skip every permission prompt,” so Claude Code won’t ask anything. I use it because I can read what it’s doing at every step, and the constant prompts genuinely slow me down. If you’re not at that level yet, stick with Auto mode.</p>
+
+<p><strong>Use opusplan as the model</strong>. The way I’m running it now is to type <code class="language-plaintext highlighter-rouge">/model opusplan</code>, a hidden command (these can change between releases, defer to whatever your version supports). It uses Opus for planning and Sonnet for execution: planning gets handed to Opus, execution to Sonnet, saves both money and time overall. Want it faster, run <code class="language-plaintext highlighter-rouge">/fast</code> on top, that buys back roughly the tokens you saved.</p>
+
+<p><strong>A key setting</strong>: if your version supports it, when using opusplan, set <code class="language-plaintext highlighter-rouge">showClearContextOnPlanAccept</code> to <code class="language-plaintext highlighter-rouge">true</code> in <code class="language-plaintext highlighter-rouge">~/.claude/settings.json</code>. Without it the Sonnet leg hits a serious cache miss and slows down noticeably. Flipping this on smooths the whole thing out.</p>
+
+<h3 id="what-to-do-about-long-sessions">What to do about long sessions</h3>
+
+<p>Claude Code’s context window is fixed. Push it long enough and early content gets pushed out.</p>
+
+<p><img src="/images/2026/ai-coding/15-context-compaction-en.png" width="900" alt="Long session compaction: the reasoning behind early decisions is the first thing dropped, the 'preserve when compacting' section is what keeps the session coherent" /></p>
+
+<p><strong><code class="language-plaintext highlighter-rouge">/clear</code> after each task</strong>: one task per session. Finish, clear, start the next. Two unrelated things in the same context make it progressively confused.</p>
+
+<p><strong>Have it write a handoff note before a long task ends</strong>: just say “write current progress to <code class="language-plaintext highlighter-rouge">HANDOFF.md</code>, including what’s done, what didn’t work, what’s next.” Open a fresh session next day, hand it the file, it picks right up. No reliance on the compaction algorithm.</p>
+
+<hr />
+
+<h2 id="waza-turn-good-habits-into-muscle-memory">Waza: turn good habits into muscle memory</h2>
+
+<p>AI can move fast on the parts of coding that are clearly defined, but what the thing is supposed to look like still needs to come from you. I’ve been working on a Skill collection called <a href="https://github.com/tw93/Waza">Waza</a>, eight skills mapping to eight habits I think a good engineer should have.</p>
+
+<p><img src="/images/2026/ai-coding/16-waza-skills-en.png" width="900" alt="Waza eight skills overview: think, design, check, hunt, write, learn, read, health" /></p>
+
+<p><code class="language-plaintext highlighter-rouge">/think</code> makes you think through the technical approach before writing any code. AI writes code fast, but moving fast in the wrong direction just gets you wrong faster. Question the problem first, get the approach right, then let it run. <code class="language-plaintext highlighter-rouge">/design</code> helps you design a real product page, no purple-blue gradients and emoji-laden AI templates. <a href="https://github.com/tw93/Waza/tree/main/skills/hunt"><code class="language-plaintext highlighter-rouge">/hunt</code></a> is for debugging, with one rule: don’t touch code until the root cause is named, no try-this-try-that loop. <a href="https://github.com/tw93/Waza/tree/main/skills/check"><code class="language-plaintext highlighter-rouge">/check</code></a> is the last gate before wrapping up, walks the diff, fixes what can be auto-fixed, and gathers the rest into questions for you.</p>
+
+<p>The other four are everyday: <code class="language-plaintext highlighter-rouge">/read</code> turns any webpage or PDF into clean Markdown for your workflow, <code class="language-plaintext highlighter-rouge">/write</code> makes your prose clearer, <code class="language-plaintext highlighter-rouge">/learn</code> is a research workflow from gathering material to producing an article, <code class="language-plaintext highlighter-rouge">/health</code> runs a checkup on your CLAUDE.md and ruleset, useful when Claude feels off.</p>
+
+<p>Install: <code class="language-plaintext highlighter-rouge">npx skills add tw93/Waza -g</code>. The one I’d most recommend for product, business, and ops folks to try first is <code class="language-plaintext highlighter-rouge">/design</code>. Drop a screenshot in with <code class="language-plaintext highlighter-rouge">/design</code>, and instead of jumping in to edit, it asks you who it’s for, what mood you want, what style you can’t stand, any micro-interactions you want users to remember. Then it goes. Results are typically more stable than just saying “make this look better.”</p>
+
+<h3 id="you-can-write-a-skill-yourself">You can write a Skill yourself</h3>
+
+<p>A Skill is just a folder under <code class="language-plaintext highlighter-rouge">.claude/skills/</code> with a <code class="language-plaintext highlighter-rouge">SKILL.md</code> describing when to use it and what to do. Claude Code only reads the frontmatter (the trigger description, around 100 chars) at startup, and only loads the full content when the Skill is actually called. So having dozens of Skills installed doesn’t slow startup.</p>
+
+<p>The three types I use most:</p>
+
+<p><img src="/images/2026/ai-coding/17-skill-types-en.png" width="900" alt="Three most useful Skill types: workflow, checklist, domain expert" /></p>
+
+<p><strong>Type 1: workflow</strong>. Package a fixed sequence you do every time. For example, weekly meeting notes:</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">name</span><span class="pi">:</span> <span class="s">weekly-meeting-notes</span>
+<span class="na">description</span><span class="pi">:</span> <span class="s">Use when raw meeting notes need to be organized</span>
+<span class="nn">---</span>
+
+<span class="gu">## Output format</span>
+<span class="gs">**Done this week**</span>: [owner] finished what
+<span class="gs">**Next week**</span>: [owner] does what, by when
+<span class="gs">**Open**</span>: blocked on what, needs whose decision
+<span class="gs">**Action items**</span>: [who] [does what] [by when]
+
+<span class="gu">## Rules</span>
+<span class="p">-</span> Don't polish, keep the original phrasing
+<span class="p">-</span> Missing info gets marked "needs confirmation," don't guess
+</code></pre></div></div>
+
+<p><strong>Type 2: checklist</strong>. Walk through it before launch, before release, before commit, to prevent omissions. For example, pre-launch:</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">name</span><span class="pi">:</span> <span class="s">launch-checklist</span>
+<span class="na">description</span><span class="pi">:</span> <span class="s">Run before shipping a feature, confirms nothing's missed</span>
+<span class="nn">---</span>
+
+<span class="gu">## Must all pass before shipping</span>
+<span class="p">-</span> [ ] Each acceptance criterion in the PRD confirmed
+<span class="p">-</span> [ ] Design and implementation aligned: spacing, copy, interactions
+<span class="p">-</span> [ ] Edge states (empty, error, timeout) all handled
+<span class="p">-</span> [ ] Analytics events instrumented per spec
+<span class="p">-</span> [ ] Verified in staging
+
+<span class="gu">## Output</span>
+Each item Pass / Fail. Any Fail must be fixed before shipping.
+</code></pre></div></div>
+
+<p><strong>Type 3: domain expert</strong>. Bake the judgment framework in, so for problems of this kind it walks a fixed path instead of improvising every time. For example, on-call incident triage, or any business SOP you have:</p>
+
+<div class="language-markdown highlighter-rouge"><div class="highlight"><pre class="highlight"><code><span class="nn">---</span>
+<span class="na">name</span><span class="pi">:</span> <span class="s">incident-triage</span>
+<span class="na">description</span><span class="pi">:</span> <span class="s">Use when an alert fires or a user reports something broken</span>
+<span class="nn">---</span>
+
+<span class="gu">## Collect</span>
+<span class="p">-</span> Error screenshot or full error log
+<span class="p">-</span> Scope: which users, which page, when did it start
+<span class="p">-</span> Recent changes: code releases, config edits, data changes
+
+<span class="gu">## Diagnostic matrix</span>
+| Symptom        | Check first                      |
+| -------------- | -------------------------------- |
+| White screen   | JS errors → recent releases      |
+| API timeout    | Service monitoring → slow query  |
+| Bad data       | Recent data change → upstream    |
+
+<span class="gu">## Output format</span>
+Root cause / blast radius / fix steps / verification
+</code></pre></div></div>
+
+<p>Drop it in <code class="language-plaintext highlighter-rouge">.claude/skills/</code>, and when the matching scenario shows up, just say “use weekly-meeting-notes” or “use incident-triage.” You can also have Claude help you write these. Two pitfalls to avoid when writing Skills.</p>
+
+<p><strong>description is the trigger condition, not a feature pitch</strong>. “Use when raw meeting notes need to be organized” beats “Turn meeting recordings into structured weekly reports” by a wide margin in trigger accuracy.</p>
+
+<p><strong>One Skill, one job</strong>. Don’t bundle review, release, and debug into one. Splitting them gets you more accurate triggering.</p>
+
+<hr />
+
+<h2 id="kami-let-ai-handle-the-typesetting">Kami: let AI handle the typesetting</h2>
+
+<p>Writing the content is just the first half. Laying it out into something publishable usually takes longer. <a href="https://github.com/tw93/Kami">Kami</a> is an AI typesetting tool I’ve been working on. Hand it your content, say “lay this out as a one-pager” or “make a portfolio,” and it produces a downloadable PDF.</p>
+
+<p>It ships with eight templates: one-pager, portfolio, slides, resume, long doc, letter, research note, changelog. The visual style is consistent: warm parchment background, ink-blue accents, serif typography by default. No need to mess with fonts.</p>
+
+<p><img src="/images/2026/ai-coding/18-kami-output.png" width="900" alt="Kami output: warm parchment background, ink-blue accent, serif type, supports resume, one-pager, slides, eight templates total" /></p>
+
+<p>Most useful scenarios: meeting notes laid out as a brief, project status as a one-pager for your manager, your work history as a resume. Used to mean opening Word or Figma and fiddling for half a day. Now you drop the content in, get a first pass that’s already good enough to look at, then fine-tune.</p>
+
+<p>Install: <code class="language-plaintext highlighter-rouge">npx skills add tw93/Kami -g</code></p>
+
+<hr />
+
+<h2 id="claude-design-prototypes-without-writing-code">Claude Design: prototypes without writing code</h2>
+
+<p><a href="https://claude.ai/design">Claude Design</a>, released by Anthropic in April 2026, is another path: upload a screenshot or document, and it gives you back an interactive prototype, slide deck, or landing page directly. Useful for non-technical folks who want to prototype quickly.</p>
+
+<p><img src="/images/2026/ai-coding/19-claude-design-ui.png" width="900" alt="Claude Design UI: upload a screenshot, get an interactive prototype, slide deck, or landing page back" /></p>
+
+<p>If you don’t want to touch code at all, use this to get something showable first. PMs can sketch a prototype, run a review, then hand the prototype to Claude Code to be turned into real code. Early prototypes don’t have to wait for full design and engineering capacity, you can have something to discuss the same day.</p>
+
+<hr />
+
+<h2 id="a-few-small-habits-once-youre-comfortable">A few small habits once you’re comfortable</h2>
+
+<p><strong>Screenshots are faster than text</strong>. To describe a UI issue or reference a design style, just drop the image. Layout, color, hierarchy all come along, less guessing required.</p>
+
+<p><strong>Break tasks small, one at a time</strong>. A task you can describe in one sentence almost always gets done correctly. Dump a giant pile of requirements and any one wrong step downstream sends everything off course. Finish and verify one thing before starting the next.</p>
+
+<p><strong>Restart when the conversation drifts</strong>. Trying to course-correct a session that’s already drifted just makes it drift more. Clear the context and re-state the requirement, often faster. Picking up the next day, glance at the Recap (the conversation summary auto-generated after <code class="language-plaintext highlighter-rouge">/clear</code>) to remember where you were.</p>
+
+<p><strong>Memory remembers your preferences across projects</strong>. <code class="language-plaintext highlighter-rouge">CLAUDE.md</code> is project-level, you write one per project. Memory is user-level, applies across all projects and all sessions. Just say “remember I want to see the plan first before execution” or “remember to reply to me in English.” It writes to <code class="language-plaintext highlighter-rouge">~/.claude/memory/</code> and applies on any project from then on. Background you keep restating belongs in here, save yourself the repetition.</p>
+
+<p><strong>Double-tap ESC to edit the previous message</strong>. If you misspoke or it drifted, hit ESC twice to jump back to the previous message and edit, no need to restart the session.</p>
+
+<hr />
+
+<h2 id="a-few-safety-habits-worth-building-from-day-one">A few safety habits worth building from day one</h2>
+
+<p><img src="/images/2026/ai-coding/20-safety-habits-en.png" width="900" alt="Safety habits to start with: explain first, understand first, no production practice, never paste secrets" /></p>
+
+<p><strong>Have it explain before acting</strong>. Add this to CLAUDE.md: “Before running any Bash command or editing any file, explain in one sentence what you’re about to do.” It’ll narrate every step. Not being able to read code is fine, being able to read “I’m about to delete this file” is enough.</p>
+
+<p><strong>Ask about commands you don’t recognize</strong>. Don’t approve a command you’ve never seen. Ask “what does this command do, what’s the risk.” Understand it before approving. Don’t copy any command you don’t understand and run it; some of them can quietly download, upload, or leak information.</p>
+
+<p><strong>Don’t practice on production</strong>. Local and staging, mess around freely. For anything touching production database or live config, validate in staging first. The cost of one bad SQL or accidental delete is much higher than you’d predict.</p>
+
+<p><strong>Don’t paste secrets directly into chat</strong>. For API keys, database passwords, that kind of thing, have them go into environment variables or a <code class="language-plaintext highlighter-rouge">.env</code> file. Don’t drop plaintext credentials into the chat window.</p>
+
+<p>One more that’s easy to overlook but really matters: passing tests doesn’t mean it’s safe. AI-generated code can have vulnerabilities. For login, payment, and personal information features, use Clerk or Stripe or similar mature services rather than letting it write from scratch.</p>
+
+<hr />
+
+<h2 id="further-reading">Further reading</h2>
+
+<ol>
+  <li><a href="https://tw93.fun/2026-03-12/claude.html">You Don’t Know Claude Code: Architecture, Governance, and Engineering Practices</a></li>
+  <li><a href="https://tw93.fun/2026-03-21/agent.html">You Don’t Know Agent: Principles, Architecture, and Engineering Practices</a></li>
+  <li><a href="https://tw93.fun/2026-04-03/llm.html">You Don’t Know LLM Training: Principles, Paths, and New Practices</a></li>
+  <li><a href="https://code.claude.com/docs/en/best-practices">Claude Code Best Practices - Anthropic Official</a></li>
+  <li><a href="https://x.com/karpathy/status/1886192184808149383">vibe coding - Andrej Karpathy original tweet</a></li>
+  <li><a href="https://simonwillison.net/2025/Oct/16/claude-skills/">Claude Skills are awesome, maybe a bigger deal than MCP - Simon Willison</a></li>
+  <li><a href="https://www.geoffreylitt.com/2023/03/25/llm-end-user-programming.html">Malleable software in the age of LLMs - Geoffrey Litt</a></li>
+  <li><a href="https://x.com/aiedge_/status/2011108297152082250">Claude Code Starter Pack: Tools, Tutorials &amp; Resources - AI Edge</a></li>
+  <li><a href="https://www.lawfaremedia.org/article/when-the-vibe-are-off--the-security-risks-of-ai-generated-code">When the Vibes Are Off: The Security Risks of AI-Generated Code - Lawfare</a></li>
+</ol>
+
+      
+<div class="coffee">
+  <a class="buy-me-coffee" href="https://miaoyan.app/cats.html?name=Blog" target="_blank" rel="noopener noreferrer">
+    
+    觉得不错，请 Tw93 喝冰可乐 🥤
+    
+  </a>
+</div>
+
+    </div>
+  </article>
+
+  <aside class="post-toc" id="J_post_toc" hidden aria-label="On this page">
+    <div class="post-toc-inner">
+      <nav class="post-toc-nav" id="J_post_toc_nav"></nav>
+    </div>
+  </aside>
+</div>
+
+
+<div class="post-followup">
+  
+<div class="giscus-container">
+  <script src="https://giscus.app/client.js" data-repo="tw93/tw93.github.io" data-repo-id="MDEwOlJlcG9zaXRvcnkzMDE4NDU1NQ=="
+    data-category="General" data-category-id="DIC_kwDOAcyUa84CSbZ-" data-mapping="specific" data-reactions-enabled="1"
+    data-emit-metadata="0" data-input-position="bottom"
+    data-term="2026-04-26-ai-coding"
+    data-lang="zh-CN"
+    data-loading="lazy" data-theme="https://tw93.fun/css/comment.css" crossorigin="anonymous" async></script>
+</div>
+
+  
+
+
+<a class="read-more" href="/en/2026-04-06/learn.html" title="">
+  <div class="read-more-header">
+    <div class="read-more-btn">Read More</div>
+  </div>
+  <div class="read-more-content">
+    <h3>How I Turn Learning Into a Workflow in the AI Era</h3>
+    <p>【2026-04-06】Before AI, learning was slow but joyful. Now I treat it like a workflow: collect, filter, outline, draft, refine, publish. Here is how that process actually works.
+    </p>
+  </div>
+</a>
+
+
+
+</div>
+
+  </div>
+
+  <!-- Search Modal -->
+<div id="search-modal" class="search-modal" aria-hidden="true" role="dialog" aria-labelledby="search-title">
+  <div class="search-container">
+    <div class="search-header">
+      <input
+        type="search"
+        id="search-input"
+        class="search-input"
+        placeholder="Search articles..."
+        aria-label="Search articles"
+        autocomplete="off"
+      >
+      <button class="search-close" id="search-close" aria-label="Close search">
+        <svg width="20" height="20" viewBox="0 0 20 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+          <path d="M15 5L5 15M5 5L15 15" stroke="currentColor" stroke-width="2" stroke-linecap="round"/>
+        </svg>
+      </button>
+    </div>
+    <div id="search-results" class="search-results" role="listbox"></div>
+    <div class="search-footer">
+      <div class="search-tips">
+        <kbd>/</kbd> to search
+        <kbd>ESC</kbd> to close
+        <kbd>↑↓</kbd> to navigate
+        <kbd>Enter</kbd> to select
+      </div>
+    </div>
+  </div>
+</div>
+
+  <div class="footer-wrapper">
+  <footer role="contentinfo">
+
+    <a href="https://github.com/tw93" rel="nofollow" target="_blank" class="social-icon github-icon"
+      aria-label="Follow on GitHub">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path
+          d="M12.001 2C6.47598 2 2.00098 6.475 2.00098 12C2.00098 16.425 4.86348 20.1625 8.83848 21.4875C9.33848 21.575 9.52598 21.275 9.52598 21.0125C9.52598 20.775 9.51348 19.9875 9.51348 19.15C7.00098 19.6125 6.35098 18.5375 6.15098 17.975C6.03848 17.6875 5.55098 16.8 5.12598 16.5625C4.77598 16.375 4.27598 15.9125 5.11348 15.9C5.90098 15.8875 6.46348 16.625 6.65098 16.925C7.55098 18.4375 8.98848 18.0125 9.56348 17.75C9.65098 17.1 9.91348 16.6625 10.201 16.4125C7.97598 16.1625 5.65098 15.3 5.65098 11.475C5.65098 10.3875 6.03848 9.4875 6.67598 8.7875C6.57598 8.5375 6.22598 7.5125 6.77598 6.1375C6.77598 6.1375 7.61348 5.875 9.52598 7.1625C10.326 6.9375 11.176 6.825 12.026 6.825C12.876 6.825 13.726 6.9375 14.526 7.1625C16.4385 5.8625 17.276 6.1375 17.276 6.1375C17.826 7.5125 17.476 8.5375 17.376 8.7875C18.0135 9.4875 18.401 10.375 18.401 11.475C18.401 15.3125 16.0635 16.1625 13.8385 16.4125C14.201 16.725 14.5135 17.325 14.5135 18.2625C14.5135 19.6 14.501 20.675 14.501 21.0125C14.501 21.275 14.6885 21.5875 15.1885 21.4875C19.259 20.1133 21.9999 16.2963 22.001 12C22.001 6.475 17.526 2 12.001 2Z">
+        </path>
+      </svg>
+    </a>
+
+    <a href="https://twitter.com/HiTw93" rel="nofollow" target="_blank" class="social-icon"
+      aria-label="Follow on Twitter">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path
+          d="M22.2125 5.65605C21.4491 5.99375 20.6395 6.21555 19.8106 6.31411C20.6839 5.79132 21.3374 4.9689 21.6493 4.00005C20.8287 4.48761 19.9305 4.83077 18.9938 5.01461C18.2031 4.17106 17.098 3.69303 15.9418 3.69434C13.6326 3.69434 11.7597 5.56661 11.7597 7.87683C11.7597 8.20458 11.7973 8.52242 11.8676 8.82909C8.39047 8.65404 5.31007 6.99005 3.24678 4.45941C2.87529 5.09767 2.68005 5.82318 2.68104 6.56167C2.68104 8.01259 3.4196 9.29324 4.54149 10.043C3.87737 10.022 3.22788 9.84264 2.64718 9.51973C2.64654 9.5373 2.64654 9.55487 2.64654 9.57148C2.64654 11.5984 4.08819 13.2892 6.00199 13.6731C5.6428 13.7703 5.27232 13.8194 4.90022 13.8191C4.62997 13.8191 4.36771 13.7942 4.11279 13.7453C4.64531 15.4065 6.18886 16.6159 8.0196 16.6491C6.53813 17.8118 4.70869 18.4426 2.82543 18.4399C2.49212 18.4402 2.15909 18.4205 1.82812 18.3811C3.74004 19.6102 5.96552 20.2625 8.23842 20.2601C15.9316 20.2601 20.138 13.8875 20.138 8.36111C20.138 8.1803 20.1336 7.99886 20.1256 7.81997C20.9443 7.22845 21.651 6.49567 22.2125 5.65605Z">
+        </path>
+      </svg>
+    </a>
+
+    <a href="/en/feed.xml" rel="nofollow" target="_blank" class="social-icon"
+      aria-label="Subscribe to RSS feed">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path
+          d="M3 3C12.9411 3 21 11.0589 21 21H18C18 12.7157 11.2843 6 3 6V3ZM3 10C9.07513 10 14 14.9249 14 21H11C11 16.5817 7.41828 13 3 13V10ZM3 17C5.20914 17 7 18.7909 7 21H3V17Z">
+        </path>
+      </svg>
+    </a>
+
+    <a href="https://github.com/tw93/tw93.github.io" rel="nofollow" target="_blank" class="social-icon time-icon"
+      aria-label="View repository (2015 to 2026)">
+      <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="currentColor" aria-hidden="true">
+        <path
+          d="M16.5 3C19.5376 3 22 5.5 22 9C22 16 14.5 20 12 21.5C9.5 20 2 16 2 9C2 5.5 4.5 3 7.5 3C9.35997 3 11 4 12 5C13 4 14.64 3 16.5 3Z">
+        </path>
+      </svg>
+      <span class="repo-time">2015~2026</span>
+    </a>
+  </footer>
+</div>
+
+<script type="text/javascript" src="/js/index.js?v=20260430134930" defer></script>
+<script type="text/javascript" src="/js/search.js?v=20260430134930" defer></script>
+
+
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag () {
+    dataLayer.push(arguments);
+  }
+  const loadGA = () => {
+    const script = document.createElement('script');
+    script.src = 'https://www.googletagmanager.com/gtag/js?id=G-KS7EDB6BRM';
+    script.async = true;
+    document.head.appendChild(script);
+    gtag("js", new Date());
+    gtag("config", "G-KS7EDB6BRM");
+  };
+  const triggerGA = () => {
+    window.removeEventListener('scroll', triggerGA);
+    window.removeEventListener('mousemove', triggerGA);
+    window.removeEventListener('touchstart', triggerGA);
+    loadGA();
+  };
+  window.addEventListener('scroll', triggerGA, { once: true });
+  window.addEventListener('mousemove', triggerGA, { once: true });
+  window.addEventListener('touchstart', triggerGA, { once: true });
+  setTimeout(() => { if (!window.dataLayer.length) loadGA(); }, 5000);
+</script>
+ 
+
+<script>
+  if ('serviceWorker' in navigator) {
+    window.addEventListener('load', () => {
+      navigator.serviceWorker.register('/sw.js');
+    });
+  }
+
+  document.addEventListener("DOMContentLoaded", function () {
+    // Jump out
+    const links = document.links;
+    for (let i = 0; i < links.length; i++) {
+      if (
+        links[i].hostname != window.location.hostname ||
+        (links[i].href && links[i].href.indexOf("feed.xml") != -1)
+      ) {
+        links[i].target = "_blank";
+      }
+    }
+
+    // The second image is the cover image, both of which could do with some optimization
+    const images = document.querySelectorAll('.entry-content img');
+    images.forEach((img, index) => {
+      if (index > 1) {
+        img.setAttribute('loading', 'lazy');
+        img.setAttribute('decoding', 'async');
+      }
+    });
+
+    // Full screen button
+    const fullscreenBtn = document.getElementById("fullscreenBtn");
+    fullscreenBtn && fullscreenBtn.addEventListener("click", function () {
+      var elem = document.getElementById("postIframe");
+
+      if (!document.fullscreenElement) {
+        if (elem.requestFullscreen) {
+          elem.requestFullscreen();
+        }
+      } else {
+        if (document.exitFullscreen) {
+          document.exitFullscreen();
+        }
+      }
+    });
+
+    // Select all the links that need to be preloaded
+    const linksToPrefetch = document.querySelectorAll('.read-more, .header-href, .pagination a, .header-item a');
+    const prefetchedLinks = new Set();
+
+    // Debounce to avoid excessive prefetching
+    let prefetchTimer;
+
+    linksToPrefetch.forEach(function (link) {
+      // Use mouseenter for hover devices only
+      if (window.matchMedia('(hover: hover)').matches) {
+        link.addEventListener('mouseenter', function () {
+          clearTimeout(prefetchTimer);
+          prefetchTimer = setTimeout(function () {
+            if (!prefetchedLinks.has(link.href)) {
+              var prefetchLink = document.createElement('link');
+              prefetchLink.rel = 'prefetch';
+              prefetchLink.href = link.href;
+              prefetchLink.as = 'document';
+              document.head.appendChild(prefetchLink);
+              prefetchedLinks.add(link.href);
+            }
+          }, 100); // 100ms delay to avoid prefetching on quick mouse movements
+        });
+      }
+    });
+  });
+</script>
+
+</body>
+</html>
