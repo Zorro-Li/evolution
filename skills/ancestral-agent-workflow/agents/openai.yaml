@@ -1,4 +1,4 @@
 interface:
   display_name: "Ancestral Agent Workflow"
-  short_description: "老祖宗式 Agent 工作法：计划、记录、验证、回滚"
-  default_prompt: "Use $ancestral-agent-workflow to execute this task with planning, docs, validation, and rollback discipline."
+  short_description: "老祖宗式 Agent 工作法：古籍史鉴、隐性知识、计划、验证、传承"
+  default_prompt: "Use $ancestral-agent-workflow to execute this task with planning, docs, validation, rollback discipline, and ancestral tacit-knowledge capture."

@@ -5,10 +5,14 @@ description: >
   migration, production-config, or GitHub publishing tasks with the
   "老祖宗 Agent 工作法": plan before edits, check dependencies first, record
   decisions in /ai-docs, verify with tests, protect secrets, pause on unknown
-  APIs, warn before high-risk actions, and provide rollback paths. Trigger when
+  APIs, warn before high-risk actions, provide rollback paths, and turn Chinese
+  classics, historical stories, idioms, fables, tacit knowledge, and apprenticeship
+  wisdom into modern AI/Agent operating methods. Trigger when
   the user asks for 老祖宗工作法, agent workflow discipline, reusable execution
   rules, safer Codex work, task planning, verification, docs-first changes, or
-  publishing an implementation with durable notes.
+  publishing an implementation with durable notes, or asks to use 以史为鉴,
+  古籍, 成语故事, 寓言故事, 隐性知识, 默会知识, 师承, 同事型 Agent, or
+  ancient wisdom to design AI workflows.
 ---
 
 # Ancestral Agent Workflow
@@ -40,6 +44,22 @@ High-level rules:
 - **兵马未动，粮草先行**: check dependency and verification commands before implementation.
 - **有则改之**: self-check and run the smallest reliable validation after changes.
 - **留得青山在**: include rollback for high-risk changes.
+
+## Knowledge Base
+
+Load only the relevant reference for the task:
+
+- Source map and material selection: [references/classical-source-map.md](references/classical-source-map.md)
+- Tacit/implicit knowledge theory for AI agents: [references/tacit-knowledge-theory.md](references/tacit-knowledge-theory.md)
+- Idiom, fable, and history-to-agent patterns: [references/story-to-agent-patterns.md](references/story-to-agent-patterns.md)
+- Full method index: [references/knowledge-base-index.md](references/knowledge-base-index.md)
+- 100 core operating summaries: [references/core-100.md](references/core-100.md)
+- Reusable vocabulary list: [references/lexicon.md](references/lexicon.md)
+
+Use these references to convert historical wisdom into concrete Agent behavior:
+task intake, planning, evidence checking, risk control, tool use, execution,
+review, memory capture, collaboration, escalation, rollback, and long-term
+learning.
 
 ## Execution Workflow
 
