@@ -8,3 +8,6 @@
 {"created_at": "2026-04-28T02:09:07+08:00", "id": "fb_4b76f865f2", "source": "user", "tag": "correction", "text": "用户纠正开发形态：PDF里的玄学咨询平台要做微信小程序，后续方案应按小程序前端 + 微信登录/支付 + 自建后端 + 管理后台拆解。"}
 {"created_at": "2026-04-28T02:28:56+08:00", "id": "fb_68fbaa4c64", "source": "user", "tag": "correction", "text": "调研工作必须像员工交付一样留痕：先记录所有找到的内容，再逐链接分析对方怎么做，最后输出方法总结和可参考做法；中间步骤也要保留文档。"}
 {"created_at": "2026-04-29T16:57:20+08:00", "id": "fb_f97f1781b3", "source": "user", "tag": "correction", "text": "用户纠正 X/Twitter 调研方法：需要进入推主主页沿时间线一条条看推文，不能只用站内关键词搜索替代逐条阅读。"}
+{"created_at": "2026-05-02T01:31:08+08:00", "id": "fb_71c5c7fd2b", "source": "user", "tag": "correction", "text": "用户纠正：币圈以史为鉴 Skill 和老祖宗祖训扩展到 AI/Agent 的 Skill 是两个完全不同的工作，必须分开文件夹和概念边界。"}
+{"created_at": "2026-05-02T12:36:43+08:00", "id": "fb_2e9b80b703", "source": "user", "tag": "correction", "text": "用户明确要求：Codex 自己加入进化流程；每次对话后整理出的研究方案、复盘、技能蒸馏都要用 gbrain put 存入本地知识库；每次开始任务前先用 gbrain search 查上下文。"}
+{"created_at": "2026-05-02T22:52:25+08:00", "id": "fb_a87073b306", "source": "user", "tag": "correction", "text": "用户要求安装 https://github.com/pogjester/company-research-agent，加入 gbrain，并在以后查公司时优先使用这个本地公司研究 agent。"}

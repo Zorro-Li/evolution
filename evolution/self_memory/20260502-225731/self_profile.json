@@ -1,0 +1,966 @@
+{
+  "run_id": "20260502-225731",
+  "generated_at": "2026-05-02 22:57:31 CST",
+  "humanos": "/Users/lizongru/codex/humanOS",
+  "documents": "/Users/lizongru/Documents",
+  "self_aliases": [
+    "LZR",
+    "lzr",
+    "lzr（stu dying",
+    "lzr（stu dying）",
+    "lzr（ᯤ¹⁰ᴳ）",
+    "lzr（不知道啊 你要吃火龙果吗）",
+    "李宗儒",
+    "李阿宇",
+    "李阿鱼"
+  ],
+  "chat": {
+    "conversation_count": 24,
+    "total_messages": 418484,
+    "total_text_messages": 301552,
+    "self_text_messages": 144999,
+    "other_text_messages": 156553,
+    "self_text_share": 0.4808,
+    "self_char_share": 0.5026,
+    "self_avg_chars": 8.88,
+    "other_avg_chars": 8.14,
+    "self_question_rate": 0.1337,
+    "other_question_rate": 0.166,
+    "self_initiation_share": 0.4215,
+    "self_median_reply": 10.0,
+    "other_median_reply": 12.0,
+    "self_marker_counts": {
+      "clarity": 2187,
+      "support": 1802,
+      "execution": 2588,
+      "intimacy": 7061,
+      "repair": 339
+    },
+    "other_marker_counts": {
+      "clarity": 2534,
+      "execution": 2380,
+      "repair": 360,
+      "support": 2043,
+      "intimacy": 4180
+    },
+    "active_days": 1595,
+    "top_conversations": [
+      {
+        "name": "李可轩 0102",
+        "messages": 96964,
+        "text": 71732,
+        "self_text_share": 0.4697,
+        "self_initiation_share": 0.3663,
+        "active_days": 713
+      },
+      {
+        "name": "小学姐0507（彭迈萱）",
+        "messages": 41963,
+        "text": 30166,
+        "self_text_share": 0.481,
+        "self_initiation_share": 0.3055,
+        "active_days": 306
+      },
+      {
+        "name": "Aa.★「世界第一の33」☆ 6.6农",
+        "messages": 38783,
+        "text": 24688,
+        "self_text_share": 0.5456,
+        "self_initiation_share": 0.3793,
+        "active_days": 177
+      },
+      {
+        "name": "21 人1张至瑶",
+        "messages": 32246,
+        "text": 25854,
+        "self_text_share": 0.3973,
+        "self_initiation_share": 0.3207,
+        "active_days": 470
+      },
+      {
+        "name": "殷静宁 7.7",
+        "messages": 26972,
+        "text": 19877,
+        "self_text_share": 0.414,
+        "self_initiation_share": 0.3302,
+        "active_days": 370
+      },
+      {
+        "name": "何嘉馨 0913",
+        "messages": 21668,
+        "text": 14909,
+        "self_text_share": 0.5706,
+        "self_initiation_share": 0.6957,
+        "active_days": 132
+      },
+      {
+        "name": "21ai苏文灿 0531",
+        "messages": 17340,
+        "text": 13499,
+        "self_text_share": 0.4792,
+        "self_initiation_share": 0.3204,
+        "active_days": 755
+      },
+      {
+        "name": "文博弟弟（wwb）",
+        "messages": 16523,
+        "text": 11613,
+        "self_text_share": 0.5609,
+        "self_initiation_share": 0.3641,
+        "active_days": 489
+      },
+      {
+        "name": "江舒婷 1212",
+        "messages": 15729,
+        "text": 12109,
+        "self_text_share": 0.4184,
+        "self_initiation_share": 0.4472,
+        "active_days": 214
+      },
+      {
+        "name": "22生物工程叶文韬0101",
+        "messages": 14857,
+        "text": 11802,
+        "self_text_share": 0.4782,
+        "self_initiation_share": 0.3134,
+        "active_days": 421
+      }
+    ]
+  },
+  "attachment": {
+    "path": "/Users/lizongru/codex/humanOS/依恋关系分析/reports/attachment_batch_results.json",
+    "exists": true,
+    "conversation_count": 24,
+    "high_data_count": 23,
+    "self_rows": [
+      {
+        "conversation": "21 人1张至瑶",
+        "attachment_type": "安全型",
+        "confidence": 0.9,
+        "scores": {
+          "anxiety": 9,
+          "avoidance": 12,
+          "security": 52,
+          "fear": 6
+        },
+        "metrics": {
+          "message_count": 10494,
+          "text_count": 10494,
+          "message_share": 0.402,
+          "initiation_share": 0.322,
+          "active_days": 456,
+          "avg_chars_per_text": 5.9,
+          "double_text_rate": 0.443,
+          "question_rate": 0.137,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.04,
+          "same_day_reply_rate": 0.994,
+          "late_reply_rate": 0.006
+        },
+        "marker_counts": {
+          "intimacy": 44,
+          "support": 39,
+          "clarity": 64,
+          "repair": 9
+        }
+      },
+      {
+        "conversation": "21ai王敬超",
+        "attachment_type": "安全型",
+        "confidence": 0.9,
+        "scores": {
+          "anxiety": 10,
+          "avoidance": 16,
+          "security": 55,
+          "fear": 9
+        },
+        "metrics": {
+          "message_count": 2625,
+          "text_count": 2625,
+          "message_share": 0.426,
+          "initiation_share": 0.212,
+          "active_days": 194,
+          "avg_chars_per_text": 6.7,
+          "double_text_rate": 0.48,
+          "question_rate": 0.132,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.05,
+          "same_day_reply_rate": 0.985,
+          "late_reply_rate": 0.015
+        },
+        "marker_counts": {
+          "clarity": 24,
+          "support": 7,
+          "intimacy": 24,
+          "repair": 4
+        }
+      },
+      {
+        "conversation": "21ai苏文灿 0531",
+        "attachment_type": "安全型",
+        "confidence": 0.9,
+        "scores": {
+          "anxiety": 12,
+          "avoidance": 8,
+          "security": 53,
+          "fear": 8
+        },
+        "metrics": {
+          "message_count": 6600,
+          "text_count": 6600,
+          "message_share": 0.479,
+          "initiation_share": 0.314,
+          "active_days": 611,
+          "avg_chars_per_text": 5.7,
+          "double_text_rate": 0.455,
+          "question_rate": 0.16,
+          "median_reply_hours": 0.01,
+          "p90_reply_hours": 0.43,
+          "same_day_reply_rate": 0.977,
+          "late_reply_rate": 0.023
+        },
+        "marker_counts": {
+          "clarity": 41,
+          "support": 24,
+          "intimacy": 63,
+          "repair": 3
+        }
+      },
+      {
+        "conversation": "22生物工程叶文韬0101",
+        "attachment_type": "安全型",
+        "confidence": 0.95,
+        "scores": {
+          "anxiety": 13,
+          "avoidance": 5,
+          "security": 64,
+          "fear": 13
+        },
+        "metrics": {
+          "message_count": 5736,
+          "text_count": 5736,
+          "message_share": 0.48,
+          "initiation_share": 0.342,
+          "active_days": 399,
+          "avg_chars_per_text": 6.3,
+          "double_text_rate": 0.499,
+          "question_rate": 0.15,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.34,
+          "same_day_reply_rate": 0.984,
+          "late_reply_rate": 0.016
+        },
+        "marker_counts": {
+          "repair": 22,
+          "support": 47,
+          "avoidance": 2,
+          "intimacy": 207,
+          "clarity": 42,
+          "conflict": 1
+        }
+      },
+      {
+        "conversation": "Aa.★「世界第一の33」☆ 6.6农",
+        "attachment_type": "安全型",
+        "confidence": 0.94,
+        "scores": {
+          "anxiety": 14,
+          "avoidance": 3,
+          "security": 62,
+          "fear": 12
+        },
+        "metrics": {
+          "message_count": 13476,
+          "text_count": 13476,
+          "message_share": 0.544,
+          "initiation_share": 0.425,
+          "active_days": 176,
+          "avg_chars_per_text": 5.5,
+          "double_text_rate": 0.537,
+          "question_rate": 0.133,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.25,
+          "same_day_reply_rate": 1.0,
+          "late_reply_rate": 0.0
+        },
+        "marker_counts": {
+          "intimacy": 2638,
+          "support": 116,
+          "repair": 26,
+          "clarity": 119,
+          "avoidance": 2,
+          "conflict": 4,
+          "anxiety": 10,
+          "fear": 1
+        }
+      },
+      {
+        "conversation": "X 发芽 林悦晨 5.11",
+        "attachment_type": "安全型",
+        "confidence": 0.9,
+        "scores": {
+          "anxiety": 15,
+          "avoidance": 4,
+          "security": 55,
+          "fear": 12
+        },
+        "metrics": {
+          "message_count": 2304,
+          "text_count": 2304,
+          "message_share": 0.476,
+          "initiation_share": 0.383,
+          "active_days": 67,
+          "avg_chars_per_text": 5.7,
+          "double_text_rate": 0.495,
+          "question_rate": 0.15,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.09,
+          "same_day_reply_rate": 0.998,
+          "late_reply_rate": 0.002
+        },
+        "marker_counts": {
+          "support": 13,
+          "intimacy": 69,
+          "clarity": 9,
+          "repair": 3,
+          "anxiety": 4
+        }
+      },
+      {
+        "conversation": "X 波波 侯天琪 0519",
+        "attachment_type": "安全型",
+        "confidence": 0.97,
+        "scores": {
+          "anxiety": 8,
+          "avoidance": 2,
+          "security": 67,
+          "fear": 11
+        },
+        "metrics": {
+          "message_count": 1397,
+          "text_count": 1397,
+          "message_share": 0.437,
+          "initiation_share": 0.436,
+          "active_days": 37,
+          "avg_chars_per_text": 9.4,
+          "double_text_rate": 0.407,
+          "question_rate": 0.137,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.02,
+          "same_day_reply_rate": 0.992,
+          "late_reply_rate": 0.008
+        },
+        "marker_counts": {
+          "intimacy": 96,
+          "support": 26,
+          "clarity": 4,
+          "repair": 3,
+          "anxiety": 1
+        }
+      },
+      {
+        "conversation": "g10符菲",
+        "attachment_type": "安全型",
+        "confidence": 0.89,
+        "scores": {
+          "anxiety": 12,
+          "avoidance": 14,
+          "security": 51,
+          "fear": 7
+        },
+        "metrics": {
+          "message_count": 2149,
+          "text_count": 2149,
+          "message_share": 0.44,
+          "initiation_share": 0.246,
+          "active_days": 112,
+          "avg_chars_per_text": 6.6,
+          "double_text_rate": 0.484,
+          "question_rate": 0.15,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.03,
+          "same_day_reply_rate": 0.988,
+          "late_reply_rate": 0.012
+        },
+        "marker_counts": {
+          "clarity": 15,
+          "intimacy": 3,
+          "support": 3,
+          "repair": 1
+        }
+      },
+      {
+        "conversation": "wcy 0108",
+        "attachment_type": "安全型",
+        "confidence": 0.9,
+        "scores": {
+          "anxiety": 20,
+          "avoidance": 3,
+          "security": 60,
+          "fear": 12
+        },
+        "metrics": {
+          "message_count": 3967,
+          "text_count": 3967,
+          "message_share": 0.523,
+          "initiation_share": 0.445,
+          "active_days": 202,
+          "avg_chars_per_text": 6.7,
+          "double_text_rate": 0.582,
+          "question_rate": 0.162,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.13,
+          "same_day_reply_rate": 0.986,
+          "late_reply_rate": 0.014
+        },
+        "marker_counts": {
+          "clarity": 33,
+          "support": 32,
+          "intimacy": 411,
+          "repair": 3,
+          "anxiety": 4
+        }
+      },
+      {
+        "conversation": "x 玻璃心 12.15",
+        "attachment_type": "安全型",
+        "confidence": 0.93,
+        "scores": {
+          "anxiety": 15,
+          "avoidance": 3,
+          "security": 61,
+          "fear": 12
+        },
+        "metrics": {
+          "message_count": 1726,
+          "text_count": 1726,
+          "message_share": 0.533,
+          "initiation_share": 0.414,
+          "active_days": 45,
+          "avg_chars_per_text": 5.8,
+          "double_text_rate": 0.529,
+          "question_rate": 0.143,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.15,
+          "same_day_reply_rate": 0.994,
+          "late_reply_rate": 0.006
+        },
+        "marker_counts": {
+          "intimacy": 190,
+          "clarity": 12,
+          "support": 7,
+          "anxiety": 2,
+          "repair": 8
+        }
+      },
+      {
+        "conversation": "何嘉馨 0913",
+        "attachment_type": "安全型",
+        "confidence": 0.93,
+        "scores": {
+          "anxiety": 21,
+          "avoidance": 3,
+          "security": 68,
+          "fear": 12
+        },
+        "metrics": {
+          "message_count": 8542,
+          "text_count": 8542,
+          "message_share": 0.568,
+          "initiation_share": 0.659,
+          "active_days": 130,
+          "avg_chars_per_text": 6.2,
+          "double_text_rate": 0.554,
+          "question_rate": 0.136,
+          "median_reply_hours": 0.01,
+          "p90_reply_hours": 0.16,
+          "same_day_reply_rate": 0.992,
+          "late_reply_rate": 0.008
+        },
+        "marker_counts": {
+          "clarity": 91,
+          "intimacy": 1266,
+          "support": 79,
+          "repair": 41,
+          "anxiety": 6,
+          "conflict": 1
+        }
+      },
+      {
+        "conversation": "卢奕思",
+        "attachment_type": "安全型",
+        "confidence": 0.93,
+        "scores": {
+          "anxiety": 10,
+          "avoidance": 5,
+          "security": 59,
+          "fear": 12
+        },
+        "metrics": {
+          "message_count": 3927,
+          "text_count": 3927,
+          "message_share": 0.457,
+          "initiation_share": 0.385,
+          "active_days": 148,
+          "avg_chars_per_text": 6.1,
+          "double_text_rate": 0.472,
+          "question_rate": 0.137,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.07,
+          "same_day_reply_rate": 0.991,
+          "late_reply_rate": 0.009
+        },
+        "marker_counts": {
+          "support": 36,
+          "intimacy": 161,
+          "clarity": 20,
+          "repair": 6
+        }
+      },
+      {
+        "conversation": "吴佩雯",
+        "attachment_type": "安全型",
+        "confidence": 0.97,
+        "scores": {
+          "anxiety": 11,
+          "avoidance": 4,
+          "security": 67,
+          "fear": 4
+        },
+        "metrics": {
+          "message_count": 1969,
+          "text_count": 1969,
+          "message_share": 0.432,
+          "initiation_share": 0.486,
+          "active_days": 94,
+          "avg_chars_per_text": 9.6,
+          "double_text_rate": 0.476,
+          "question_rate": 0.146,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.08,
+          "same_day_reply_rate": 0.98,
+          "late_reply_rate": 0.02
+        },
+        "marker_counts": {
+          "support": 29,
+          "clarity": 19,
+          "repair": 2,
+          "intimacy": 10
+        }
+      },
+      {
+        "conversation": "小学姐0507（彭迈萱）",
+        "attachment_type": "安全型",
+        "confidence": 0.94,
+        "scores": {
+          "anxiety": 9,
+          "avoidance": 6,
+          "security": 58,
+          "fear": 10
+        },
+        "metrics": {
+          "message_count": 14530,
+          "text_count": 14530,
+          "message_share": 0.478,
+          "initiation_share": 0.32,
+          "active_days": 287,
+          "avg_chars_per_text": 6.4,
+          "double_text_rate": 0.522,
+          "question_rate": 0.094,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.06,
+          "same_day_reply_rate": 0.998,
+          "late_reply_rate": 0.002
+        },
+        "marker_counts": {
+          "clarity": 111,
+          "support": 91,
+          "intimacy": 256,
+          "anxiety": 3,
+          "repair": 10
+        }
+      },
+      {
+        "conversation": "文博弟弟（wwb）",
+        "attachment_type": "安全型",
+        "confidence": 0.88,
+        "scores": {
+          "anxiety": 16,
+          "avoidance": 3,
+          "security": 52,
+          "fear": 5
+        },
+        "metrics": {
+          "message_count": 6648,
+          "text_count": 6648,
+          "message_share": 0.567,
+          "initiation_share": 0.459,
+          "active_days": 432,
+          "avg_chars_per_text": 7.0,
+          "double_text_rate": 0.556,
+          "question_rate": 0.154,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.22,
+          "same_day_reply_rate": 0.986,
+          "late_reply_rate": 0.014
+        },
+        "marker_counts": {
+          "clarity": 64,
+          "intimacy": 60,
+          "repair": 2,
+          "support": 4
+        }
+      },
+      {
+        "conversation": "李可轩 0102",
+        "attachment_type": "安全型",
+        "confidence": 0.93,
+        "scores": {
+          "anxiety": 10,
+          "avoidance": 4,
+          "security": 59,
+          "fear": 12
+        },
+        "metrics": {
+          "message_count": 33898,
+          "text_count": 33898,
+          "message_share": 0.469,
+          "initiation_share": 0.368,
+          "active_days": 699,
+          "avg_chars_per_text": 7.1,
+          "double_text_rate": 0.511,
+          "question_rate": 0.111,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.1,
+          "same_day_reply_rate": 0.997,
+          "late_reply_rate": 0.003
+        },
+        "marker_counts": {
+          "clarity": 216,
+          "support": 242,
+          "intimacy": 1510,
+          "repair": 61,
+          "avoidance": 2,
+          "anxiety": 22,
+          "conflict": 2
+        }
+      },
+      {
+        "conversation": "李振广 0201",
+        "attachment_type": "安全型",
+        "confidence": 0.92,
+        "scores": {
+          "anxiety": 8,
+          "avoidance": 5,
+          "security": 52,
+          "fear": 5
+        },
+        "metrics": {
+          "message_count": 2206,
+          "text_count": 2206,
+          "message_share": 0.531,
+          "initiation_share": 0.353,
+          "active_days": 315,
+          "avg_chars_per_text": 6.3,
+          "double_text_rate": 0.503,
+          "question_rate": 0.083,
+          "median_reply_hours": 0.01,
+          "p90_reply_hours": 0.79,
+          "same_day_reply_rate": 0.964,
+          "late_reply_rate": 0.036
+        },
+        "marker_counts": {
+          "intimacy": 12,
+          "support": 2,
+          "repair": 4,
+          "clarity": 14
+        }
+      },
+      {
+        "conversation": "李昕晓1224 摩羯",
+        "attachment_type": "安全型",
+        "confidence": 0.91,
+        "scores": {
+          "anxiety": 16,
+          "avoidance": 6,
+          "security": 58,
+          "fear": 10
+        },
+        "metrics": {
+          "message_count": 2569,
+          "text_count": 2569,
+          "message_share": 0.495,
+          "initiation_share": 0.565,
+          "active_days": 229,
+          "avg_chars_per_text": 6.1,
+          "double_text_rate": 0.542,
+          "question_rate": 0.146,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.62,
+          "same_day_reply_rate": 0.959,
+          "late_reply_rate": 0.041
+        },
+        "marker_counts": {
+          "repair": 3,
+          "clarity": 24,
+          "support": 13,
+          "intimacy": 47,
+          "anxiety": 2
+        }
+      },
+      {
+        "conversation": "李红钰 1213",
+        "attachment_type": "安全型",
+        "confidence": 0.89,
+        "scores": {
+          "anxiety": 18,
+          "avoidance": 10,
+          "security": 55,
+          "fear": 9
+        },
+        "metrics": {
+          "message_count": 1982,
+          "text_count": 1982,
+          "message_share": 0.569,
+          "initiation_share": 0.422,
+          "active_days": 315,
+          "avg_chars_per_text": 5.9,
+          "double_text_rate": 0.602,
+          "question_rate": 0.132,
+          "median_reply_hours": 0.01,
+          "p90_reply_hours": 12.0,
+          "same_day_reply_rate": 0.925,
+          "late_reply_rate": 0.075
+        },
+        "marker_counts": {
+          "clarity": 21,
+          "intimacy": 19,
+          "support": 4,
+          "repair": 4,
+          "anxiety": 3,
+          "avoidance": 2
+        }
+      },
+      {
+        "conversation": "殷静宁 7.7",
+        "attachment_type": "安全型",
+        "confidence": 0.9,
+        "scores": {
+          "anxiety": 11,
+          "avoidance": 11,
+          "security": 51,
+          "fear": 11
+        },
+        "metrics": {
+          "message_count": 8359,
+          "text_count": 8359,
+          "message_share": 0.402,
+          "initiation_share": 0.425,
+          "active_days": 328,
+          "avg_chars_per_text": 5.3,
+          "double_text_rate": 0.463,
+          "question_rate": 0.146,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.03,
+          "same_day_reply_rate": 0.99,
+          "late_reply_rate": 0.01
+        },
+        "marker_counts": {
+          "clarity": 40,
+          "support": 34,
+          "repair": 8,
+          "intimacy": 110,
+          "anxiety": 2
+        }
+      },
+      {
+        "conversation": "江舒婷 1212",
+        "attachment_type": "安全型",
+        "confidence": 0.91,
+        "scores": {
+          "anxiety": 7,
+          "avoidance": 10,
+          "security": 52,
+          "fear": 5
+        },
+        "metrics": {
+          "message_count": 5148,
+          "text_count": 5148,
+          "message_share": 0.419,
+          "initiation_share": 0.46,
+          "active_days": 206,
+          "avg_chars_per_text": 6.0,
+          "double_text_rate": 0.487,
+          "question_rate": 0.106,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.05,
+          "same_day_reply_rate": 0.986,
+          "late_reply_rate": 0.014
+        },
+        "marker_counts": {
+          "clarity": 43,
+          "support": 15,
+          "intimacy": 21,
+          "avoidance": 1,
+          "repair": 2
+        }
+      },
+      {
+        "conversation": "袁佳梦0722（616农）",
+        "attachment_type": "安全型",
+        "confidence": 0.94,
+        "scores": {
+          "anxiety": 17,
+          "avoidance": 5,
+          "security": 67,
+          "fear": 12
+        },
+        "metrics": {
+          "message_count": 2071,
+          "text_count": 2071,
+          "message_share": 0.469,
+          "initiation_share": 0.486,
+          "active_days": 158,
+          "avg_chars_per_text": 7.5,
+          "double_text_rate": 0.514,
+          "question_rate": 0.168,
+          "median_reply_hours": 0.0,
+          "p90_reply_hours": 0.57,
+          "same_day_reply_rate": 0.973,
+          "late_reply_rate": 0.027
+        },
+        "marker_counts": {
+          "intimacy": 199,
+          "clarity": 31,
+          "repair": 3,
+          "support": 19,
+          "anxiety": 2
+        }
+      },
+      {
+        "conversation": "陶晓锶（041203）14750504004",
+        "attachment_type": "安全型",
+        "confidence": 0.93,
+        "scores": {
+          "anxiety": 15,
+          "avoidance": 6,
+          "security": 61,
+          "fear": 13
+        },
+        "metrics": {
+          "message_count": 2117,
+          "text_count": 2117,
+          "message_share": 0.507,
+          "initiation_share": 0.309,
+          "active_days": 143,
+          "avg_chars_per_text": 5.9,
+          "double_text_rate": 0.533,
+          "question_rate": 0.159,
+          "median_reply_hours": 0.01,
+          "p90_reply_hours": 0.73,
+          "same_day_reply_rate": 0.993,
+          "late_reply_rate": 0.007
+        },
+        "marker_counts": {
+          "intimacy": 292,
+          "clarity": 14,
+          "support": 21,
+          "repair": 1
+        }
+      }
+    ],
+    "self_attachment_distribution": {
+      "安全型": 23
+    },
+    "self_average_scores": {
+      "anxiety": 12.91,
+      "avoidance": 6.43,
+      "security": 58.22,
+      "fear": 9.65
+    },
+    "self_average_confidence": 0.92,
+    "relationship_distribution": {
+      "长期朋友关系中的安全型互动": 23,
+      "非关系样本": 1
+    }
+  },
+  "project": {
+    "keywords": {
+      "AI": 81,
+      "RAG": 25,
+      "automation": 27,
+      "research": 30,
+      "directness": 20,
+      "engineering": 11,
+      "psychology": 15,
+      "health": 16
+    },
+    "evidence": [
+      {
+        "path": "/Users/lizongru/Documents/Codex Operating Prompt.md",
+        "signals": "AI:22, RAG:7, automation:5, research:8, directness:8"
+      },
+      {
+        "path": "/Users/lizongru/Documents/daily/RoyalHolloway_PersonalStatement.txt",
+        "signals": "AI:25, RAG:7, automation:1, engineering:2, research:4, directness:1"
+      },
+      {
+        "path": "/Users/lizongru/Documents/李宗儒.md",
+        "signals": "AI:7, RAG:1, engineering:5, psychology:1"
+      },
+      {
+        "path": "/Users/lizongru/codex/进化/AGENTS.md",
+        "signals": "AI:1, automation:8, engineering:1, directness:3"
+      },
+      {
+        "path": "/Users/lizongru/codex/进化/memory/rules.md",
+        "signals": "AI:11, RAG:3, automation:12, engineering:3, research:3, directness:2"
+      },
+      {
+        "path": "/Users/lizongru/codex/humanOS/Knowledge of 心理学/chat_record_knowledge_base/chat_record_analysis_blueprint.md",
+        "signals": "AI:8, RAG:2, research:13, psychology:8, directness:6"
+      },
+      {
+        "path": "/Users/lizongru/codex/humanOS/Knowledge of 健康赛道/README.md",
+        "signals": "AI:2, RAG:4, automation:1, research:1, health:12, psychology:3"
+      },
+      {
+        "path": "/Users/lizongru/codex/humanOS/Knowledge of 药食同源/README.md",
+        "signals": "AI:5, RAG:1, research:1, health:4, psychology:3"
+      }
+    ]
+  },
+  "report_signals": [
+    "2026-04-25_世界第一の33_聊天关系分析报告.md: | 说话人 | Aa.★「世界第一の33」☆ 6.6农、李阿鱼 |",
+    "2026-04-25_殷静宁7.7_聊天关系分析报告.md: | 说话人 | 殷静宁 7.7、李阿鱼 |",
+    "README.md: 自动化会每天扫描这里的 Markdown 报告，并把覆盖不足的部分蒸馏到：",
+    "21 人1张至瑶_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "21ai王敬超_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "21ai苏文灿 0531_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "22生物工程叶文韬0101_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "Aa.★「世界第一の33」☆ 6.6农_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "X 发芽 林悦晨 5.11_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "X 波波 侯天琪 0519_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "g10符菲_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "wcy 0108_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "x 玻璃心 12.15_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "何嘉馨 0913_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "卢奕思_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "吴佩雯_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "小学姐0507（彭迈萱）_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "文件传输助手_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "文博弟弟（wwb）_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "李可轩 0102_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "李振广 0201_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "李昕晓1224 摩羯_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "李红钰 1213_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "殷静宁 7.7_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "江舒婷 1212_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "袁佳梦0722（616农）_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？",
+    "陶晓锶（041203）14750504004_依恋关系分析.md: - 哪些聊天证据支持判断，哪些限制需要保留？"
+  ],
+  "privacy_policy": {
+    "raw_message_policy": "aggregate statistics and source paths; raw private message dumps excluded",
+    "secret_file_policy": "skip filenames matching pass/password/token/secret/key/pem/ppk/credential"
+  }
+}

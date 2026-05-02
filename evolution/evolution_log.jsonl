@@ -103,3 +103,70 @@
 {"created_at": "2026-04-29T17:06:23+08:00", "id": "evt_cda90863cd", "kind": "task_done", "payload": {"note": "已整理 Gensyn 访谈资料：资料台账、逐链接分析、30 分钟讲稿；校正 tokenomics、融资、Delphi/mainnet、listing 和预测市场信号。", "task_id": "task_857fe8833d"}}
 {"created_at": "2026-04-29T17:06:23+08:00", "id": "evt_192aa0aaf6", "kind": "reflection_written", "payload": {"path": "runs/2026-04-29-reflection.md", "proposal": "evolution/proposals/2026-04-29-proposal.md"}}
 {"created_at": "2026-04-29T17:06:50+08:00", "id": "evt_d802e894ca", "kind": "reflection_written", "payload": {"path": "runs/2026-04-29-reflection.md", "proposal": "evolution/proposals/2026-04-29-proposal.md"}}
+{"created_at": "2026-04-29T21:39:53+08:00", "id": "evt_c10cb80192", "kind": "task_created", "payload": {"area": "general", "priority": "P1", "task_id": "task_bc8119a83e"}}
+{"created_at": "2026-04-29T21:47:09+08:00", "id": "evt_b619d29f5f", "kind": "observation_captured", "payload": {"observation_id": "obs_53e01c9d10", "tag": "context"}}
+{"created_at": "2026-04-29T21:47:34+08:00", "id": "evt_3b63d5e1dd", "kind": "task_done", "payload": {"note": "已生成 04_commercial_channels_report.md，覆盖商业渠道优先级、设计伙伴、创始人直销、集成伙伴、PLG、Marketplace 和 30 天计划。", "task_id": "task_bc8119a83e"}}
+{"created_at": "2026-04-29T22:07:17+08:00", "id": "evt_2619dc6bae", "kind": "observation_captured", "payload": {"observation_id": "obs_c8f443fc99", "tag": "context"}}
+{"created_at": "2026-04-29T22:11:42+08:00", "id": "evt_f5b3b04eb6", "kind": "task_created", "payload": {"area": "general", "priority": "P1", "task_id": "task_16f00ec1b6"}}
+{"created_at": "2026-04-29T22:21:02+08:00", "id": "evt_623e3be4d7", "kind": "observation_captured", "payload": {"observation_id": "obs_dff429e97f", "tag": "context"}}
+{"created_at": "2026-04-29T22:21:26+08:00", "id": "evt_615c47c15c", "kind": "task_done", "payload": {"note": "已生成 05_account_content_playbook.md，覆盖 xiaoyuZorro、技术博士、ManXis_Lab 三账号定位、发帖类型、样例、首周排期和 KPI。", "task_id": "task_16f00ec1b6"}}
+{"created_at": "2026-04-30T01:26:32+08:00", "id": "evt_fe1f70bbbc", "kind": "task_created", "payload": {"area": "general", "priority": "P1", "task_id": "task_a833141337"}}
+{"created_at": "2026-04-30T01:44:04+08:00", "id": "evt_081fe148a2", "kind": "observation_captured", "payload": {"observation_id": "obs_80d08ac383", "tag": "context"}}
+{"created_at": "2026-04-30T01:44:04+08:00", "id": "evt_0af7704756", "kind": "task_done", "payload": {"note": "完成 GEO 论文、数据源、复现流程、GStack/DBS 商业化判断；产出 runs/geo-research-2026-04-30/geo-citation-absorption-commercialization.md，并写入 GBrain。", "task_id": "task_a833141337"}}
+{"created_at": "2026-04-30T01:44:15+08:00", "id": "evt_dcf2dba078", "kind": "reflection_written", "payload": {"path": "runs/2026-04-30-reflection.md", "proposal": "evolution/proposals/2026-04-30-proposal.md"}}
+{"created_at": "2026-04-30T21:49:38+08:00", "id": "evt_06904fe519", "kind": "task_created", "payload": {"area": "general", "priority": "P1", "task_id": "task_40dadae4da"}}
+{"created_at": "2026-04-30T21:59:55+08:00", "id": "evt_0ae6038f85", "kind": "observation_captured", "payload": {"observation_id": "obs_4452d83bef", "tag": "context"}}
+{"created_at": "2026-04-30T21:59:55+08:00", "id": "evt_d9879bb980", "kind": "task_done", "payload": {"note": "已生成 runs/hitw93-twitter-knowledge-2026-04-30/ 下的三件套报告和 raw 数据。", "task_id": "task_40dadae4da"}}
+{"created_at": "2026-04-30T22:00:58+08:00", "id": "evt_8c2cf656de", "kind": "reflection_written", "payload": {"path": "runs/2026-04-30-reflection.md", "proposal": "evolution/proposals/2026-04-30-proposal.md"}}
+{"created_at": "2026-04-30T22:03:13+08:00", "id": "evt_8fa08793f9", "kind": "task_created", "payload": {"area": "general", "priority": "P1", "task_id": "task_26725a3667"}}
+{"created_at": "2026-04-30T22:23:28+08:00", "id": "evt_17b99b3fe0", "kind": "observation_captured", "payload": {"observation_id": "obs_6cec287a85", "tag": "context"}}
+{"created_at": "2026-04-30T22:23:33+08:00", "id": "evt_b8fb48e293", "kind": "task_done", "payload": {"note": "完成 Safari 订阅页读取、本地文件归档、技能蒸馏、Gbrain put、关键词检索验证和 timeline 记录；embedding 因 OPENAI_API_KEY 缺失未生成。", "task_id": "task_26725a3667"}}
+{"created_at": "2026-04-30T22:23:38+08:00", "id": "evt_7e72a11add", "kind": "reflection_written", "payload": {"path": "runs/2026-04-30-reflection.md", "proposal": "evolution/proposals/2026-04-30-proposal.md"}}
+{"created_at": "2026-05-01T00:25:57+08:00", "id": "evt_a5f57337f3", "kind": "observation_captured", "payload": {"observation_id": "obs_c87eb41551", "tag": "context"}}
+{"created_at": "2026-05-01T10:52:09+08:00", "id": "evt_abe072b73c", "kind": "observation_captured", "payload": {"observation_id": "obs_71ed1bc34a", "tag": "context"}}
+{"created_at": "2026-05-02T00:55:48+08:00", "id": "evt_57eb1aa023", "kind": "task_created", "payload": {"area": "general", "priority": "P1", "task_id": "task_c34171884b"}}
+{"created_at": "2026-05-02T01:01:44+08:00", "id": "evt_a39665a91e", "kind": "task_created", "payload": {"area": "general", "priority": "P1", "task_id": "task_395793be69"}}
+{"created_at": "2026-05-02T01:01:49+08:00", "id": "evt_be1c942466", "kind": "observation_captured", "payload": {"observation_id": "obs_afcfb86782", "tag": "context"}}
+{"created_at": "2026-05-02T01:01:57+08:00", "id": "evt_9e77a3ab59", "kind": "task_done", "payload": {"note": "完成 @aleabitoreddit KB 文件生成、Gbrain import、显式 graph links、timeline、search 和 graph 验证。", "task_id": "task_c34171884b"}}
+{"created_at": "2026-05-02T01:02:06+08:00", "id": "evt_bb1cf03524", "kind": "reflection_written", "payload": {"path": "runs/2026-05-02-reflection.md", "proposal": "evolution/proposals/2026-05-02-proposal.md"}}
+{"created_at": "2026-05-02T01:07:38+08:00", "id": "evt_648cd5d7d8", "kind": "observation_captured", "payload": {"observation_id": "obs_7e7d701c2a", "tag": "context"}}
+{"created_at": "2026-05-02T01:07:38+08:00", "id": "evt_6b6e7c66e6", "kind": "task_done", "payload": {"note": "Created and validated crypto-rug-analysis Skill under ~/.codex/skills with historical casebook, scorecard, OpenAI metadata, and working scoring script.", "task_id": "task_395793be69"}}
+{"created_at": "2026-05-02T01:08:07+08:00", "id": "evt_57e57434ea", "kind": "reflection_written", "payload": {"path": "runs/2026-05-02-reflection.md", "proposal": "evolution/proposals/2026-05-02-proposal.md"}}
+{"created_at": "2026-05-02T01:09:35+08:00", "id": "evt_ebd382992e", "kind": "observation_captured", "payload": {"observation_id": "obs_fbf6438780", "tag": "context"}}
+{"created_at": "2026-05-02T01:10:20+08:00", "id": "evt_cc253a934e", "kind": "task_created", "payload": {"area": "general", "priority": "P1", "task_id": "task_c0810a8c19"}}
+{"created_at": "2026-05-02T01:17:32+08:00", "id": "evt_c2a6281600", "kind": "observation_captured", "payload": {"observation_id": "obs_fd2ef34cba", "tag": "context"}}
+{"created_at": "2026-05-02T01:17:53+08:00", "id": "evt_668d8c9395", "kind": "observation_captured", "payload": {"observation_id": "obs_8a3af584c9", "tag": "context"}}
+{"created_at": "2026-05-02T01:17:53+08:00", "id": "evt_70e92e543a", "kind": "task_done", "payload": {"note": "Created and validated crypto-history-as-mirror Skill; added /workspace ai-docs note because root /ai-docs was read-only.", "task_id": "task_c0810a8c19"}}
+{"created_at": "2026-05-02T01:18:15+08:00", "id": "evt_e37b13beea", "kind": "reflection_written", "payload": {"path": "runs/2026-05-02-reflection.md", "proposal": "evolution/proposals/2026-05-02-proposal.md"}}
+{"created_at": "2026-05-02T01:29:11+08:00", "id": "evt_f2a8ef8d04", "kind": "observation_captured", "payload": {"observation_id": "obs_d3612c4c98", "tag": "context"}}
+{"created_at": "2026-05-02T01:29:11+08:00", "id": "evt_9ee3be693c", "kind": "task_created", "payload": {"area": "github", "priority": "P1", "task_id": "task_a85571fd3d"}}
+{"created_at": "2026-05-02T01:31:08+08:00", "id": "evt_aef794fae6", "kind": "feedback_captured", "payload": {"feedback_id": "fb_71c5c7fd2b", "tag": "correction"}}
+{"created_at": "2026-05-02T01:39:03+08:00", "id": "evt_2dc9f44e8d", "kind": "observation_captured", "payload": {"observation_id": "obs_aca5d52457", "tag": "context"}}
+{"created_at": "2026-05-02T12:30:17+08:00", "id": "evt_16eee955d0", "kind": "task_created", "payload": {"area": "skills", "priority": "P1", "task_id": "task_c8185cf179"}}
+{"created_at": "2026-05-02T12:36:43+08:00", "id": "evt_fb2b7d9546", "kind": "rule_promoted", "payload": {"area": "behavior", "reason": "用户明确要求 Codex 自己加入 Jarvis 进化流程", "rule": "每次复杂任务开始前，先用 gbrain search 检索本地上下文；每次对话产生可复用的研究方案、复盘、技能蒸馏或重要决策时，用 gbrain put 写入本地知识库。"}}
+{"created_at": "2026-05-02T12:36:43+08:00", "id": "evt_ee6cf84639", "kind": "feedback_captured", "payload": {"feedback_id": "fb_2e9b80b703", "tag": "correction"}}
+{"created_at": "2026-05-02T12:43:03+08:00", "id": "evt_221536c406", "kind": "observation_captured", "payload": {"observation_id": "obs_df45a76932", "tag": "context"}}
+{"created_at": "2026-05-02T12:45:57+08:00", "id": "evt_5781c10179", "kind": "task_done", "payload": {"note": "Expanded ancestral-agent-workflow into a full classical/tacit-knowledge Agent methodology KB with source map, tacit theory, story patterns, 100 summaries, lexicon; validated, committed, pushed.", "task_id": "task_c8185cf179"}}
+{"created_at": "2026-05-02T12:45:57+08:00", "id": "evt_cd35434a56", "kind": "reflection_written", "payload": {"path": "runs/2026-05-02-reflection.md", "proposal": "evolution/proposals/2026-05-02-proposal.md"}}
+{"created_at": "2026-05-02T13:10:42+08:00", "id": "evt_db017ecd78", "kind": "task_created", "payload": {"area": "automation", "priority": "P1", "task_id": "task_0da010f76c"}}
+{"created_at": "2026-05-02T13:10:42+08:00", "id": "evt_618b924350", "kind": "observation_captured", "payload": {"observation_id": "obs_d6983cf600", "tag": "context"}}
+{"created_at": "2026-05-02T13:12:29+08:00", "id": "evt_d660d28395", "kind": "rule_promoted", "payload": {"area": "behavior", "reason": "用户明确要求每天自动上传新获取资料到 GitHub，尤其是 GBrain", "rule": "每天 23:50 自动运行 daily_evolution_publish.py --push，把新获取的 Jarvis 资料和 GBrain markdown 导出提交并推送到 GitHub。"}}
+{"created_at": "2026-05-02T13:12:29+08:00", "id": "evt_ad25728f64", "kind": "task_done", "payload": {"note": "已接入 GBrain markdown export 到 daily_evolution_publish.py，创建 Codex cron daily-gbrain-github-upload 每天 23:50 本地运行并 push 到 GitHub。", "task_id": "task_0da010f76c"}}
+{"created_at": "2026-05-02T13:12:36+08:00", "id": "evt_7bd687aabe", "kind": "reflection_written", "payload": {"path": "runs/2026-05-02-reflection.md", "proposal": "evolution/proposals/2026-05-02-proposal.md"}}
+{"created_at": "2026-05-02T20:09:46+08:00", "id": "evt_8a180c360c", "kind": "task_created", "payload": {"area": "automation", "priority": "P1", "task_id": "task_081ced0a7a"}}
+{"created_at": "2026-05-02T20:09:55+08:00", "id": "evt_11211b9c8d", "kind": "observation_captured", "payload": {"observation_id": "obs_6d9df20b7c", "tag": "automation"}}
+{"created_at": "2026-05-02T20:10:01+08:00", "id": "evt_adc66fc414", "kind": "rule_promoted", "payload": {"area": "behavior", "reason": "用户明确提出长期进化任务", "rule": "X/Twitter 创作者研究任务每天优先用 Computer Use 操作 Safari 的 soro 登录态，从关注列表增量覆盖 AI 与美国相关博主；每个创作者产出来源台账、推文归档、强项拆解、skill 蒸馏和 GBrain 入库；API、付款、密钥和身份验证步骤停在官方页面并邮件升级给用户处理。"}}
+{"created_at": "2026-05-02T20:10:07+08:00", "id": "evt_c6144ba7d2", "kind": "task_done", "payload": {"note": "创建 x-creator-distiller skill、automation/x-creator-watch.md runbook，并启用 Codex cron daily-x-creator-distillation。", "task_id": "task_081ced0a7a"}}
+{"created_at": "2026-05-02T20:10:51+08:00", "id": "evt_6ffbeb80ab", "kind": "reflection_written", "payload": {"path": "runs/2026-05-02-reflection.md", "proposal": "evolution/proposals/2026-05-02-proposal.md"}}
+{"created_at": "2026-05-02T22:52:13+08:00", "id": "evt_ec909c57a7", "kind": "task_created", "payload": {"area": "general", "priority": "P1", "task_id": "task_5dbbee744a"}}
+{"created_at": "2026-05-02T22:52:25+08:00", "id": "evt_a2e9827a71", "kind": "observation_captured", "payload": {"observation_id": "obs_e819399d8a", "tag": "context"}}
+{"created_at": "2026-05-02T22:52:25+08:00", "id": "evt_8b4b025627", "kind": "feedback_captured", "payload": {"feedback_id": "fb_a87073b306", "tag": "correction"}}
+{"created_at": "2026-05-02T22:52:25+08:00", "id": "evt_552d5f147d", "kind": "rule_promoted", "payload": {"area": "behavior", "reason": "用户明确要求安装 company-research-agent 并在查公司时使用", "rule": "查公司、公司调研、竞品分析、尽调、行业/财务/新闻侧公司研究任务，优先使用本地 /Users/lizongru/codex/进化/tools/company-research-agent，并先检索 gbrain slug company-research-agent-tool 获取运行方式。"}}
+{"created_at": "2026-05-02T22:57:29+08:00", "id": "evt_c34a12e145", "kind": "observation_captured", "payload": {"observation_id": "obs_4335912e65", "tag": "context"}}
+{"created_at": "2026-05-02T22:57:29+08:00", "id": "evt_6cc33c6cc0", "kind": "task_done", "payload": {"note": "Installed company-research-agent, registered/federated gbrain source, wrote company-research-agent-tool page, promoted company research routing rule, verified backend/frontend/audit.", "task_id": "task_5dbbee744a"}}
+{"created_at": "2026-05-02T22:57:29+08:00", "id": "evt_fdc3dbaccc", "kind": "reflection_written", "payload": {"path": "runs/2026-05-02-reflection.md", "proposal": "evolution/proposals/2026-05-02-proposal.md"}}
+{"created_at": "2026-05-02T23:07:26+08:00", "id": "evt_6e7aa0374f", "kind": "task_created", "payload": {"area": "general", "priority": "P1", "task_id": "task_d70fd6ec46"}}
+{"created_at": "2026-05-02T23:07:34+08:00", "id": "evt_3e2df81861", "kind": "observation_captured", "payload": {"observation_id": "obs_24f9479341", "tag": "context"}}
+{"created_at": "2026-05-02T23:30:45+08:00", "id": "evt_ab99420b1c", "kind": "observation_captured", "payload": {"observation_id": "obs_61bf185549", "tag": "context"}}
+{"created_at": "2026-05-02T23:30:45+08:00", "id": "evt_a2e8e640a9", "kind": "reflection_written", "payload": {"path": "runs/2026-05-02-reflection.md", "proposal": "evolution/proposals/2026-05-02-proposal.md"}}
+{"created_at": "2026-05-02T23:52:43+08:00", "id": "evt_0055495769", "kind": "reflection_written", "payload": {"path": "runs/2026-05-02-reflection.md", "proposal": "evolution/proposals/2026-05-02-proposal.md"}}

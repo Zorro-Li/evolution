@@ -49,3 +49,23 @@
 
 - Rule: 调研型任务执行三步走并留痕：1) 原始资料台账，记录所有找到的内容和链接；2) 逐链接分析，说明每个对象怎么做、证据是什么；3) 综合报告，总结方法、对应公司、可参考做法和建议。
 - Reason: 用户明确纠正：调研必须像员工一样工作，中间步骤也要留存文档。
+
+## 2026-05-02 - behavior
+
+- Rule: 每次复杂任务开始前，先用 gbrain search 检索本地上下文；每次对话产生可复用的研究方案、复盘、技能蒸馏或重要决策时，用 gbrain put 写入本地知识库。
+- Reason: 用户明确要求 Codex 自己加入 Jarvis 进化流程
+
+## 2026-05-02 - behavior
+
+- Rule: 每天 23:50 自动运行 daily_evolution_publish.py --push，把新获取的 Jarvis 资料和 GBrain markdown 导出提交并推送到 GitHub。
+- Reason: 用户明确要求每天自动上传新获取资料到 GitHub，尤其是 GBrain
+
+## 2026-05-02 - behavior
+
+- Rule: X/Twitter 创作者研究任务每天优先用 Computer Use 操作 Safari 的 soro 登录态，从关注列表增量覆盖 AI 与美国相关博主；每个创作者产出来源台账、推文归档、强项拆解、skill 蒸馏和 GBrain 入库；API、付款、密钥和身份验证步骤停在官方页面并邮件升级给用户处理。
+- Reason: 用户明确提出长期进化任务
+
+## 2026-05-02 - behavior
+
+- Rule: 查公司、公司调研、竞品分析、尽调、行业/财务/新闻侧公司研究任务，优先使用本地 /Users/lizongru/codex/进化/tools/company-research-agent，并先检索 gbrain slug company-research-agent-tool 获取运行方式。
+- Reason: 用户明确要求安装 company-research-agent 并在查公司时使用
