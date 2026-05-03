@@ -277,3 +277,1540 @@ Status: in_progress
 | 258 | @congyinglingxia | GrinDDD | CRYPTO_WEB3 | Crypto trading tactics and Bluebird community. |
 | 259 | @myfanwy_wy | Myfanwy | OTHER | Gender/sexuality researcher and personal writing. |
 | 260 | @moondaloriansol | Moondalorian | AI_CORE | AI meme video editor. |
+| 261 | @vivimoneya | vivimoney Bluebird | AI_CORE | AI + overseas + Web3 indie developer; AIAgent, KOL, growth hacker. |
+| 262 | @lttlanna | Little Anna | PRODUCT_GROWTH | Growth at @extendedapp. |
+| 263 | @TyzAIduck2025 | AIduck2025 | OTHER | AI-themed handle, visible bio gives no concrete domain. |
+| 264 | @onehopeA9 | OneHopeA9 | AI_CORE | Programmer and AI Agent practitioner; AI tools, Web3 research, automation workflows. |
+| 265 | @hongyi88 | 弘毅新征程 | AI_CORE | AI enthusiast, crypto enthusiast, cross-domain thinker, media creator, product UX. |
+| 266 | @MoYU_7777 | 墨鱼 | CRYPTO_WEB3 | NFT, blockchain games, airdrops, Tron/Gate ambassador. |
+| 267 | @HodlClaw | HodlClaw | CRYPTO_WEB3 | Telegram bot/token community; one-click remote bot adoption. |
+| 268 | @zkq2020118btc | 橘子备忘录 | CRYPTO_WEB3 | BTC-themed account; opportunity waiting. |
+| 269 | @nanshenwudao | 0xiang | AI_CORE | AI super-individual practitioner; Web 4.0 pioneer. |
+| 270 | @AshlynHe1129 | Ashlyn He | AI_CORE | AI wearable accessory startup; ex ByteDance and Oxford AI startup; product overseas/Kickstarter. |
+| 271 | @joinrepublic | Republic | CRYPTO_WEB3 | Investment platform spanning startups, digital assets, music, and games. |
+| 272 | @openclaw | OpenClaw | AI_CORE | AI agent for email, calendar, home automation, and chat-app workflows. |
+| 273 | @hotpot_dao | Shuyao Kong | CRYPTO_WEB3 | MegaETH ecosystem account. |
+| 274 | @XDmnnn0616 | SharkBee | AI_CORE | Content creator focused on project research, tutorials, sharing, and vibe coding. |
+| 275 | @TnTbabyzzz | 比心兔 | OTHER | Protected personal account. |
+| 276 | @nininaby | 妮妮nininaby | US_STOCKS_MACRO | On-chain alpha player with explicit Nasdaq 40X trading signal. |
+| 277 | @a16z | a16z | PRODUCT_GROWTH | Venture capital and startup portfolio account. |
+| 278 | @0xborder | 加密边境 | CRYPTO_WEB3 | Crypto founder/ambassador signal; Polymarket and BTC references. |
+| 279 | @hibachi_xyz | Hibachi | CRYPTO_WEB3 | Stablecoin-native FX exchange. |
+| 280 | @StockTianLe | 股天乐 | US_STOCKS_MACRO | Stock trader focused on A-share short-term leading-stock tactics. |
+| 281 | @ParticleIntern | DERANGED Particle Intern | CRYPTO_WEB3 | Particle Network intern; chain abstraction and crypto UX. |
+| 282 | @exc1usive7 | 空虚并非是词汇能够形容的魔鬼 | OTHER | Personal account with no visible finance/AI signal. |
+| 283 | @OwenJin12 | Owen.btc | CRYPTO_WEB3 | Perps designer/trader; ex exchange derivatives trading risk. |
+| 284 | @Trader_S18 | TraderS | US_STOCKS_MACRO | Macro and crypto trader covering Fed, war, global flows, BTC, gold, and risk assets. |
+| 285 | @Pai_in_waves | Pai | US_STOCKS_MACRO | Wave-theory trader publishing personal market views. |
+| 286 | @42space | 42 | CRYPTO_WEB3 | Real-world events to liquid assets; backed by crypto venture firms. |
+| 287 | @WallStreet0Name | 华尔街没有名字 | US_STOCKS_MACRO | Wall Street trading/market persona. |
+| 288 | @MagVerseIntern | MagVerse Intern | AI_CORE | AI creator-economy account for MagVerse_AI. |
+| 289 | @guyiguyi_ | Agugu | AI_CORE | AI explorer learning/building across AI and crypto ecosystems. |
+| 290 | @0xCatCrypto | 猫e/acc | CRYPTO_WEB3 | Crypto retail trader and Web3 account. |
+| 291 | @AL333crypto | HeyElwin | CRYPTO_WEB3 | Crypto technical-analysis and trading account. |
+| 292 | @BitInvolution | 胡建林 Keaton | CRYPTO_WEB3 | MSX, HashKey, and HTX background; crypto exchange/service signal. |
+| 293 | @Stella_Onchain | 赛儿Stella | CRYPTO_WEB3 | On-chain since 2017; filters around on-chain sentiment, structure, and relations. |
+| 294 | @rayrayweb5 | Rika 瑞卡 | AI_CORE | AI alpha prediction, Kaito ranking, information organization, product manager. |
+| 295 | @OneKeyHQ | OneKey | CRYPTO_WEB3 | Crypto wallet platform backed by Binance and Coinbase. |
+| 296 | @OneKeyCN | OneKey 中文 | CRYPTO_WEB3 | Chinese OneKey crypto hardware/software wallet account. |
+| 297 | @kokii_eth | kokii | CRYPTO_WEB3 | Investor and Solana-company builder. |
+| 298 | @yuuki_yuduru | 結城 結弦 | OTHER | Adult/entertainment account. |
+| 299 | @vista8 | 向阳乔木 | PRODUCT_GROWTH | Product manager with personal interests. |
+| 300 | @wagmitradebot | Wagmi | CRYPTO_WEB3 | Multi-chain crypto trading bot. |
+| 301 | @0xfishylosopher | Jay Yu | CRYPTO_WEB3 | Research and investments at Pantera Capital; Stanford Crypto background. |
+| 302 | @ReAI_Crypto | ReAI | AI_CORE | AI and crypto builder community. |
+| 303 | @DarwinG_CC | Darwin-G | AI_CORE | AI-powered crypto e-commerce ecosystem. |
+| 304 | @thorjayisme666 | thorjayisme | OTHER | No visible bio signal. |
+| 305 | @yyhy73 | 鱼Yuu | OTHER | Collectibles/personal sales account. |
+| 306 | @Vito_168 | Vito | CRYPTO_WEB3 | MetaEra and ND Labs founder; RWA CEO and exchange/wallet market advisor. |
+| 307 | @ivanalog_com | seekinganythingbutalpha | US_STOCKS_MACRO | Technology/dividend investing and drawdown protection. |
+| 308 | @StableStock | StableStock | US_STOCKS_MACRO | Global securities powered by stablecoins; borderless investing rails. |
+| 309 | @0xzzzl | Yupster | OTHER | Personal account. |
+| 310 | @Kyra777kim | Kyra_ | OTHER | No visible bio signal. |
+| 311 | @solsniper330 | 币圈老鼠人老墨 | CRYPTO_WEB3 | Sol/BNB believer; crypto trading and Bitget referral account. |
+| 312 | @boluomimimi168 | 菠萝菠萝蜜蜜蜜 | CRYPTO_WEB3 | New crypto learner seeking a study group. |
+| 313 | @Ryu_LCat | 赚_LCat | CRYPTO_WEB3 | Liberty Cats IP founder; investor and cycle-writing account. |
+| 314 | @yanbo2004 | 烟波 Yanbo | PRODUCT_GROWTH | DevRel background; building WorkWorkOrg; digital nomad/writer. |
+| 315 | @CramSchoolClub | CramSchoolClub | PRODUCT_GROWTH | Builder community/incubator account. |
+| 316 | @neet_acc | c00k1e | OTHER | Personal account with no visible finance/AI signal. |
+| 317 | @shawmakesmagic | Shaw | AI_CORE | AI-focused creator; human-written AI commentary. |
+| 318 | @gusik4ever | wincy.eth | CRYPTO_WEB3 | PolymarketSport community lead; money/useful-stuff creator. |
+| 319 | @ShawnThread | 0xShawn | CRYPTO_WEB3 | Alpha hunter and Asteroid builder. |
+| 320 | @WilliamLu126 | 晴天 William Lu | US_STOCKS_MACRO | Trader sharing market reflections and trading mindset. |
+| 321 | @berryxia | Berryxia.AI | AI_CORE | Builds AI tools and AI system prompts; design/coding/prompt sharing. |
+| 322 | @PhyrexNi | Phyrex | CRYPTO_WEB3 | GlassNode-heavy crypto analyst and exchange-adjacent account. |
+| 323 | @Wangduanniao | 王短鸟 | CRYPTO_WEB3 | OKX/Binance/Web3 wallet and crypto account. |
+| 324 | @0xYuxi | 0xyuxi | CRYPTO_WEB3 | Crypto trading persona; "leading coin" thesis. |
+| 325 | @krakenfx_ZH | Kraken 中文 | CRYPTO_WEB3 | Chinese account for Kraken. |
+| 326 | @LilyandLijian | 潇 | OTHER | Personal/philosophical account. |
+| 327 | @Kuguadawang6677 | 🦭 | OTHER | Protected personal account. |
+| 328 | @hongkongdoll_ko | 玩偶姐姐 | OTHER | Adult/commerce account. |
+| 329 | @nuligeA8 | 李努力.btc | CRYPTO_WEB3 | Airdrop tutorials, alpha, contracts, Binance/OKX referrals. |
+| 330 | @baseposting | Base Posting | CRYPTO_WEB3 | Base ecosystem posting account. |
+| 331 | @fan128168 | CandyDD | AI_CORE | AI track creator; Tron and Probable ambassador; Bluebird community. |
+| 332 | @latiaomeimo2 | Única | OTHER | Protected personal account. |
+| 333 | @0xhardman | 0xhardman | AI_CORE | Agentic Engineering evangelist; Claude Code, AI x Web3, AskDolly/gmdotown builder. |
+| 334 | @hellocryptoLeon | Leon | CRYPTO_WEB3 | Crypto-themed handle; NYU alumni. |
+| 335 | @mimijieweb3 | Mimi姐 | CRYPTO_WEB3 | Long BTC/BNB/SOL account with exchange referrals. |
+| 336 | @pearbinance | 梨子酱 | CRYPTO_WEB3 | Binance KOL BD; PKU Blockchain core. |
+| 337 | @CryditCard | Crydit Unlimited Crypto Card | CRYPTO_WEB3 | Web3 payment solution supported by Visa and Master. |
+| 338 | @NeurosamaAI | Neuro-sama | AI_CORE | AI VTuber account; generated/AI persona tweets. |
+| 339 | @0x8dxd | 0X8DXD | US_STOCKS_MACRO | Liquidity provider in prediction markets. |
+| 340 | @polymaster | polymaster | US_STOCKS_MACRO | Prediction markets analyst and Polymaster founder. |
+| 341 | @mustafap0ly | Mustafa | US_STOCKS_MACRO | Senior intern at Polymarket. |
+| 342 | @niqislucky | niq | CRYPTO_WEB3 | OneKey-related account. |
+| 343 | @garrytan | Garry Tan | PRODUCT_GROWTH | YC CEO; GStack/GBrain creator; founder-focused technologist. |
+| 344 | @mi_mjj | Mijc | CRYPTO_WEB3 | Polymarket culture and GweiExchange marketing; vibe-coding signal. |
+| 345 | @AcboxLiu | Acbox | AI_CORE | Working on @memoh_ai. |
+| 346 | @Kkkatia1 | Katiya | CRYPTO_WEB3 | Ex TON; builder at 0xUClub and HKUniversity. |
+| 347 | @suji_yan | Suji Yan | CRYPTO_WEB3 | Founder of Mask Network and Firefly app; Lens steward. |
+| 348 | @protocol_fx | f(x) Protocol | CRYPTO_WEB3 | DeFi protocol for USD yield and leverage products. |
+| 349 | @Depend_Research | Depend Research | PRODUCT_GROWTH | Founder-led growth studio. |
+| 350 | @TJ_Research | 投资TALK君 | US_STOCKS_MACRO | AI, Fed, US stocks, macro, and occasional crypto; YouTube finance creator. |
+| 351 | @LordWilliamUK | Lord William | US_STOCKS_MACRO | 1024 Capital founder; crypto and stock trader; US stock and crypto quant signal. |
+| 352 | @Balder13946731 | Balder | US_STOCKS_MACRO | Part-time trader with PhD; trading community. |
+| 353 | @shufen46250836 | shu fen | US_STOCKS_MACRO | US stocks, crypto, macro, and US-stock community. |
+| 354 | @JohnsonZ91127 | 潘驴邓晓闲缺一 | US_STOCKS_MACRO | Senior US-stock and blockchain trader; value-investing and BTC signal. |
+| 355 | @frankyluan | 高买低卖的神 | US_STOCKS_MACRO | Economics/market persona; NVDA and Fed-shadow-chair signal. |
+| 356 | @indigox | indigo | AI_CORE | Hallid.ai co-founder; investor, writer, coder; e/acc. |
+| 357 | @CyberCatX | CyberCat | US_STOCKS_MACRO | Tech and investing deep dives; TSLA, LMND, TEM investor. |
+| 358 | @Rocky_Bitcoin | Rocky | CRYPTO_WEB3 | Long-term crypto investor in BTC, TAO, SOL, SUI, XRP. |
+| 359 | @HaoFlaneur | Hao | US_STOCKS_MACRO | US growth-stock investor using fundamentals for timing and positioning. |
+| 360 | @formnoshape | 相 | US_STOCKS_MACRO | Daily market analysis and low-risk trading strategy tutorials. |
+| 361 | @hackbearterry | Terry Chen | PRODUCT_GROWTH | YouTube/software creator signal. |
+| 362 | @dexteryy | Dexter Yang | AI_CORE | Software/product designer across Web, JS, XR, metaverse, AI, Web3, games, and investing. |
+| 363 | @YZCStella | 半糖星星 | PRODUCT_GROWTH | Coding/life account; light developer signal. |
+| 364 | @roydoesntknow | Roy | PRODUCT_GROWTH | Customer and product support lead. |
+| 365 | @Chunluxury | Chun | OTHER | Personal account with no visible finance/AI signal. |
+| 366 | @AirdropAlchemis | 炼金叔叔 | CRYPTO_WEB3 | Solana community and Web3/OKX account. |
+| 367 | @silsrc | scr.c | PRODUCT_GROWTH | Open-source and Linux kernel hacker account. |
+| 368 | @QiuseOfLove | 一叶知秋 | CRYPTO_WEB3 | Mantle/Bybit background and Web3 community builder. |
+| 369 | @YOMIRGO | YOMIRGO | AI_CORE | Blockchain ecosystem for AI Agent assets and applications. |
+| 370 | @anna167167167 | 链上小美 | CRYPTO_WEB3 | Web3 creator and MCN ecosystem member; BTC holder. |
+| 371 | @smurfs626 | Blue | PRODUCT_GROWTH | Full-stack developer and community operator. |
+| 372 | @0xElla_ | Ella Guan | OTHER | No visible bio signal. |
+| 373 | @Doro_mole | Doro | CRYPTO_WEB3 | MoleDAO builder/community account. |
+| 374 | @tianwen2031 | 天问在香港 | CRYPTO_WEB3 | Binance KOL, crypto exchange referrals, airdrop sharing. |
+| 375 | @XianyuLi | Xiangyu 香鱼 | AI_CORE | Neuroscience PhD going deep into AI and global product work. |
+| 376 | @luanluanhey | luanluan | CRYPTO_WEB3 | Trader-not-holder and coding signal in crypto-heavy context. |
+| 377 | @Grvt_zh | Grvt 华语 | CRYPTO_WEB3 | Chinese official account for GRVT exchange. |
+| 378 | @bagel_win | Bagel | US_STOCKS_MACRO | Prediction markets product for sports and politics. |
+| 379 | @thefireflyapp | Firefly Everything App | CRYPTO_WEB3 | Web3 social/everything app by Mask Network. |
+| 380 | @fireflyappcn | Firefly 华语 | CRYPTO_WEB3 | Chinese community account for Firefly Web3 social app. |
+| 381 | @bin324328017774 | 小羊 | OTHER | Video-sale/adult-service account. |
+| 382 | @Rewkang | Andrew Kang | CRYPTO_WEB3 | Mechanism Capital investor account. |
+| 383 | @6cptbgvxpy | 023 | OTHER | Private-message/personal account. |
+| 384 | @jixiepanjileni1 | 机械盘极乐鸟 | OTHER | Adult/personal account. |
+| 385 | @JoeyJia11 | Joey @Gate | CRYPTO_WEB3 | Gate KOC operations manager. |
+| 386 | @xiaolai | xiaolai | CRYPTO_WEB3 | Bitcoin-focused account. |
+| 387 | @naval | Naval | PRODUCT_GROWTH | Founder/investor/philosophy account. |
+| 388 | @balajis | Balaji | PRODUCT_GROWTH | Network State and Network School founder. |
+| 389 | @BBxgxwnkl | Maeve | OTHER | Personal account. |
+| 390 | @mingxing311 | 辣条魅魔 | OTHER | Personal/adult signal. |
+| 391 | @joostienXD | Justin | PRODUCT_GROWTH | Head of Growth at Polysights; Waterloo engineer. |
+| 392 | @Bingzieryi | web3丞相 | CRYPTO_WEB3 | Web3 project sharing and airdrop/referral account. |
+| 393 | @icebathdao | IceBathDAO | PRODUCT_GROWTH | High-signal network/community account around cold exposure; chessxyz intern signal. |
+| 394 | @RohOnChain | Roan | US_STOCKS_MACRO | Quant systems in prediction markets and crypto. |
+| 395 | @Nickp_xxx | Nick P 你可先生 | CRYPTO_WEB3 | BAYC Taiwan founder and NFT-focused account. |
+| 396 | @karma_wizz | Wizz.hl | US_STOCKS_MACRO | PE fund researcher and prediction-market contributor. |
+| 397 | @cryptogator1121 | CryptoGator | US_STOCKS_MACRO | Prediction-market alpha founder and research account. |
+| 398 | @poliedge100 | PoliEdge100 | US_STOCKS_MACRO | Prediction-market research focused on elections, wars, and crypto issues. |
+| 399 | @MeerkatTown | Meerkat Town | AI_CORE | ERC-8004-powered Meerkat Agents on Base and Ethereum. |
+| 400 | @rbrighton88 | Robert Brighton | PRODUCT_GROWTH | Enterprise tech GTM, sales, B2B partnerships, deep tech advisor. |
+| 401 | @linwanwan823 | 林晚晚的猫 | US_STOCKS_MACRO | AI Agent, crypto research notes, US options, and prediction markets. |
+| 402 | @feindura | Fabian Vogelsteller | CRYPTO_WEB3 | LUKSO co-founder, ERC725 inventor, ERC20 author. |
+| 403 | @jiamimaodashu | @jiamimao 大猫叔叔 | US_STOCKS_MACRO | Bitcoin, Fed, Wall Street, and Trump-focused account. |
+| 404 | @bocaibocai_ | 菠菜菠菜 | CRYPTO_WEB3 | Unified Labs co-founder; RWA and DeFi builder/researcher. |
+| 405 | @ERC725Account | Universal Profiles | CRYPTO_WEB3 | Blockchain account/social profile system for Web3. |
+| 406 | @ethereumfndn | Ethereum Foundation | CRYPTO_WEB3 | Ethereum Foundation official account. |
+| 407 | @0xstark | Josh Stark | CRYPTO_WEB3 | Ethereum ecosystem leadership and maintenance account. |
+| 408 | @alrescha_1107 | Alrescha | US_STOCKS_MACRO | Prediction-market weather trader; atmospheric science graduate student. |
+| 409 | @0xdongz | don1z | CRYPTO_WEB3 | Memecoin trader and trading-bot account. |
+| 410 | @imbilly88 | Billy | AI_CORE | Agent founder with AIGC, vibe coding, BTC and meme trading signals. |
+| 411 | @lifesmeller | 喜羊羊 | OTHER | Personal account. |
+| 412 | @vanisaxxm | Van1sa | AI_CORE | Exploring crypto and AI with economics/law background. |
+| 413 | @0xEMC2WIN | EwinC. | OTHER | No visible bio signal. |
+| 414 | @fore_gate | ForeGate | US_STOCKS_MACRO | Decentralized prediction market for sports and real-world events. |
+| 415 | @lxfater | 铁锤人 | AI_CORE | Uses AI to build a freedom-oriented startup; maintainer of large GitHub project. |
+| 416 | @IvyLeanIn | IvyLeanIn | PRODUCT_GROWTH | Payment-focused podcast host and intern at anyway_sh. |
+| 417 | @yanyumeng110 | Yan | OTHER | PhD account with no visible finance/AI detail. |
+| 418 | @Harvey_ouknee | 小维又沐风 | OTHER | Personal/adult signal. |
+| 419 | @LeiIsRealGoat | 大声发 | CRYPTO_WEB3 | Crypto information aggregator and news trader. |
+| 420 | @zhixianio | 知县 | AI_CORE | Idea open-sourcer, agent trainer, and builder of clawpal, botdropapp, OwliaBot, OpenClaw. |
+| 421 | @mscryptojiayi | jiayi 加一 | CRYPTO_WEB3 | Growth advisor/investor with previous Binance background. |
+| 422 | @xplaceapp | XPlace | CRYPTO_WEB3 | Crypto wealth, non-custodial wallet, APY, and card product. |
+| 423 | @peterhch | phui.hl | CRYPTO_WEB3 | Coinpilot, Hyperliquid HK, Moongate, and crypto community builder. |
+| 424 | @XiaoZhi_BTC | 小智 | CRYPTO_WEB3 | BTC/contract trading KOL and crypto community operator. |
+| 425 | @EvieFroggie | EvieFrog | AI_CORE | Cambridge finance, quant, dAI and Web3 researcher. |
+| 426 | @0xluyu | 是鱼露不是鲈鱼哦 | CRYPTO_WEB3 | DeFi builder and quant learner. |
+| 427 | @0xxsmart | 加密大聪明 | US_STOCKS_MACRO | CryptoSmart creator; MSX US-stock token purchase reference. |
+| 428 | @polydataHQ | polydata | US_STOCKS_MACRO | Advanced analytics for Polymarket. |
+| 429 | @GCCofCommons | gccofficial | CRYPTO_WEB3 | Chinese non-profit crypto foundation funding public-goods projects. |
+| 430 | @0xSigil | Sigil Wen | AI_CORE | Thiel fellow working across distributed systems, AI, crypto, and Web4. |
+| 431 | @Xiaoniu6161 | 小牛 | US_STOCKS_MACRO | Prediction-market, crypto, and US-stock community operator. |
+| 432 | @2019_commu | 2019 community | CRYPTO_WEB3 | Trading-channel account tied to niuxiong community. |
+| 433 | @mango_lassi | mango_lassi | US_STOCKS_MACRO | Polymarket trader with visible $5k to $200k track record claim. |
+| 434 | @0xCaptainLevi | Levi | US_STOCKS_MACRO | Markets trader and TraderOsOrg founder. |
+| 435 | @Aiom09 | JadeOwO | PRODUCT_GROWTH | Product/design learner exploring Web3. |
+| 436 | @CNVRTing | cnvrt | AI_CORE | Perception layer for autonomous systems. |
+| 437 | @iclipz | clipz | PRODUCT_GROWTH | Founder of FaZe Clan. |
+| 438 | @mimaodemao | 咪猫的猫 | OTHER | Protected/personal account. |
+| 439 | @TheCatsX | The Cats X | OTHER | Cat media account. |
+| 440 | @finoa0726 | 就把祝福别在襟上吧。 | OTHER | Personal writing account. |
+| 441 | @CexAlerts_ | CexAlerts | CRYPTO_WEB3 | CEX listing-alert channel for major exchanges. |
+| 442 | @polytaleai | POLYTALE | AI_CORE | Polymarket research AI agent auto-posting signals on X. |
+| 443 | @QuantVela | Vela | AI_CORE | Data, probabilities, automation, Polymarket quant, AI engineer in Web3, vibe-trading tool builder. |
+| 444 | @vvxiaoyu8888 | 小鱼Daisy | CRYPTO_WEB3 | BNB/SOL/Aster trader and alpha channel account. |
+| 445 | @jingtao_eth | Jing tao | CRYPTO_WEB3 | Crypto trading account using o1.exchange. |
+| 446 | @dreamwhisper888 | Dreamwhisper | AI_CORE | BNB Chain dream-interpretation project. |
+| 447 | @TradingFlowAI | TradingFlow | AI_CORE | DeFi alpha product with AI-branded trading signal. |
+| 448 | @youknow028 | q | PRODUCT_GROWTH | Programmer/general rationality account. |
+| 449 | @PSETrading | PSE Trading | US_STOCKS_MACRO | Trading account with no visible bio detail. |
+| 450 | @generalcatalyst | General Catalyst | PRODUCT_GROWTH | Venture capital firm account. |
+| 451 | @jerry_hgnz | 🥒 🤠 | OTHER | No visible bio signal. |
+| 452 | @Kkytin467894 | ndicgbs | OTHER | No visible bio signal. |
+| 453 | @predictionarc | The Prediction Arc | US_STOCKS_MACRO | Home to Polymarket builders, traders, and creators. |
+| 454 | @Neo_Blockchain | Neo | CRYPTO_WEB3 | Smart Economy blockchain network. |
+| 455 | @dahongfei | Da Hongfei | CRYPTO_WEB3 | Neo founder/chair building next economy run by agents and code. |
+| 456 | @PolymarketDevs | Polymarket Developers | US_STOCKS_MACRO | Official Polymarket developer updates and resources. |
+| 457 | @xinzoruo | 心臓弱眞君 | OTHER | Gaming/personal account. |
+| 458 | @chessxyz | Chess蔡司 | US_STOCKS_MACRO | Supreme prediction-market trader and Bagel/IceBathDAO operator. |
+| 459 | @yus28369 | 余生 | OTHER | Protected personal account. |
+| 460 | @lowmintmick | lowmintmick.base.eth | CRYPTO_WEB3 | BTC/BNKR crypto account. |
+| 461 | @staticctrades | staticc | US_STOCKS_MACRO | Trading account with technical/market signal. |
+| 462 | @0xDeployer | deployer | CRYPTO_WEB3 | Deployment/Web3 persona account. |
+| 463 | @mckaywrigley | Mckay Wrigley | AI_CORE | Builds and teaches AI; founder of TakeoffAI and AgentShare. |
+| 464 | @bsmokes | bsmokes.eth | CRYPTO_WEB3 | Real-yield DeFi/PistachioFi account. |
+| 465 | @eleetmowiz | eleetmo | US_STOCKS_MACRO | Technical analyst and market-analysis content creator. |
+| 466 | @imsongshu | SongShu | AI_CORE | Crypto veteran building AI to handle exits; creator of Vibe Trading. |
+| 467 | @AviciMoney | Avici | CRYPTO_WEB3 | On-chain banking, investing, spending, and earning product. |
+| 468 | @flap_ch | Flap Ecosystem | CRYPTO_WEB3 | Flap ecosystem project/community account. |
+| 469 | @steipete | Peter Steinberger | AI_CORE | AI/OpenClaw/OpenAI builder and agent-focused creator. |
+| 470 | @vyperlang | Vyper | CRYPTO_WEB3 | Pythonic smart-contract language for EVM. |
+| 471 | @0x_weihang | 苇杭 | CRYPTO_WEB3 | Web3 investment, airdrop interaction, and daily notes. |
+| 472 | @55oog | 泥巴熋 | AI_CORE | AI exploration, information sharing, daily records. |
+| 473 | @eviegrowth | Evie | PRODUCT_GROWTH | JE Labs founder, ex OKX, branding and growth builder. |
+| 474 | @REVrobotics | REV Robotics | PRODUCT_GROWTH | Robotics parts supplier promoting STEAM globally. |
+| 475 | @3M | 3M | OTHER | Corporate science/industrial account. |
+| 476 | @firstlegoleague | FIRST LEGO League | PRODUCT_GROWTH | Global robotics competition for students and teachers. |
+| 477 | @VEXRobotics | VEX Robotics | PRODUCT_GROWTH | Robotics tools and education platform. |
+| 478 | @FTCTeams | FIRST Tech Challenge | PRODUCT_GROWTH | FIRST Tech Challenge robotics competition account. |
+| 479 | @andymarkinc | AndyMark Inc. | PRODUCT_GROWTH | Robotics and mobility components supplier. |
+| 480 | @FRCTeams | FIRST Robotics Competition | PRODUCT_GROWTH | FIRST Robotics Competition official account. |
+| 481 | @ilmondox | Naka | PRODUCT_GROWTH | Riverdotinc intern account. |
+| 482 | @miniyeyeoxo | 椰椰oxo | OTHER | Personal record account. |
+| 483 | @CappSchool | 橙子 | AI_CORE | Web3 maker and AI x blockchain enthusiast. |
+| 484 | @PSportslab | PolySportslab | AI_CORE | AI tools for quickly starting prediction-market work. |
+| 485 | @regenkomet | regenkomet.dev | CRYPTO_WEB3 | Web developer and full-time degen; Ourbit/BloFin partner signal. |
+| 486 | @CoinCoin_AI | CoinCoin.ai | AI_CORE | AI-branded crypto/product account. |
+| 487 | @0xTakeProfits | Diego | AI_CORE | On-chain finance data insights; research and AI at Nexus Data Labs. |
+| 488 | @AliHabbabeh | Ali | CRYPTO_WEB3 | Building conviction economy at xomarket. |
+| 489 | @sonysony345 | SonySony | AI_CORE | Former Meta algorithm engineer; Silicon Valley AI summit/incubator operator; Web3 knowledge sharing. |
+| 490 | @sun_xinjin | SUN XIAOCHUAN | CRYPTO_WEB3 | Parody crypto account with abstraction/officer signal. |
+| 491 | @digiii | Digi | PRODUCT_GROWTH | Distribution engineer at EYEKONSTUDIO and Rollbit optimist. |
+| 492 | @Jlbcode | Sinn.sol | AI_CORE | Web3 developer with computer security and AI master's background. |
+| 493 | @tz133441 | 夹心三明治 | OTHER | Personal/adult/tarot account. |
+| 494 | @yany11011101 | 🥥 | OTHER | Personal account. |
+| 495 | @kk2225343838 | 凛冬 | OTHER | Personal account. |
+| 496 | @ivwvioo | 芝士玉米次不次 | OTHER | Writing/tarot/personal account. |
+| 497 | @chaoda183 | 豆花 | OTHER | Personal account. |
+| 498 | @H8vinegar4eva | 버블김치 | OTHER | Personal account. |
+| 499 | @missiomdfc | missiom | OTHER | Personal motto account. |
+| 500 | @ZhanweiC | ZC | US_STOCKS_MACRO | Prediction-market account with money-making/world observation angle. |
+| 501 | @Gus_Nobody | Gus Starbro | AI_CORE | Chairman of Starlink AI (NYSE:OTAI) and Orbit AI. |
+| 502 | @0xCaptain888 | 0xCaptain | AI_CORE | AI Agent pioneer, BTC believer, Solana Chinese ambassador. |
+| 503 | @MontiMania | Monti | CRYPTO_WEB3 | NFT/BAYC-adjacent crypto account. |
+| 504 | @akafish00 | AkaFish | US_STOCKS_MACRO | Alpha hunter in prediction markets. |
+| 505 | @0xNing0x | NingNing | CRYPTO_WEB3 | Independent Web3 researcher and Web3Caff senior researcher. |
+| 506 | @DeFiGuyLuke | DeFiGuyLuke | PRODUCT_GROWTH | Non-crypto startup founder. |
+| 507 | @defioasis | defioasis.eth | US_STOCKS_MACRO | Researcher/investor focused on on-chain data, prediction markets, CLOB, and ICM. |
+| 508 | @primo_data | Primo Data | US_STOCKS_MACRO | Polymarket data account. |
+| 509 | @datadashboards | dash | US_STOCKS_MACRO | Prediction-market data and dashboards founder/operator. |
+| 510 | @Alvin0617 | alvin617.eth | AI_CORE | CryptoWesearch builder; AI x crypto, AI agent, DeFi, narrative research. |
+| 511 | @0xScottBTC | AI索罗斯科特 | US_STOCKS_MACRO | Brokerage research and crypto investment background; prediction-market arbitrage and neutral strategies. |
+| 512 | @Kaseyibcc | K. | US_STOCKS_MACRO | Crypto and prediction-market trader. |
+| 513 | @sunny_unifAI | Sunny | AI_CORE | UnifAI contributor and ex HashKey Capital. |
+| 514 | @alu69420 | Alu | OTHER | Personal account. |
+| 515 | @Kristian_cy | Krisss | US_STOCKS_MACRO | Investor with OKX/Microsoft/TikTok background; researching CTA quant. |
+| 516 | @efe206925896290 | efe | OTHER | No visible bio signal. |
+| 517 | @eth_believer_ho | hosir.eth | AI_CORE | Blockchain scientist and AI researcher; prediction markets; PhD. |
+| 518 | @Traderxiaoz | Xz | US_STOCKS_MACRO | Prediction-market/alpha-hunter account. |
+| 519 | @daxianVIP | 大仙 | CRYPTO_WEB3 | Web3 community/project promotion and GameFi/MEME account. |
+| 520 | @captain_kent | Captain Kent | CRYPTO_WEB3 | Web3 analysis/community account with Arbitrum/Sapien/Jupiter signals. |
+| 521 | @Golben_ | Golben | OTHER | Personal account with minimal bio. |
+| 522 | @claudeai | Claude | AI_CORE | Anthropic AI assistant official account. |
+| 523 | @maaaki0131 | 努力努力再努力 | CRYPTO_WEB3 | PalaceDao-related account. |
+| 524 | @CaTMi0902 | 茉莉 | OTHER | Protected personal account. |
+| 525 | @toly | toly | CRYPTO_WEB3 | Solana Labs co-founder and technical founder account. |
+| 526 | @chongxian | chongxian | PRODUCT_GROWTH | Builder, CramSchoolClub founder, prediction mentor, Web3 community operator. |
+| 527 | @femdomWorld2026 | Femdom World | OTHER | Adult account. |
+| 528 | @slave247story | 奴小Q | OTHER | Adult art account. |
+| 529 | @Tieupmyheart | もも | OTHER | Adult/kink personal account. |
+| 530 | @liangxizjdq | 凉兮将军 | OTHER | Political/conspiracy persona account. |
+| 531 | @Btcniumowang | 牛魔王 | CRYPTO_WEB3 | Bluebird/HTX/Tron/OP_CAT/AstralX ambassador and crypto account. |
+| 532 | @CryptoJason1379 | Crypto听泉 | CRYPTO_WEB3 | Web3 project and crypto earning/practice account. |
+| 533 | @corleonefnf | JAMES | PRODUCT_GROWTH | Founder of Corleone FNF. |
+| 534 | @lucas_faster | Lucas 会搞钱 | AI_CORE | ByteDance-style founder/product manager; Claude MAX API and AI account-compute sharing network. |
+| 535 | @basezh | Base中文台 | CRYPTO_WEB3 | Base Chinese media with token and Agent Skills references. |
+| 536 | @Lyangminn | 梁岷Liam | US_STOCKS_MACRO | TechFlowPost founder covering US/HK/A shares, crypto, and AI learning. |
+| 537 | @Tomatovo__ | 特猫头头 | OTHER | Personal chaos account. |
+| 538 | @sheshe_od1 | sheshe_ | OTHER | Adult/NSFW account. |
+| 539 | @lovemmtothemoon | 九儿 | OTHER | Personal account. |
+| 540 | @0xSixseven | Sixseven | OTHER | Personal/philosophical account. |
+| 541 | @xjq242408 | 7 | OTHER | Record/personal account. |
+| 542 | @0xToshio_O | 0xToshi | AI_CORE | Charts by day, prompts by night; creates with AI. |
+| 543 | @AndyW_Web3 | Andy安迪 | CRYPTO_WEB3 | Web3 learning and exploration account. |
+| 544 | @See_XSee_X | See-X | US_STOCKS_MACRO | Prediction product for real-world outcomes and rewards. |
+| 545 | @CryptoAnna01 | Web3研究媛Emily | AI_CORE | Teme founder; Web3 user growth, SocialFi, AI, GameFi. |
+| 546 | @Alfredfuuu | Alfred | AI_CORE | Web3 builder, SonicLabs Chinese ambassador, XION believer, vibe coding. |
+| 547 | @nearcyan | near | OTHER | Minimal personal account. |
+| 548 | @Pxstar_ | ratsxp | AI_CORE | Focused on crypto, AI, and prediction markets. |
+| 549 | @huhuhu69420 | huhu | OTHER | Parody account. |
+| 550 | @FIRSTweets | FIRST | PRODUCT_GROWTH | Youth robotics movement and STEM organization. |
+| 551 | @saharaoasis_ | 番茄罐头（全网第一家调教棒） | OTHER | Adult commerce/education account. |
+| 552 | @typelessdotcom | Typeless | AI_CORE | Voice productivity product; founder/CEO Huang Song referenced. |
+| 553 | @nobobyev | 井岛日白（AI版） | AI_CORE | Operations-born AI native moving between crypto and AI. |
+| 554 | @dongxi_nlp | 马东锡 NLP | AI_CORE | AI, autonomous agents, LLM reasoning models, NLP PhD background. |
+| 555 | @leon7hao | leon7hao | AI_CORE | Building Lody AI, Loro co-founder, local-first, vibe coder. |
+| 556 | @SheDeng74108 | 鱼（重开版） | OTHER | Personal photo/mood account. |
+| 557 | @hutflow | Zhu / 筑 | CRYPTO_WEB3 | Meme and NFT alpha account, Jeerclub and Rats Friend builder. |
+| 558 | @tangjinzhou | tangjinzhou | AI_CORE | Mentorbook AI creator and open-source Vue/Ant Design Vue ecosystem creator. |
+| 559 | @evan2791999134 | 我闻神仙亦有死。 | OTHER | Personal writing account. |
+| 560 | @irene_cc06 | I0 | CRYPTO_WEB3 | Flap builder, ex-Binance, invest/build meme account. |
+| 561 | @flapdotsh | Flap | CRYPTO_WEB3 | Modular token launch infrastructure on BNB Chain, Monad, and X Layer. |
+| 562 | @tailwindcss | Tailwind CSS | PRODUCT_GROWTH | Utility-first CSS framework account. |
+| 563 | @trendisgood | Trends News (Trends.fun Arc) | CRYPTO_WEB3 | Meme and tokenized trend news feed. |
+| 564 | @Tintinx2021 | Tintin | CRYPTO_WEB3 | Crypto positioning and Aster referral account. |
+| 565 | @game_for_one | Game | CRYPTO_WEB3 | Attention/front-running themed crypto account. |
+| 566 | @cdixon | Chris Dixon | CRYPTO_WEB3 | a16z crypto managing partner covering internet, startups, crypto, philosophy. |
+| 567 | @aomiao_o | 咪猫 | OTHER | Adult/chat personal account. |
+| 568 | @xiaoxiongOvO_ | 小熊（鹅鸭杀的主人） | OTHER | Gaming/personal account. |
+| 569 | @huigendeshen | 侥幸哥 / 安小将 | CRYPTO_WEB3 | Binance wallet and on-chain trading account. |
+| 570 | @Haiteng_okx | 海腾 | CRYPTO_WEB3 | OKX business/account representative. |
+| 571 | @hoidya_ | hoidya / 0xU | CRYPTO_WEB3 | Angel investor and founder education partner with Animoca/Atlas VC background. |
+| 572 | @hippo688 | Hippo河马.grvt | CRYPTO_WEB3 | Web3 community, growth, and GRVT community manager account. |
+| 573 | @ycombinator | Y Combinator | PRODUCT_GROWTH | Startup accelerator and founder education account. |
+| 574 | @MYP_1107 | 慕雲平 / 1000X GEM | CRYPTO_WEB3 | Trading and gem-seeking account. |
+| 575 | @daronthedragon | Daron | OTHER | East-West bridge/personal account. |
+| 576 | @horsetwting | horse | CRYPTO_WEB3 | Crypto-anon style account. |
+| 577 | @yimeng158 | Frank义萌-Bitget | CRYPTO_WEB3 | Bitget business, referral, and crypto account. |
+| 578 | @Shea_OKX | Shea | CRYPTO_WEB3 | OKX community ambassador. |
+| 579 | @gumysss | FourDog44 | CRYPTO_WEB3 | Crypto trenches-style trading account. |
+| 580 | @Francesca333L | Lucia | CRYPTO_WEB3 | Derp.trade, volume trading, crypto calls account. |
+| 581 | @TradeOnCucumber | Cucumber Trade | AI_CORE | Execution layer for AI trading agents, built on Base. |
+| 582 | @TCryptochicks | TCC | CRYPTO_WEB3 | Crypto value investor account. |
+| 583 | @sapphycrypto | sapphy | CRYPTO_WEB3 | Crypto entrepreneur, trader, and Binance partner. |
+| 584 | @100xDarren | 100xDarren | CRYPTO_WEB3 | Bitcoin and real estate investor sharing crypto plays. |
+| 585 | @CryptoHtdi | No.17 | CRYPTO_WEB3 | Crypto self-described retail investor account. |
+| 586 | @zebraasol | Zebra | CRYPTO_WEB3 | Web3 community and content creator. |
+| 587 | @favezy | Dr. Favezy | CRYPTO_WEB3 | BNB-focused account and CTO lead for Totakeke. |
+| 588 | @run1ooooo1 | 降雨幾率 | OTHER | Founder/persona account with limited topical signal. |
+| 589 | @BruceBlue | BruceBlue | AI_CORE | AI researcher, tech explorer, and former venture capitalist. |
+| 590 | @hodlongpod | HODLong 后浪 | CRYPTO_WEB3 | Crypto/Web3 podcast hosted by Mable Jiang. |
+| 591 | @thegaboeth | THΞGABO | CRYPTO_WEB3 | Web3 founder, partner, OKX/wallet event account. |
+| 592 | @0xTykoo | Tykoo | AI_CORE | VC account focused on AI and crypto. |
+| 593 | @Mango_Nigeria | Mango Nigeria | PRODUCT_GROWTH | Creator campaigns, collaborations, and community account. |
+| 594 | @weretuna | Kohei | PRODUCT_GROWTH | Game founder/CEO with revenue-building focus. |
+| 595 | @amandabinance | Amanda | CRYPTO_WEB3 | Binance representative making crypto accessible. |
+| 596 | @CoinQ_ai_cn | CoinQ中文 | CRYPTO_WEB3 | Chinese account for CoinQ crypto trading platform. |
+| 597 | @CoinQ_ai | CoinQ | CRYPTO_WEB3 | Crypto trading platform account. |
+| 598 | @rob02643673_rob | 枯坐p小将 | CRYPTO_WEB3 | GoldenPepeCabal meme/crypto community account. |
+| 599 | @QuaiNetwork | Quai Network | CRYPTO_WEB3 | Energy-based monetary system and crypto network. |
+| 600 | @SPYDA000 | spyda | PRODUCT_GROWTH | Builder account for Sincerely Reze. |
+| 601 | @liushezhang | 刘社长.eth | AI_CORE | Web3 product operator building SurfAI. |
+| 602 | @aa_AFeng | 阿峰_Afeng | CRYPTO_WEB3 | Crypto trading record account with GMGN bot link. |
+| 603 | @buynyctoken | NYC Token | CRYPTO_WEB3 | New York City token account. |
+| 604 | @buttdotsol | butt | CRYPTO_WEB3 | Solana-style token/persona account. |
+| 605 | @zscdao | zerosupercycle | US_STOCKS_MACRO | DAO building tools and resources around Polymarket. |
+| 606 | @_dominatos | dominatos | US_STOCKS_MACRO | Prediction markets trader and Flarify founder. |
+| 607 | @OrangeSBS | Orange | CRYPTO_WEB3 | Collector Roll and terminal-link crypto account. |
+| 608 | @neso | Neso | CRYPTO_WEB3 | Bitcoin and PEPE-focused crypto account. |
+| 609 | @watchingmarkets | Market Watcher | US_STOCKS_MACRO | Market timing account. |
+| 610 | @heyibinance | Yi He | CRYPTO_WEB3 | Binance co-founder and BNB holder. |
+| 611 | @arif_only_ | arifu.eth | CRYPTO_WEB3 | Base/Base app builder and creator. |
+| 612 | @thedankoe | DAN KOE | PRODUCT_GROWTH | Builder and creator account. |
+| 613 | @bc1Leo | Ambitiond / 心气 | OTHER | Persona account with limited topical signal. |
+| 614 | @smokey0x | SmokEy | CRYPTO_WEB3 | Shitcoin and FX trading account. |
+| 615 | @TheMoonDojo | 月亮牌手 / The Moon Dojo | CRYPTO_WEB3 | Crypto contract-trading account using astrology and technical analysis. |
+| 616 | @stogolp | sgp | OTHER | Minimal account with no visible topical signal. |
+| 617 | @Open_rug | Open Rug 開源鐮刀 | CRYPTO_WEB3 | Open-sourced crypto ponzi playbook account. |
+| 618 | @0xajc | 陈锦初Andrew / NUW | PRODUCT_GROWTH | Ex-founder, BAP author, startup operator. |
+| 619 | @Gunnaaahh | Gunnaa | PRODUCT_GROWTH | Mango Nigeria co-founder and creator/community operator. |
+| 620 | @ren_Nevermind | ren | PRODUCT_GROWTH | Ex-VC account with founder/startup framing. |
+| 621 | @0xYaCo | YaCo | AI_CORE | Crypto and AI developer; community explorer. |
+| 622 | @zyc9431 | Zyc | CRYPTO_WEB3 | Crypto builder focused on on-chain ecosystems, airdrops, and token analysis. |
+| 623 | @nuwa_world | Nuwa World / $NUW | PRODUCT_GROWTH | Human search engine product account. |
+| 624 | @JYtopfloorboss | justin james yang 佳佳 | US_STOCKS_MACRO | Polymarket Chinese business account with Stanford background. |
+| 625 | @tongjun88 | 通骏Jun | US_STOCKS_MACRO | Polymarket player, APEX DEX ambassador, trading account. |
+| 626 | @charles48011843 | Charles | CRYPTO_WEB3 | ETH/DeFi early-project and crypto YouTube account. |
+| 627 | @1YES_yes1 | 空投龙 / GoldenHoarder | AI_CORE | AI emotional analyst plus meme/contract trading and Binance Square creator. |
+| 628 | @JimsYoung_ | Jims | PRODUCT_GROWTH | CEO of Anyway account. |
+| 629 | @Jack24klove | Orlando | CRYPTO_WEB3 | ABF Finance account with BlockSec and Zerostage background. |
+| 630 | @RubyXulj | RUBY | CRYPTO_WEB3 | Web3 security operator, BlockSec COO, Phalcon threat detection/KYT. |
+| 631 | @day1globalpod | Day1Global Podcast | AI_CORE | Podcast covering AI, crypto, and investing for global Chinese builders. |
+| 632 | @Rubywang | Ruby@Day1Global Podcast | US_STOCKS_MACRO | Fintech frontier podcast host covering crypto, payments, and Wall Street. |
+| 633 | @starzq | Star@Day1Global Podcast | AI_CORE | AI/crypto/stocks podcast host, US-stock skill, ex-AI founder. |
+| 634 | @cyrilxuq | 徐冲浪 | US_STOCKS_MACRO | US stock trader, YouTube creator, and US stock trading community operator. |
+| 635 | @dontbesilent | dontbesilent | PRODUCT_GROWTH | Business philosophy and money-making creator. |
+| 636 | @Ed_x0101 | Ed_x區塊日記 | CRYPTO_WEB3 | Memecoin and shitcoin trader account. |
+| 637 | @SheeryukoL | 发牙的哄 | OTHER | Protected personal account. |
+| 638 | @sheeryuko | 牙牙乐 | OTHER | Photo-only personal alt account. |
+| 639 | @yw2282968198703 | 小y真的很想自由 | CRYPTO_WEB3 | Early crypto entrant describing bull-market gains, drawdowns, and comeback. |
+| 640 | @BumpinTrade | BumpinTrade | CRYPTO_WEB3 | Solana perp DEX with portfolio margin and 1000x leverage. |
+| 641 | @x256xx | x256.hl | CRYPTO_WEB3 | Airdrops and Hyperliquid maximalist account. |
+| 642 | @crypto_pumpman | 泵泵超人 / Pumpman | AI_CORE | Crypto research, data visualization, and vibe coding creator. |
+| 643 | @Pumpfun | Pump.fun | CRYPTO_WEB3 | One-click coin launch platform. |
+| 644 | @kryptogo_ | KryptoGO | CRYPTO_WEB3 | Multichain wallet, memecoin starter pack, trading and payments. |
+| 645 | @frontrunpro | frontrun.pro | CRYPTO_WEB3 | Extension wallet for pro on-chain traders. |
+| 646 | @TokenVigilan | 老三 / LaoSan | CRYPTO_WEB3 | BTCFi/Web3 opportunity and Binance wallet account. |
+| 647 | @0xGGbond66 | 0xGGbond / TermMax | CRYPTO_WEB3 | Meme tools and crypto project research account. |
+| 648 | @alisayang0211 | Ada真 / 小护士勇闯web3 | CRYPTO_WEB3 | Web3 personal account. |
+| 649 | @you1873118 | serein | OTHER | Personal freedom, vitality, and community account. |
+| 650 | @jiucaicai250131 | Web3菜菜子 / TermMax | CRYPTO_WEB3 | Web3 accountant, WEEX ambassador, DeFi and on-chain promotion account. |
+| 651 | @tiany221 | 甜甜 Sweety | CRYPTO_WEB3 | Web3 retail/investment-research and BiyaPay ambassador account. |
+| 652 | @weiwei5126181 | 小宝 / TermMax | CRYPTO_WEB3 | Blockchain and crypto commentary account. |
+| 653 | @feng638061 | 7w | CRYPTO_WEB3 | Web3/HTXDAO volunteer and Bluebird Club account. |
+| 654 | @web3houzi | web3猴子 | CRYPTO_WEB3 | Web3 research, airdrops, community promotion, Predict.fun and Arbitrum account. |
+| 655 | @jielove233 | 是阿杰吖 | CRYPTO_WEB3 | Web3, DeFi, blockchain project updates and research account. |
+| 656 | @xiaojianjian567 | Polo1.4 贱 | CRYPTO_WEB3 | Web3/Bluebird community persona and idolly_AI ambassador account. |
+| 657 | @JIBAIWeb3 | Signals枫 | AI_CORE | BTC intraday signals, AI trading strategy, airdrop research, market review. |
+| 658 | @pietehao | Money浩 | CRYPTO_WEB3 | Crypto arbitrage-focused account. |
+| 659 | @JinYu762 | JinYu | US_STOCKS_MACRO | Hong Kong/US stocks plus crypto commentary, project breakdowns, scam alerts. |
+| 660 | @tugouplayer | 土狗大玩家 / Bird | CRYPTO_WEB3 | Meme-coin and crypto trading channel account. |
+| 661 | @TwinkBukowski | Worst Boyfriend Ever | OTHER | Writer/book account. |
+| 662 | @flyiiawei | flyawei | AI_CORE | Crypto analyst and ambassador for CreaoAI, idolly_AI, GRVT, StandX. |
+| 663 | @WanQiu_web3 | 晚秋 / Bird | CRYPTO_WEB3 | Web3, WEEX ambassador, video editing and code tinkering account. |
+| 664 | @ERIC8_ETH | 熊猫小哥 / ETHGas | CRYPTO_WEB3 | Crypto trading, airdrops, project updates, Binance Square creator. |
+| 665 | @ohouhou717 | Weilan | CRYPTO_WEB3 | Crypto commentary account. |
+| 666 | @NEXRJ_ | RJ Club | CRYPTO_WEB3 | Web3 community account. |
+| 667 | @snow949494 | snow | OTHER | Minimal personal account with resilience/authenticity framing. |
+| 668 | @btc_789 | Key | CRYPTO_WEB3 | BNB and GMGN-linked crypto account. |
+| 669 | @Amy0020610 | Amy ai | OTHER | Empty/minimal visible profile. |
+| 670 | @sbm999499 | kuku | CRYPTO_WEB3 | Trading and arbitrage account. |
+| 671 | @blueoli007 | ASDZ007 / Cryptobro | CRYPTO_WEB3 | Crypto observer tracking markets and sentiment. |
+| 672 | @Bore_sol | Bore | CRYPTO_WEB3 | Solana/Bore Alpha account. |
+| 673 | @MikeJin12 | 0xMike | CRYPTO_WEB3 | 0x-style builder/broker account with math background. |
+| 674 | @akalilsam | akalilSAM 小山姆 | PRODUCT_GROWTH | WOK Labs builder bridging China, Europe, and Korea. |
+| 675 | @ALaoHua_Web3 | A老花 / Bird | CRYPTO_WEB3 | Primary-market research, secondary trends, and tech-airdrop account. |
+| 676 | @GaoZi_rebirth | 搞子 / TermMax | CRYPTO_WEB3 | TermMax/Web3 community account. |
+| 677 | @xx03199 | web3 八方 | CRYPTO_WEB3 | Crypto researcher, airdrop hunter, Web3 builder covering DeFi, MemeFi, alpha trends. |
+| 678 | @yichen1806 | 赚麻 / TermMax | CRYPTO_WEB3 | Chain OG, airdrop hunter, technical geek sharing Web3 alpha. |
+| 679 | @hassanyehiaa | 风清扬 | AI_CORE | Independent crypto market observer and AI Agent player. |
+| 680 | @candywantfly1 | CryptoBrian / 加密C&C | CRYPTO_WEB3 | Solana member and crypto community account. |
+| 681 | @hyyuan99 | 猪猪熊 | CRYPTO_WEB3 | Web3 hobbyist and crypto researcher. |
+| 682 | @0x27y | 二七歲便當小哥 | CRYPTO_WEB3 | Meme-coin, insider-analysis, and market-maker tracking account. |
+| 683 | @0xxNathan | Nathan | OTHER | Minimal account with limited visible topical signal. |
+| 684 | @BTC563 | 颜驰.Bit | CRYPTO_WEB3 | Binance Chinese-region trading/technical-analysis creator. |
+| 685 | @0xyukaz | yukaz | CRYPTO_WEB3 | Trading-bot and crypto trading account. |
+| 686 | @JohnCena | John Cena | OTHER | Public figure and personal-growth conversation account. |
+| 687 | @Dincoco | Dincoco-罡門 | CRYPTO_WEB3 | Crypto hot-spots and sentiment account. |
+| 688 | @kayyy2828 | Kayyy.grvt | CRYPTO_WEB3 | GRVT Chinese-region BD building on-chain finance. |
+| 689 | @KiteAIChinese | KITE AI 中文 | AI_CORE | Official Chinese account for Kite AI, an AI-payment stablecoin blockchain for agents. |
+| 690 | @kngmngxing38341 | 0xfh | AI_CORE | AI post-graduate student, LLM and software engineer. |
+| 691 | @xixikawaii | 汐 | OTHER | Personal/entertainment account. |
+| 692 | @0xqiuqiuu | 0xqiuqiu | OTHER | Digital nomad personal account. |
+| 693 | @peeeeeach111 | 水蜜桃 | OTHER | Personal aesthetics and feminist account. |
+| 694 | @aaronvick | aaronV | AI_CORE | Technologist and conceptual artist focused on AI agents, trust rails, and Web3. |
+| 695 | @Aranna0572 | Aranna / 反骨小猫 | AI_CORE | Tech ethics, existential issues, and AI-human resonance frameworks. |
+| 696 | @fivepointwater5 | 五点水 | CRYPTO_WEB3 | Crypto beginner sharing airdrops, arbitrage, DeFi, and lower-risk finance. |
+| 697 | @kedamaa | 玉之けだま | OTHER | Doujin artist and Pixiv/FANBOX account. |
+| 698 | @LiquidQuantM | QuantM | CRYPTO_WEB3 | Memecoin trader and crypto content creator. |
+| 699 | @nathanisalive | Nathan | OTHER | Minimal account with no visible topical signal. |
+| 700 | @yuuyanmir_ | 我想不到好名字好崩溃 | OTHER | Personal/chat account. |
+| 701 | @0xJuliechen | Julie Chen | PRODUCT_GROWTH | Vibe marketing at Photon, Penn, ex-Reuters and VC storyteller. |
+| 702 | @Juliechen_sf | Julie Chen @SF | OTHER | Personal/shitposting alt for Julie Chen. |
+| 703 | @mablemeibao | Mable 煤宝宝没饱饱 | CRYPTO_WEB3 | Trends.fun and HODLong podcast account. |
+| 704 | @sleepy0x13 | sleepy.md | CRYPTO_WEB3 | BlockBeats/Beating writer and Web3 storytelling account. |
+| 705 | @Rickldq | Rick Qiang | CRYPTO_WEB3 | Web3 legal advocacy specialist and podcast host. |
+| 706 | @MemeMax_Fi | MemeMax | CRYPTO_WEB3 | Perpetual DEX playground account. |
+| 707 | @pigupigudidi | pigu pigu | CRYPTO_WEB3 | Web3 human-nature observer account. |
+| 708 | @PPHarryDotBTC | PPHarry | CRYPTO_WEB3 | DotBTC-style crypto account with limited visible profile. |
+| 709 | @yeyuTvT | yeyu | OTHER | Minimal account with no visible topical signal. |
+| 710 | @Leooweb3 | Leo | CRYPTO_WEB3 | Crypto KOL manager and partner for LuckyFun/AisarLabs. |
+| 711 | @YOUNGTR3E | young | CRYPTO_WEB3 | Web3 community manager account. |
+| 712 | @Plus_Ultra_715 | Winchman@Renaiss | CRYPTO_WEB3 | Renaiss CEO accelerating physical collectibles on-chain. |
+| 713 | @crypto_9A | 9A | US_STOCKS_MACRO | Prediction markets, Polymarket trader/researcher, on-chain analyst. |
+| 714 | @qp8178246353683 | 瓜娃子 | OTHER | Minimal learning/progress account. |
+| 715 | @ssrsCXDAO | 上善若水 | CRYPTO_WEB3 | Gem shots and crypto opportunity account. |
+| 716 | @ccy1871 | Aidang | AI_CORE | MVENTURE ambassador covering AI, RWA, DeFi, and memes. |
+| 717 | @renaissxyz | Renaiss Protocol | CRYPTO_WEB3 | RWA infrastructure for collectibles on BNB Chain. |
+| 718 | @Saccc_c | Sac | AI_CORE | Wealth-freedom creator working toward AI-native practice. |
+| 719 | @JYdmnLFG | JY | AI_CORE | AI and Web3 YouTube creator with Binance/OKX community links. |
+| 720 | @0xoviweb3 | MD OVI | CRYPTO_WEB3 | Web3 learning/community account. |
+| 721 | @Moya_2025 | Moya | CRYPTO_WEB3 | DeFi research and product, economics background, blockchain founder. |
+| 722 | @0xshushu_ | 鼠鼠赚钱日记 | CRYPTO_WEB3 | Crypto diary and UniversalX-linked account. |
+| 723 | @pizzintwatch | Pentagon Pizza Watch | US_STOCKS_MACRO | OSINT/alt-data feed for prediction-market traders and researchers. |
+| 724 | @Haiik778 | 土豆子 | OTHER | Adult/chat account. |
+| 725 | @OnlyXuanwo | Xuanwo | AI_CORE | Open-source data infrastructure, OpenDAL, LanceDB and data freedom. |
+| 726 | @momojullyy | Scared2BeLonely | OTHER | Personal account. |
+| 727 | @missoralways | A | CRYPTO_WEB3 | Narrative trader and professional roundtripper account. |
+| 728 | @kiko_ftw | Kiko FTW | CRYPTO_WEB3 | Solana/Trojan partner and PnL-focused trading account. |
+| 729 | @McDonalds | McDonald's | OTHER | Brand account. |
+| 730 | @maoshen | 猫神 | OTHER | Chinese independent observer and YouTube commentary account. |
+| 731 | @EvaCmore | Eva 树姐 | AI_CORE | AI Agent, SUI ecosystem, and project research account. |
+| 732 | @PandaCheck91 | 待定 | OTHER | Minimal placeholder account. |
+| 733 | @imAhSenx | 阿sen | PRODUCT_GROWTH | KOL incubation and community-building account. |
+| 734 | @jiroucaigou | 努力赚钱的菜狗 | AI_CORE | Airdrop tutorials, crypto research, US-stock learning, and AI explainers. |
+| 735 | @CryptoCaligh | Caligh 土豆 | CRYPTO_WEB3 | 2011 miner, TradFi escapee, Bitcoin/crypto account. |
+| 736 | @everycity1go | 草色 | OTHER | Protected personal account. |
+| 737 | @nbblock | CJ_Blockchain, CFA | CRYPTO_WEB3 | Ex-investment banker, blockchain researcher, long-term Bitcoin holder. |
+| 738 | @Chimianmianmao | 猫大妈 | OTHER | Adult/chat account. |
+| 739 | @Arctic0013 | Arctic | US_STOCKS_MACRO | Geopolitics, event-driven trading, and prediction-market research. |
+| 740 | @Web3to888btc | Victor小童 | CRYPTO_WEB3 | Binance wallet and on-chain trading account. |
+| 741 | @HackQuest_ | HackQuest | AI_CORE | Web3 and AI developer education platform for coding, hackathons, startups. |
+| 742 | @m_a_zeeshan | Ali Zeeshan | CRYPTO_WEB3 | Solana builder and smart-contract intern. |
+| 743 | @CHILABS_ | CHI Labs | CRYPTO_WEB3 | Web3 livestream and creator-content ecosystem account. |
+| 744 | @coseryaya | 加密杂役女仆 | AI_CORE | CHI Labs streamer covering AI trading and altcoin trading. |
+| 745 | @YYzzy_diamond | YYYzzy / GDC | CRYPTO_WEB3 | ETH/on-chain-heavy account and NFT community participant. |
+| 746 | @mmqmowo | 这世界太坏 | OTHER | Protected personal account. |
+| 747 | @tcxiaomaomi | 天才小猫咪 | OTHER | Protected personal account. |
+| 748 | @Zzz1004Aza | 雪糕 | OTHER | Personal account. |
+| 749 | @yeslovejinjin | 津津 | OTHER | Adult/chat account. |
+| 750 | @axisrobotics | Axis Robotics | AI_CORE | Physical AI and robot-intelligence account. |
+| 751 | @Titan_Exchange | Titan | CRYPTO_WEB3 | Solana Meta DEX aggregator account. |
+| 752 | @YunJiu | 雲鳩 | OTHER | Music-game and submission account. |
+| 753 | @KittyruiO_o | 童脸狼 2.0 | OTHER | Personal alt account. |
+| 754 | @2021OrangeCat | 0x橘猫 | CRYPTO_WEB3 | Binance referral and Binance Square account. |
+| 755 | @yuu_qik | 阿漁yu_ | OTHER | Student/personal account. |
+| 756 | @lizhiove | 荔枝雾 | OTHER | Inactive personal alt account. |
+| 757 | @blueeovo | 无人拒绝一具学生尸体 | OTHER | Personal/chat account. |
+| 758 | @suixing123ttks | 岁星 | OTHER | Personal photo account. |
+| 759 | @MoLi47690 | 不想被人认出来 3.0版 | OTHER | Adult/chat personal account. |
+| 760 | @AndtaT___ | AT | OTHER | Minimal aura-farming account. |
+| 761 | @YiAn0421_ | 亦安 | OTHER | Personal/chat account. |
+| 762 | @VitaminC0327 | VitaminC | OTHER | Protected personal account. |
+| 763 | @Estherishere_ | 你让让我吧不行吗 | OTHER | Personal single-mother daily-life account. |
+| 764 | @WoJiang38562 | 我是一只小猫咪 | OTHER | Personal/pet persona account. |
+| 765 | @Sylus_Only_ | 焚烧老公只为治疗冷暴力 | OTHER | Personal account. |
+| 766 | @giveson30 | 忧郁鸭子 | OTHER | Personal daily-life account. |
+| 767 | @yoyoOvO6June1 | 优乐美嘉 | OTHER | Personal memo/chat account. |
+| 768 | @Putaoputao122 | 葡萄_ | OTHER | Protected personal account. |
+| 769 | @bolixing_1215 | 玻璃心 | OTHER | Diary/personal account. |
+| 770 | @_Ro_X_oR_ | RoXoR | OTHER | Personal/philosophical account. |
+| 771 | @trendsdotfun | Trends | PRODUCT_GROWTH | Product growth, community, attention, and game-building account. |
+| 772 | @pipizhu_eth | Una繁星 | AI_CORE | AI and trend-interpretation YouTube/community creator. |
+| 773 | @richpeach888 | 小桃今天止盈了嘛 | CRYPTO_WEB3 | Crypto trading, SMC strategy, Web3 observation account. |
+| 774 | @slo_hq | SLO | AI_CORE | Solana LLM Oracle and on-chain LLM inference account. |
+| 775 | @mablejiang | mable.sol | CRYPTO_WEB3 | Trends.fun and HODLong creator, ex-FSL Web3 and Multicoin growth. |
+| 776 | @nickshirleyy | Nick shirley | PRODUCT_GROWTH | Education/creator account teaching people to learn. |
+| 777 | @jiamixiaomao | 加密小猫 | CRYPTO_WEB3 | Crypto blogger, airdrop tutorials, Bitcoin knowledge sharing. |
+| 778 | @10UWINA8 | 三海 | CRYPTO_WEB3 | Token relay and crypto account. |
+| 779 | @moranweb3 | 墨染 | CRYPTO_WEB3 | Crypto research, airdrops, YouTube creator. |
+| 780 | @mspeachiefoxx | Peachie | CRYPTO_WEB3 | Crypto artist and graphics/banner creator. |
+| 781 | @welinkBNB | 万联welinkBNB | AI_CORE | Web3, chain games, AI, and airdrop investment-opportunity creator. |
+| 782 | @Billion_intern | Billion Intern | US_STOCKS_MACRO | Intern account for Billion Live, a prediction and trading attention product. |
+| 783 | @Billion_Global | Billion Live | US_STOCKS_MACRO | Attention layer for prediction and trading markets. |
+| 784 | @AstroMoon1225 | 月亮小馆Astro Moon | US_STOCKS_MACRO | Financial astrology, trading psychology, and wealth-indicator account. |
+| 785 | @Loopierr | Loopierr | CRYPTO_WEB3 | GMGN-linked crypto account. |
+| 786 | @y95277777 | 大赌哥 FLOCK | CRYPTO_WEB3 | FLOCK advisor and Lighter/Nodex/crypto community account. |
+| 787 | @o1_exchange_cn | o1.exchange 中文 | US_STOCKS_MACRO | Chinese account for DeFi trading platform covering Base ecosystem and advanced trading. |
+| 788 | @o1_exchange | o1.exchange | US_STOCKS_MACRO | On-chain exchange for spot, perps, and prediction markets. |
+| 789 | @xinchne_eth | 星辰 | AI_CORE | AI programmer, project research, and airdrop tutorial account. |
+| 790 | @magicblock | MagicBlock | CRYPTO_WEB3 | Real-time engine for Solana applications. |
+| 791 | @solana_devs | Solana Developers | CRYPTO_WEB3 | Technical news and developer updates for Solana. |
+| 792 | @Solana_zh | Solar / Solana中文社群 | CRYPTO_WEB3 | Chinese Solana community organization. |
+| 793 | @tao1865453 | 玩具 | OTHER | Personal account. |
+| 794 | @lijiuer1 | Niner / 九儿 | CRYPTO_WEB3 | Binance-linked crypto account. |
+| 795 | @web3chacha | 叉叉 | AI_CORE | Web3 account covering RWA, DeFi, airdrops, AI, and money-making communities. |
+| 796 | @aiqiang888 | 记得爱强 | CRYPTO_WEB3 | Airdrop beginner and Bluebird/Lighthouse community account. |
+| 797 | @myao86 | 阿乐 | AI_CORE | Renaiss Chinese ambassador, AI app practitioner, prediction-track content creator. |
+| 798 | @rtk17025 | DD 滴滴 | US_STOCKS_MACRO | Crypto, Hong Kong/US IPOs, prediction, and AI-based earning account. |
+| 799 | @shamanste8 | Shaman Ste | AI_CORE | Community/content creator covering AI tools, Web3, and TCG. |
+| 800 | @YeruiZhang | Rui | CRYPTO_WEB3 | HashKey Capital account with crypto investment context. |
+| 801 | @tippy_crypto | Tippy | CRYPTO_WEB3 | Crypto researcher/promoter curating airdrop information. |
+| 802 | @Forward_TD | Forward | OTHER | Self-improvement account. |
+| 803 | @WhiteWhaleLabs | The White Whale | CRYPTO_WEB3 | Market conviction and philosophy account. |
+| 804 | @RuneCrypto_ | Rune | CRYPTO_WEB3 | On-chain yield account. |
+| 805 | @Mou_zaisi | 某在斯 | PRODUCT_GROWTH | Project scout at Devfun and job-seeking account. |
+| 806 | @boldleonidas | Bold | OTHER | Hand-drawn comics and memes account. |
+| 807 | @Solomon_Nahhh | Solomon | OTHER | Personal/philosophical account. |
+| 808 | @cryptobraveHQ | 加密无畏 | CRYPTO_WEB3 | Web3 community builder covering BNB, SUI, SOL. |
+| 809 | @btc200808 | ZK | CRYPTO_WEB3 | Crypto community account. |
+| 810 | @yoyo_zyzy | 高能量的Yoyo | US_STOCKS_MACRO | Web3 and US-stock account with on-chain narrative analysis. |
+| 811 | @mars_bnb | Mars / BNB | CRYPTO_WEB3 | BNB holder, airdrop participant, Binance Alpha account. |
+| 812 | @TimHaldorsson | Tim Haldorsson | AI_CORE | AI agents and revenue builder, AI agency founder, EspressioAI/LunarStrategy. |
+| 813 | @yqgyx123 | 猫哥 / YQG | CRYPTO_WEB3 | Web3 long-term-thinking creator and chain-game community founder. |
+| 814 | @Meta_eth168 | Meta.ETH | CRYPTO_WEB3 | Memecoin-focused BNB holder and crypto community account. |
+| 815 | @NFTCPS | 鸟哥 / 蓝鸟会 | CRYPTO_WEB3 | Bluebird Club initiator and Binance/OKX Web3 wallet promoter. |
+| 816 | @abyssofgambling | HK-L_牛英俊 | CRYPTO_WEB3 | Meme-channel research and writing account. |
+| 817 | @DogBlue1412 | 蓝狗的眼睛 | AI_CORE | Web3 AI explorer account. |
+| 818 | @0x_xifeng | spark | CRYPTO_WEB3 | Crypto diary/community account. |
+| 819 | @btcpiggy | 开挂的金兔子 | CRYPTO_WEB3 | Binance Square creator mixing divination and crypto community promotion. |
+| 820 | @GateLive_Ric | Richard | CRYPTO_WEB3 | Gate BD, Crypto Live and finance account. |
+| 821 | @0xYukiRabbit | Yuki Rabbit | CRYPTO_WEB3 | T1 Labs founder, SOON SVM builder, Binance-linked crypto account. |
+| 822 | @bonkfun | BONK.fun | CRYPTO_WEB3 | Meme launch platform account. |
+| 823 | @adven1161 | yuh | OTHER | Minimal personal account. |
+| 824 | @web3dothan | Dothan | CRYPTO_WEB3 | Web3 audience growth, on-chain investor, ambassador and designer account. |
+| 825 | @skantan_xvii | skantan | US_STOCKS_MACRO | Founder/operator, Base contributor, Limitless ambassador, studying Polymarket. |
+| 826 | @theganfam | GAN | CRYPTO_WEB3 | Web3 KOL covering memecoins, crypto, NFTs and paid inquiries. |
+| 827 | @clukz | clukz | CRYPTO_WEB3 | Axiom-linked trading account. |
+| 828 | @0x_fokki | fokki | CRYPTO_WEB3 | Web3 builder sharing thoughts, setups, and strategies. |
+| 829 | @Alpha_Bybit | Bybit Alpha | CRYPTO_WEB3 | Bybit on-chain action portal account. |
+| 830 | @XHuntCN | XHunt中文社区 | AI_CORE | AI-driven creator influence assessment and monetization platform with crypto research assistant. |
+| 831 | @0xLuo | 0xluo.base.eth | CRYPTO_WEB3 | Crypto-anarchist, on-chain social explorer, Farcaster/Base media advisor. |
+| 832 | @rainbowdotme | Rainbow | CRYPTO_WEB3 | On-chain wallet account. |
+| 833 | @btc2ai | Crypto北斗 / alpha | CRYPTO_WEB3 | Crypto alpha, data visualization, meme research and ranking account. |
+| 834 | @saylor | Michael Saylor | US_STOCKS_MACRO | Strategy founder/chairman, Bitcoin and MSTR-related account. |
+| 835 | @Yes_Johnny910 | Johnny强尼 | CRYPTO_WEB3 | Web2 finance to Web3 transition and crypto learning account. |
+| 836 | @nadoHQ | Nado | CRYPTO_WEB3 | CLOB DEX for spot, perps, and money markets. |
+| 837 | @stitchdegen | Stitch | CRYPTO_WEB3 | Meme research account. |
+| 838 | @uponlymodee | BrD | OTHER | Minimal personal account with Waterloo background. |
+| 839 | @spawnbun | Spawn Bunny | CRYPTO_WEB3 | Internet coin minting account on c402 markets. |
+| 840 | @aiquanttools | AIQuant.tools 监控量化一站式 | AI_CORE | AI-driven quantitative trading platform. |
+| 841 | @aveai_info | Ave.ai | CRYPTO_WEB3 | On-chain trading platform account. |
+| 842 | @paden | Pade | OTHER | Streamer account. |
+| 843 | @beijingdou | Josh Ong | CRYPTO_WEB3 | Bored Room Ventures cofounder, Web3 advisor and NewChic Capital partner. |
+| 844 | @0xVeil | 小李飞刀 | OTHER | Culture/history essay account. |
+| 845 | @y1nt_ | Y1nt_阴天 | CRYPTO_WEB3 | On-chain and meme trading account. |
+| 846 | @A9Less | A9Less | CRYPTO_WEB3 | Meme alpha account. |
+| 847 | @64s | 64s | US_STOCKS_MACRO | Crypto quant trader and prediction-market specialist. |
+| 848 | @Modudao0707 | ModuDAO | CRYPTO_WEB3 | Decentralized autonomous organization for degens. |
+| 849 | @shahrianazim6 | Nazim | OTHER | Minimal personal account. |
+| 850 | @hitarayo | rain | OTHER | Personal account. |
+| 851 | @holly_web3 | Holly | PRODUCT_GROWTH | Early founder/operator account. |
+| 852 | @ItsEshOnX | ESH / Mass Onboarding Arc | PRODUCT_GROWTH | Visibility provider, Web3 growth and creator account. |
+| 853 | @ItsNessaOnX | Nessa | PRODUCT_GROWTH | Web3 creator and marketing account. |
+| 854 | @woo_jun_space | Woojun / ModuDAO | CRYPTO_WEB3 | Limitless and ModuDAO community account. |
+| 855 | @f1owerworks | h1bari | OTHER | Minimal personal account. |
+| 856 | @GoGoMyboy | Klay | OTHER | Minimal account with no visible topical signal. |
+| 857 | @IvanBullish | Ivan Bullish | PRODUCT_GROWTH | Internet attention, online monetization, and partnership account. |
+| 858 | @Btc_Dou | Dou | CRYPTO_WEB3 | Crypto operations-record account. |
+| 859 | @0xPickleCati | Pickle Cat | CRYPTO_WEB3 | Degen trader and trade-channel account. |
+| 860 | @KyeGomezB | Kye Gomez / swarms | AI_CORE | Swarms founder building agent economy and researching multi-agent collaboration. |
+| 861 | @ohyishi | Yishi | CRYPTO_WEB3 | OneKey intern account. |
+| 862 | @nerlfield | Daniel Kovalenko | AI_CORE | AI engineer exploring bio agents and compute shapes. |
+| 863 | @0xClemm | Clem | US_STOCKS_MACRO | DeFi risk, ex-TradFi, options trading and Limitless/Ranger account. |
+| 864 | @netflix | Netflix | OTHER | Entertainment brand account. |
+| 865 | @aztecnetwork | Aztec | CRYPTO_WEB3 | Privacy-first Ethereum Layer 2 account. |
+| 866 | @cyodyssey | Siyuan | CRYPTO_WEB3 | Engineer and investor at YZi Labs with BNB Chain research funding. |
+| 867 | @52Hz_eth | 52Hz.eth | CRYPTO_WEB3 | Crypto diary and group account. |
+| 868 | @BrianShroder | Brian Shroder | CRYPTO_WEB3 | 1MoneyNetwork co-founder/CEO and former Binance.US CEO. |
+| 869 | @xizhe_chan | Owen Chen / 希哲 | CRYPTO_WEB3 | Crypto-VC and PKU Blockchain researcher. |
+| 870 | @dingalingts | dingaling | US_STOCKS_MACRO | Predict.fun builder, former Binance head of research and PancakeSwap founder. |
+| 871 | @0xtonixie | 0xToni | AI_CORE | AI product manager and AI learning/one-person-company creator. |
+| 872 | @bitfish | DiscusFish | CRYPTO_WEB3 | F2Pool and Cobo co-founder exploring Bitcoin, DeFi, and AI. |
+| 873 | @c_dylanber | 诺诺Dylan | CRYPTO_WEB3 | Lighter and perp DEX tracking account. |
+| 874 | @gara3939 | GARA | OTHER | Minimal personal account. |
+| 875 | @scottonPoly | Scottilicious | OTHER | Philosophical account with NFA framing. |
+| 876 | @GoKiteAI | KITE AI | AI_CORE | AI payment blockchain and agent passport account. |
+| 877 | @ethereum | Ethereum | CRYPTO_WEB3 | Ethereum ecosystem account. |
+| 878 | @bitcoin136 | 七喜 / 7UP | CRYPTO_WEB3 | Web3/BTC account. |
+| 879 | @yaji_Selene | 加密牙牙Selene | CRYPTO_WEB3 | Crypto spot/options/airdrop and meme account. |
+| 880 | @GoHyperTrend | HyperTrend | CRYPTO_WEB3 | Web3 on-chain credit layer platform. |
+| 881 | @HyperTrenders | 链喵 | CRYPTO_WEB3 | HyperTrend co-founder account covering on-chain data and reputation. |
+| 882 | @dan326714 | 十年一梦 | OTHER | Protected personal account. |
+| 883 | @Shanks_A9z | Shanks | CRYPTO_WEB3 | CrismonStorm builder and GMGN full-chain trading account. |
+| 884 | @MayGordon01 | oneone.eth | CRYPTO_WEB3 | 137labs researcher and crypto-course account. |
+| 885 | @Hertzflow_xyz | HertzFlow | CRYPTO_WEB3 | Leverage engine for perpification of everything, backed by YZi Labs. |
+| 886 | @Ru7Longcrypto | Ru7.ai | OTHER | Personal/free-speech humor account. |
+| 887 | @istdrc | stdrc | AI_CORE | Building slock.ai, former Kimi CLI author and database-kernel engineer. |
+| 888 | @harmonixfi | Harmonix Finance | CRYPTO_WEB3 | Yield optimization on Hyperliquid. |
+| 889 | @DrJimFan | Jim Fan | AI_CORE | NVIDIA robotics director solving Physical AGI. |
+| 890 | @oran_ge | Orange AI | AI_CORE | CEO of MarsWave and ColaOS account. |
+| 891 | @tengyanAI | Teng Yan | AI_CORE | AI infrastructure and intelligence data creator building Tessara AI. |
+| 892 | @annadgoldie | Anna Goldie | AI_CORE | RicursiveAI founder/CEO, ex-Google DeepMind and Anthropic. |
+| 893 | @bobmcgrewai | Bob McGrew | AI_CORE | Former OpenAI chief research officer, early exec at Palantir and PayPal. |
+| 894 | @miramurati | Mira Murati | AI_CORE | Thinking Machines builder and former OpenAI CTO. |
+| 895 | @thinkymachines | Thinking Machines | AI_CORE | AI company account linked with Tinker API. |
+| 896 | @johnschulman2 | John Schulman | AI_CORE | Thinking Machines member, RL and alignment researcher. |
+| 897 | @woj_zaremba | Wojciech Zaremba | AI_CORE | OpenAI co-founder focused on AI resilience. |
+| 898 | @ilyasut | Ilya Sutskever | AI_CORE | SSI/OpenAI co-founder account. |
+| 899 | @AlecRad | Alec Radford | AI_CORE | AI researcher account from the OpenAI/GPT lineage. |
+| 900 | @xmaquina | XMAQUINA | AI_CORE | Robotics capital-markets platform account. |
+| 901 | @GodotSancho | 戈多Godot | US_STOCKS_MACRO | Options, US-stock trading and blockchain knowledge-graph account. |
+| 902 | @PolymarketSport | Polymarket Sports | US_STOCKS_MACRO | Polymarket-powered sports odds and forecast account. |
+| 903 | @y_cryptoanalyst | yyy | CRYPTO_WEB3 | Crypto analyst and shitposting account. |
+| 904 | @mert | mert | CRYPTO_WEB3 | Helius CEO building Solana RPCs, APIs and data. |
+| 905 | @_weidai | Wei Dai | CRYPTO_WEB3 | 1kx research partner and crypto-investment account. |
+| 906 | @_charlienoyes | Charlie | CRYPTO_WEB3 | Investor, former Paradigm GP and MIT account. |
+| 907 | @ethereumJoseph | Joseph Lubin | CRYPTO_WEB3 | Ethereum co-founder and Consensys founder/chairman. |
+| 908 | @Shaughnessy119 | Tommy | CRYPTO_WEB3 | Delphi Ventures founding partner and Delphi Digital co-founder. |
+| 909 | @drakefjustin | Justin Drake | CRYPTO_WEB3 | Bitcoin security researcher account. |
+| 910 | @33Bitget | 33 Xandi | CRYPTO_WEB3 | Bitget and UEX-linked account with AI-era signal. |
+| 911 | @Tesla_Optimus | Tesla Optimus | AI_CORE | Tesla humanoid robotics account. |
+| 912 | @TingHu888 | TingHu | OTHER | Personal reflection account. |
+| 913 | @srinigoes | Srini | CRYPTO_WEB3 | Web3 degen, community builder and Limitless ambassador. |
+| 914 | @SoliXBT | Soli | CRYPTO_WEB3 | On-chain dreamer building and vibing on Base. |
+| 915 | @juliezize | JULIE | CRYPTO_WEB3 | Base and cnBaseCommunity project-growth account. |
+| 916 | @CryptoStatuette | statuette.eth | CRYPTO_WEB3 | Former Base community account focused on builder gardens. |
+| 917 | @XPENG_Global | XPENG | US_STOCKS_MACRO | Public EV company account for XPENG intelligent electric cars. |
+| 918 | @JeremyJem | Jem / Limitless | US_STOCKS_MACRO | Community manager at Limitless prediction-market platform. |
+| 919 | @MrKnowNull | 喜欢数学的男孩 | US_STOCKS_MACRO | Chan-theory quant trading system developer and signal account. |
+| 920 | @lovaniceth | Lovanic | OTHER | Art and personal account with limited visible topical signal. |
+| 921 | @Nan_molayo | NkT | CRYPTO_WEB3 | Crypto account with Korean crypto-winter framing. |
+| 922 | @Ryuzaki_SEI | Ryuzaki SEI | CRYPTO_WEB3 | Airdrop alpha account. |
+| 923 | @0xSunNFT | 0xSun | CRYPTO_WEB3 | Wallet-first on-chain analysis account. |
+| 924 | @Townies_ | Townies | CRYPTO_WEB3 | Fully on-chain city-builder game on Base. |
+| 925 | @ScarlettWeb3 | Jingle Bell 初号机 | AI_CORE | Blockchain community manager learning AI coding and growing Agentese AI. |
+| 926 | @j_moooop | 福禄财喜 | OTHER | Wealth-themed personal account with limited visible signal. |
+| 927 | @AutismCapital | Autism Capital | US_STOCKS_MACRO | Fintech, crypto, AI, longevity and politics citizen-journalism account. |
+| 928 | @gamestop | GameStop | US_STOCKS_MACRO | Public gaming and trade-in retailer account tied to meme-stock market attention. |
+| 929 | @AnthropicAI | Anthropic | AI_CORE | AI safety and research company building Claude and steerable AI systems. |
+| 930 | @VittoStack | Vitto Rivabella | AI_CORE | AI at Ethereum Foundation, robotics and Web3 education account. |
+| 931 | @CoinbaseDev | Coinbase Developer Platform | CRYPTO_WEB3 | Coinbase crypto infrastructure for payments, trading, wallets and stablecoins. |
+| 932 | @Wuhuoqiu | Lao Bai | US_STOCKS_MACRO | Crypto investment advisor promoting StableStock for US and HK stocks. |
+| 933 | @BilliOnMantle | Billi on Mantle | CRYPTO_WEB3 | Bybit and Mantle-linked meme token account. |
+| 934 | @Bybit_Official | Bybit | CRYPTO_WEB3 | Crypto exchange and Web3 platform account. |
+| 935 | @Sevenup27 | Sevenup | US_STOCKS_MACRO | Prediction expert and sports analyst with crypto background. |
+| 936 | @PolymarketTrade | Polymarket Traders | US_STOCKS_MACRO | Polymarket trader and community-resource account. |
+| 937 | @sundarpichai | Sundar Pichai | AI_CORE | Google and Alphabet CEO account. |
+| 938 | @vladtenev | Vlad Tenev | US_STOCKS_MACRO | Robinhood CEO/co-founder and fintech market account. |
+| 939 | @shayne_coplan | Shayne Coplan | US_STOCKS_MACRO | Polymarket CEO account with Ethereum background. |
+| 940 | @retrimentum | Retrimentum | US_STOCKS_MACRO | Upshot Cards builder creating a prediction card platform. |
+| 941 | @probabilitygod | probability god | US_STOCKS_MACRO | Polymarket tools and YES-trading account. |
+| 942 | @goldytalks | goldy | US_STOCKS_MACRO | Novig growth lead and former Polymarket account. |
+| 943 | @CryptoGamr | Chris Gonsalves | US_STOCKS_MACRO | Prompt writer and Forkast prediction-market founder. |
+| 944 | @0xTone | tone | US_STOCKS_MACRO | PredictionArc-linked prediction-market account. |
+| 945 | @0xWeiler | 0xWeiler | US_STOCKS_MACRO | Messari analyst covering prediction markets, stablecoins and payments. |
+| 946 | @0xwondr | wonder | US_STOCKS_MACRO | Polymarket builder focused on predicting the future. |
+| 947 | @bitdevhunter | Zai khnx | US_STOCKS_MACRO | Daily Polymarket analysis and research-based prediction-market insights. |
+| 948 | @EvanWynne0 | EvanWynne0 | OTHER | Minimal account with no visible topical signal. |
+| 949 | @lorden_eth | Lorden | PRODUCT_GROWTH | Web3 and fintech growth lead focused on user acquisition and affiliate programs. |
+| 950 | @iBaiyun04 | 白云 | US_STOCKS_MACRO | Arbitrage-player account with trading focus. |
+| 951 | @i_youshi | 有诗i | US_STOCKS_MACRO | Futures, hedging, commodities, oil, precious-metals and crypto risk-control account. |
+| 952 | @0Xlynn03 | 邻山Lynn | OTHER | Personal investment-opinion disclaimer account with limited visible signal. |
+| 953 | @calilyliu | Lily Liu | CRYPTO_WEB3 | Solana Foundation president and Web3 board member. |
+| 954 | @0xcrypto_max | Max | CRYPTO_WEB3 | DEX and OKX-linked on-chain trading account. |
+| 955 | @askresearchoor | Researchoor | AI_CORE | Automated research account from Yohei Nakajima. |
+| 956 | @BillyM2k | Shibetoshi Nakamoto | CRYPTO_WEB3 | Dogecoin creator account. |
+| 957 | @coolish | paulwei | CRYPTO_WEB3 | Crypto trader since 2013 and former social-app co-founder. |
+| 958 | @sunyuchentron | 孙宇晨 | CRYPTO_WEB3 | TRON founder, HTX and BitTorrent advisor account. |
+| 959 | @Namiskr | 007 | CRYPTO_WEB3 | On-chain researcher at 137LabsCN. |
+| 960 | @otzgary | Gary | OTHER | Learning and job-search account with limited visible signal. |
+| 961 | @Aster_DEX | Aster | CRYPTO_WEB3 | Next-generation perpetual DEX backed by YZi Labs. |
+| 962 | @mindsharexbt | mindshare | US_STOCKS_MACRO | Polymarket-focused account building PredictFnF. |
+| 963 | @0x04sample | 心态 | CRYPTO_WEB3 | HeLa and Xyra ambassador sharing airdrop, trading and alpha views. |
+| 964 | @AlbertCoinGlass | Albert / CoinGlass | US_STOCKS_MACRO | CoinGlass marketing director account tied to crypto-market analytics. |
+| 965 | @nina_rong | Nina Rong | CRYPTO_WEB3 | BNB Chain growth executive, former Arbitrum partnerships lead. |
+| 966 | @frankdegods | Frank | CRYPTO_WEB3 | DeGods-linked Web3 founder account. |
+| 967 | @Normanrockon | Norman | AI_CORE | Building ZeroDriftSec, an orchestrator for agents. |
+| 968 | @taolige666 | 套利老六 | CRYPTO_WEB3 | Web3 arbitrage, airdrop tutorials and project-tracking account. |
+| 969 | @Foliage_et | 叶子君Foliage | CRYPTO_WEB3 | Web3 research, hot-project tracking, economic-model analysis and meme account. |
+| 970 | @eth_cedric | Cedric | CRYPTO_WEB3 | Builder account with Ethereum/Web3 signal. |
+| 971 | @hosseeb | Haseeb | CRYPTO_WEB3 | Dragonfly managing partner account. |
+| 972 | @xiaoyng466 | 小樱 | OTHER | Personal account with no visible topical signal. |
+| 973 | @jenniekusuen | Jennie | AI_CORE | GTM engineer for AI and crypto startups. |
+| 974 | @MadeKrishnaDewa | ZETA.hl | CRYPTO_WEB3 | Huxfam-linked crypto community account. |
+| 975 | @CoinAnk | CoinAnk | US_STOCKS_MACRO | Cryptocurrency order-flow and futures-contract data analysis platform. |
+| 976 | @RizqDotTrade | rizq.trade | AI_CORE | AI-supported prediction-market edge platform. |
+| 977 | @gl2361 | Guyan Liu / Paimon Finance | US_STOCKS_MACRO | Paimon Finance co-founder with Invus and UBS background. |
+| 978 | @Paimon_Finance | Paimon Finance | US_STOCKS_MACRO | BNB Chain RWA platform positioning itself as on-chain Wall Street. |
+| 979 | @jason_chen998 | 陈剑Jason | OTHER | Personal analysis/commentary account with limited visible topic signal. |
+| 980 | @CoinankCN | CoinAnk中文 | US_STOCKS_MACRO | Chinese crypto-derivatives data and order-flow analytics platform. |
+| 981 | @DeAgentAI | DeAgentAI | AI_CORE | AI infrastructure on SUI/BSC/BTC for autonomous AI agents. |
+| 982 | @qinbafrank | qinbafrank | US_STOCKS_MACRO | Investor tracking AI, crypto, TMT, macro politics and global liquidity cycles. |
+| 983 | @PlasmaFDN | PlasmaFDN | CRYPTO_WEB3 | Plasma foundation migration account. |
+| 984 | @ssslumdunk | 龙心盐 | US_STOCKS_MACRO | Options trader, Nasdaq IPO founder and SignalPlus crypto-options account. |
+| 985 | @0xAlexWu | Alex Wu | CRYPTO_WEB3 | Injective builder, media insights account and causal trader. |
+| 986 | @Rosaaa | Rosa | US_STOCKS_MACRO | Limitless trader, OKX creator and Chance ambassador. |
+| 987 | @hoshino_sasaki | 佐佐木星野 | CRYPTO_WEB3 | Web3 streamer, chain-game player and community host. |
+| 988 | @_lyonzzzz | lyonzzzz | CRYPTO_WEB3 | Extended-focused crypto trading account. |
+| 989 | @sunrisedefi | Sunrise | CRYPTO_WEB3 | Solana DeFi asset gateway for token listings and liquidity. |
+| 990 | @Quantzilla34 | Quantzilla | US_STOCKS_MACRO | Quant account. |
+| 991 | @arbitrum | Arbitrum | CRYPTO_WEB3 | Programmable-economy Layer 2 ecosystem account. |
+| 992 | @xz77777771m | XZ.7 | OTHER | Minimal motto account with limited visible topic signal. |
+| 993 | @JacquesWhales | Jacques | US_STOCKS_MACRO | Limitless ecosystem lead for prediction markets on Base. |
+| 994 | @Xiaohuaxin21 | OxHua | CRYPTO_WEB3 | Airdrop, launch and Limitless Chinese-community ambassador account. |
+| 995 | @0xEvieYang | Evie / JE Labs | PRODUCT_GROWTH | Web3 market-growth accelerator founder and ex-OKX/Deloitte consultant. |
+| 996 | @limitlessignal | Limitless Signal | US_STOCKS_MACRO | Limitless community, trader and builder account. |
+| 997 | @carinaovo13721 | X1nH5 | OTHER | Personal gaming and daily-thought account. |
+| 998 | @tttttang_ | 我就这样莫名其妙 | OTHER | Low-energy personal alt account. |
+| 999 | @fangkanyun | 看云 / 1000xGEM | CRYPTO_WEB3 | Full-chain trading tools and crypto wealth-channel account. |
+| 1000 | @poptyedev | Crypto Safe | CRYPTO_WEB3 | Degen account hunting new chains and leaked RPC alpha. |
+| 1001 | @Overdose_AI | OverDose | CRYPTO_WEB3 | DeFi and low-cap altcoin analysis account. |
+| 1002 | @0xBarrry | Barry | CRYPTO_WEB3 | WOK Labs head chef connecting China and Europe through Web3 communities. |
+| 1003 | @mint_town | IAda | OTHER | Copy-AI comment account with limited standalone signal. |
+| 1004 | @Dogquant0 | Dogquant 小狗量化 | US_STOCKS_MACRO | Quant-trading community account. |
+| 1005 | @yuexiaoyu | 岳小鱼 | US_STOCKS_MACRO | Predict.fun APAC lead, former Binance Wallet and Alibaba product manager. |
+| 1006 | @xhunt_ai | XHunt | AI_CORE | AI-powered KOLFi platform with open-source extension. |
+| 1007 | @bonnazhu | Bonna / U酪乳 | CRYPTO_WEB3 | Research, advisory and investing account around Forgd and ResearchNothing. |
+| 1008 | @0xnmhs | CC黄小鸭 | OTHER | Protected account with advertising/contact signal. |
+| 1009 | @trylimitless | Limitless | US_STOCKS_MACRO | Community-driven prediction markets across crypto, finance, football and esports. |
+| 1010 | @liquidtrading | Liquid | US_STOCKS_MACRO | Broad trading platform account. |
+| 1011 | @01Exchange | 01.xyz | US_STOCKS_MACRO | Perpetual futures platform with structured strategies and multichain deposits. |
+| 1012 | @GTE_XYZ | GTE | CRYPTO_WEB3 | High-throughput blockchain and exchange account. |
+| 1013 | @AnselFang | 孤狼资本 | OTHER | Capital-themed personal account with limited visible investment signal. |
+| 1014 | @Theo_Network | Theo | US_STOCKS_MACRO | Real-world-asset infrastructure for global markets. |
+| 1015 | @OKBoomerNFT | OK Boomer | CRYPTO_WEB3 | NFT/Base-inspired Boomer community account. |
+| 1016 | @0xakk | AKa / Golden.S | CRYPTO_WEB3 | On-chain primary market, meme and community account. |
+| 1017 | @Stupefy666 | NPC | US_STOCKS_MACRO | Web3 meme degen focused on prediction markets. |
+| 1018 | @Gradient_HQ | Gradient | AI_CORE | Open infrastructure for open intelligence. |
+| 1019 | @btcpubg123 | Rocket | CRYPTO_WEB3 | Meme trader and Web3 recruiter building on Talentverse. |
+| 1020 | @WeBTC_ETH | webtc.eth / 小凡 | AI_CORE | Building embodied AI, on-chain degen and ex-Tencent/Airbnb account. |
+| 1021 | @Agu820820 | 加密小咕 | US_STOCKS_MACRO | Web3 design and investment-review account deeply tracking Polymarket. |
+| 1022 | @AncoBinance | Anco D | CRYPTO_WEB3 | Binance Wallet on-chain trading account. |
+| 1023 | @GeorgePig1999 | 小猪乔治 | US_STOCKS_MACRO | Value-investing, DeFi farming, options and airdrop-learning account. |
+| 1024 | @UR_global | UR | US_STOCKS_MACRO | Account-layer fintech platform with Swiss IBAN, currencies and Mastercard. |
+| 1025 | @hunterweb303 | 0x 哆啦A梦 | AI_CORE | Web3 tools developer with AI signal. |
+| 1026 | @Oxcryptoblue | Blue | CRYPTO_WEB3 | Blockchain engineering student account. |
+| 1027 | @bubble_bobo777 | bubble bobo | OTHER | Minimal bot/persona account. |
+| 1028 | @pendle_fi | Pendle | CRYPTO_WEB3 | Crypto yield-trading platform account. |
+| 1029 | @alphai_snipe | Alph AI | CRYPTO_WEB3 | Meme trading platform with smart-money and KOL signals. |
+| 1030 | @aiheyangbai | 爱喝杨枝甘露 | OTHER | Personal challenge account with limited topical signal. |
+| 1031 | @Nibel_eth | nibel.base.eth | CRYPTO_WEB3 | Base APAC and Singapore lead building a global economy on Base. |
+| 1032 | @MrDegenWolf | degenwolf.base.eth | CRYPTO_WEB3 | Base community account. |
+| 1033 | @Obesepotato_hl | obese.potato.hl | CRYPTO_WEB3 | Hyperliquid-focused account. |
+| 1034 | @xiaheth | Bella 夏禾 | CRYPTO_WEB3 | Crypto video media and interview account. |
+| 1035 | @BaseHubHB | Base Hub | CRYPTO_WEB3 | Base media and community account with daily updates and alpha guides. |
+| 1036 | @malamaodan309 | 麻辣毛蛋.grvt | CRYPTO_WEB3 | Web3 learner and project-sharing account. |
+| 1037 | @SeismicSys | Seismic | CRYPTO_WEB3 | Privacy-enabled blockchain account. |
+| 1038 | @aaa129aa | 12.9c | OTHER | Minimal account with no visible topical signal. |
+| 1039 | @Pornhub | Pornhub | OTHER | Adult entertainment brand account. |
+| 1040 | @yummyuyu_ | yuyu / weather trader | US_STOCKS_MACRO | Prediction-market creator and crypto builder tracking Polymarket. |
+| 1041 | @bony0002 | 塔仔roll了又roll | US_STOCKS_MACRO | Polymarket-focused probability-gap account. |
+| 1042 | @roger9949 | Roger波杰克 | OTHER | Personal account with no relevant visible topic signal. |
+| 1043 | @Donald_axx | Donald-axx | US_STOCKS_MACRO | Crypto founder building Polyspots and PolysportsLab for Polymarket strategies. |
+| 1044 | @ZapApp | Zap | CRYPTO_WEB3 | Crypto purchase app with Apple Pay. |
+| 1045 | @insidersdotbot | insiders.bot | US_STOCKS_MACRO | Prediction-market app for trading, copytrading, signals and backtesting. |
+| 1046 | @0xjunianus | Junianus | CRYPTO_WEB3 | Researcher, degen and stream-of-consciousness trading account. |
+| 1047 | @dakshbigshit | Daksh Joshi / 0xU | US_STOCKS_MACRO | Insiders.bot co-founder and former PublicAI CPO. |
+| 1048 | @variational_io | Variational | US_STOCKS_MACRO | On-chain perpetuals markets platform with leverage. |
+| 1049 | @SuperL9 | Wick李 / BNB | CRYPTO_WEB3 | Full-time Web3 BSC/SOL meme and Binance Square account. |
+| 1050 | @BlockFocus11 | BlockFocus | PRODUCT_GROWTH | Crypto marketing agency for builders and disruptors. |
+| 1051 | @0xBolin123 | 0xBolin / 0xU | CRYPTO_WEB3 | OneKey-linked crypto account. |
+| 1052 | @cjhtech | CJ / 晨杰 | US_STOCKS_MACRO | Limitless-linked prediction-market account. |
+| 1053 | @xingpt | XinGPT | AI_CORE | AI insights, personal growth, alternative thinking and wealth-growth account. |
+| 1054 | @Polymarket | Polymarket | US_STOCKS_MACRO | Prediction market platform for politics, news, crypto, culture, sports and tech. |
+| 1055 | @plasma_cn | Plasma 中文社区 | CRYPTO_WEB3 | Plasma Chinese community account. |
+| 1056 | @Xuegaogx | 雪糕战神 | AI_CORE | AI, DeFi, RWA and DEX player account. |
+| 1057 | @christonchain | Christ is King | CRYPTO_WEB3 | On-chain movement token account. |
+| 1058 | @FrankFika | 弗兰克的思维导图 / Bird | AI_CORE | AI entrepreneur, engineer, former VC and author of a hands-on AI Agent book. |
+| 1059 | @cysic_xyz | Cysic | AI_CORE | ComputeFi network turning GPUs, ASICs and compute into liquid yield-bearing assets. |
+| 1060 | @timliu92 | 白日梦想家 | CRYPTO_WEB3 | Web3 project tester, indie developer and airdrop/code tutorial account. |
+| 1061 | @wangcaiArmy | 编程浪子 | CRYPTO_WEB3 | Building inswap and Wangcai around inscription AMM trading. |
+| 1062 | @Guguguy920 | 加密.btc / 小学生920 | CRYPTO_WEB3 | Crypto account with TermMax and BTC signals. |
+| 1063 | @bit_hanghai | 比特航海家 | CRYPTO_WEB3 | Crypto-trading personal account. |
+| 1064 | @MINGJUNBJ | 铭君 / mingjun.eth | US_STOCKS_MACRO | Crypto projects, AH-share IPOs, FX trading and AI fields account. |
+| 1065 | @YettaSing | YettaS | US_STOCKS_MACRO | Primitive Crypto investment partner with Asia, macro and stablecoin focus. |
+| 1066 | @baby1767622 | 是baby / RIVER | CRYPTO_WEB3 | Crypto short-form writing and airdrop-learning account. |
+| 1067 | @ada250901 | AI&cypto | AI_CORE | Account sharing AI and crypto frontier trends and practical methods. |
+| 1068 | @xn919191 | 静夜思 | OTHER | Minimal account with intelligence-themed bio. |
+| 1069 | @0xReReL | ReRe | US_STOCKS_MACRO | Investment review and wallet-tracking account. |
+| 1070 | @BTCTurtle | Michelangelo.zec | CRYPTO_WEB3 | Zcash, Bitcoin and privacy-focused account. |
+| 1071 | @southsi36196622 | south side | OTHER | Personal lifestyle account. |
+| 1072 | @iamironman0315 | 一叽咕 | CRYPTO_WEB3 | Web3 research, airdrop strategy and ecosystem-opportunity account. |
+| 1073 | @AsyWish8 | 捉捉 | OTHER | Personal account with limited visible crypto signal. |
+| 1074 | @xiaomingmomoda | 小铭A7之路 | CRYPTO_WEB3 | Airdrop-news sharing account targeting A7 balance. |
+| 1075 | @Guwo1213 | Guwo | CRYPTO_WEB3 | Sonic Labs Chinese ambassador account. |
+| 1076 | @crypto_xiaodao | Nicolas / Binance币安返佣 | CRYPTO_WEB3 | Binance rebate node and former exchange BD account. |
+| 1077 | @lygkedaya | MMP / TermMax | CRYPTO_WEB3 | TermMax-linked crypto account. |
+| 1078 | @qiuqwzz | 加密努力星 | CRYPTO_WEB3 | Web3 research and airdrop-track account. |
+| 1079 | @0xAllen | 0xAllen | AI_CORE | Security veteran turned full-time Web3 account focused on DeFi and AI. |
+| 1080 | @JupiterExchange | Jupiter | CRYPTO_WEB3 | Jupiter crypto exchange account. |
+| 1081 | @c402markets | c402.markets | US_STOCKS_MACRO | Mintpad for internet capital markets. |
+| 1082 | @pumpspotlight | Spotlight | CRYPTO_WEB3 | Pump.fun builder accelerator account. |
+| 1083 | @hezhu0564 | 金手指 | US_STOCKS_MACRO | SZUBA and CoinUp builder focused on on-chain alpha and prediction markets. |
+| 1084 | @yuqingg1996 | 五条 | CRYPTO_WEB3 | Perp DEX, Hype, EdgeX and Lighter airdrop account. |
+| 1085 | @0xEggg | 0xEgg | US_STOCKS_MACRO | On-chain analysis, market sentiment and meme trading account. |
+| 1086 | @buildonbase | Base Build | CRYPTO_WEB3 | Base builder ecosystem account. |
+| 1087 | @soonsvm_cn | SOON 中文 | CRYPTO_WEB3 | Chinese account for SOON SVM Rollup stack. |
+| 1088 | @cenlee8 | CryptoPunks#3529 | CRYPTO_WEB3 | CryptoPunks NFT account. |
+| 1089 | @niuniu255431 | 周期手牛牛 | US_STOCKS_MACRO | Market-cycle and alpha-learning account. |
+| 1090 | @sunhaoran888 | 浩然Richard | CRYPTO_WEB3 | Professional airdrop and crypto primary-market account. |
+| 1091 | @leslieloser_ | Leslie / 大心脏 | CRYPTO_WEB3 | Abnormal-data finder, ex-Aave and ex-Berachain account. |
+| 1092 | @tryfomo | fomo | US_STOCKS_MACRO | Trading app account. |
+| 1093 | @0xJeff | 0xJeff | CRYPTO_WEB3 | DeFi researcher and investor with ex-TradFi background. |
+| 1094 | @hhhx402 | 0xhhh | AI_CORE | ZK and Web3 Agent builder account. |
+| 1095 | @frankyleon725 | Franky | US_STOCKS_MACRO | Volatility-trading and gambler account. |
+| 1096 | @xincctnnq | 币圈女菩萨 / Pizza披萨 | AI_CORE | AI and crypto investment-notes account. |
+| 1097 | @Debot_Lily888 | Lily刘 / Debot | CRYPTO_WEB3 | DeBot official BD account. |
+| 1098 | @zichng296193 | 落魄山山主 | OTHER | Personal literary account with limited topical signal. |
+| 1099 | @scuptone | 猫老师scupt | CRYPTO_WEB3 | UltraX AI and 6551DEX co-founder focused on airdrops, scripts and interactions. |
+| 1100 | @chochou33 | Chou | PRODUCT_GROWTH | Web3 creator connecting Taiwan/global communities and Binance growth. |
+| 1101 | @pingobserver | $PING | CRYPTO_WEB3 | First x402 memecoin account. |
+| 1102 | @0xJelly | Jelly | CRYPTO_WEB3 | Crypto, DeFi, ETH and Renaissance ambassador account. |
+| 1103 | @BitgetWallet | Bitget Wallet | CRYPTO_WEB3 | Crypto wallet account for trading, earning, paying and discovering Web3. |
+| 1104 | @anoncast_ | anon | OTHER | Anonymous posting account. |
+| 1105 | @0xMantleCN | 0xMantleCN | CRYPTO_WEB3 | Mantle Chinese account connecting TradFi and on-chain liquidity. |
+| 1106 | @Goldmantoucoin | 金馒头 | CRYPTO_WEB3 | Meme coin account. |
+| 1107 | @printr | Printr | CRYPTO_WEB3 | Configurable launchpad for one-click multichain deployments. |
+| 1108 | @Mantle_Official | Mantle | CRYPTO_WEB3 | Distribution layer connecting TradFi and on-chain liquidity. |
+| 1109 | @yesp999 | Yesp | CRYPTO_WEB3 | Binance-wallet on-chain trading account. |
+| 1110 | @msxcom | MSX | US_STOCKS_MACRO | RWA trading platform bringing Wall Street value on-chain. |
+| 1111 | @xiejiayinBitget | 谢家印 | CRYPTO_WEB3 | Bitget Greater China head account. |
+| 1112 | @0xHarmonybot | harmonybot | CRYPTO_WEB3 | On-chain art experiment and Warplet Factory account. |
+| 1113 | @arc | Arc | CRYPTO_WEB3 | Economic OS for the internet, live in public testnet. |
+| 1114 | @reflectmoney | Reflect | US_STOCKS_MACRO | Stablecoin building platform backed by a16z crypto. |
+| 1115 | @solsticefi | Solstice | US_STOCKS_MACRO | Solana-native USX and delta-neutral YieldVault platform. |
+| 1116 | @BoxMrChen | Box | CRYPTO_WEB3 | Monad DevRel, ex-Tencent builder and 6551-linked account. |
+| 1117 | @coldcupidrong | 密度_FErich | US_STOCKS_MACRO | Wyckoff and SMC bullish trader account. |
+| 1118 | @jetjet_8 | jethro | PRODUCT_GROWTH | Growth at Particle Network and UniversalX. |
+| 1119 | @0xAA_Science | 0xAA | CRYPTO_WEB3 | Neuroscience PhD and Web3 education/DAO account. |
+| 1120 | @Web3cuyang | Web3粗盐大王 | CRYPTO_WEB3 | Web3 community-building and crypto-collaboration account. |
+| 1121 | @clanker_world | clanker | CRYPTO_WEB3 | Automated Farcaster-linked on-chain account. |
+| 1122 | @jenniekusu | jenniekusu | AI_CORE | GTM engineer and storyteller for crypto and AI, building copilot teams for founders. |
+| 1123 | @fair_vc | Fair | AI_CORE | Venture fund built as a multi-agent system. |
+| 1124 | @Capminal | Capminal | AI_CORE | DeFAI and x402 terminal powered by an AI agent. |
+| 1125 | @zora_clipped | zoratv | CRYPTO_WEB3 | Zora TV clips account. |
+| 1126 | @0xfaheng | Neo-法恒 | AI_CORE | Independent research and AI coding account with crypto wallet tooling links. |
+| 1127 | @bankrbot | Bankr | AI_CORE | Financial infrastructure for agents, wallets, tools and treasury automation. |
+| 1128 | @hellosuoha | 梭教授说 | CRYPTO_WEB3 | Electronic-market and crypto community account tied to LSPDAO, Virtual and GMGN. |
+| 1129 | @buzuoyuwenzuoye | 不做语文作业 | OTHER | Minimal redistribution account with limited visible topical signal. |
+| 1130 | @Ethean_yu | Ethean | AI_CORE | Stablecoin, RWA and AI-agent-focused builder account. |
+| 1131 | @clankfun | clank.fun | CRYPTO_WEB3 | Base token launch and vibe trading platform. |
+| 1132 | @kungfu_crypto | 杰尼 kungfu | CRYPTO_WEB3 | MMC Capital degen investment manager focused on HYPE and Hyperliquid. |
+| 1133 | @MrJustmoving1 | Moer | CRYPTO_WEB3 | Crypto patience, community and trading account linked to LiveTradeMoer. |
+| 1134 | @cbventures | Coinbase Ventures | CRYPTO_WEB3 | Coinbase venture arm backing crypto founders and economic freedom projects. |
+| 1135 | @TOKYOGAMES_FDN | TOKYO GAMES Foundation | CRYPTO_WEB3 | Web3 gaming foundation for AAA game partners and gaming ecosystem building. |
+| 1136 | @AerodromeFi | Aerodrome | CRYPTO_WEB3 | Central trading and liquidity marketplace on Base. |
+| 1137 | @RickEACC | Rick e/acc | AI_CORE | AI and Web3 builder focused on agentic engineering, AI agents, vibe coding and quant. |
+| 1138 | @easytopredict | Muper | US_STOCKS_MACRO | Crypto capital-markets account framing Bitcoin as internet gold and Solana as capital markets. |
+| 1139 | @btcbabycow | babycow | CRYPTO_WEB3 | Crypto alpha-mining and personal learning-record account. |
+| 1140 | @0xRuuubyreborn | Ruuuby | CRYPTO_WEB3 | Crypto alpha-mining account focused on optimism and curiosity. |
+| 1141 | @Betfair | Betfair | US_STOCKS_MACRO | Betting-exchange account relevant to prediction-market and market-odds tracking. |
+| 1142 | @GreeksLive | Greeks.live | US_STOCKS_MACRO | Professional options-trading platform and crypto derivatives community. |
+| 1143 | @RR_hodl | R | CRYPTO_WEB3 | Minimal crypto holder account with compounding-growth tagline. |
+| 1144 | @the_nof1 | nof1 | AI_CORE | AI research lab focused on financial markets. |
+| 1145 | @CryptoKKKai | KK | US_STOCKS_MACRO | Prediction-market researcher and Polymarket-focused degen account. |
+| 1146 | @aezaumi | umi | CRYPTO_WEB3 | Security research and on-chain analysis account. |
+| 1147 | @CoreonMCP | Coreon | AI_CORE | Natural-language-to-tool-function AI agent ecosystem on BNB Chain. |
+| 1148 | @LABtrade_ | LAB | CRYPTO_WEB3 | Multi-chain trading infrastructure with overlay, app and Telegram execution. |
+| 1149 | @zeroonerobin | vibe robin | AI_CORE | Crypto, AI and biohacker account with curiosity-driven creator profile. |
+| 1150 | @octopusycc | 大老师Bugsbunny | US_STOCKS_MACRO | Ex-VC and Binance top KOL focused on options flow, information flow and US-stock news. |
+| 1151 | @0xweiqigaoshou | 我是围棋高手 | CRYPTO_WEB3 | Dual-chain live-trading account with crypto operation records. |
+| 1152 | @baseapp | Base App | CRYPTO_WEB3 | Base app for trading, earning, prediction and agent-linked chat. |
+| 1153 | @coinbase | Coinbase | CRYPTO_WEB3 | Coinbase exchange account positioning around the future of finance. |
+| 1154 | @CoinbaseBiz | Coinbase Business | CRYPTO_WEB3 | Coinbase business account helping companies run on crypto. |
+| 1155 | @BitgetWalletCN | Bitget钱包中文频道 | CRYPTO_WEB3 | Chinese Bitget Wallet account for trading, earning, payment and Web3 discovery. |
+| 1156 | @Dreamwith_you_ | 莺 | OTHER | Personal mutual-follow account with limited market or AI signal. |
+| 1157 | @lnkybtc | 秋田散人 Mr.Akita | CRYPTO_WEB3 | Bitcoin entrepreneur and MEV searcher sharing technical business views and prediction-market links. |
+| 1158 | @annoushka | annoushka | OTHER | Fun-and-games account with limited topical signal. |
+| 1159 | @MexBots | MBots | US_STOCKS_MACRO | Automated Binance Alpha and perps market-data monitor from public API data. |
+| 1160 | @CoinbaseMarkets | Coinbase Markets | US_STOCKS_MACRO | Coinbase markets account building an everything-exchange trading venue. |
+| 1161 | @Revolut | Revolut | US_STOCKS_MACRO | Global fintech account focused on money and financial services. |
+| 1162 | @Mextric | Mextrel | US_STOCKS_MACRO | Trading and research account with AI-generated daily reports and alpha-bot surface. |
+| 1163 | @openmind_agi | OpenMind | AI_CORE | Superintelligence-for-robots AI account. |
+| 1164 | @canton_loop | CantonLoop | OTHER | Support-only profile with limited visible topical signal. |
+| 1165 | @reductoai | Reducto | AI_CORE | Document-intelligence platform turning unstructured documents into data. |
+| 1166 | @qrcoindotfun | $QR | CRYPTO_WEB3 | On-chain attention-machine project account. |
+| 1167 | @zora | Zora | CRYPTO_WEB3 | Zora account for trading what is trending on-chain. |
+| 1168 | @thosmur | thosmur | CRYPTO_WEB3 | Token-linked creator account around $thosmur. |
+| 1169 | @js_horne | jacob | OTHER | Minimal profile with no visible bio in the following list. |
+| 1170 | @farcaster_xyz | Farcaster | CRYPTO_WEB3 | Open-web social protocol account. |
+| 1171 | @Pixe1_eth | Pixe1 | AI_CORE | Ethereum, Base and Claude Code account with AI and crypto focus. |
+| 1172 | @gmoneyNFT | gmoney.eth | CRYPTO_WEB3 | NFT and Web3 identity account. |
+| 1173 | @p1x_ies | 皮克西 | US_STOCKS_MACRO | Research and trading account building 0xSZUBA. |
+| 1174 | @placeholderxyzx | fxx | OTHER | Minimal profile with no visible bio in the following list. |
+| 1175 | @UykaZaBonje | Uyka | OTHER | Council account linked to Infinite War with limited topical signal. |
+| 1176 | @BTCLIN | MR.LIN 霖先生 | CRYPTO_WEB3 | Pendle DeFi strategy analyst, BTC holder and alpha-airdrop hunter. |
+| 1177 | @an_le23998 | XC | CRYPTO_WEB3 | Pendle APY alert channel account. |
+| 1178 | @brevis_zk | Brevis | CRYPTO_WEB3 | ZK-powered infinite compute layer for Web3 and real adoption. |
+| 1179 | @Audiera_web3 | Audiera | AI_CORE | Agent-native economy where humans and agents create, connect and coordinate. |
+| 1180 | @jiujinshan2022 | 旧金山不是巴黎 | CRYPTO_WEB3 | Meme and crypto community account with OKX and Binance wallet referrals. |
+| 1181 | @haze0x | Haze | CRYPTO_WEB3 | GMGN.ai product and copy-trading test account. |
+| 1182 | @ezi1004baba1 | DORO | OTHER | Doro-themed healing and restoration account with limited market or AI signal. |
+| 1183 | @MakiMirro95394 | Crypto Saba | CRYPTO_WEB3 | Crypto-named account with brief maxi-style profile. |
+| 1184 | @minara | Minara AI | AI_CORE | AI financial OS for running a personal Wall Street, backed by Circle. |
+| 1185 | @48ClubIan | 48Club Ian | CRYPTO_WEB3 | Protected 48Club committee account focused on BNB. |
+| 1186 | @ZhangZToooooo | 第三人称 | CRYPTO_WEB3 | Crypto 1000x-gem and GMGN-linked call-channel account. |
+| 1187 | @0xCat_Crypto | Cat@Debot | CRYPTO_WEB3 | Debot builder focused on smarter DEX trading. |
+| 1188 | @Sh7463707157239 | 根号7 | OTHER | Minimal profile with no visible bio in the following list. |
+| 1189 | @Devin682385526 | beginner's luck | US_STOCKS_MACRO | Bitcoin market-cycle account focused on 2026 bear-market bottoming conditions. |
+| 1190 | @beedog_bsc | 蜜蜂狗 Beedog | CRYPTO_WEB3 | BSC meme coin account with token contract and community links. |
+| 1191 | @0xTZ_DeFi | 0xTZ | AI_CORE | Product manager at Antseer_ai and builder at SyntaxisDigital with crypto research background. |
+| 1192 | @Laaaaacieee | Lacie | CRYPTO_WEB3 | Bitget Wallet researcher and crypto builder with prior finance and gaming investment experience. |
+| 1193 | @bc1qDave | Dave.0xU | US_STOCKS_MACRO | Crypto club president and trader focused on macro, quant and AI. |
+| 1194 | @51991eth | 51991 | CRYPTO_WEB3 | Builder of 1337skulls and related Web3 projects. |
+| 1195 | @interfacedapp | Interface | CRYPTO_WEB3 | Ethereum exploration app account. |
+| 1196 | @brian_armstrong | Brian Armstrong | CRYPTO_WEB3 | Coinbase co-founder and CEO working on economic freedom, ResearchHub and NewLimit. |
+| 1197 | @0xWangXKK | 0xWangXK | CRYPTO_WEB3 | Independent researcher sharing meme and crypto-project analysis. |
+| 1198 | @chikenan | Chikenan | CRYPTO_WEB3 | Degen player and MeteorCity moderator account. |
+| 1199 | @Sdnmg123 | 币圈小旋律 | CRYPTO_WEB3 | On-chain small-cap and leveraged-contract trading account. |
+| 1200 | @Aark_Digital | Aark Digital | US_STOCKS_MACRO | Leverage-everything perpetual DEX backed by Delphi, OKX, HashKey and BigBrainVC. |
+| 1201 | @SDF63703201 | CHEN | AI_CORE | Alpha hunter focused on new tracks, supercycle prediction, x402 and robotic themes. |
+| 1202 | @bubblemaps | Bubblemaps | US_STOCKS_MACRO | Visual analytics platform for on-chain trading and investigations. |
+| 1203 | @Michael_Liu93 | 憨厚的麦总 | CRYPTO_WEB3 | Ex-VC and banker turned crypto degen community account. |
+| 1204 | @ruixyz | rui | US_STOCKS_MACRO | Core contributor at edgeX exchange. |
+| 1205 | @base | Base | CRYPTO_WEB3 | Ethereum L2 account building a global on-chain economy. |
+| 1206 | @solana | Solana | CRYPTO_WEB3 | High-performance network powering capital markets, payments, AI agents and crypto apps. |
+| 1207 | @alpha123cc | Alpha123华语 | AI_CORE | Web3 and AI enthusiast account running AI-powered alpha calendar and airdrop notices. |
+| 1208 | @jumpbox_eth | Jumpbox Tech | CRYPTO_WEB3 | Web and Farcaster mini-app development for decentralized social. |
+| 1209 | @UPzyxy | UP | OTHER | Personal growth and earning-goal account with limited topical signal. |
+| 1210 | @xmissionpro | 雪球行动 | US_STOCKS_MACRO | BTC, BNB, Maotai and Pop Mart holder account with real-position notes. |
+| 1211 | @token_works | TokenWorks | US_STOCKS_MACRO | Playground for on-chain financialized ideas and cmd.markets. |
+| 1212 | @MemeRadar_sol | MemeRadar | CRYPTO_WEB3 | Memecoin research tool account for fast token discovery. |
+| 1213 | @033loveyo | 小樱神 | OTHER | Personal Japanese/Chinese account for favorite-things notes. |
+| 1214 | @LTC1000USD | 币圈预言机 | US_STOCKS_MACRO | Veteran crypto secondary-market trader and Binance influential KOL. |
+| 1215 | @yingbinance | 滢哥捡到一个BNB | CRYPTO_WEB3 | Binance Square Chinese-channel and BNB holder account. |
+| 1216 | @ByteRamble | ramble | CRYPTO_WEB3 | DeFi enthusiast and ETH holder with Web3 mutual-aid community. |
+| 1217 | @zigsaaa | Zig | CRYPTO_WEB3 | Meme-focused account aiming for high-upside crypto trades. |
+| 1218 | @glider__ | Glider | US_STOCKS_MACRO | On-chain automated portfolio platform backed by a16z crypto, Coinbase, Uniswap and GSR. |
+| 1219 | @BTCHE11 | 何同学 | AI_CORE | Health, investing and AI personal record account. |
+| 1220 | @1__of_1 | Dapo | CRYPTO_WEB3 | Chain-agnostic angel investor account. |
+| 1221 | @0xCPT_Capital | Andy | CRYPTO_WEB3 | Crypto capital account with minimal visible thesis. |
+| 1222 | @koharururu_m | momoko酱 | US_STOCKS_MACRO | Former exchange growth and data-ops profile practicing price action and contract trading. |
+| 1223 | @eyearea | 👀 | US_STOCKS_MACRO | Quant account linked to trading_axe. |
+| 1224 | @Damicale_s | Damicale Shilling | US_STOCKS_MACRO | Trading and deal-flow account focused on active crypto-market execution. |
+| 1225 | @HyperSolid_xyz | HyperSolid | US_STOCKS_MACRO | Next-generation money-app account. |
+| 1226 | @yourQuantGuy | yourQuantGuy | US_STOCKS_MACRO | Hedge-fund, fintech and crypto profile focused on DeFi farming and perp DEX grinding. |
+| 1227 | @HassnHh30961 | Roger² | US_STOCKS_MACRO | Contributor to Lighter and NEXRJ trading ecosystems. |
+| 1228 | @opensea | OpenSea | CRYPTO_WEB3 | On-chain NFT discovery, ownership and trading marketplace. |
+| 1229 | @lanaaielsa | lana | CRYPTO_WEB3 | On-chain and GMGN-linked crypto trading account. |
+| 1230 | @hong_grvt | hong.grvt | US_STOCKS_MACRO | GRVT co-founder and CEO with former Goldman Sachs trader background. |
+| 1231 | @joeykrug | Joey Krug | US_STOCKS_MACRO | Founders Fund partner and co-founder of Eco and prediction-market project Augur. |
+| 1232 | @rf_extended | rf.extended | US_STOCKS_MACRO | Founder of Extended app and former Revolut profile. |
+| 1233 | @grok | Grok | AI_CORE | xAI Grok assistant account. |
+| 1234 | @extendedapp | Extended | US_STOCKS_MACRO | Perp DEX built by an ex-Revolut team. |
+| 1235 | @turtledotxyz | Turtle | CRYPTO_WEB3 | Liquidity Distribution Protocol account. |
+| 1236 | @tttttxyyyy | Hux FAM.hl | CRYPTO_WEB3 | Airdrop and crypto game-oriented personal account. |
+| 1237 | @LeotheHorseman | Leo the Horseman | US_STOCKS_MACRO | Prediction-arc and hyperreality-capitalist account. |
+| 1238 | @joyce24beats | Joyce | CRYPTO_WEB3 | Mango Labs and former BlockBeats writer account. |
+| 1239 | @dov_wo | Dov | AI_CORE | Mango Labs founder focused on global assets, AI and crypto. |
+| 1240 | @MangoLabs_ | Mango Labs | AI_CORE | Crypto, AI and fintech go-to-market partner for narrative, distribution and community. |
+| 1241 | @gch_enbsbxbs | C J | US_STOCKS_MACRO | Multi-market crypto, AI, Web3, options, stock, forex and arbitrage account. |
+| 1242 | @Crypto_Dealflow | Crypto Fundraising | CRYPTO_WEB3 | Crypto fundraising and recent-rounds tracker. |
+| 1243 | @ICO_Analytics | ICO Analytics | CRYPTO_WEB3 | New-coin news and analysis account. |
+| 1244 | @top7ico | Top 7 Crypto | US_STOCKS_MACRO | Crypto analytics account tracking capital flows, trends, TGEs, airdrops, funding rounds and unlocks. |
+| 1245 | @ToveLooX | Miracle | OTHER | Minimal slogan account with limited topical signal. |
+| 1246 | @OndoFinance | Ondo Finance | US_STOCKS_MACRO | Wall Street tokenization and RWA infrastructure behind OndoPerps, Global Markets, USDY and OUSG. |
+| 1247 | @If_wewin | Kawhi魔尼 | CRYPTO_WEB3 | Meme and crypto-entry account centered on OKX Web3. |
+| 1248 | @animocaresearch | Animoca Brands Research | CRYPTO_WEB3 | Data-driven Web3 research account from Animoca Brands. |
+| 1249 | @0xWilliam888 | 小姐Will | PRODUCT_GROWTH | Alpha finder, trend analyst, community builder and growth/partnership BD profile. |
+| 1250 | @wangwang_xb | 黑桃心 | OTHER | Pocket-money personal account with limited topical signal. |
+| 1251 | @luyaoyuan | Laolu | OTHER | Protected personal account with limited visible topical signal. |
+| 1252 | @Zg6716GUJF1316 | 逸静夜思 | OTHER | Minimal profile with no visible bio in the following list. |
+| 1253 | @yimo2024 | SK | CRYPTO_WEB3 | On-chain alpha search account promoting low-market-cap tokens. |
+| 1254 | @diamondhandjs | J$ | OTHER | Protected semi-retired account with limited visible topical signal. |
+| 1255 | @HarrietLuiz | chealsea | OTHER | Miscellaneous personal account with limited topical signal. |
+| 1256 | @camellia_xing | 拷貝 | AI_CORE | Explicit AI and crypto account. |
+| 1257 | @btt_cz | AlexZone.bnb | PRODUCT_GROWTH | UniversalX UX and referral-growth account. |
+| 1258 | @ec_unoxx | Viki_Nan.mp3 | AI_CORE | Crypto degen, AI enthusiast and on-chain detective account. |
+| 1259 | @HashKey_Capital | HashKey Capital | CRYPTO_WEB3 | Blockchain venture account supporting open-economy founders. |
+| 1260 | @TheSpartanGroup | The Spartan Group | CRYPTO_WEB3 | Web3 advisory, investment and venture-building group. |
+| 1261 | @daofive | dao5 | CRYPTO_WEB3 | Experimental cryptocurrency investment firm converting into a DAO. |
+| 1262 | @hiFramework | Framework Ventures | CRYPTO_WEB3 | Thesis-driven crypto venture firm building alongside founders. |
+| 1263 | @GSR_io | GSR | US_STOCKS_MACRO | Crypto capital-markets partner active since 2013. |
+| 1264 | @hashed_official | Hashed | CRYPTO_WEB3 | Protocol-economy network-building and decentralized-future investment account. |
+| 1265 | @Delphi_Digital | Delphi Digital | CRYPTO_WEB3 | Research-driven firm focused on accelerating crypto. |
+| 1266 | @galaxyhq | Galaxy | US_STOCKS_MACRO | Public digital-assets and data-center infrastructure firm with ticker GLXY. |
+| 1267 | @coinfund | CoinFund | CRYPTO_WEB3 | Blockchain VC backing new-internet leaders. |
+| 1268 | @foundersfund | Founders Fund | PRODUCT_GROWTH | Technology, science and venture-capital firm account. |
+| 1269 | @legiondotcc | LEGION | CRYPTO_WEB3 | Early ICO and pre-token sale access platform. |
+| 1270 | @echodotxyz | echo | CRYPTO_WEB3 | Early-stage cryptocurrency and startup investment platform alongside notable angels. |
+| 1271 | @Plasma | Plasma | US_STOCKS_MACRO | Money-movement platform preparing Plasma One. |
+| 1272 | @Prav_nyk | Philo | CRYPTO_WEB3 | Crypto analyst, researcher, investor and GRVT ambassador. |
+| 1273 | @grvt_io | Grvt | US_STOCKS_MACRO | Exchange platform designed to pay users. |
+| 1274 | @MarcellxMarcell | Marcell | CRYPTO_WEB3 | UGCabal, TrenchWarriors and TradingTerminal-linked crypto account. |
+| 1275 | @HoloworldAI | Holoworld AI | AI_CORE | AI creativity and intelligence platform backed by Polychain. |
+| 1276 | @MitosisOrg | Mitosis | CRYPTO_WEB3 | Global execution layer built on programmable liquidity. |
+| 1277 | @plumenetwork | Plume | US_STOCKS_MACRO | Network opening institutional assets with Apollo, WisdomTree and Hamilton Lane links. |
+| 1278 | @boundless_xyz | Boundless | CRYPTO_WEB3 | Blockchain scaling account focused on internet-scale blockchains. |
+| 1279 | @richcool324 | 澜心 | PRODUCT_GROWTH | FLAP cooperation community advisor and personal sharing account. |
+| 1280 | @tora_slave | 虎丸 | OTHER | Personal Japanese account with limited topical signal. |
+| 1281 | @cishanjia | 慈善家 | CRYPTO_WEB3 | Investing, compounding and crypto-exchange referral account. |
+| 1282 | @basedeliox_ | ElioX | OTHER | Minimal profile with limited topical signal. |
+| 1283 | @GiggleFundBSC | GiggleFund | CRYPTO_WEB3 | BNB Chain fund donating trading fees to GiggleAcademy. |
+| 1284 | @Mr_bbxiang | bbxiang | CRYPTO_WEB3 | Airdrop and new-token launch account with small-cap leverage track record. |
+| 1285 | @LamChanThong | LC.Thong | PRODUCT_GROWTH | Base builder, basedigger hunter, ChromaTrading founder and Towns creator. |
+| 1286 | @wngwngw77251397 | 加密哥 | CRYPTO_WEB3 | Altcoin and hot-token account focused on explosive coin opportunities. |
+| 1287 | @merinda2010 | SofiaVMare | OTHER | Minimal make-money personal profile with limited topical signal. |
+| 1288 | @cantonzhong | 麦神 | CRYPTO_WEB3 | Early meme discovery account. |
+| 1289 | @3ethtomoon | 0xLeaf | CRYPTO_WEB3 | Crypto operation-record account. |
+| 1290 | @daoandinvest | Ryan | US_STOCKS_MACRO | Investment research lead at 0xUClub. |
+| 1291 | @carolcao_ | CarolCao | OTHER | Therapist profile with limited market or AI signal. |
+| 1292 | @Arya_web3 | Arya | CRYPTO_WEB3 | Web3 community account with Binance wallet referral. |
+| 1293 | @a1lon9 | alon | CRYPTO_WEB3 | Pump.fun co-founder account. |
+| 1294 | @zhouzhou445612 | zhou zhou | CRYPTO_WEB3 | Web3 personal account with caution on ads. |
+| 1295 | @cryptoxiao | Cryptoxiao | CRYPTO_WEB3 | Founder of 6551News and newsliquidX. |
+| 1296 | @0xLaoLv | 老驴 | PRODUCT_GROWTH | Web3 technical entrepreneur and community builder. |
+| 1297 | @MemeCore_ORG | MemeCore Community | CRYPTO_WEB3 | Legacy account for MemeCore ecosystem updates. |
+| 1298 | @TokenplayAI | TokenPlay.ai | AI_CORE | AI zero-code mini-app OS for launching quests and utilities with Alibaba Cloud infrastructure. |
+| 1299 | @Astra__Nova | Astra Nova | AI_CORE | AI entertainment ecosystem for creators, players and AI-powered scaling. |
+| 1300 | @SBF_FTX | SBF | CRYPTO_WEB3 | FTX founder account posting via proxy. |
+| 1301 | @kikoluvu1 | Chris | OTHER | Personal account with limited topical signal. |
+| 1302 | @RaccoonHKG | Raccoon Chan | CRYPTO_WEB3 | DAO-linked Web3 identity account. |
+| 1303 | @0xmomonifty | 0xMomo | AI_CORE | AI, blockchain, on-chain scanning and crypto plus US/HK futures account. |
+| 1304 | @PythNetwork | Pyth Network | US_STOCKS_MACRO | Price layer for global financial markets. |
+| 1305 | @Somnia_Network | Somnia | AI_CORE | Agentic L1 account. |
+| 1306 | @OpenledgerHQ | OpenLedger | AI_CORE | AI blockchain for monetizing data, models and agents. |
+| 1307 | @Cupseyy | Cupsey | CRYPTO_WEB3 | TrenchGrinders-linked crypto trading account. |
+| 1308 | @dragonfly_xyz | Dragonfly | CRYPTO_WEB3 | Cross-border crypto venture fund. |
+| 1309 | @PanteraCapital | Pantera Capital | US_STOCKS_MACRO | U.S. institutional asset manager focused exclusively on blockchain technology. |
+| 1310 | @sanyi_eth_ | sanyi.eth | US_STOCKS_MACRO | Hyperliquid-focused alpha account and crypto market commentator. |
+| 1311 | @ZssBecker | Alex Becker | PRODUCT_GROWTH | Crypto personality and Hyros founder account. |
+| 1312 | @Lombard_Finance | Lombard | US_STOCKS_MACRO | On-chain Bitcoin finance platform. |
+| 1313 | @spencer | Spencer | PRODUCT_GROWTH | Founder and operator across Orangecap, Ocapgames, Moonbirds and Vibes TCG. |
+| 1314 | @robviglione | Rob Viglione | CRYPTO_WEB3 | ZK and Horizen Labs co-founder with finance and mathematics background. |
+| 1315 | @john_camardo | John Camardo | PRODUCT_GROWTH | Product lead for ZKV Protocol and Horizen Labs. |
+| 1316 | @Web3Dc888 | 齐博千 | US_STOCKS_MACRO | AI and US-stock investor focused on Tesla, SpaceX and xAI long-term holdings. |
+| 1317 | @xgbtc | 笑苍生.btc | CRYPTO_WEB3 | Protected BTC and crypto opportunity account. |
+| 1318 | @0xleff | LEFF | CRYPTO_WEB3 | GMGN.ai-linked crypto personal account. |
+| 1319 | @moonbirds | Moonbirds | CRYPTO_WEB3 | Moonbirds NFT and on-chain identity project account. |
+| 1320 | @calchng | Slow_catch | OTHER | Personal motivational account with limited topical signal. |
+| 1321 | @0xRay518 | Ray | OTHER | Protected account with no visible bio in the following list. |
+| 1322 | @0xphilo | PP | AI_CORE | Web3 and AI builder working on ZeroBank and running AI plus alpha channels. |
+| 1323 | @lifesinger | Frank Wang 玉伯 | OTHER | Personal curiosity and honesty profile with limited topical signal. |
+| 1324 | @didengshengwu | 低等生物 | OTHER | Personal content account focused on sincere and valuable output. |
+| 1325 | @Garydesu | Gary | CRYPTO_WEB3 | Blockchain Unit-01 personal account. |
+| 1326 | @EleveResearch | 十一Eleve | US_STOCKS_MACRO | Trader and researcher focused on TGE, pre-TGE, news trading and Polymarket. |
+| 1327 | @0xWilllove | William | CRYPTO_WEB3 | Meme alpha and 0xSZUBA assistant account. |
+| 1328 | @NanoBanana | Nano Banana 2 | AI_CORE | Image editing and generation model account tied to Gemini. |
+| 1329 | @ps2025moon | 套神 | PRODUCT_GROWTH | Base Chinese community lead building Giggle and related community projects. |
+| 1330 | @raylin51 | 长尼玛 | OTHER | Shitpost account with limited market or AI signal. |
+| 1331 | @tuults69 | Tuults | CRYPTO_WEB3 | GMGN-based SOL and BNB crypto trading account. |
+| 1332 | @6551News | 6551News | AI_CORE | Agent-native media account auto-posted by Cryptoxiao. |
+| 1333 | @jefferytrlb | Pazpil | OTHER | Minimal life-enjoyment profile with limited topical signal. |
+| 1334 | @Dolomite_io | Dolomite | US_STOCKS_MACRO | DeFi money-market and margin-trading protocol. |
+| 1335 | @TriXina731 | Xina | OTHER | Independent-thinker personal account with limited market or AI signal. |
+| 1336 | @zon1746265 | 神秘子超兄 | OTHER | Mutual-follow small account with limited topical signal. |
+| 1337 | @mengnalishat | t0ng_ | OTHER | Protected account with no visible bio in the following list. |
+| 1338 | @060nn5ic | iivan.oo | OTHER | Protected account with no visible bio in the following list. |
+| 1339 | @mitawlove | 有事拨打喵喵零 | OTHER | Personal venting account with limited topical signal. |
+| 1340 | @qwqRichest | 月斩 | OTHER | Personal services and gaming account with limited topical signal. |
+| 1341 | @Feyiin_Ccc | Feyiin | OTHER | Personal account with limited market or AI signal. |
+| 1342 | @Seooookb | Seo | OTHER | Personal low-activity account with limited topical signal. |
+| 1343 | @blockjob2022 | Block Job | PRODUCT_GROWTH | Web3 recruiting and headhunting platform. |
+| 1344 | @jessyshen | 沈彤=TongShen | OTHER | Literary personal account with limited topical signal. |
+| 1345 | @bitget | Bitget | US_STOCKS_MACRO | Universal exchange covering crypto, stocks, gold, forex and more. |
+| 1346 | @ambergroup_io | Amber Group | US_STOCKS_MACRO | Crypto financial-services group account. |
+| 1347 | @solvenant | solvenant | CRYPTO_WEB3 | Cryptocurrency-focused account. |
+| 1348 | @iYXwivACYC88764 | 我不是糖宝 | US_STOCKS_MACRO | Trading-style account focused on market strength, repair moves and leader selection. |
+| 1349 | @bbloveu7777 | 印尼特种兵小1 | US_STOCKS_MACRO | Financial-service and trading account with Xiaohongshu/Bilibili presence. |
+| 1350 | @faster100x | Faster100x | US_STOCKS_MACRO | Chip-bubble analytics platform plus Hyperliquid contracts and US-stock copy-trading links. |
+| 1351 | @TechFlowPost | TechFlow 深潮 | CRYPTO_WEB3 | Chinese crypto media account focused on Web3. |
+| 1352 | @ParticleBuild | Particle Developers | CRYPTO_WEB3 | Particle Network developer resources for one account, one balance and any chain. |
+| 1353 | @nova_trade1 | Crypto Nova | US_STOCKS_MACRO | Full-time trader focused on BNB, SOL, market analysis and crypto trends. |
+| 1354 | @Kilo_web3 | Kilo | US_STOCKS_MACRO | On-chain data analyst focused on smart money and market-play analysis. |
+| 1355 | @Vida_BWE | Vida | US_STOCKS_MACRO | Prop trading firm founder focused on zero-sum trading systems. |
+| 1356 | @zachxbt | ZachXBT | CRYPTO_WEB3 | On-chain investigator and Paradigm advisor. |
+| 1357 | @chengyi24 | 别那么天真 | OTHER | Minimal personal slogan account with limited topical signal. |
+| 1358 | @Iamqz7 | 晴晴子 | CRYPTO_WEB3 | Meme and contract-trading record account. |
+| 1359 | @moneysmoremore | Apple | CRYPTO_WEB3 | Airdrop-farming personal account. |
+| 1360 | @qiu_song60259 | 虎牙钉 | OTHER | Art-student personal account with limited topical signal. |
+| 1361 | @Cyttkx1122 | zerostarokk | OTHER | Personal account with limited market or AI signal. |
+| 1362 | @FatihaAbid | 阿泽 | OTHER | Minimal personal slogan account with limited topical signal. |
+| 1363 | @mingyueth | 笨比Killer | OTHER | Personal surfing account with limited market or AI signal. |
+| 1364 | @maswdwlwzz | 皮皮虾Trader | CRYPTO_WEB3 | Early crypto investor and Ethereum evangelist holding BTC, DOGE and XRP. |
+| 1365 | @kaikaibtc | K三 凯 | CRYPTO_WEB3 | Crypto community lead sharing market opportunities and Binance wallet links. |
+| 1366 | @leochen924 | 乘风易 | US_STOCKS_MACRO | Investment-research learning account focused on patterns, project notes and small-position strategy. |
+| 1367 | @in_chongs | 吉吉国王 | CRYPTO_WEB3 | Personal account with airdrop-farming signal mixed with fitness and lifestyle content. |
+| 1368 | @BNBCHAINZH | BNB Chain 華語 | CRYPTO_WEB3 | Official Chinese-language BNB Chain account covering stablecoin transfers and ecosystem updates. |
+| 1369 | @Ryugu_inori | 巫令儿 | OTHER | Chinese cosplayer account with limited market or AI signal. |
+| 1370 | @lijigang | 李继刚 | AI_CORE | AI-focused creator account centered on human work and AI interaction. |
+| 1371 | @0xFattDeFi | FattDeFi | CRYPTO_WEB3 | Web3 ambassador and UniversalX/MNT ecosystem account. |
+| 1372 | @Alphalon_ | 阿瓦隆 | US_STOCKS_MACRO | Quant and programmatic trading account with blockchain-market commentary. |
+| 1373 | @haoshanhong | Haoshan Hong | PRODUCT_GROWTH | Founder and operator profile for Fluentide with Tsinghua Schwarzman background. |
+| 1374 | @cyclens_tech | cyclens | CRYPTO_WEB3 | Cybersecurity, hardware and blockchain challenge platform. |
+| 1375 | @zgo3o | 保安 | OTHER | Adult-adjacent personal services account with limited market or AI signal. |
+| 1376 | @OP34732208 | ·凌森 Er | OTHER | Minimal personal account with limited topical signal. |
+| 1377 | @SurfAI | Surf | AI_CORE | Crypto AI platform account for workflow replacement and new AI-enabled workflows. |
+| 1378 | @genome_protocol | Genome | CRYPTO_WEB3 | Web3 rewards system focused on protocol, dapp and game user retention. |
+| 1379 | @Cedar_sol1 | Cedar.Sol | US_STOCKS_MACRO | Trading-log account recording transaction ideas and market reflections. |
+| 1380 | @Jackyi_ld | JackYi | US_STOCKS_MACRO | Liquid Capital founder building Trend Research. |
+| 1381 | @SaBiBro666 | 撒幣哥 Mr. CashCash | US_STOCKS_MACRO | On-chain data analytics founder behind CashCash and CopyBalabot. |
+| 1382 | @CopyBalaBot | CashCash | US_STOCKS_MACRO | Telegram bot for smart-money tracking, copy trading and first-hand trading info. |
+| 1383 | @okzczc | 阿超 ChainGas小额入金 | CRYPTO_WEB3 | Web3 service builder offering small fiat-to-GAS services and Chinese-language X growth services. |
+| 1384 | @mim7999 | 米 | OTHER | Sparse profile with limited visible topical signal. |
+| 1385 | @xxxtho53102 | 老公艾草我收钱 | OTHER | Personal mutual-contact account with limited market or AI signal. |
+| 1386 | @DOGEAAA888 | 狗爹 | CRYPTO_WEB3 | Former ByteDance coder and DOGE-focused crypto account. |
+| 1387 | @Flywheel_DAO | Flywheel DAO | CRYPTO_WEB3 | Web3 creator and builder community focused on market signal and alpha amplification. |
+| 1388 | @USA_China_Talk | 美国驻华使领馆 | OTHER | U.S. Mission to China official account with diplomacy and public-affairs content. |
+| 1389 | @hsn8086xe | hsn.bot | OTHER | Auto-posting image bot account with limited market or AI signal. |
+| 1390 | @DelphinusLab | Delphinus Lab | CRYPTO_WEB3 | zkWASM project building trustless computation infrastructure. |
+| 1391 | @DekuKing1 | 0x易经 | OTHER | Protected account with philosophical bio and limited visible topical signal. |
+| 1392 | @nemoyue0607 | 小莫啊莫 | CRYPTO_WEB3 | Crypto investment-research account. |
+| 1393 | @0x_nezha | 哪吒 | CRYPTO_WEB3 | Crypto account sharing DYOR-style investment commentary. |
+| 1394 | @Neon2089 | Neon | OTHER | Personal community account focused on process and controllable actions. |
+| 1395 | @cyy7025219 | Chase Blu | AI_CORE | AI representative for on-chain traders covering macro liquidity, memes, AI agents and personal research OS. |
+| 1396 | @Linruwo | Rubin | AI_CORE | Builder of a university research institute focused on research, AI agents and RWA. |
+| 1397 | @ljng15760 | 星星 | OTHER | Personal media account with advertising links and limited market or AI signal. |
+| 1398 | @nanatang02 | nanatang_AI | AI_CORE | AI-themed account sharing a curated resource table. |
+| 1399 | @KWONEUNBI | KWON EUNBI | OTHER | Official entertainment account for Kwon Eunbi. |
+| 1400 | @Soloxbt | 3 | CRYPTO_WEB3 | Protected XBT-handle account with limited visible bio. |
+| 1401 | @ConstantinGao | constantingao.eth | CRYPTO_WEB3 | Crypto anarchist account tied to decentralized public goods and centralized encrypted finance projects. |
+| 1402 | @CuiMao | CuiMao | AI_CORE | AI developer focused on NVIDIA, deep learning and AI learning communities. |
+| 1403 | @xiaoyinsi2025 | 小隐寺 | US_STOCKS_MACRO | U.S.-stock and crypto investment community account. |
+| 1404 | @theunipcs | Unipcs | CRYPTO_WEB3 | Bonk Guy crypto personality account. |
+| 1405 | @Sssss19762025 | 二十七载 | OTHER | Personal political-ideal account with limited market or AI signal. |
+| 1406 | @Y_babyshow | T_shing02 | US_STOCKS_MACRO | Base and Tempo ecosystem trader focused on PRED and prediction-market sports events. |
+| 1407 | @0CryptoZero | Crypto Zen | CRYPTO_WEB3 | Memecoin insights and crypto analysis account. |
+| 1408 | @traderwanwan | Wan 萬萬 | US_STOCKS_MACRO | Arbitrage-focused trading account. |
+| 1409 | @0x0_zero | 0x0 | US_STOCKS_MACRO | Arbitrage and bot-oriented trading account. |
+| 1410 | @MshellyM997 | 雪莉 | OTHER | Personal profile with limited market or AI signal. |
+| 1411 | @ZKSgu | 孤鹤.hl | US_STOCKS_MACRO | Hyperliquid and Binance-linked trading account with Kaito and Ethos ranking signals. |
+| 1412 | @lamentomao | 兔子 | OTHER | Sparse profile with limited visible topical signal. |
+| 1413 | @BitDanceUp | ArBitCry | US_STOCKS_MACRO | Algorithm engineer and MEV hunter focused on chain arbitrage and automated on-chain trading. |
+| 1414 | @fbb4official | FBB4 | OTHER | Sparse loading profile with limited visible topical signal. |
+| 1415 | @Wilsonchen1101 | FaceBig Brothers | US_STOCKS_MACRO | Market framework account covering behavior, macro, data, crypto and meme culture. |
+| 1416 | @MrRyanChi | Mr.RC | US_STOCKS_MACRO | Builder of Insiders prediction-market product and former 0xUClub president. |
+| 1417 | @0xSZUBA | SZUBA | CRYPTO_WEB3 | Shenzhen University blockchain association account. |
+| 1418 | @xbanboo | banboo | AI_CORE | Creator documenting daily progress using AI to become a hands-off operator. |
+| 1419 | @0xN10N | 0n10n | PRODUCT_GROWTH | PKU and Penn technical founder profile, CTO at FingerDanceSG. |
+| 1420 | @0xfengxun | 风寻 | CRYPTO_WEB3 | Long-running crypto studio account focused on new coins, hot altcoins and paid VIP groups. |
+| 1421 | @btc888 | 苏苏 | CRYPTO_WEB3 | BTC-handle personal account with crypto-adjacent signal. |
+| 1422 | @wangyiduo0404 | Shark | OTHER | Minimal personal account with limited topical signal. |
+| 1423 | @Aptos | Aptos | CRYPTO_WEB3 | Official Aptos Foundation account for the Aptos blockchain. |
+| 1424 | @shelbyserves | Shelby | AI_CORE | Verifiable global object storage and data layer for AI workloads. |
+| 1425 | @Web3_goodboy | 0xdengdeng.eth.vibe | CRYPTO_WEB3 | Web3 personal account with ETH identity and Telegram call channel. |
+| 1426 | @Tang09928 | 江南 | OTHER | Daily-sharing personal account with limited market or AI signal. |
+| 1427 | @CryptoNyaRu | 加密猫雷 | CRYPTO_WEB3 | Chinese crypto KOL account with exchange rebate and contract-trading commentary. |
+| 1428 | @GaoShanZkk | 高山仰止.eth | CRYPTO_WEB3 | DeFi research account and WEEX ambassador writing crypto investment notes. |
+| 1429 | @0xSophia_Baby | Sophia | CRYPTO_WEB3 | Web3 KOL manager focused on promotion packages and primary-market research. |
+| 1430 | @91videoeth | 阿酒 | CRYPTO_WEB3 | Crypto account sharing Bitget and LBank registration links. |
+| 1431 | @MomokoOoum | Momoko | OTHER | Personal diary account with limited market or AI signal. |
+| 1432 | @Deibajie | 嘚，八戒 | CRYPTO_WEB3 | Aster token and crypto Telegram channel account. |
+| 1433 | @billywen_ | Billy.BUIDL | CRYPTO_WEB3 | Web3 builder-oriented account. |
+| 1434 | @_jasonwei | Jason Wei | AI_CORE | AI researcher at Meta Superintelligence Labs with OpenAI and Google background. |
+| 1435 | @Awsomefo | 小Fo | OTHER | Newsletter account with limited visible market or AI signal. |
+| 1436 | @MSX_CN | 麦通MSX | US_STOCKS_MACRO | Chinese official account for decentralized RWA trading platform MSX. |
+| 1437 | @Rob1n_BNB | Robin | CRYPTO_WEB3 | InfoFi player and meme degen with Binance and CEX BD background. |
+| 1438 | @EarningArtist | Earning Artist | US_STOCKS_MACRO | Payments-industry account focused on PayFi, memes and RWA. |
+| 1439 | @chaofandie | 赣 | US_STOCKS_MACRO | BTC trading account focused on market profile and order flow. |
+| 1440 | @Cointelegraph | Cointelegraph | CRYPTO_WEB3 | Crypto media account covering news, research and podcasts. |
+| 1441 | @circle | Circle | US_STOCKS_MACRO | Internet financial platform account powered by USDC, Arc and Circle Payments Network. |
+| 1442 | @HashKeyOTC | HashKey OTC | US_STOCKS_MACRO | Licensed OTC services account with deep liquidity and multi-FX rails. |
+| 1443 | @HashKeyExchange | HashKey Exchange | US_STOCKS_MACRO | Hong Kong licensed virtual-asset exchange account under HashKey Group. |
+| 1444 | @anymose | anymose | CRYPTO_WEB3 | Web3 education writer and OKX Web3 onboarding account. |
+| 1445 | @0xJamesAlpha | James | CRYPTO_WEB3 | Crypto gem-call Telegram channel account. |
+| 1446 | @butaidongjiaoyi | 如果我不懂 | US_STOCKS_MACRO | Binance Square futures trader sharing contract-trading performance and strategies. |
+| 1447 | @zjh2002016 | 云朵 | CRYPTO_WEB3 | Airdrop-farming and crypto-business account. |
+| 1448 | @Maiga_AI | Maiga.ai | AI_CORE | AI co-pilot for crypto trading, DeFi and prediction markets on BNB Chain. |
+| 1449 | @JeffLia12309881 | Jeff Liang | US_STOCKS_MACRO | Volatility-trading course and BTC-denominated yield-strategy account. |
+| 1450 | @xhanTululu | ALPHACAT | CRYPTO_WEB3 | Crypto call-channel account. |
+| 1451 | @HeyfishYC | Jonny Fish | US_STOCKS_MACRO | Sidekick Labs operator building LiveFi trading around live moments. |
+| 1452 | @Metabape | Meta 猿 | OTHER | Personal account recording life and opinions with limited market or AI signal. |
+| 1453 | @Eric_pollll_btc | Eric_T | CRYPTO_WEB3 | BTC and 0xU-adjacent personal account with limited visible market detail. |
+| 1454 | @liberty_bsc | Liberty Finance | US_STOCKS_MACRO | On-chain RWA finance project bringing real-world assets on-chain with USD1. |
+| 1455 | @jackliangkaijie | 教练哥 | CRYPTO_WEB3 | Meme player and celebrity memecoin researcher. |
+| 1456 | @1783Dao | 1783DAO | AI_CORE | Web3 and AI community partnered with major crypto and AI conferences. |
+| 1457 | @iamai_omni | IAMAI | AI_CORE | Post-AGI, complex-systems and futurist account. |
+| 1458 | @0xCheshire | 柴郡 | AI_CORE | Crypto plus AI account promoting a digital-finance private AI assistant and exchange channels. |
+| 1459 | @cookiedotfuncn | Cookie DAO CN | AI_CORE | Chinese community for Cookie DAO building the crypto data layer for the AI era. |
+| 1460 | @0xzagen | zagen扎根 | AI_CORE | Robotics-focused degen and Axis Robotics contributor in the Virtuals ecosystem. |
+| 1461 | @AliceBCeiona | AliceBCeiona | CRYPTO_WEB3 | Blockchain association research lead and securities-investment guest sharing investment experience. |
+| 1462 | @waiting027 | Waiting | OTHER | Sparse profile with limited visible topical signal. |
+| 1463 | @au_xbt | AU | CRYPTO_WEB3 | XBT and crypto-collaboration account tied to a Chinese crypto circle. |
+| 1464 | @rubenhassid | Ruben Hassid | OTHER | Substack creator account with limited visible topical signal in the following list. |
+| 1465 | @Brave2049 | Brave2049 | CRYPTO_WEB3 | Investment and sovereign-individual account with blockchain 101 writing. |
+| 1466 | @Jason_Young1231 | Jason Young | AI_CORE | Builder of CC Switch, a Claude Code, OpenCode and Codex assistant tool. |
+| 1467 | @BamboozCrypto | 竹贤会BamBooZ | CRYPTO_WEB3 | Protected Crypto GenZ organization focused on alpha discovery and blockchain culture. |
+| 1468 | @Gabrysia_eth | Gabi | PRODUCT_GROWTH | Web3 growth hacker with Gold3 Labs and prior Web3 project experience. |
+| 1469 | @LotusDecoder | LotusDecoder | AI_CORE | AI, mind and heart themed account. |
+| 1470 | @Noobwillwin | Noob | CRYPTO_WEB3 | Vibe-and-ape crypto contact account. |
+| 1471 | @web3_lizzz | Lizzz | CRYPTO_WEB3 | On-chain primary-market hunter focused on new launches, leading meme trends, SOL and BSC. |
+| 1472 | @MardoResearch | Mardo | US_STOCKS_MACRO | Founder building a native AI hedge fund focused on AI, metals and space investments. |
+| 1473 | @fgchiu | layen.bnb | CRYPTO_WEB3 | BNB and TermMax-adjacent crypto account. |
+| 1474 | @MOONIGHTCLUB | MOONIGHT | OTHER | Community-style account with sparse visible topical signal. |
+| 1475 | @agintender | danny | US_STOCKS_MACRO | YouCanShortIt barista account sharing NFA market perspectives. |
+| 1476 | @RealHunterMo | Hunter Mo | US_STOCKS_MACRO | Investment-record account with NFA framing. |
+| 1477 | @wen5888888 | 文 | OTHER | Minimal personal account with limited topical signal. |
+| 1478 | @chaozuoye | 作业借你抄 | US_STOCKS_MACRO | Finance-blogger account sharing OKX links and investing content. |
+| 1479 | @Alain_XOXO | Alain Nguyen | PRODUCT_GROWTH | Web3 growth, KOL, marketing operations and research contributor. |
+| 1480 | @realxiodos | 真诚小道士 | CRYPTO_WEB3 | TRON builder and chain-trading entrance account with exchange cost-saving links. |
+| 1481 | @xiaoayi1997 | 心怡 | CRYPTO_WEB3 | Walrus Protocol ambassador account with personal disclaimers. |
+| 1482 | @worldlibertyfi | WLFI | US_STOCKS_MACRO | Finance project account building USD1 and institutional-facing financial rails. |
+| 1483 | @0xleng1 | Leng | CRYPTO_WEB3 | Early-project research account with investment-disclaimer framing. |
+| 1484 | @amber_ac_ | amber.ac | AI_CORE | Crypto and AI innovation account powered by Amber Group. |
+| 1485 | @gokunocool | Goku很Cool | CRYPTO_WEB3 | Crypto poker founder building ChipChip and using AI for product experiments. |
+| 1486 | @xiaohu | 小互 | AI_CORE | AI news and learning account covering frontier technology and AI dynamics. |
+| 1487 | @0xAgata | 凶悍的里脊肉 | AI_CORE | AI and crypto meme account and MossAI intern. |
+| 1488 | @Mirro7777 | MIRRO | US_STOCKS_MACRO | Trading account focused on adding to floating profits, left-side positions and spot-market risk. |
+| 1489 | @ChinaWhaleETH | 6哥 | CRYPTO_WEB3 | China Whale Capital founder and degen trader with crypto alpha channels. |
+| 1490 | @mia_okx | Mia米粒儿 | US_STOCKS_MACRO | OKX Chinese VIP client-service and enablement account. |
+| 1491 | @MadhuKumar4U | MadDy | AI_CORE | Sapien AI ambassador account. |
+| 1492 | @mstfgk4545 | Mustafa Gok | OTHER | Sparse profile with limited visible topical signal. |
+| 1493 | @JM_Dabiaoke | Crypto 大镖客 | CRYPTO_WEB3 | Web3 information-sharing account and long-term BNB/BTC holder. |
+| 1494 | @RebirthWeb3 | Rebirth | PRODUCT_GROWTH | Web3 marketing and community-builder account for promos, collaborations and campaigns. |
+| 1495 | @SaulWgmi | Saul | CRYPTO_WEB3 | Founder of Conn3ct Protocol and engineer turned full-time Web3 degen. |
+| 1496 | @DusanCrypto | dusan | PRODUCT_GROWTH | Web3 marketing founder focused on growth, community, threads and Galxe campaigns. |
+| 1497 | @FerreWeb3 | Ferre | CRYPTO_WEB3 | Founder of Conn3ct Protocol. |
+| 1498 | @beorcash | Beor | PRODUCT_GROWTH | Marketing, community-building, campaign lead and advisor account. |
+| 1499 | @StewartEdward07 | Stewart | CRYPTO_WEB3 | DeFi calculator and degen gambling account. |
+| 1500 | @thecryptoskanda | 加密韋馱 Skanda | CRYPTO_WEB3 | Crypto operator building Hertzflow, tied to BNB Chain and speculation-layer alerts. |
+| 1501 | @kasinglung | kasing lung | OTHER | Creator of Labubu and The Monsters series with limited market or AI signal. |
+| 1502 | @leijun | Lei Jun | PRODUCT_GROWTH | Xiaomi founder and CEO account. |
+| 1503 | @hourbagegi42209 | Crypto.Me小萌 | CRYPTO_WEB3 | Meme-coin researcher and crypto personal account. |
+| 1504 | @awsbclub_cn | 湾区aWSB茶馆 | CRYPTO_WEB3 | Chinese aWSB crypto community covering BTC, ETH, DeFi and NFTs. |
+| 1505 | @Steezehuman | Stephenblaq | AI_CORE | On-chain KOL, AI researcher, content creator and Base builder at AisarLabs. |
+| 1506 | @MemeticMonk_ | MemeticMonk 狗宝 | CRYPTO_WEB3 | Web3 and memetic-culture account focused on trends, community and business. |
+| 1507 | @sanzhichazi1 | Sanzhi.eth | AI_CORE | Builder at the intersection of AI agents and crypto commerce. |
+| 1508 | @BTCOld8 | 老八只白嫖 | CRYPTO_WEB3 | Binance Wallet and crypto community account with business Telegram links. |
+| 1509 | @GoudanWoo | 吴狗蛋 | CRYPTO_WEB3 | Solana-focused crypto account promoting Neverless and yield/referral opportunities. |
+| 1510 | @pharos_network | Pharos | US_STOCKS_MACRO | RealFi Layer 1 making institutional-grade assets accessible on-chain. |
+| 1511 | @SEGA | SEGA | OTHER | Official gaming company account with limited market or AI signal. |
+| 1512 | @SonicSVM | Sonic SVM | CRYPTO_WEB3 | Solana attention network connecting on-chain activity and off-chain signals. |
+| 1513 | @chillonicNFT | Chillonic | CRYPTO_WEB3 | NFT and attention-capital-market community on Sonic SVM. |
+| 1514 | @Peter7199 | peter | US_STOCKS_MACRO | UniversalX full-chain trading-platform account and market participant. |
+| 1515 | @xioy31546 | 小渔 | CRYPTO_WEB3 | Long-term BNB builder focused on community, consensus and culture expansion. |
+| 1516 | @PoPi66002146 | PoPi 牛犁.m | CRYPTO_WEB3 | MemeCore builder and crypto creator with Telegram channel. |
+| 1517 | @EnHeng456 | EnHeng嗯哼.Ai | AI_CORE | AI Build and NVIDIA-focused student builder also building BNB and Aster. |
+| 1518 | @ShirleyXBT | ShirleyXBT | PRODUCT_GROWTH | Binance growth and freelance creator account. |
+| 1519 | @0xUClub | 0xU Club | CRYPTO_WEB3 | Hong Kong GenZ Web3 club account. |
+| 1520 | @CryptoPandasim | 熊猫CryptoPanda | US_STOCKS_MACRO | Finance worker covering philosophy, AI, macroeconomics and crypto investing. |
+| 1521 | @NotebookLM | NotebookLM | AI_CORE | Official NotebookLM AI product account. |
+| 1522 | @wengenguyi4 | 文亘古遗 | OTHER | Personal profanity account with limited market or AI signal. |
+| 1523 | @gork | gork | OTHER | Minimal parody-style account with limited visible topical signal. |
+| 1524 | @dotyyds1234 | 憨巴龙王 | CRYPTO_WEB3 | Protected crypto-call warning account. |
+| 1525 | @aliciafights | Alicia | CRYPTO_WEB3 | Web3 student account connected to 0xU with multilingual profile. |
+| 1526 | @JELabs2024 | JE Labs | AI_CORE | Strategic growth partner for fintech, AI and robotics projects. |
+| 1527 | @fladdict | 深津 貴之 | AI_CORE | Designer and CXO working on AI service design around note and legal-tech products. |
+| 1528 | @HongKong_Doll | HongKongDoll | OTHER | Adult creator account with limited market or AI signal. |
+| 1529 | @hexiecs | 冷静冷静再冷静 | PRODUCT_GROWTH | Narrative-engineer account. |
+| 1530 | @wolfyxbt | 杀破狼 WolfyXBT | CRYPTO_WEB3 | Crypto trader and Vibe Coding account building CHILABS. |
+| 1531 | @gold_burger | Hamburger | CRYPTO_WEB3 | Crypto trading account sharing asset-growth records, Telegram and GMGN links. |
+| 1532 | @lennysan | Lenny Rachitsky | PRODUCT_GROWTH | Product, growth and career advice writer. |
+| 1533 | @Liyizhou2023210 | Al Pacino | US_STOCKS_MACRO | Professional secondary-market trader focused on steady operations since 2017. |
+| 1534 | @0xChris_defi | 匿名博士-直播号 | US_STOCKS_MACRO | Web3 metaphysics account covering financial astrology and macro trading. |
+| 1535 | @Raydium | Raydium | CRYPTO_WEB3 | Solana DeFi liquidity protocol account. |
+| 1536 | @zmy168188 | E-ycc | US_STOCKS_MACRO | Metaphysics finance account mixing primary research, secondary trading and BTC trend divination. |
+| 1537 | @PANews | PANews | CRYPTO_WEB3 | Asia crypto news outlet covering blockchain information and research reports. |
+| 1538 | @YekaiMeta | 叶开 | US_STOCKS_MACRO | RWA, DePIN, stablecoin and asset-tokenization author and digital-capital founder. |
+| 1539 | @Bitget_zh | Bitget中文 | US_STOCKS_MACRO | Bitget Chinese account covering crypto, stocks, gold, forex and global asset trading. |
+| 1540 | @Ga__ke | gake | CRYPTO_WEB3 | Crypto collaboration and GMGN-linked account with NFA framing. |
+| 1541 | @BTCBruce1 | Bruce J | US_STOCKS_MACRO | U.S. Bitcoin miner connected to MSX. |
+| 1542 | @chameleon_jeff | jeff.hl | US_STOCKS_MACRO | Hyperliquid builder focused on all-finance infrastructure. |
+| 1543 | @BroLeon | 土澳大狮兄BroLeon | CRYPTO_WEB3 | BNB Chain expert and Kaito Chinese-region top account sharing research and wallet links. |
+| 1544 | @DrPayFi | Richard Liu | US_STOCKS_MACRO | Co-founder of Huma Finance and PayFi account. |
+| 1545 | @qc_qizhou | Qi Zhou | CRYPTO_WEB3 | Founder of web3://, EthStorage and QuarkChain, focused on Web3 standards and development. |
+| 1546 | @Web3Feng | 风无向 | CRYPTO_WEB3 | Wave Tool co-founder and Web3 investment-commentary account. |
+| 1547 | @Chuddzz | Chudy | US_STOCKS_MACRO | K-line and GemShot account focused on chart-driven market thinking. |
+| 1548 | @0xStudy | 0xStudy | CRYPTO_WEB3 | Crypto tutorial account covering AbstractChain, exchanges and wallet links. |
+| 1549 | @pudgypenguins | Pudgy Penguins | CRYPTO_WEB3 | Pudgy Penguins NFT and community account. |
+| 1550 | @JunzTsang | Junz Tsang | PRODUCT_GROWTH | Web3 marketing lead at Debot with prior ForgeX and BlockBooster experience. |
+| 1551 | @Web3zy8 | 左右 | CRYPTO_WEB3 | Longtime BNB and crypto-business account with Binance affiliate links. |
+| 1552 | @0xsexybanana | 郡主Christine | AI_CORE | Axis Robotics customer-service account sharing farming and trading thoughts. |
+| 1553 | @zunzunv | zunzun | OTHER | Protected sparse profile with limited visible topical signal. |
+| 1554 | @Guilin_Chen_ | 陈桂林 | US_STOCKS_MACRO | U.S.-stocks and crypto account with investment-disclaimer framing. |
+| 1555 | @0xsawa | CryptoSAWA | US_STOCKS_MACRO | Secondary-market trader and crypto poker account with Bitget trading links. |
+| 1556 | @ChinaWeb3 | luckytime.eth | CRYPTO_WEB3 | NFT, meme and airdrop-farming account. |
+| 1557 | @MetaHunter168 | 小人物 | CRYPTO_WEB3 | Web3 DAO and MetaHunter account with Telegram channel. |
+| 1558 | @iriver_cc | 长江 | CRYPTO_WEB3 | Developer building BTC-chain toolbox and tutorials. |
+| 1559 | @Renji_0x | Kisaragi Renji | CRYPTO_WEB3 | Crypto airdrop and gem hunter account. |
+| 1560 | @FuYanhai | 有时 | OTHER | Personal moderation quote account with limited market or AI signal. |
+| 1561 | @JetXBT | Jet | CRYPTO_WEB3 | BTC, ETH and BNB holder and crypto investor with promotion and ambassador contact. |
+| 1562 | @yangaina3 | yangaina | CRYPTO_WEB3 | New-energy industry account tracking Web3 interactions. |
+| 1563 | @litangsongyx | 理塘宋亚轩 | CRYPTO_WEB3 | Personal Binance affiliate account with limited broader topical signal. |
+| 1564 | @CoinDesk | CoinDesk | CRYPTO_WEB3 | Crypto media and events account covering markets, data and Consensus. |
+| 1565 | @sweet919268 | 甜饼sweet | CRYPTO_WEB3 | Crypto ambassador for Tabi, Starknet and AveAI with gem-call Telegram channel. |
+| 1566 | @ivanxguo | ivanxguo.eth | US_STOCKS_MACRO | Investment consultant and Shanghai Stock Exchange options-investment strategist. |
+| 1567 | @traderpow | pow | CRYPTO_WEB3 | Crypto trader account tied to degen-camp and Solana-related projects. |
+| 1568 | @ChineseEmbinUS | Chinese Embassy in US | OTHER | Official Chinese Embassy in the United States account. |
+| 1569 | @KaitoAI | Kaito AI | AI_CORE | Intelligence and financial-markets platform for the attention economy. |
+| 1570 | @Web3Tashan | 塔山 | CRYPTO_WEB3 | Web3 degen player with alpha Telegram group. |
+| 1571 | @XXAntiWar | XX | CRYPTO_WEB3 | Protected NFT and shitcoin degen account with large-return claims. |
+| 1572 | @xifancry | 夕凡的撸毛之路 | CRYPTO_WEB3 | Airdrop-farming account and WEEX global ambassador. |
+| 1573 | @sailisiKYC | 塞里斯.eth | CRYPTO_WEB3 | KYC, airdrop, launch and dedicated-IP resource provider for crypto farming. |
+| 1574 | @head7877 | 铲子哥 | CRYPTO_WEB3 | Treasure-hunter style crypto account. |
+| 1575 | @Leo_Web3_BTC | Leo Lau | PRODUCT_GROWTH | Web3 business-development account with GetBlock, YC China alumni and 0xUClub background. |
+| 1576 | @Levi_CZR | Levi | CRYPTO_WEB3 | Web3 builder and crypto/life account, BD lead at CZR Exchange. |
+| 1577 | @0xsimonliu | 0xSimon | CRYPTO_WEB3 | Blockchain operator with imToken, TokenStoryAI and Arweave Oasis content background. |
+| 1578 | @XChatScout | 一 | CRYPTO_WEB3 | Project research, introduction, data-visualization and open-source research account. |
+| 1579 | @alex668a | Alex | CRYPTO_WEB3 | All-in-crypto Binance Angel and BNB holder account. |
+| 1580 | @scott6758 | scott | CRYPTO_WEB3 | Web3 account sharing airdrop-refinement projects and tutorials. |
+| 1581 | @zhengzhengtaba | 老白刚学币 | CRYPTO_WEB3 | Beginner crypto account tied to Sahara and DAOBase. |
+| 1582 | @ToplayerNo8 | Toplayer | AI_CORE | AI L2 Web3 account with broad AI-to-everything positioning. |
+| 1583 | @xmhlq520 | xiaoqi | CRYPTO_WEB3 | De.Fi Army account. |
+| 1584 | @maixuanfeng95 | 麦旋风.ink | OTHER | Sparse profile with limited visible topical signal. |
+| 1585 | @tccly48955616 | 墨羽 | CRYPTO_WEB3 | Airdrop account. |
+| 1586 | @Crypto_Yulia | Yulia | CRYPTO_WEB3 | All-in-crypto account trading on BSC and SOL with GMGN and Padre links. |
+| 1587 | @wisegale161002 | wisegale | CRYPTO_WEB3 | BNB holder and inscription diamond-hands account. |
+| 1588 | @Sunny_1io | 桑尼Sunny | CRYPTO_WEB3 | Crypto enthusiast and research account. |
+| 1589 | @233TuT | 悠子是驱 | US_STOCKS_MACRO | Real-position crypto trading account using wave-theory framing. |
+| 1590 | @Feng_btc | 币胜客 | CRYPTO_WEB3 | Daily airdrop blogger covering hot projects, memes, launches, inscriptions and NFTs. |
+| 1591 | @0xGriny | Griny.许春风 | OTHER | Minimal personal account with limited visible topical signal. |
+| 1592 | @wenxue600 | 链上达人 | CRYPTO_WEB3 | AbstractChain and crypto tutorial account sharing OKX and Binance links. |
+| 1593 | @feibo03 | Cowboy | CRYPTO_WEB3 | BNB and GMGN-linked crypto parody account. |
+| 1594 | @Yellownansen | 黄老邪 | US_STOCKS_MACRO | Secondary-market trading account. |
+| 1595 | @Crypto_Suy | suy | US_STOCKS_MACRO | Independent trader focused on RWA and daily trading summaries. |
+| 1596 | @gg145555 | 关关 | CRYPTO_WEB3 | On-chain PVP player focused on Solana. |
+| 1597 | @xiaomustock | 川沐 Trumoo | US_STOCKS_MACRO | AI-stock, block-trading and options-focused pure secondary-market trader. |
+| 1598 | @miloofbtc | Candice_cc | US_STOCKS_MACRO | Trader and marketing account with visible market-facing positioning. |
+| 1599 | @avax | Avalanche | CRYPTO_WEB3 | Official Avalanche blockchain account focused on business blockchain adoption and Avalanche Summit. |
+| 1600 | @memeqinb | memeqi | US_STOCKS_MACRO | Meme, A-share and occasional investment-research account. |
+| 1601 | @kolscan | kolscan | CRYPTO_WEB3 | Real-time memecoin trader tracking and analytics account. |
+| 1602 | @jeery314159 | Jeery | CRYPTO_WEB3 | On-chain trader focused on BTC, Ordinals, ETH, SOL and BNB Chain Alpha. |
+| 1603 | @KevinZbtc | KevinZ | PRODUCT_GROWTH | 0xUClub builder with personal channel and secondary-trading account links. |
+| 1604 | @Ice_Frog666666 | 冰蛙 | AI_CORE | Web3 airdrop veteran also running AI and Web3 communities. |
+| 1605 | @justinsuntron | H.E. Justin Sun | CRYPTO_WEB3 | Founder of TRON DAO and advisor to crypto-related platforms. |
+| 1606 | @0xgangWhat | 0xcult | CRYPTO_WEB3 | Alpha researcher account with bot-managed positioning. |
+| 1607 | @Murphychen888 | Murphy | US_STOCKS_MACRO | On-chain data, macro sentiment and independent trading-framework analyst. |
+| 1608 | @0xBeyondLee | 解构师 Beyond | US_STOCKS_MACRO | Investment-diary account with no-advice framing. |
+| 1609 | @_FORAB | AB Kuai.Dong | CRYPTO_WEB3 | Longtime industry research and sharing account active since 2016. |
+| 1610 | @brc20niubi | 王小二 | CRYPTO_WEB3 | Blockchain-focused account tied to GMGN trading bot and crypto goals. |
+| 1611 | @HashKeyGroup | HashKey Group | US_STOCKS_MACRO | Digital-asset financial group positioning digital assets for broad accessibility. |
+| 1612 | @hongkongdoll | HongKongDoll | OTHER | Sparse non-KOL profile with limited visible market or AI signal. |
+| 1613 | @Binance_intern | Binance Intern | CRYPTO_WEB3 | Binance intern account tied to the crypto exchange ecosystem. |
+| 1614 | @BinanceWallet | Binance Wallet | CRYPTO_WEB3 | Official Binance Wallet account for secure Web3 wallet usage and rewards. |
+| 1615 | @ducviet68 | Duc Viet | PRODUCT_GROWTH | UX-focused account with limited but product-facing positioning. |
+| 1616 | @zerobasezk | ZEROBASE | US_STOCKS_MACRO | ZK proving network positioned as a trust layer for global finance, capital, settlement and risk. |
+| 1617 | @mirrorzk | Mirror Tang | PRODUCT_GROWTH | CEO of ZEROBASE and SALUS security with technical founder positioning. |
+| 1618 | @0xniaoshu | CryptoNIAO | CRYPTO_WEB3 | Web3 alpha writer and project researcher tied to Binance Square and UniversalX. |
+| 1619 | @CyptoForest | Forest | OTHER | Sparse philosophical profile with limited visible market or AI signal. |
+| 1620 | @coco_kath77661 | kath | CRYPTO_WEB3 | On-chain degen account sharing alpha and trading-transformation framing. |
+| 1621 | @WordAbstractor | Carlos Cano | PRODUCT_GROWTH | Web3 ecosystem and strategy lead at Particle Network and Real-World Value host. |
+| 1622 | @GracyBitget | Gracy Chen | US_STOCKS_MACRO | Bitget CEO sharing crypto market insights and exchange-linked growth. |
+| 1623 | @Bitwux | BITWU.ETH | AI_CORE | Investor and researcher covering markets, AI and crypto. |
+| 1624 | @ethanfr | Ethan TABASCO | PRODUCT_GROWTH | COO at Particle Network and UniversalX with UX-maxi builder positioning. |
+| 1625 | @binancezh | 币安Binance华语 | CRYPTO_WEB3 | Official Binance Chinese account covering crypto market rhythm, campaigns and community. |
+| 1626 | @hylarucoder | 海拉鲁编程客 | PRODUCT_GROWTH | Indie maker and coding creator running the Hyrule Coder YouTube channel. |
+| 1627 | @edgeX_exchange | edgeX | US_STOCKS_MACRO | Trading and liquidity infrastructure account positioned around unlocking trading edge. |
+| 1628 | @rich_adul | Adul | US_STOCKS_MACRO | Solana on-chain trader and prediction-market player using odds to read geopolitics. |
+| 1629 | @HyperliquidX | Hyperliquid | US_STOCKS_MACRO | All-finance blockchain for trading, app-building and token launches. |
+| 1630 | @tmdrpwt | 向条狗 | OTHER | Sparse personal profile centered on a money quote with limited visible topical signal. |
+| 1631 | @0xpengyu | Pengyu | PRODUCT_GROWTH | Builder at Particle Network with sharp-builder positioning. |
+| 1632 | @0xchangan | 0x长安 | US_STOCKS_MACRO | Investment-diary and Polymarket community account. |
+| 1633 | @Aumileude | 三三 | CRYPTO_WEB3 | Young trading-master aspirant, meme hunter and Morph ambassador. |
+| 1634 | @0x_MrFive | Mr.Five | CRYPTO_WEB3 | BNB builder, alpha seeker and Binance Square creator. |
+| 1635 | @0xAden | Aiden | PRODUCT_GROWTH | Builder account with tranche-focused positioning. |
+| 1636 | @_0xWarren | Warren | PRODUCT_GROWTH | UniversalX and UseUniversalX growth, cooperation and user-feedback account. |
+| 1637 | @KeetaNetwork | Keeta | AI_CORE | Money-movement network positioned for humans and AI. |
+| 1638 | @RaminNasibov | Ramin Nasibov | PRODUCT_GROWTH | Branding and visual-identity designer available for project work. |
+| 1639 | @ParticleNtwrk | Particle Network | CRYPTO_WEB3 | Universal transaction layer for Web3. |
+| 1640 | @0xVan000 | Van | CRYPTO_WEB3 | Binance Square creator and crypto community account. |
+| 1641 | @upbitglobal | Upbit Global | US_STOCKS_MACRO | Official global digital-asset exchange account. |
+| 1642 | @0xpeterpan_ | Peter Pan | PRODUCT_GROWTH | Builder at Particle Network and UniversalX. |
+| 1643 | @okx | OKX | US_STOCKS_MACRO | Official crypto exchange account covering crypto journeys, self-custody and dApps. |
+| 1644 | @binance | Binance | US_STOCKS_MACRO | Official blockchain ecosystem and digital-asset exchange account. |
+| 1645 | @minglaugodel | ming_lau | CRYPTO_WEB3 | Crypto referral and Binance-wallet invite account with broad personal framing. |
+| 1646 | @jessepollak | jesse.base.eth | PRODUCT_GROWTH | Base builder and crypto ecosystem builder. |
+| 1647 | @dwr | Dan Romero | PRODUCT_GROWTH | Builder working on Tempo with founder/operator signal. |
+| 1648 | @wijuwiju0x | wijuwiju.int.eth | PRODUCT_GROWTH | Initial contributor at Interface with Web3 product-building signal. |
+| 1649 | @VitalikButerin | vitalik.eth | CRYPTO_WEB3 | Ethereum co-founder and core crypto ecosystem thinker. |
+| 1650 | @BlockBeatsAsia | BlockBeats | CRYPTO_WEB3 | Influential Web3 media account covering crypto news and app distribution. |
+| 1651 | @yzilabs | YZi Labs | AI_CORE | Venture investor prioritizing Web3, AI and biotech companies. |
+| 1652 | @BTC_Prophet_ | 池鱼 | CRYPTO_WEB3 | On-chain player and OOC Academy community account answering beginner questions. |
+| 1653 | @peipeng6 | based@peipeng6 | OTHER | Protected profile with limited visible topical signal. |
+| 1654 | @bitbob9 | 图哥 | OTHER | Sparse visible profile with no usable bio signal. |
+| 1655 | @NiuTie74688 | 毕加锁 | CRYPTO_WEB3 | Crypto retail-participant account. |
+| 1656 | @0xJingleMingle | Jingle | CRYPTO_WEB3 | On-chain degen account sharing highlights, exchange and wallet links. |
+| 1657 | @tangpanqing | 汤光头 | AI_CORE | Programmer building Mind2Post, Startover24 and VidTransAI products. |
+| 1658 | @hsn8086 | hsn | OTHER | Entertainment-framed personal account with limited market or AI signal. |
+| 1659 | @siyizhisheng3 | 思以智胜 | US_STOCKS_MACRO | BSC crypto enthusiast, secondary K-line trader and on-chain hotspot tracker. |
+| 1660 | @lessin | sam lessin | PRODUCT_GROWTH | Investor and former Facebook product leader backing major startups and crypto companies. |
+| 1661 | @Web3Tinkle | Tinkle | AI_CORE | Data scientist building Claw402ai with Web3-facing community links. |
+| 1662 | @camellia_lly | Suiyi | OTHER | Sparse personal profile with limited visible market or AI signal. |
+| 1663 | @refl4cti0n | Refl4ct.hl | US_STOCKS_MACRO | Trader-style capital account with Chinese-character trading and market diary framing. |
+| 1664 | @cryptomoon520 | 从零开始的打狗生活 | CRYPTO_WEB3 | Meme-trading account focused on discipline and alpha hunting. |
+| 1665 | @blockTVBee | TVBee | US_STOCKS_MACRO | Original data-analysis, macro and investment-research account with media columns. |
+| 1666 | @lin_btc | 菠萝头 | CRYPTO_WEB3 | On-chain trading account focused on taking profits and wallet/exchange tools. |
+| 1667 | @sadd_asd77675 | AlexWong | AI_CORE | Web3 developer and DevOps account focused on EVM, Solana, TON and agentic economy stack. |
+| 1668 | @0xCryptoFries | 去码头整点薯条 | CRYPTO_WEB3 | Meme-alpha and real-data account using OKX DEX and UniversalX trading links. |
+| 1669 | @Rita88 | Rita | CRYPTO_WEB3 | Airdrop and Web3 account covering secondary trading, primary-market holding and abstract Web3 commentary. |
+| 1670 | @connectfarm1 | 潜水观察员 | CRYPTO_WEB3 | Crypto code-repository and exchange-referral account. |
+| 1671 | @DeFiTeddy2020 | DeFi Teddy | AI_CORE | AI and Web3 researcher working around XHuntAI and Biteye. |
+| 1672 | @Sandlily163 | Sandly | US_STOCKS_MACRO | On-chain and emotion-trading account tied to WinTradersFNF and Binance Wallet. |
+| 1673 | @ai_9684xtpa | Ai姨 | CRYPTO_WEB3 | On-chain storyteller focused on crypto, DeFi, meme, NFT and BTC. |
+| 1674 | @UniversalX_CN | UniversalX 中文 | US_STOCKS_MACRO | Official UniversalX Chinese account for cross-chain token trading. |
+| 1675 | @ZTZZBTC | ZTZZ | US_STOCKS_MACRO | Early crypto operations director, subjective market maker and independent trader. |
+| 1676 | @Rapeter772677 | RAPETER | CRYPTO_WEB3 | 1000X gem hunter account with crypto business-collaboration positioning. |
+| 1677 | @Chris_Defi | 匿名博士 | AI_CORE | Web3 mysticism and vibe-coding account building luckyscan_ai. |
+| 1678 | @0xSleepinRain | 雨中狂睡SleepinRain | OTHER | Writing-oriented personal account with limited visible market or AI signal. |
+| 1679 | @CryptoPainter | Crypto_Painter | AI_CORE | Technical, data-analysis and quantitative-trading account developing the A-Trading AI quant tool. |
+| 1680 | @0xcryptoHowe | Howe 祛魅 | CRYPTO_WEB3 | Crypto channel account with 0xU community signal. |
+| 1681 | @0xmaroon | 酒红Maroon | CRYPTO_WEB3 | Research-for-fun crypto account connected with HotdogFNF. |
+| 1682 | @silverfang88 | 子时 | PRODUCT_GROWTH | Business-observation and strategy-consulting account with crypto-entry tooling links. |
+| 1683 | @CryptoCharming | CryptoCharming | CRYPTO_WEB3 | EVM, DeFi, data-analysis and address-research account with SuDoResearch background. |
+| 1684 | @InterviewCoder | Interview Coder | AI_CORE | Invisible desktop application for technical interview assistance. |
+| 1685 | @MANTRA_Chain | MANTRA | US_STOCKS_MACRO | EVM L1 for RWA tokenization. |
+| 1686 | @CryptoBLACK0511 | CryptoBLACK | CRYPTO_WEB3 | Web3 founder and 0G Labs ambassador account with Binance ecosystem links. |
+| 1687 | @mdzzi | 茶不思 | CRYPTO_WEB3 | DEX researcher with broad crypto research framing. |
+| 1688 | @0xXQ1 | XQ | PRODUCT_GROWTH | PKU PhD building FingerDanceSG with review-focused trading disclaimer. |
+| 1689 | @CookerFlips | Cooker.hl | CRYPTO_WEB3 | Founder of PastelAlpha with GMGN and Web3 business links. |
+| 1690 | @kiki520_eth | 庞教主 | US_STOCKS_MACRO | Hyperliquid Chinese-region account focused on trading community activity. |
+| 1691 | @jiunian | 玖年 | AI_CORE | AI enthusiast and gem-hunting account with Taoist and mysticism framing. |
+| 1692 | @yiboyun613 | based@yiboyun6 | OTHER | Sparse protected-style profile with limited visible topical signal. |
+| 1693 | @devilcatbtc | 茂茂大魔王 | US_STOCKS_MACRO | BTC contract trader account with exchange and Telegram links. |
+| 1694 | @0GAntD | OGAntD | CRYPTO_WEB3 | Crypto-native account with Solana identity signal. |
+| 1695 | @kunlunstar | 昆仑星 | US_STOCKS_MACRO | Former VC, market maker and PM account covering meme trading and analysis. |
+| 1696 | @CTracy0803 | Tracy | AI_CORE | Founder of Saymore_ai with builder and life-experience positioning. |
+| 1697 | @aliez_ren | Aliez Ren | PRODUCT_GROWTH | Independent developer and architect building taoli_tools. |
+| 1698 | @Kkingl335661 | 1 | US_STOCKS_MACRO | Finance-commentary account focused on resisting financial demonization. |
+| 1699 | @daidaibtc | 带带带比特 | US_STOCKS_MACRO | Wealth-growth and drawdown-control trading account with Binance and OKX links. |
+| 1700 | @Jason60704294 | jasonleo | OTHER | Sparse visible profile with no usable bio signal. |
+| 1701 | @LabSpeculation | 投机实验室 | US_STOCKS_MACRO | Trading account and YouTube channel centered on speculation and market profit. |
+| 1702 | @douya688 | 豆芽 | OTHER | Sparse visible profile with no usable bio signal. |
+| 1703 | @thankUcrypto | allincrypto 熬鹰资本 | US_STOCKS_MACRO | High-PNL trading and crypto-capital account with exchange links. |
+| 1704 | @Christianeth | Christian | US_STOCKS_MACRO | Founder of Infini building stablecoin-economy infrastructure. |
+| 1705 | @ricardogee | Ricardo阿黄 | US_STOCKS_MACRO | APAC BD lead at Predictdotfun with prediction-market and degen signals. |
+| 1706 | @cz_binance | CZ | CRYPTO_WEB3 | Binance and BNB Chain ecosystem leader connected with YZi Labs and Giggle Academy. |
+| 1707 | @CyberPhilos | 哲学家 | OTHER | Broad learner, thinker and creator profile with limited visible market or AI signal. |
+| 1708 | @LamIsRealGoat | Lam | CRYPTO_WEB3 | Coder sharing meme alpha, tutorials and OKX/Binance wallet links. |
+| 1709 | @LyraSumusha | 羽毛Lyra | OTHER | Personal cosmetics-engineer profile with limited market or AI signal. |
+| 1710 | @0xinfini | Infini | AI_CORE | AI-powered financial OS for next-generation founders. |
+| 1711 | @okxchinese | OKX中文 | US_STOCKS_MACRO | Official OKX Chinese crypto exchange and Web3 platform account. |
+| 1712 | @qiyumeme | 琦玉 Saitama | CRYPTO_WEB3 | Meme-trading community account tied to GMGN bot usage. |
+| 1713 | @tyw1984 | nanatang | PRODUCT_GROWTH | Consulting and referral account with crypto exchange discount links. |
+| 1714 | @POTUS | President Donald J. Trump | OTHER | Official U.S. presidential account with political and government signal. |
+| 1715 | @bwenews | 方程式新闻 BWEnews | CRYPTO_WEB3 | Fast crypto news and real-time market-alpha source. |
+| 1716 | @realDonaldTrump | Donald J. Trump | OTHER | Official personal account of the 45th and 47th U.S. president. |
+| 1717 | @orcadogs | 虎哥orcas | CRYPTO_WEB3 | Meme-player account. |
+| 1718 | @gongyue777 | 弓月 | CRYPTO_WEB3 | Crypto-style highlights account focused on opportunity discovery. |
+| 1719 | @UseUniversalX | UniversalX | US_STOCKS_MACRO | Cross-chain trading platform using SOL and stablecoins, built by Particle Network. |
+| 1720 | @0xmagnolia | magnolia | CRYPTO_WEB3 | Altcoin-alpha account focused on blue-chip and meme opportunities. |
+| 1721 | @yunmeng520 | meng | OTHER | Sparse visible profile with no usable bio signal. |
+| 1722 | @degenserpent | Serpent | AI_CORE | SOL gem hunter and AI developer with physical-chemistry PhD background. |
+| 1723 | @HelloLydia13 | HelloLydia | PRODUCT_GROWTH | Onchain interviewer and ecosystem operator with Aster, UniversalX and Mint Ventures background. |
+| 1724 | @0xNoNo_1 | 0xNoNo | CRYPTO_WEB3 | Alpha-oriented crypto account. |
+| 1725 | @Crypto_Cat888 | CryptoCat | CRYPTO_WEB3 | Memecoin and trend-trading account with Binance Wallet links. |
+| 1726 | @0xcryptowizard | 0xWizard | CRYPTO_WEB3 | DeFi and meme degen account with GMGN and group-digest links. |
+| 1727 | @JarrettYe | Jarrett Ye | PRODUCT_GROWTH | Creator of FSRS, research engineer at MaiMemo and founder of Thoughts Memo. |
+| 1728 | @19ys_GGboy | 十九岁绿帽少年 | CRYPTO_WEB3 | 1000X gem and live crypto-trading account using GMGN. |
+| 1729 | @SEEMsec | SEEM@cyclens | PRODUCT_GROWTH | Hacker and CTF product account building cyclens_tech. |
+| 1730 | @tzwqbest | Tzwqbest | US_STOCKS_MACRO | Short-term investor account also active on Xueqiu with trading-thoughts framing. |
+| 1731 | @lewangx | LE | AI_CORE | Creator of AI toys at FoloToy. |
+| 1732 | @CryptoDevinL | CryptoD | CRYPTO_WEB3 | 1000X gem crypto account with GMGN and community links. |
+| 1733 | @_MathAcademy_ | Math Academy | AI_CORE | Adaptive AI-powered automated math-learning platform. |
+| 1734 | @Z_Lib_official | Z-Library Official | OTHER | E-library account focused on broad knowledge access. |
+| 1735 | @Stride__p | Calista | OTHER | Protected profile with limited visible topical signal. |
+| 1736 | @0xAIML | 0xAI | AI_CORE | Machine-learning and algorithmic-trading account launching an AI model for stock and coin checks. |
+| 1737 | @ezshine | 大帅老猿 | OTHER | Travel-log account covering road trips in China, the U.S. West Coast and Thailand. |
+| 1738 | @abskoop | ahhhhfs | AI_CORE | AI, tech, tools and internet-resources curator. |
+| 1739 | @xiaoyangmolly | 小羊molly | PRODUCT_GROWTH | Front-end and indie developer building LingoBell and hosting an English-learning podcast. |
+| 1740 | @caizhenghai | forecho | US_STOCKS_MACRO | Eight-year U.S. stock investor and programmer running a U.S. stock navigation resource. |
+| 1741 | @rabbit_2333 | rabbit | OTHER | Sparse personal profile with limited visible topical signal. |
+| 1742 | @howie_serious | howie.serious | OTHER | Thought and personal-interest account with writing and YouTube links. |
+| 1743 | @wwwgoubuli | wwwgoubuli | AI_CORE | Freelancer building windflow.app, an agent client. |
+| 1744 | @feltanimalworld | Susan STEM | PRODUCT_GROWTH | Systems-design and entropy-control theory account developing a structured system. |
+| 1745 | @baziminglishi | 炳戌 | OTHER | Bazi numerology and consultation account with limited market or AI signal. |
+| 1746 | @snakeNHX | 紫斗天禄Web3/命理师 | US_STOCKS_MACRO | Web3, numerology and investment-research account covering financial news and investment framing. |
+| 1747 | @MateCafe | 咖啡伴侣 | OTHER | Sparse personal profile with limited visible topical signal. |
+| 1748 | @GuoXinghuaX | GuoXinghuaX | AI_CORE | FoloToy co-founder and AI-toy modification builder. |
+| 1749 | @star_okx | Star_OKX | US_STOCKS_MACRO | Founder and CEO of OKX focused on crypto, self-custody and onchain finance. |
+| 1750 | @web3leaf | leaf | CRYPTO_WEB3 | Web3-handle account with sparse philosophical profile. |
+| 1751 | @whyeszhu | whyes | OTHER | Protected liver-surgery and liver-cancer medical account. |
+| 1752 | @alvinnn666 | 神隐Alvin | US_STOCKS_MACRO | Real-position trading account with OKX lead-trading and Bitget competition wins. |
+| 1753 | @ProbiusOfficial | 探姬 | PRODUCT_GROWTH | Founder of cyclens_tech and Hello-CTF tutorial creator. |
+| 1754 | @EZFIX_ | EZFIX | OTHER | Motherboard-level repair and data-recovery account. |
+| 1755 | @juransir | 居然sir | PRODUCT_GROWTH | Brand, marketing, cross-border ecommerce and hardware product account. |
+| 1756 | @3000upup | 3000UP | US_STOCKS_MACRO | Real-portfolio investor focused on simple investment logic and storytelling. |
+| 1757 | @meditic | meditic | PRODUCT_GROWTH | Full-stack, overseas growth and SEO operator building multiple products. |
+| 1758 | @elonmusk | Elon Musk | AI_CORE | Technology founder account currently pointing to Terafab.ai. |
+| 1759 | @medi_search | MediSearch | AI_CORE | YC medical search engine for trustworthy medical information. |
+| 1760 | @yangyi | Yangyi | AI_CORE | Human-machine collaboration architect and AI marketing practitioner. |
+| 1761 | @XDash | XDash | AI_CORE | Growth Hacking author, entrepreneur and investor operating zengzhang.ai. |
+| 1762 | @JefferyTatsuya | Jeffery Kaneda | AI_CORE | Builder of Sparticle, Felo AI search, GBase enterprise knowledge engine and Felo subtitles. |
+| 1763 | @onenewbite | 一口新饭 | PRODUCT_GROWTH | Technology, investing and personal-growth account. |
+| 1764 | @Pandazhq | 左手墨迹 | OTHER | History and YouTube creator account with limited market or AI signal. |
+| 1765 | @taresky | taresky | US_STOCKS_MACRO | DeFi and arbitrage account covering 100x trading, affiliates and domain assets. |
+| 1766 | @dingyi | Ding | PRODUCT_GROWTH | Product-promotion and newsletter operator building several discovery sites. |
+| 1767 | @liufeilufy | 刘飞 | PRODUCT_GROWTH | Product manager and podcast host for 三五环 and 半拿铁. |
+| 1768 | @goocarlos | Luyu Zhang | AI_CORE | CEO and founder of Dify AI. |
+| 1769 | @op7418 | 歸藏 | AI_CORE | AI, LLM, AI image/video and design creator publishing AIGC tooling content. |
+| 1770 | @mtrainier2020 | Rainier | OTHER | Sparse philosophical profile with limited visible market or AI signal. |
+| 1771 | @AngryTomtweets | Angry Tom | AI_CORE | Consultant and AI educator building with artificial intelligence. |
+| 1772 | @liuyi0922 | 61 | PRODUCT_GROWTH | Apple Design Award winner and founder of MDStudioHQ. |
+| 1773 | @ixiaowenz | Xiaowen | US_STOCKS_MACRO | Senior director in finance technology and payment-network enterprise architecture. |
+| 1774 | @gdb | Greg Brockman | AI_CORE | President and co-founder of OpenAI. |
+| 1775 | @sama | Sam Mogman | AI_CORE | AI-focused account associated with OpenAI leadership. |
+| 1776 | @AndrewYNg | Andrew Ng | AI_CORE | AI, machine-learning and deep-learning educator and co-founder of Coursera. |
+| 1777 | @boiledwater | Jess | OTHER | Personal growth and family-origin recovery account with limited market or AI signal. |
+| 1778 | @yihong0618 | yihong0618 | OTHER | Protected personal developer-adjacent profile with GitHub year-project links. |
+| 1779 | @HiTw93 | Tw93 | PRODUCT_GROWTH | Builder of Kaku, Pake, MiaoYan, Waza, Kami and Mole. |
+| 1780 | @decohack | viggo | AI_CORE | Indie hacker and designer building aimaker.dev. |
+| 1781 | @Hayami_kiraa | 早见Hayami | AI_CORE | AI builder and ex product manager at Temu and TikTok. |
+| 1782 | @randyloop | Randy Lu | PRODUCT_GROWTH | Full-stack engineer and blogger building Notepal and Browserfly. |
+| 1783 | @nishuang | 倪爽 | PRODUCT_GROWTH | Design consultant serving China and North America in brand marketing and UX. |
+| 1784 | @yetone | yetone | AI_CORE | Isoform AI builder who created Avante, a coding agent for Vim. |
+| 1785 | @no13bus | DanielJia | PRODUCT_GROWTH | Full-stack engineer in Sweden building apps and creative products. |
+| 1786 | @waylybaye | Baye | PRODUCT_GROWTH | Indie app maker building Panda SMS, DAMA, ServerCat, OpenCat and other products. |
+| 1787 | @HarryLi0703 | Harry Li Dev | AI_CORE | AI and app developer on Little Lazy Meow, MoneyPrinterTurbo and developer-AI resources. |
+| 1788 | @Linmiv | Linmi | PRODUCT_GROWTH | Notion Chinese community lead focused on project management and small-product growth. |
+| 1789 | @vikingmute | Viking | PRODUCT_GROWTH | Independent developer building TinyShip and other SaaS and developer tools. |
+| 1790 | @dotey | 宝玉 | AI_CORE | Prompt engineer sharing AI, software engineering and engineering-management knowledge. |
+| 1791 | @Cydiar404 | Cydiar | PRODUCT_GROWTH | Startup product manager and designer building CelHive and Lucy2. |
+| 1792 | @buaaxhm | supermao | AI_CORE | Developer in Go, Python and TypeScript exploring AI-related work. |
+| 1793 | @kaifulee | Kai-Fu Lee | AI_CORE | AI expert, CEO of 01.AI and chairman of Sinovation Ventures. |
+| 1794 | @real_kai42 | Kai | PRODUCT_GROWTH | Independent developer, open-source Qwerty Learner author and Web Worker podcast host. |
+| 1795 | @wshuyi | Wang Shuyi | AI_CORE | Educator teaching AI for science across Dedao, YouTube, Substack and knowledge communities. |
+| 1796 | @ChatGPTapp | ChatGPT | AI_CORE | Official ChatGPT product account. |
+| 1797 | @OpenAI | OpenAI | AI_CORE | Official OpenAI account focused on artificial general intelligence benefiting humanity. |

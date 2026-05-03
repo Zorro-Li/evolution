@@ -1,103 +1,111 @@
-# AI and US Stocks Shortlist - Batch 001
+# AI and US Stocks Shortlist - Complete Scrape
 
 Source registry: `runs/x-creator-watch/2026-05-02/00_following_registry.md`
-Coverage: first 260 unique accounts seen through Safari / Computer Use.
+Coverage: all 1,797 following accounts captured via Safari / Computer Use.
 
-## Batch Stats
+## Complete Category Stats
 
 | Category | Count |
 |---|---:|
-| AI_CORE | 62 |
-| US_STOCKS_MACRO | 37 |
-| PRODUCT_GROWTH | 23 |
-| CRYPTO_WEB3 | 90 |
-| OTHER | 48 |
+| AI_CORE | 302 |
+| US_STOCKS_MACRO | 320 |
+| CRYPTO_WEB3 | 721 |
+| PRODUCT_GROWTH | 149 |
+| OTHER | 305 |
 
-## AI Core Priority
+## AI Core Priority Queue
 
-| Handle | Why it matters | Next action |
-|---|---|---|
-| @OpenAINewsroom | Official OpenAI news. | Archive releases and product updates. |
-| @OpenAIDevs | OpenAI Platform and Codex updates. | Track platform patterns and developer adoption. |
-| @tnm | OpenAI/devtools; ex GitHub CTO. | Distill devtool and agent infrastructure views. |
-| @BoyuanChen0 | OpenAI researcher; GPT Image, world models, RL, robotics. | Collect technical threads and research links. |
-| @thsottiaux | Codex @OpenAI. | Track Codex workflow insights. |
-| @edwinarbus | Cursor; previously OpenAI and Stripe. | Track AI coding product direction. |
-| @DanielEdrisian | Blackstar computer; prev Codex @OpenAI. | Track Codex and agent UI patterns. |
-| @willdepue | Ex OpenAI; Sora, o3/4o posttraining, pretraining. | Track model training and Sora insights. |
-| @DarioAmodei | Anthropic CEO. | Track frontier-lab strategy. |
-| @adocomplete | Community, Claude, Code at Anthropic. | Track Claude Code community operations. |
-| @trq212 | Claude Code @Anthropic; YC/MIT Media Lab background. | Track Claude Code product and developer workflows. |
-| @NousResearch | Open-source AI lab. | Archive OSS model releases and philosophy. |
-| @goodside | Former Google DeepMind / Scale AI. | Distill prompting and eval heuristics. |
-| @hwchase17 | LangChain founder. | Track agent framework direction. |
-| @swyx | AI Engineer / Latent Space. | Archive AI engineering field notes. |
-| @llama_index | LlamaIndex and LlamaParse. | Track RAG and document-agent patterns. |
-| @helicone_ai | LLMOps, gateway, observability. | Track production LLM ops. |
-| @PortkeyAI | Production AI platform. | Track AI gateway and reliability patterns. |
-| @vercel | Agentic app infrastructure. | Track app-agent infra positioning. |
-| @Manxis_lab | General-purpose agentic intelligence. | Track agent product claims and demos. |
-| @CreaoAI | Super-agent product. | Track Chinese AI agent product positioning. |
-| @anorth_chen | Head of Community @CreaoAI; AI background. | Track community and GTM around AI agents. |
-| @elliotchen100 | EverMind, memory for self-evolving agents. | Distill memory architecture ideas. |
-| @FundaAI | AI Invest OS with agents, equity research and data. | Track AI x investing product model. |
-| @GoSailGlobal | Cursor-certified, building AI products in public. | Track AI product build-in-public playbook. |
-| @0xMulight | AI researcher and US stock analyst; AIGC video and agents. | High-priority creator report. |
-| @huybery | Formerly Alibaba Qwen. | Track Qwen ecosystem signals. |
-| @qinggeqingq | AI frontier technology sharing. | Collect high-signal Chinese AI explainers. |
-| @errodenos133734 | BSC AI Agent open-source skills library. | Track skill-library product patterns. |
+| Row | Handle | Name | Why it matters |
+|---:|---|---|---|
+| 1797 | @OpenAI | OpenAI | Official OpenAI account focused on artificial general intelligence benefiting humanity. |
+| 1796 | @ChatGPTapp | ChatGPT | Official ChatGPT product account. |
+| 1774 | @gdb | Greg Brockman | President and co-founder of OpenAI. |
+| 1775 | @sama | Sam Mogman | AI-focused account associated with OpenAI leadership. |
+| 1776 | @AndrewYNg | Andrew Ng | AI, machine-learning and deep-learning educator and co-founder of Coursera. |
+| 1793 | @kaifulee | Kai-Fu Lee | AI expert, CEO of 01.AI and chairman of Sinovation Ventures. |
+| 1768 | @goocarlos | Luyu Zhang | CEO and founder of Dify AI. |
+| 1769 | @op7418 | 歸藏 | AI, LLM, AI image/video and design creator publishing AIGC tooling content. |
+| 1790 | @dotey | 宝玉 | Prompt engineer sharing AI, software engineering and engineering-management knowledge. |
+| 1784 | @yetone | yetone | Isoform AI builder who created Avante, a coding agent for Vim. |
+| 1762 | @JefferyTatsuya | Jeffery Kaneda | Builder of Sparticle, Felo AI search, GBase enterprise knowledge engine and Felo subtitles. |
+| 1710 | @0xinfini | Infini | AI-powered financial OS for next-generation founders. |
+| 1736 | @0xAIML | 0xAI | Machine-learning and algorithmic-trading account launching an AI model for stock and coin checks. |
+| 1771 | @AngryTomtweets | Angry Tom | Consultant and AI educator building with artificial intelligence. |
+| 1795 | @wshuyi | Wang Shuyi | Educator teaching AI for science across Dedao, YouTube, Substack and knowledge communities. |
+| 1787 | @HarryLi0703 | Harry Li Dev | AI and app developer on Little Lazy Meow, MoneyPrinterTurbo and developer-AI resources. |
+| 1781 | @Hayami_kiraa | 早见Hayami | AI builder and ex product manager at Temu and TikTok. |
+| 1792 | @buaaxhm | supermao | Developer in Go, Python and TypeScript exploring AI-related work. |
+| 1731 | @lewangx | LE | Creator of AI toys at FoloToy. |
+| 1748 | @GuoXinghuaX | GuoXinghuaX | FoloToy co-founder and AI-toy modification builder. |
+| 1733 | @_MathAcademy_ | Math Academy | Adaptive AI-powered automated math-learning platform. |
+| 245 | @0xMulight | Mulight 沐光 | AI researcher and US stock analyst; AIGC video and agents. |
+| 108 | @FundaAI | FundaAI | AI Invest OS; agents, equity research reports and data. |
+| 49 | @OpenAIDevs | OpenAI Developers | Codex and OpenAI Platform updates. |
+| 33 | @BoyuanChen0 | Boyuan Chen | OpenAI researcher; GPT Image; world models/RL/robotics. |
+| 48 | @thsottiaux | Tibo | Codex @OpenAI. |
+| 96 | @DarioAmodei | Dario Amodei | Anthropic CEO. |
+| 40 | @hwchase17 | Harrison Chase | LangChain. |
+| 17 | @swyx | swyx | AI Engineer, Latent Space, Cognition, Temporal. |
+| 19 | @llama_index | LlamaIndex | LlamaIndex and LlamaParse AI document OCR. |
+| 16 | @Manxis_lab | ManXis | Next-generation AI Agents; general-purpose agentic intelligence. |
+| 54 | @CreaoAI | CreaoAI | Super agent beyond chat window. |
+| 227 | @huybery | Binyuan Hui | Formerly @Alibaba_Qwen. |
 
-## AI Creator / Operator Priority
+## US Stocks / Macro Priority Queue
 
-| Handle | Why it matters | Next action |
-|---|---|---|
-| @Yuancheng | AI podcast/newsletter, AI Hacker House, ZhenFund. | Track Chinese AI ecosystem and founders. |
-| @LufzzLiz | AI products, multimodal/private model architecture, AI education/art. | Distill AI product evaluation lens. |
-| @AlchainHust | AI native coder, 女娲.skill, YouTube/Bilibili. | Distill creator-to-skill workflow. |
-| @Lonely__MH | AI tools reviews, code, tech investing. | Track tool reviews and audience angle. |
-| @plantegg | Claude Code, AI Agent, cloud commentary. | Track agent tooling criticism. |
-| @0xchubai | WEB3+AI project research and beginner tutorials. | Track beginner-friendly educational structure. |
-| @WildPig2006 | AI monetization and vibe projects. | Track one-person company tactics. |
-| @Jason23818126 | AI, Web3, US stocks, super-individual practice. | High-priority operator profile. |
-| @WallStreetAiBot | Automated Wall Street AI posting. | Inspect automation pattern and source quality. |
-| @moondaloriansol | AI meme video editor. | Track AI video/meme production workflow. |
-
-## US Stocks / Macro Priority
-
-| Handle | Why it matters | Next action |
-|---|---|---|
-| @WSJ | Major business and market publication. | Use as baseline source stream. |
-| @KobeissiLetter | Global capital markets commentary. | Archive macro threads and market summaries. |
-| @benjamincowen | Macro, commodities, digital assets, liquidity cycles. | Track cycle framework. |
-| @APompliano | Investor/media operator. | Track market narratives and media packaging. |
-| @mcuban | Public business and pharma-cost figure. | Track business/public-market commentary. |
-| @HiddenFundsData | Fund-flow tracking. | Track signal methodology. |
-| @newsliquidX | AI trading terminal. | Inspect AI trading workflow. |
-| @yiqifacai | AI-built one-person brokerage and market reports. | High-priority creator report. |
-| @tig88411109 | Macro/tech/AI/semis cycles; CFA/fund partner. | Track buy-side framing. |
-| @aleabitoreddit | WSB trader; AI/Semi supply-chain analyst. | Track semiconductor bottleneck calls. |
-| @FundaAI | AI Invest OS and equity research. | Cross-list with AI x equities. |
-| @stockwilsonrice | Industry research and investment notes. | Track Chinese industry-research style. |
-| @xStocksFi_zh | Tokenized US stocks; TSLAx/NVDAx/SPYx. | Track RWA / tokenized equities. |
-| @valgui1 | Leading xStocks. | Track xStocks product direction. |
-| @0xMulight | AI researcher and US stock analyst. | Cross-list with AI. |
-| @BTCqzy1 | Crypto, US stocks, AI technical research. | Track cross-market research style. |
-| @bangzhu_123 | AI, Hong Kong/US stocks, web3. | Track practical investing content. |
-| @Zh_Crypto517 | Prediction market, HK/US stocks, RWA, AI. | Track prediction-market framing. |
-| @mianqing298464 | RWA US-stock trading and bottom-logic analysis. | Track RWA equity content. |
-| @LewisKuo2 | AI Agent, DeFi, prediction market, Nasdaq. | Track AI x market tooling. |
-| @zodchiii | AI and finance entrepreneur; PolymarketEye. | Track prediction-market products. |
-| @poly_beats | Prediction-market information mining. | Track BlockBeats prediction-market feed. |
+| Row | Handle | Name | Why it matters |
+|---:|---|---|---|
+| 1740 | @caizhenghai | forecho | Eight-year U.S. stock investor and programmer running a U.S. stock navigation resource. |
+| 1597 | @xiaomustock | 川沐 Trumoo | AI-stock, block-trading and options-focused pure secondary-market trader. |
+| 1629 | @HyperliquidX | Hyperliquid | All-finance blockchain for trading, app-building and token launches. |
+| 1643 | @okx | OKX | Official crypto exchange account covering crypto journeys, self-custody and dApps. |
+| 1644 | @binance | Binance | Official blockchain ecosystem and digital-asset exchange account. |
+| 1711 | @okxchinese | OKX中文 | Official OKX Chinese crypto exchange and Web3 platform account. |
+| 1749 | @star_okx | Star_OKX | Founder and CEO of OKX focused on crypto, self-custody and onchain finance. |
+| 1704 | @Christianeth | Christian | Founder of Infini building stablecoin-economy infrastructure. |
+| 1627 | @edgeX_exchange | edgeX | Trading and liquidity infrastructure account positioned around unlocking trading edge. |
+| 1628 | @rich_adul | Adul | Solana on-chain trader and prediction-market player using odds to read geopolitics. |
+| 1632 | @0xchangan | 0x长安 | Investment-diary and Polymarket community account. |
+| 1685 | @MANTRA_Chain | MANTRA | EVM L1 for RWA tokenization. |
+| 1611 | @HashKeyGroup | HashKey Group | Digital-asset financial group positioning digital assets for broad accessibility. |
+| 1539 | @Bitget_zh | Bitget中文 | Bitget Chinese account covering crypto, stocks, gold, forex and global asset trading. |
+| 1622 | @GracyBitget | Gracy Chen | Bitget CEO sharing crypto market insights and exchange-linked growth. |
+| 1698 | @Kkingl335661 | 1 | Finance-commentary account focused on resisting financial demonization. |
+| 1699 | @daidaibtc | 带带带比特 | Wealth-growth and drawdown-control trading account with Binance and OKX links. |
+| 1701 | @LabSpeculation | 投机实验室 | Trading account and YouTube channel centered on speculation and market profit. |
+| 1703 | @thankUcrypto | allincrypto 熬鹰资本 | High-PNL trading and crypto-capital account with exchange links. |
+| 1752 | @alvinnn666 | 神隐Alvin | Real-position trading account with OKX lead-trading and Bitget competition wins. |
+| 1756 | @3000upup | 3000UP | Real-portfolio investor focused on simple investment logic and storytelling. |
+| 1773 | @ixiaowenz | Xiaowen | Senior director in finance technology and payment-network enterprise architecture. |
+| 99 | @KobeissiLetter | The Kobeissi Letter | Global capital markets commentary. |
+| 166 | @WSJ | The Wall Street Journal | Major business and markets publication. |
+| 12 | @HiddenFundsData | 暗流 | Market fund flow tracking and analysis. |
+| 221 | @xStocksFi_zh | xStocks 华语频道 | Tokenized US stocks; TSLAx, NVDAx, SPYx. |
+| 229 | @valgui1 | Val | Leading xStocks. |
+| 239 | @Zh_Crypto517 | Z大诗 | Prediction market, Hong Kong/US stock trading, RWA, AI. |
+| 225 | @mianqing298464 | 临秋 | Crypto predict, RWA US-stock trading, bottom-logic analysis. |
+| 178 | @zodchiii | darkzodchi | AI and finance entrepreneur; building PolymarketEye. |
+| 177 | @poly_beats | PolyBeats | Prediction-market information mining account under BlockBeats. |
 
 ## Next Distillation Queue
 
-1. @0xMulight
-2. @yiqifacai
-3. @FundaAI
-4. @Jason23818126
-5. @OpenAIDevs
-6. @BoyuanChen0
-7. @huybery
-8. @xStocksFi_zh
-9. @KobeissiLetter
-10. @zodchiii
+1. @OpenAI
+2. @ChatGPTapp
+3. @gdb
+4. @sama
+5. @AndrewYNg
+6. @kaifulee
+7. @goocarlos
+8. @op7418
+9. @dotey
+10. @yetone
+11. @caizhenghai
+12. @xiaomustock
+13. @HyperliquidX
+14. @okx
+15. @binance
+16. @okxchinese
+17. @star_okx
+18. @Christianeth
+19. @edgeX_exchange
+20. @rich_adul
