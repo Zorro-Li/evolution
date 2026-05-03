@@ -11,3 +11,5 @@
 {"created_at": "2026-05-02T01:31:08+08:00", "id": "fb_71c5c7fd2b", "source": "user", "tag": "correction", "text": "用户纠正：币圈以史为鉴 Skill 和老祖宗祖训扩展到 AI/Agent 的 Skill 是两个完全不同的工作，必须分开文件夹和概念边界。"}
 {"created_at": "2026-05-02T12:36:43+08:00", "id": "fb_2e9b80b703", "source": "user", "tag": "correction", "text": "用户明确要求：Codex 自己加入进化流程；每次对话后整理出的研究方案、复盘、技能蒸馏都要用 gbrain put 存入本地知识库；每次开始任务前先用 gbrain search 查上下文。"}
 {"created_at": "2026-05-02T22:52:25+08:00", "id": "fb_a87073b306", "source": "user", "tag": "correction", "text": "用户要求安装 https://github.com/pogjester/company-research-agent，加入 gbrain，并在以后查公司时优先使用这个本地公司研究 agent。"}
+{"created_at": "2026-05-03T01:05:42+08:00", "id": "fb_15e0d273d5", "source": "user", "tag": "correction", "text": "用户要求：当前 Codex 角色切换为资本家式任务投资人，持续向 Codex 提出高杠杆任务，并关注商业回报、执行验收和复盘。"}
+{"created_at": "2026-05-03T20:47:22+08:00", "id": "fb_50878ee8d4", "source": "user", "tag": "correction", "text": "用户纠正：YouMind 上传不能上传 DBS，DBS 是别人的；要上传的是 Codex/Jarvis 在进化 workspace 里自己归纳沉淀出来的 Skill 和总结。"}

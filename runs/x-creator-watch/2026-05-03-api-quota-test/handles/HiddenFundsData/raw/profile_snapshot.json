@@ -1,0 +1,20 @@
+{
+  "captured_at": "2026-05-03T15:37:36+08:00",
+  "source": "6551 twitter_user_info",
+  "handle": "HiddenFundsData",
+  "profile_url": "https://x.com/HiddenFundsData",
+  "category": "MANUAL",
+  "registry_reason": "manual handle input",
+  "user_id": null,
+  "screen_name": null,
+  "name": null,
+  "description": null,
+  "followers_count": null,
+  "following_count": null,
+  "statuses_count": null,
+  "verified": null,
+  "profile_image_url": null,
+  "api_success": false,
+  "api_usage": null,
+  "api_error": "insufficient quota"
+}

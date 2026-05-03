@@ -1,0 +1,409 @@
+{
+  "data": [
+    {
+      "id": "2050839904918139305",
+      "text": "二十多岁的时候，遇到一两个借了你几百几千块钱不还的人，都是你的贵人。\n到了中年，你就明白这句话的含金量了。",
+      "createdAt": "Sun May 03 07:28:30 +0000 2026",
+      "language": "zh",
+      "favoriteCount": 6,
+      "replyCount": 1,
+      "viewCount": 270,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2050839904918139305"
+    },
+    {
+      "id": "2050809490849566987",
+      "text": "2023年前的书，基本还是纯手搓时代。 现在很多书你已经分不清楚是人写，还是AI辅助写作了。\n同时也带来了AI阅读，很多人喜欢一键summary , 把内容直接提炼，当作了是读了。",
+      "createdAt": "Sun May 03 05:27:39 +0000 2026",
+      "language": "zh",
+      "favoriteCount": 17,
+      "replyCount": 4,
+      "viewCount": 1821,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2050809490849566987"
+    },
+    {
+      "id": "2050505438928466053",
+      "text": "高盛在3月底喊买入“五粮液”。 \n五粮液4月底暴雷，它们2025营收和净利同比下滑超过一半甚至七成，是在把过去通过压货、宽松口径确认的“假高增长”一次性洗掉，修改财报，利润砍半。\n高盛估计也没想到，在美国这样会面临退市，负责人被处罚等等风险，在大A就是骂一骂，居然没什么事。 https://t.co/sTcW2JjLDP",
+      "createdAt": "Sat May 02 09:19:27 +0000 2026",
+      "language": "zh",
+      "retweetCount": 16,
+      "favoriteCount": 176,
+      "replyCount": 61,
+      "quoteCount": 7,
+      "viewCount": 59025,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2050505438928466053",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://x.com/yiqifacai/status/2050505438928466053/photo/1",
+          "thumbUrl": "https://pbs.twimg.com/media/HHTajwNWcAAJAT9.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2050484025819607067",
+      "text": "看到一个币圈转炒股的技术分析派在那里划线美光，这个线，那个压力位，超买几卖什么的。 https://t.co/pOEq9tgX7C",
+      "createdAt": "Sat May 02 07:54:22 +0000 2026",
+      "language": "zh",
+      "retweetCount": 4,
+      "favoriteCount": 32,
+      "replyCount": 30,
+      "viewCount": 5352,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2050484025819607067",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://x.com/yiqifacai/status/2050484025819607067/photo/1",
+          "thumbUrl": "https://pbs.twimg.com/media/HHTIWkVXoAA0h1f.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2050437057126748478",
+      "text": "孙宇晨脑壳子还是蛮灵光的。\n过去人们说比特币是未来的货币，然后有了交易所。\n现在人们说Token是未来的货币，他早早就转型干“中转站”。",
+      "createdAt": "Sat May 02 04:47:44 +0000 2026",
+      "language": "zh",
+      "retweetCount": 19,
+      "favoriteCount": 448,
+      "replyCount": 247,
+      "quoteCount": 1,
+      "viewCount": 151160,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2050437057126748478"
+    },
+    {
+      "id": "2050428840728560112",
+      "text": "TOTO公司股价新高 🚽 ，搭上半导体，马桶也有春天。",
+      "createdAt": "Sat May 02 04:15:05 +0000 2026",
+      "language": "zh",
+      "retweetCount": 1,
+      "favoriteCount": 25,
+      "replyCount": 2,
+      "viewCount": 12829,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2050428840728560112",
+      "isQuote": true,
+      "quoteId": "2025304810245775729"
+    },
+    {
+      "id": "2050332940979114471",
+      "text": "写在Intel 100: 推荐一下广发证券电子小组吧，在外网3月份开始喊CPU对GPU 1:1的时候，广发的研究员王亮同学1月份已经给出了这个结论。\n不过还是没有我做AI Infra的老公快，他是去年下半年就给我说的，GPU后面除了内存，CPU马上也有性能问题了。 https://t.co/ocBeeEmUW9",
+      "createdAt": "Fri May 01 21:54:01 +0000 2026",
+      "language": "zh",
+      "retweetCount": 32,
+      "favoriteCount": 291,
+      "replyCount": 43,
+      "quoteCount": 2,
+      "viewCount": 58925,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2050332940979114471",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://x.com/yiqifacai/status/2050332940979114471/photo/1",
+          "thumbUrl": "https://pbs.twimg.com/media/HHQ8lXOW8AASK3O.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2050257131866112079",
+      "text": "上周分享给小伙伴炸裂的光学⚡️，我捞过一次短线，可惜我没有仓位了。我所有空余仓位梭了SIVE，涨成我第二大仓位了。 https://t.co/59Yvx4ZV1n",
+      "createdAt": "Fri May 01 16:52:46 +0000 2026",
+      "language": "zh",
+      "retweetCount": 9,
+      "favoriteCount": 65,
+      "replyCount": 43,
+      "quoteCount": 1,
+      "viewCount": 17332,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2050257131866112079",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://x.com/yiqifacai/status/2050257131866112079/photo/1",
+          "thumbUrl": "https://pbs.twimg.com/media/HHP5yI8XMAAN0fM.jpg"
+        },
+        {
+          "type": "photo",
+          "url": "https://x.com/yiqifacai/status/2050257131866112079/photo/1",
+          "thumbUrl": "https://pbs.twimg.com/media/HHP5yI9XEAAS4eL.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2050252368499847464",
+      "text": "LMND是一个很无聊，十年二十倍的公司。\nCorrect me if you can.",
+      "createdAt": "Fri May 01 16:33:51 +0000 2026",
+      "language": "zh",
+      "retweetCount": 3,
+      "favoriteCount": 46,
+      "replyCount": 39,
+      "quoteCount": 1,
+      "viewCount": 20591,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2050252368499847464"
+    },
+    {
+      "id": "2050211121898967275",
+      "text": "reddit自2023年年中以来每季度自由现金流。有血有肉的真人对话素材，AI公司订阅语料，并且它们自己也做AI问答，毛利超过白酒行业。\n同样的行业映射，知乎为什么失败了？\n我觉得是装逼的，谢邀，刚下飞机，三十岁存款千万的人太多了。\n现在这些人到了小红书。 https://t.co/00nqt5f4aM",
+      "createdAt": "Fri May 01 13:49:57 +0000 2026",
+      "language": "zh",
+      "retweetCount": 1,
+      "favoriteCount": 42,
+      "replyCount": 35,
+      "viewCount": 8884,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2050211121898967275",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://x.com/yiqifacai/status/2050211121898967275/photo/1",
+          "thumbUrl": "https://pbs.twimg.com/media/HHPQJhYXQAAT8uK.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2050207432014537093",
+      "text": "一般投资看个人的，激进选手，相信国运就猛干业务覆盖华为和海光两条线的公司，子弹打完躺平就行了。",
+      "createdAt": "Fri May 01 13:35:17 +0000 2026",
+      "language": "zh",
+      "retweetCount": 32,
+      "favoriteCount": 156,
+      "replyCount": 31,
+      "viewCount": 23366,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2050207432014537093",
+      "isQuote": true,
+      "quoteId": "2050205584956297352"
+    },
+    {
+      "id": "2050205584956297352",
+      "text": "冲冲冲 https://t.co/Ushwe3Xva6",
+      "createdAt": "Fri May 01 13:27:57 +0000 2026",
+      "language": "ja",
+      "retweetCount": 22,
+      "favoriteCount": 151,
+      "replyCount": 16,
+      "quoteCount": 1,
+      "viewCount": 42167,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2050205584956297352",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://x.com/yiqifacai/status/2050205584956297352/photo/1",
+          "thumbUrl": "https://pbs.twimg.com/media/HHPLDRKXcAMWhBa.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2050122993611723082",
+      "text": "https://t.co/6x0Mj2Fyhi",
+      "createdAt": "Fri May 01 07:59:45 +0000 2026",
+      "language": "zxx",
+      "retweetCount": 3,
+      "favoriteCount": 6,
+      "replyCount": 7,
+      "viewCount": 4137,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2050122993611723082",
+      "urls": [
+        {
+          "url": "http://x.com/i/article/2050121615220801536",
+          "displayUrl": "x.com/i/article/2050…"
+        }
+      ]
+    },
+    {
+      "id": "2050098895603085798",
+      "text": "只有平静愉快才是人生的全部意义，如果你投资交易过程会让自己活在恐怖和兴奋的反复中，一般建议定投ETF。",
+      "createdAt": "Fri May 01 06:24:00 +0000 2026",
+      "language": "zh",
+      "retweetCount": 11,
+      "favoriteCount": 140,
+      "replyCount": 32,
+      "viewCount": 9075,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2050098895603085798"
+    },
+    {
+      "id": "2050071921778151508",
+      "text": "人生要什么时候才能想通透，其实也蛮难的。不只是眼光，更考验执行力，年龄和阅历也是很大阻碍。\n比如现在我就知道谷歌的技术深度被低估了，包括现在Claude code， 企业版其实很强，个人版降智是算力限制不得已，会强烈看好TPU和谷歌全生态护城河，做多产业链。知行能合一。",
+      "createdAt": "Fri May 01 04:36:49 +0000 2026",
+      "language": "zh",
+      "retweetCount": 12,
+      "favoriteCount": 127,
+      "replyCount": 30,
+      "quoteCount": 1,
+      "viewCount": 22100,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2050071921778151508",
+      "isQuote": true,
+      "quoteId": "1983179751280840843"
+    },
+    {
+      "id": "2049974598595166582",
+      "text": "红五月：锂&gt;芯&gt;光",
+      "createdAt": "Thu Apr 30 22:10:05 +0000 2026",
+      "language": "ja",
+      "retweetCount": 24,
+      "favoriteCount": 238,
+      "replyCount": 39,
+      "viewCount": 48676,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2049974598595166582"
+    },
+    {
+      "id": "2049952828978790836",
+      "text": "RDDT财报不错，超预期。\n毛利91.5% ，堪比印钞机 https://t.co/jwhUwxKf2t",
+      "createdAt": "Thu Apr 30 20:43:35 +0000 2026",
+      "language": "zh",
+      "retweetCount": 1,
+      "favoriteCount": 19,
+      "replyCount": 3,
+      "quoteCount": 1,
+      "viewCount": 9755,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2049952828978790836",
+      "isQuote": true,
+      "quoteId": "2045812383919042794",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://x.com/yiqifacai/status/2049952828978790836/photo/1",
+          "thumbUrl": "https://pbs.twimg.com/media/HHLlOmZW0AAUWN4.jpg"
+        }
+      ]
+    },
+    {
+      "id": "2049927910178349420",
+      "text": "AI- first 变成AI- only.\n谁会成为第一个市值百亿的无人运营公司呢？",
+      "createdAt": "Thu Apr 30 19:04:34 +0000 2026",
+      "language": "zh",
+      "favoriteCount": 13,
+      "replyCount": 14,
+      "viewCount": 8776,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2049927910178349420"
+    },
+    {
+      "id": "2049895914039341541",
+      "text": "瑞典今天已经休市了，只开半天。但是德股还能在美国交易。这就导致了SIVE 开盘时候12% ，收盘是0%，但美股开盘\n时候是11% 。我还有点没明白是怎么导致了这样的套利机会。\n我原本以为是一套体系，看来还是分开计价的。",
+      "createdAt": "Thu Apr 30 16:57:25 +0000 2026",
+      "language": "zh",
+      "retweetCount": 2,
+      "favoriteCount": 21,
+      "replyCount": 9,
+      "viewCount": 10960,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2049895914039341541"
+    },
+    {
+      "id": "2049886014055833749",
+      "text": "四月收兵，五月再战！🎖️ https://t.co/q4vQXbVQkM",
+      "createdAt": "Thu Apr 30 16:18:05 +0000 2026",
+      "language": "zh",
+      "favoriteCount": 64,
+      "replyCount": 25,
+      "quoteCount": 1,
+      "viewCount": 10453,
+      "userScreenName": "yiqifacai",
+      "userName": "一起发财",
+      "userIdStr": "1426509736422383616",
+      "userFollowers": 82413,
+      "userVerified": true,
+      "conversationId": "2049886014055833749",
+      "media": [
+        {
+          "type": "photo",
+          "url": "https://x.com/yiqifacai/status/2049886014055833749/photo/1",
+          "thumbUrl": "https://pbs.twimg.com/media/HHKodxiXAAA2x9Z.jpg"
+        }
+      ]
+    }
+  ],
+  "success": true,
+  "usage": {
+    "cost": "1",
+    "quota": "0"
+  }
+}

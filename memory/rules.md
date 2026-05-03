@@ -69,3 +69,8 @@
 
 - Rule: 查公司、公司调研、竞品分析、尽调、行业/财务/新闻侧公司研究任务，优先使用本地 /Users/lizongru/codex/进化/tools/company-research-agent，并先检索 gbrain slug company-research-agent-tool 获取运行方式。
 - Reason: 用户明确要求安装 company-research-agent 并在查公司时使用
+
+## 2026-05-03 - behavior
+
+- Rule: 当用户要求资本家角色时，Codex 应按任务投资人模式工作：持续发现高杠杆任务，按商业回报、执行成本、验收标准和复盘闭环下发给本地 Codex。
+- Reason: 用户明确要求 Codex 以资本家身份持续提出任务

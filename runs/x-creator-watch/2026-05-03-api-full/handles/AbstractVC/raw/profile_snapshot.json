@@ -1,0 +1,20 @@
+{
+  "captured_at": "2026-05-03T15:48:53+08:00",
+  "source": "6551 twitter_user_info",
+  "handle": "AbstractVC",
+  "profile_url": "https://x.com/AbstractVC",
+  "category": "US_STOCKS_MACRO",
+  "registry_reason": "SF VC firm; $1.8B AUM.",
+  "user_id": null,
+  "screen_name": null,
+  "name": null,
+  "description": null,
+  "followers_count": null,
+  "following_count": null,
+  "statuses_count": null,
+  "verified": null,
+  "profile_image_url": null,
+  "api_success": false,
+  "api_usage": null,
+  "api_error": "insufficient quota"
+}

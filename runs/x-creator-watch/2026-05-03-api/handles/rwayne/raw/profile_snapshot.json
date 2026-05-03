@@ -1,0 +1,23 @@
+{
+  "captured_at": "2026-05-03T15:35:21+08:00",
+  "source": "6551 twitter_user_info",
+  "handle": "rwayne",
+  "profile_url": "https://x.com/rwayne",
+  "category": "US_STOCKS_MACRO",
+  "registry_reason": "Medicine/econ PhD; subscription content, economics signal.",
+  "user_id": "1664742004423794688",
+  "screen_name": "rwayne",
+  "name": "Roland.W",
+  "description": "🧑‍⚕️ 医学&经济学全奖PhD 🇦🇺\n⭐ 订阅都是本人精华｜优先回复订阅者评论和私信👈",
+  "followers_count": 43681,
+  "following_count": 761,
+  "statuses_count": 11671,
+  "verified": true,
+  "profile_image_url": "https://pbs.twimg.com/profile_images/1911955967505219584/mbOS-TVy_normal.jpg",
+  "api_success": true,
+  "api_usage": {
+    "cost": "1",
+    "quota": "0"
+  },
+  "api_error": null
+}

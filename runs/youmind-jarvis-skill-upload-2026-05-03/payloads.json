@@ -1,0 +1,153 @@
+[
+  {
+    "id": "jarvis-evolution-router",
+    "title": "Jarvis 进化 Skill 总入口",
+    "description": "把本地 Codex/Jarvis 的研究、调研、拆解、记忆、任务派发和商业化 Skill 路由到正确工作流。适合处理“我该用哪个 Skill”“把这个沉淀成流程”。",
+    "sources": [
+      "SOUL.md",
+      "USER.md",
+      "AGENTS.md",
+      "memory/rules.md",
+      "runs/x-creator-watch/2026-05-02/05_skill_distillation.md"
+    ],
+    "instruction": "# Jarvis 进化 Skill 总入口\n\n你的目标是把用户的问题路由到 Jarvis 已沉淀的自有工作流，并输出可执行任务。\n\n## 适用场景\n- 用户有一个想法、项目、公司、内容、Agent 系统或投资主题，需要拆解。\n- 用户想把一次工作沉淀成 Skill、GBrain 页面、Jarvis 任务或可复用 SOP。\n- 用户需要判断该调用 X 创作者蒸馏、公司研究、ManXis、LLMOps、Agent 工作法、币圈历史或供应链研究。\n\n## 路由表\n| 用户意图 | 路由 |\n|---|---|\n| 研究 X 创作者、拆内容方法、蒸馏账号能力 | X 创作者情报蒸馏 |\n| 分析 AI 产品、Agent、基础设施、LLMOps | AI 基础设施拆解 |\n| 研究公司、竞品、融资、客户、新闻 | 公司研究与竞品拆解 |\n| 找 token 成本、trace、上下文浪费 | ManXis Token Audit |\n| 设计 Codex/Jarvis/远程执行/队列 | Agent 工作台与控制平面 |\n| 用古籍和历史故事约束 Agent 执行 | 老祖宗 Agent 工作法 |\n| 分析币圈项目、周期、rug、历史类比 | 币圈以史为鉴 |\n| 研究 AI/半导体/供应链投资机会 | 供应链瓶颈研究 |\n| 做 X/Twitter 增长、账号定位、内容运营 | ManXis 创作者增长 |\n\n## 输出格式\n```markdown\n目标：\n推荐 Skill：\n为什么：\n输入材料：\n执行步骤：\n验收标准：\n最小验证：\n沉淀位置：\n```\n\n## 规则\n- 先给路由判断，再给执行步骤。\n- 每次输出都必须包含验收标准和最小验证。\n- 能落成本地文件、GBrain、Jarvis task 的任务，必须明确路径或命令。\n- 涉及第三方上传、公开发布、发消息或表单提交时，先说明内容、目的和目的地，再等待确认。"
+  },
+  {
+    "id": "x-creator-intel-distiller",
+    "title": "X 创作者情报蒸馏",
+    "description": "把 X/Twitter 创作者拆成来源台账、账号强项、可复用工作流、Skill 草稿和 GBrain 页面。用于持续学习 AI、产品、增长、投资和 Agent 高信号账号。",
+    "sources": [
+      "/Users/lizongru/.codex/skills/x-creator-distiller/SKILL.md",
+      "runs/x-creator-watch/2026-05-02/05_skill_distillation.md",
+      "runs/x-creator-watch/2026-05-03/03_skill_distillation.md"
+    ],
+    "instruction": "# X 创作者情报蒸馏\n\n你的目标是把一个 X/Twitter 创作者变成本地可用的知识资产。\n\n## 输入\n- X handle 或主页 URL。\n- 用户关心的方向：AI、Agent、LLMOps、增长、投资、内容、产品、工程。\n- 可访问的资料：profile、帖子、线程、外链、GitHub、博客、产品页。\n\n## 工作流\n1. 建来源台账：保存 profile URL、帖子 URL、外链、可见指标、采集日期。\n2. 抽账号定位：他做什么、强在哪里、服务谁、凭什么可信。\n3. 拆内容结构：选题、证据、语言、产品入口、互动方式。\n4. 拆能力模型：他反复使用的判断流程、资料来源、筛选标准、输出模板。\n5. 生成 Skill：触发条件、输入、步骤、输出格式、失败模式。\n6. 入库：保存到 `runs/x-creator-watch/YYYY-MM-DD/`，再写 GBrain 摘要。\n7. 下一步：给用户一个可执行动作，例如关注、对标、触达、复刻工作流、安装 Skill。\n\n## 输出格式\n```markdown\n# Creator Intelligence: @handle\n\n## Source Ledger\n| Source | URL | Evidence | Date |\n\n## What They Are Good At\n\n## Repeatable Workflow\n1.\n2.\n3.\n\n## Skill Draft\n- Trigger:\n- Inputs:\n- Steps:\n- Output:\n- Failure modes:\n\n## Jarvis Use\n- Where to store:\n- Next action:\n```\n\n## 验收\n- 每个判断都有 URL 或可见证据。\n- Skill 不是人格模仿，而是工作流提炼。\n- 长引用留在本地，公开材料用短锚点和原创总结。"
+  },
+  {
+    "id": "company-competitor-research",
+    "title": "公司研究与竞品拆解",
+    "description": "用本地 company-research-agent 和 Codex 生成公司调研、竞品卡、差异化表和目标客户判断。适合研究 AI 基础设施、Agent、LLMOps、SaaS 和投融资公司。",
+    "sources": [
+      "tools/company-research-agent/CODEX_PROVIDER.md",
+      "runs/manxis-company-research-2026-05-03/01_company_reports.md",
+      "runs/manxis-company-research-demo-2026-05-03/README.md"
+    ],
+    "instruction": "# 公司研究与竞品拆解\n\n你的目标是把一家公司拆成商业判断，而不是资料拼贴。\n\n## 输入\n- 公司名、官网、行业、所在地。\n- 研究目的：竞品、客户、集成伙伴、投资标的、销售线索。\n\n## 工作流\n1. 确定公司类型：直接竞品、相邻基础设施、目标客户、渠道伙伴、投资标的。\n2. 收集来源：官网、docs、pricing、YC/Crunchbase/LinkedIn/GitHub、新闻、客户案例。\n3. 拆公司概况：产品、目标市场、商业模式、团队信号。\n4. 拆行业位置：市场类别、直接竞品、替代方案、差异化、挑战。\n5. 拆商业健康：融资、定价、客户、使用量、开源/社区、收入线索。\n6. 产出战略判断：为什么重要、风险缺口、后续追问。\n7. 写入本地：`runs/company-research-YYYY-MM-DD/`，必要时入 GBrain。\n\n## 输出格式\n```markdown\n# {Company} Research Report\n\n## Company Overview\n## Industry Overview\n## Financial Overview\n## News\n## Strategic Read\n### Why It Matters\n### Risks / Gaps\n### Questions For Follow-Up\n## References\n```\n\n## 验收\n- 至少 8 个来源 URL。\n- 不确定的融资、收入、客户数据标为“unclear”。\n- 最后必须给出 ManXis/Jarvis 可执行动作：学习、触达、集成或规避。"
+  },
+  {
+    "id": "manxis-token-audit",
+    "title": "ManXis Token Audit",
+    "description": "把长任务 Agent trace 拆成 token footprint、waste map、before/after 成本表和 workflow patch。用于验证 ManXis 的付费 pilot。",
+    "sources": [
+      "runs/manxis-token-audit-pack-2026-05-03/README.md",
+      "runs/manxis-leads-2026-05-03/README.md",
+      "runs/manxis-company-research-demo-2026-05-03/README.md"
+    ],
+    "instruction": "# ManXis Token Audit\n\n你的目标是把一条真实长任务 Agent trace 变成可收费的优化报告。\n\n## 输入\n- 任务描述：目标、工具、模型、期望输出。\n- trace/log：JSONL、Markdown、截图或 observability export。\n- 成本数据：token、金额、耗时、重试次数。\n- 最终输出：PR、报告、应用、文档或运行结果。\n- 隐私限制：哪些字段需要匿名、保留、删除或本地处理。\n\n## 拆解维度\n1. Token footprint：input、output、cached、tool-output、retry。\n2. Waste map：重复上下文、冗长工具输出、弱记忆边界、低质量检索、失败重试、cache miss。\n3. Quality risk：压缩后可能丢失的事实、代码、引用、边界条件。\n4. Workflow patch：prompt、memory、retrieval、tool return、routing、compact threshold。\n5. Savings estimate：按月任务量估算节省金额和可收费空间。\n\n## 输出格式\n```markdown\n# Local Token Audit\n\n## Executive Verdict\n## Token Footprint\n## Waste Map\n## Quality Risks\n## Recommended Workflow Patch\n## Before / After Estimate\n## Evidence Table\n## Next Pilot Step\n```\n\n## 验收\n- 每个 savings claim 对应 trace 证据。\n- 报告必须能转化为一条客户可执行修改。\n- 首个 pilot 报价从 `$500` 开始。"
+  },
+  {
+    "id": "llmops-gateway-design",
+    "title": "LLMOps Gateway 拆解",
+    "description": "把 AI app 或 Agent 系统拆成网关、日志、路由、缓存、成本、回放和调试闭环。来源于 Helicone、Portkey、LangSmith/Langfuse 等基础设施归纳。",
+    "sources": [
+      "runs/x-creator-watch/2026-05-03/03_skill_distillation.md",
+      "runs/manxis-company-research-demo-2026-05-03/helicone.md"
+    ],
+    "instruction": "# LLMOps Gateway 拆解\n\n你的目标是把一个 LLM/Agent 产品设计成可观测、可治理、可控成本的生产系统。\n\n## 输入\n- 当前模型调用方式。\n- 模型和 provider 列表。\n- 用户/session 标识。\n- prompt 版本、工具调用、成本、延迟和错误信息。\n- 自托管、隐私、合规或企业部署要求。\n\n## 工作流\n1. 保持 OpenAI-compatible 客户端接口，降低迁移成本。\n2. 把请求路由到统一 gateway。\n3. 记录 request、response、model、provider、latency、cost、user/session、prompt version、error。\n4. 定义 fallback、retry、rate limit、budget、cache 策略。\n5. 增加 replay/debug workflow，能复盘失败请求。\n6. 为运营者提供 dashboards：cost、latency、error、sessions、prompts、models。\n7. 把高风险动作放进 approval tier 和 audit log。\n\n## 输出格式\n```markdown\n## LLMOps Gateway Plan\n- Client interface:\n- Gateway endpoint:\n- Providers:\n- Observability fields:\n- Routing/fallback:\n- Cache/budget:\n- Debug workflow:\n- Security risks:\n- Verification command:\n```\n\n## 验收\n- 单个请求能从 user/session 追到 model/provider 和最终输出。\n- provider 切换不需要改业务层。\n- 每个成本/安全规则都有可观察计数器。"
+  },
+  {
+    "id": "document-agent-workflow",
+    "title": "文档 Agent 工作流拆解",
+    "description": "把 PDF、OCR、表格、图表、合同、报告等复杂文档处理成 parse/extract/index/retrieve/action/eval 流程，要求字段有来源、置信度和验收样例。",
+    "sources": [
+      "runs/x-creator-watch/2026-05-03/03_skill_distillation.md"
+    ],
+    "instruction": "# 文档 Agent 工作流拆解\n\n你的目标是让 Agent 稳定处理复杂文档，而不是只做一次性总结。\n\n## 输入\n- 文档集合和文件类型。\n- 下游任务：问答、抽取、审计、报告、比较、入库、自动操作。\n- 输出 schema。\n- 失败模式：版式、表格、图表、手写、引用、跨页字段、OCR 噪音。\n- eval 样本和指标。\n\n## 工作流\n1. 判断文档领域和下游 Agent 任务。\n2. 拆成 parse、extract、index、retrieve、action、eval 六段。\n3. 选择解析方式：本地 parser、LlamaParse、OCR、MCP、SDK 或人工校验。\n4. 为每个字段定义 schema、source anchor、confidence。\n5. 建小型 eval set，覆盖代表性失败样本。\n6. 输出结构化结果，并附页码、引用和置信度。\n7. 验证样本：字段完整率、引用准确率、错误类型、人工复核点。\n\n## 输出格式\n```markdown\n## Document Workflow\n- Domain:\n- Files:\n- Parse strategy:\n- Extraction schema:\n- Retrieval/index plan:\n- Agent action:\n- Eval cases:\n- Failure modes:\n- Next automation:\n```\n\n## 验收\n- 每个抽取字段都有来源位置或置信度。\n- benchmark claim 有样本量和失败维度。\n- 新文档可复用同一流程。"
+  },
+  {
+    "id": "agent-control-plane",
+    "title": "Agent 控制平面拆解",
+    "description": "把 Codex/Jarvis/远程 Agent 系统拆成身份、权限、队列、审批、日志、成本、回调和失败处理。适合做本地 Jarvis、Telegram/微信远程执行和企业 Agent。",
+    "sources": [
+      "memory/operating_state.md",
+      "AGENTS.md",
+      "runs/x-creator-watch/2026-05-03/03_skill_distillation.md",
+      "runs/manxis-leads-2026-05-03/README.md"
+    ],
+    "instruction": "# Agent 控制平面拆解\n\n你的目标是把一个“能跑任务的 Agent”升级成可运营、可审计、可控风险的系统。\n\n## 输入\n- 入口：聊天、Telegram、微信、Web、CLI、定时任务。\n- 执行器：Codex、Claude Code、脚本、浏览器、MCP、后台 worker。\n- 动作风险：读文件、写文件、发消息、上传、删除、付费、登录、调用 API。\n- 身份权限：用户、管理员、自动化、外部触发。\n\n## 工作流\n1. 画链路：chat entry -> gateway -> queue -> local agent -> codex execution -> callback -> memory update。\n2. 定义任务 schema：目标、上下文、权限、验收标准、输出路径、回调方式。\n3. 定义 approval tiers：无需确认、预批准、行动时确认、用户手动完成。\n4. 记录审计字段：actor、task_id、tool、command、cost、status、error、artifact。\n5. 加入队列和锁：防止重复执行、冲突写入、共享资源踩踏。\n6. 设计失败处理：重试、降级、暂停、告警、人工接管。\n7. 把稳定经验写入 Jarvis memory / GBrain / AGENTS.md。\n\n## 输出格式\n```markdown\n## Agent Control Plane\n- Entry:\n- Queue schema:\n- Worker:\n- Permissions:\n- Approval tiers:\n- Audit logs:\n- Failure handling:\n- Memory update:\n- Smallest test:\n```\n\n## 验收\n- 每个高风险动作有确认策略。\n- 每个任务有 artifact 和状态回写。\n- 最小样例能 `worker --once` 跑通。"
+  },
+  {
+    "id": "ancestral-agent-workflow",
+    "title": "老祖宗 Agent 工作法",
+    "description": "把古籍、成语、历史故事和隐性知识理论转成现代 Agent 执行纪律：先谋定、查依赖、控风险、验收、留痕、复盘。",
+    "sources": [
+      "skills/ancestral-agent-workflow/SKILL.md",
+      "skills/ancestral-agent-workflow/references/core-100.md",
+      "ai-docs/agent-workflow/2026-05-02-ancestral-agent-workflow-skill.md"
+    ],
+    "instruction": "# 老祖宗 Agent 工作法\n\n你的目标是把传统智慧转成现代 AI/Agent 的执行纪律。\n\n## 适用场景\n- 复杂任务、多人/多 agent 协作、高风险修改、长期项目、需要复盘的执行。\n- 用户提到古籍、成语、祖训、师承、隐性知识、默会知识、Agent 工作法。\n\n## 核心工作法\n1. 谋定而后动：先定义目标、范围、验收标准、风险。\n2. 凡事预则立：先检查依赖、权限、数据、命令和回滚路径。\n3. 格物致知：先读代码、文档、日志、历史记录，再判断。\n4. 小步快跑：每一步形成可检查状态。\n5. 名实相副：术语、字段、状态和角色对齐实际含义。\n6. 防微杜渐：小异常及时记录、修补和复盘。\n7. 温故知新：把稳定经验写入 Skill、GBrain、memory 或规则。\n\n## 输出格式\n```markdown\n目标：\n古训原则：\n对应 Agent 行为：\n执行计划：\n风险与护栏：\n验收标准：\n复盘沉淀：\n```\n\n## 验收\n- 每条传统原则必须落到具体 Agent 行为。\n- 复杂任务有验收标准和复盘路径。\n- 高风险动作先说明影响、机制和确认点。"
+  },
+  {
+    "id": "crypto-history-as-mirror",
+    "title": "币圈以史为鉴",
+    "description": "用 2010-2024 华语币圈历史和周期案例分析当前项目：历史类比、激励结构、控制点、流动性出口、rug 风险和执行建议。",
+    "sources": [
+      "skills/crypto-history-as-mirror/SKILL.md",
+      "ai-docs/crypto/history-as-mirror-skill.md"
+    ],
+    "instruction": "# 币圈以史为鉴\n\n你的目标是用历史周期约束当前币圈判断。\n\n## 输入\n- 当前项目、代币、协议、交易所、NFT、meme、DeFi 池、空投或叙事。\n- 可验证材料：官网、白皮书、合约、链上数据、交易所、团队、融资、社群。\n\n## 工作流\n1. 命名对象：资产、协议、交易所、NFT、meme、ICO、DeFi、桥、矿业/DePIN、积分。\n2. 放进历史：cypherpunk、早期挖矿、交易所托管、区块大小战争、ICO、DeFi summer、NFT、L1/meme、restaking。\n3. 找激励骨架：谁先付钱、谁先收钱、谁控制规则、谁先退出、谁成为流动性。\n4. 找历史类比：上一轮对应案例、兴起驱动、顶部信号、衰落触发、幸存条件。\n5. 给结论：长周期资产、基础设施、PvP 投机、反身性泡沫、托管风险、rug setup、历史标本、回避。\n\n## 输出格式\n```markdown\n结论：\n历史位置：\n最近类比：\n兴衰逻辑：\n激励结构：\n今日证据：\n风险触发器：\n执行建议：\n复盘日期：\n```\n\n## 验收\n- 区分历史押韵和当前证据。\n- 当前项目需要 fresh evidence。\n- 不确定的链上、合约、API、资金数据标为待验证。"
+  },
+  {
+    "id": "ai-supply-chain-bottleneck-research",
+    "title": "AI 供应链瓶颈研究",
+    "description": "从 AI、半导体、数据中心、CPO、HBM、量子、稳定币等需求浪潮往上游追，找卡点、供应商、时间窗口和投资 kill criteria。",
+    "sources": [
+      "runs/aleabitoreddit-superfollows-2026-04-30/02_skill_distillation.md",
+      "gbrain_export/aleabitoreddit-kb-skill-cards.md"
+    ],
+    "instruction": "# AI 供应链瓶颈研究\n\n你的目标是从显性需求浪潮中找到上游稀缺层和可研究标的。\n\n## 工作流\n1. 选择需求浪潮：AI servers、CPO、HBM、quantum、data centers、drones、stablecoins。\n2. 拆架构变化：CoPoS、hybrid bonding、glass substrate、optical interposer、MBE、directed energy。\n3. 找工艺步骤：coating、bonding/debonding、PVD、metrology、burn-in、underfill curing、wet etching、inspection。\n4. 找稀缺输入：InP substrate、red phosphorus、electronic-grade solvent、rare earths、MLCC material、transformer capacity。\n5. 建供应图：最终客户、tier-1、设备商、材料商、私有/公开竞品。\n6. 判断时间：qualification、volume ramp、earnings catalyst、capex order window。\n7. 评分：瓶颈严重度、客户 linkage、ramp timing、valuation asymmetry、market awareness、substitutability、liquidity、evidence quality。\n8. 写 kill criteria：设计替代、时间错配、纯度不足、已经重估、客户证据弱。\n\n## 输出格式\n```markdown\n# Bottleneck Research\n- Demand wave:\n- Architecture change:\n- Bottleneck step:\n- Supplier map:\n- Candidate tickers:\n- Timing:\n- Evidence:\n- Kill criteria:\n- Next source to check:\n```\n\n## 验收\n- 每个 ticker 放进客户/工艺/供应图。\n- 每个想法同时写 pass reason 和 fail reason。\n- 没有客户、工艺或时间证据的标的进 watchlist。"
+  },
+  {
+    "id": "manxis-x-growth-playbook",
+    "title": "ManXis X 增长拆解",
+    "description": "把 ManXis / AI Agent 项目拆成 X 账号定位、内容栏目、证据资产、用户触达和试点招募节奏。适合把研究转成增长动作。",
+    "sources": [
+      "runs/twitter-growth-research-2026-04-29/deep_research/03_synthesis_growth_playbook.md",
+      "runs/twitter-growth-research-2026-04-29/deep_research/05_account_content_playbook.md"
+    ],
+    "instruction": "# ManXis X 增长拆解\n\n你的目标是把一个 AI/Agent 项目变成可持续获客的 X 内容系统。\n\n## 输入\n- 项目定位、目标客户、当前账号、已有内容、产品证据、目标动作。\n\n## 工作流\n1. 定一句定位：专注长任务 Agent、token 成本、上下文工程、任务可靠性和安全边界。\n2. 拆账号分工：创始人号讲判断和用户，项目号讲产品和证据。\n3. 建 5 类内容：技术判断、商业判断、用户问题、benchmark、试点招募。\n4. 建证据资产：成本对比、trace audit、失败案例、before/after、客户反馈。\n5. 做触达：列 100 个目标账号，优先 Agent 高频用户、Cursor/Claude Code/Codex 用户、AI infra 创始人。\n6. 每周节奏：5 条观点、2 条试点 CTA、1 条案例拆解、1 条工具/benchmark。\n7. 每月活动：Long Agent Cost Challenge。\n\n## 输出格式\n```markdown\n## X Growth Plan\n- Positioning:\n- Audience:\n- Account roles:\n- Content pillars:\n- Weekly cadence:\n- Lead list:\n- CTA:\n- Evidence asset:\n- Next 10 posts:\n```\n\n## 验收\n- 每条内容对应一个业务目标：信任、样本、回复、试点或成交。\n- 试点 CTA 明确要求“一条真实长任务 trace”。\n- 增长动作写进本地任务和线索表。"
+  },
+  {
+    "id": "frontier-model-qa",
+    "title": "前沿模型 QA 拆解",
+    "description": "把模型能力展示转成可复现测试：prompt、输出、验证目标、失败模式和本地 pass/fail。适合多模态、图像、SVG、QR、文本渲染和推理边界测试。",
+    "sources": [
+      "runs/x-creator-watch/2026-05-02/handles/goodside/skill.md",
+      "runs/x-creator-watch/2026-05-02/handles/BoyuanChen0/skill.md"
+    ],
+    "instruction": "# 前沿模型 QA 拆解\n\n你的目标是把模型展示、截图、prompt 和 viral demo 转成可复现的能力测试。\n\n## 输入\n- 模型、prompt、输出截图/文件、声称能力、验证目标。\n\n## 工作流\n1. 提取 claim：模型被说成能做什么。\n2. 拆任务类型：SVG、QR、字形、棋局、时钟、地图、图表、文本渲染、引用查找、视觉推理。\n3. 固定 prompt 和运行条件：模型、参数、工具、输入、输出格式。\n4. 设计外部验证：扫码、OCR、编译、像素检查、规则校验、人工 spot check。\n5. 写失败模式：局部正确、视觉幻觉、文本错字、布局错位、隐藏信息失败、不可复现。\n6. 保存测试资产：prompt、output、screenshot、verification command。\n\n## 输出格式\n```markdown\n## Model QA Case\n- Claim:\n- Prompt:\n- Model/tool:\n- Output artifact:\n- Verification target:\n- Pass criteria:\n- Failure modes:\n- Reproduction command:\n```\n\n## 验收\n- 每个能力 claim 有独立验证方法。\n- 视觉任务至少有截图或像素/结构检查。\n- 不把 demo 热度当成能力证据。"
+  },
+  {
+    "id": "agent-memory-context",
+    "title": "Agent 记忆与上下文边界拆解",
+    "description": "拆解 Agent 记忆、跨会话上下文、local-first 数据、终端状态恢复和上下文安全。用于设计 Jarvis/GBrain/ManXis 的记忆系统。",
+    "sources": [
+      "runs/x-creator-watch/2026-05-02/handles/wey_gu/skill.md",
+      "runs/x-creator-watch/2026-05-02/handles/nicbstme/skill.md",
+      "memory/operating_state.md"
+    ],
+    "instruction": "# Agent 记忆与上下文边界拆解\n\n你的目标是判断一个 Agent 系统应该记住什么、忘掉什么、如何恢复、如何保护。\n\n## 输入\n- Agent 类型：coding、research、browser、workflow、chat、terminal。\n- 上下文来源：文件、聊天、工具输出、日志、GBrain、记忆库、外部 app。\n- 风险：隐私、过期信息、错记、跨用户污染、prompt injection、成本膨胀。\n\n## 工作流\n1. 分层：session memory、project memory、long-term profile、tool state、external knowledge。\n2. 判断保留价值：下次是否能减少重复解释、提高质量、降低风险或节省成本。\n3. 判断安全边界：敏感数据、账号、密钥、身份、医疗/财务/法律内容。\n4. 设计恢复机制：thread summary、task ledger、GBrain slug、terminal snapshot、artifact path。\n5. 设计遗忘机制：过期、低信心、错误纠正、用户撤销、敏感材料本地化。\n6. 输出上下文预算：哪些进 prompt，哪些进检索，哪些只存本地。\n\n## 输出格式\n```markdown\n## Context Boundary Plan\n- Memory layers:\n- Keep:\n- Retrieve:\n- Drop:\n- Sensitive boundaries:\n- Refresh triggers:\n- Recovery path:\n- Cost impact:\n```\n\n## 验收\n- 每条记忆有用途、来源和更新条件。\n- 敏感材料默认本地化。\n- 长任务恢复能从 artifact path 和 task ledger 接上。"
+  },
+  {
+    "id": "codex-state-maintenance",
+    "title": "Codex 本地状态维护",
+    "description": "把 Codex 长期使用后的聊天、worktree、日志、配置和本地状态膨胀拆成只读体检、handoff、备份、归档、验证和提醒流程。",
+    "sources": [
+      "runs/x-creator-watch/2026-05-03/handles/geekbb/skill.md",
+      "runs/x-creator-watch/2026-05-03/handles/geekbb/profile.md",
+      "https://x.com/geekbb/status/2050786115427402050",
+      "https://github.com/vibeforge1111/keep-codex-fast"
+    ],
+    "instruction": "# Codex 本地状态维护\n\n你的目标是让重度使用后的 Codex 恢复轻量、可恢复、可继续执行的状态。\n\n## 适用场景\n- Codex 启动、恢复或切换线程变慢。\n- `.codex/sessions/`、JSONL 聊天、worktree、日志或配置持续变大。\n- 用户想清理 Codex 本地状态，同时保留重要上下文。\n- 用户需要把旧长线程迁移成新线程可接上的 handoff。\n\n## 工作流\n1. 先做只读体检：统计 active session、archive、worktree、log、config、Node/dev process。\n2. 判断哪些旧线程仍有业务价值：当前项目、未完成目标、近期文件改动、待验收任务。\n3. 给重要线程生成 repo-local handoff：目标、完成事项、文件、命令、失败、约束、下一步和 reactivation prompt。\n4. 应用前先备份：Codex metadata、配置、需要归档的 session/worktree/log。\n5. 采用归档策略：旧 session、stale worktree 和大日志进入 archive，并写 manifest 与恢复路径。\n6. 配置修剪只处理失效项目引用、临时路径和明显过期项。\n7. 完成后再次运行只读体检，对比体积、候选项和异常。\n8. 高频使用者加周度 report-only 提醒，自动化只提醒体检和 handoff。\n\n## 输出格式\n```markdown\n## Codex State Report\n- Active session size:\n- Archived session size:\n- Largest session candidates:\n- Worktree candidates:\n- Log size:\n- Config candidates:\n- Heavy dev processes:\n- Handoff docs needed:\n- Safe next action:\n- Verification command:\n```\n\n## 验收\n- 第一次运行只读体检。\n- 每个重要旧线程有 handoff 或保留决策。\n- 每个 apply 动作有 backup、archive、manifest、restore route。\n- 应用维护发生在 Codex 关闭后，或明确使用 wait-for-exit。\n- 维护后再次体检成功。"
+  }
+]

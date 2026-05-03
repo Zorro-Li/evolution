@@ -1,0 +1,5 @@
+{"handle":"llama_index","url":"https://x.com/llama_index","type":"x_profile","title":"LlamaIndex on X","evidence":"Official X profile captured through Safari."}
+{"handle":"llama_index","url":"https://www.llamaindex.ai/","type":"official_site","title":"LlamaIndex","evidence":"Agentic OCR and document workflow product surface."}
+{"handle":"llama_index","url":"https://developers.api.llamaindex.ai/api/python","type":"official_docs","title":"LlamaParse Python SDK","evidence":"Parse, extract, classify, agents, and indexing API surface."}
+{"handle":"llama_index","url":"https://docs.llamaindex.ai/en/stable/use_cases/agents/","type":"official_docs","title":"LlamaIndex Agents","evidence":"Agent and workflow concepts for document systems."}
+{"handle":"llama_index","url":"https://mcp.llamaindex.ai/mcp","type":"product_endpoint","title":"LlamaParse MCP","evidence":"MCP endpoint linked from visible X post."}

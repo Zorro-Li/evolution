@@ -1,0 +1,26 @@
+[
+  {
+    "company": "Compresr",
+    "job_id": "336958b2-b302-46f5-b6e2-e11ae93eb5d3",
+    "status": "completed",
+    "seconds": 280.5,
+    "path": "runs/manxis-company-research-demo-2026-05-03/compresr.md",
+    "chars": 10265
+  },
+  {
+    "company": "The Token Company",
+    "job_id": "de9e9688-2c6d-4a20-a3cf-22a80873476f",
+    "status": "completed",
+    "seconds": 215.4,
+    "path": "runs/manxis-company-research-demo-2026-05-03/the-token-company.md",
+    "chars": 9887
+  },
+  {
+    "company": "Helicone",
+    "job_id": "f9320108-3e48-45c7-aa17-b30736cc7501",
+    "status": "completed",
+    "seconds": 285.6,
+    "path": "runs/manxis-company-research-demo-2026-05-03/helicone.md",
+    "chars": 9324
+  }
+]

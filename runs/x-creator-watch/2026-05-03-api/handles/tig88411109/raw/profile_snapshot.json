@@ -1,0 +1,20 @@
+{
+  "captured_at": "2026-05-03T15:35:30+08:00",
+  "source": "6551 twitter_user_info",
+  "handle": "tig88411109",
+  "profile_url": "https://x.com/tig88411109",
+  "category": "US_STOCKS_MACRO",
+  "registry_reason": "Fund partner/professor CFA; macro, tech, AI, semis, cycles.",
+  "user_id": null,
+  "screen_name": null,
+  "name": null,
+  "description": null,
+  "followers_count": null,
+  "following_count": null,
+  "statuses_count": null,
+  "verified": null,
+  "profile_image_url": null,
+  "api_success": false,
+  "api_usage": null,
+  "api_error": "{\"error\":\"insufficient quota\",\"success\":false}"
+}
