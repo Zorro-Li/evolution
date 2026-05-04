@@ -40,6 +40,13 @@ TRACKED_PATHS = [
     "tasks",
 ]
 
+# Keep GitHub backups lightweight and privacy-safe.
+# Large binary/media artifacts belong in dedicated object stores (or Git LFS) instead of daily snapshots.
+EXCLUDED_PATHSPECS = [
+    ":(exclude)runs/**/media/**",
+    ":(exclude)runs/**/raw/**",
+]
+
 
 def run(cmd: list[str], *, check: bool = False) -> subprocess.CompletedProcess[str]:
     result = subprocess.run(
@@ -320,7 +327,7 @@ def ensure_git(repo_url: str, branch: str) -> None:
 def commit_snapshot(date: str, repo_url: str, branch: str) -> bool:
     ensure_git(repo_url, branch)
     existing = [path for path in TRACKED_PATHS if (ROOT / path).exists()]
-    run(["git", "add", "--", *existing], check=True)
+    run(["git", "add", "--", *existing, *EXCLUDED_PATHSPECS], check=True)
     diff = run(["git", "diff", "--cached", "--quiet"])
     if diff.returncode == 0:
         print("No changes to commit.")
